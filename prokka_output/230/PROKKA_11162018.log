@@ -1,0 +1,265 @@
+[23:23:27] This is prokka 1.13
+[23:23:27] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[23:23:27] Homepage is https://github.com/tseemann/prokka
+[23:23:27] Local time is Fri Nov 16 23:23:27 2018
+[23:23:27] You are linuxbrew
+[23:23:27] Operating system is linux
+[23:23:27] You have BioPerl 1.007002
+[23:23:27] System has 40 cores.
+[23:23:27] Will use maximum of 8 cores.
+[23:23:27] Annotating as >>> Bacteria <<<
+[23:23:27] Generating locus_tag from '/projects/micb405/resources/project_2/2018/SaanichInlet_120m/MetaBAT2_SaanichInlet_120m//MedQPlus_MAGs/SaanichInlet_120m.230.fa' contents.
+[23:23:27] Setting --locustag DDCIHFKF from MD5 ddc21f4fcbd27afebfd7fbb8e483d2db
+[23:23:27] Creating new output folder: /home/cho_mb18/prokka_output/230/
+[23:23:27] Running: mkdir -p \/home\/cho_mb18\/prokka_output\/230\/
+[23:23:27] Using filename prefix: PROKKA_11162018.XXX
+[23:23:27] Setting HMMER_NCPU=1
+[23:23:27] Writing log to: /home/cho_mb18/prokka_output/230//PROKKA_11162018.log
+[23:23:27] Command: /home/linuxbrew/.linuxbrew/bin/prokka --kingdom Bacteria --outdir /home/cho_mb18/prokka_output/230/ --force /projects/micb405/resources/project_2/2018/SaanichInlet_120m/MetaBAT2_SaanichInlet_120m//MedQPlus_MAGs/SaanichInlet_120m.230.fa
+[23:23:27] Appending to PATH: /home/linuxbrew/.linuxbrew/Cellar/prokka/1.13/bin
+[23:23:27] Looking for 'aragorn' - found /home/linuxbrew/.linuxbrew/bin/aragorn
+[23:23:27] Determined aragorn version is 1.2
+[23:23:27] Looking for 'barrnap' - found /home/linuxbrew/.linuxbrew/bin/barrnap
+[23:23:27] Determined barrnap version is 0.9
+[23:23:27] Looking for 'blastp' - found /home/linuxbrew/.linuxbrew/bin/blastp
+[23:23:27] Determined blastp version is 2.7
+[23:23:27] Looking for 'cmpress' - found /home/linuxbrew/.linuxbrew/bin/cmpress
+[23:23:27] Determined cmpress version is 1.1
+[23:23:27] Looking for 'cmscan' - found /home/linuxbrew/.linuxbrew/bin/cmscan
+[23:23:27] Determined cmscan version is 1.1
+[23:23:27] Looking for 'egrep' - found /bin/egrep
+[23:23:27] Looking for 'find' - found /usr/bin/find
+[23:23:27] Looking for 'grep' - found /bin/grep
+[23:23:27] Looking for 'hmmpress' - found /home/linuxbrew/.linuxbrew/bin/hmmpress
+[23:23:27] Determined hmmpress version is 3.1
+[23:23:27] Looking for 'hmmscan' - found /home/linuxbrew/.linuxbrew/bin/hmmscan
+[23:23:27] Determined hmmscan version is 3.1
+[23:23:27] Looking for 'java' - found /home/linuxbrew/.linuxbrew/bin/java
+[23:23:27] Looking for 'less' - found /home/linuxbrew/.linuxbrew/bin/less
+[23:23:27] Looking for 'makeblastdb' - found /home/linuxbrew/.linuxbrew/bin/makeblastdb
+[23:23:27] Determined makeblastdb version is 2.7
+[23:23:27] Looking for 'minced' - found /home/linuxbrew/.linuxbrew/bin/minced
+[23:23:27] Determined minced version is 3.0
+[23:23:27] Looking for 'parallel' - found /home/linuxbrew/.linuxbrew/bin/parallel
+[23:23:27] Determined parallel version is 20180822
+[23:23:27] Looking for 'prodigal' - found /home/linuxbrew/.linuxbrew/bin/prodigal
+[23:23:27] Determined prodigal version is 2.6
+[23:23:27] Looking for 'prokka-genbank_to_fasta_db' - found /home/linuxbrew/.linuxbrew/bin/prokka-genbank_to_fasta_db
+[23:23:27] Looking for 'rnammer' - found /home/linuxbrew/.linuxbrew/bin/rnammer
+[23:23:27] Determined rnammer version is 1.2
+[23:23:27] Looking for 'sed' - found /bin/sed
+[23:23:27] Looking for 'tbl2asn' - found /home/linuxbrew/.linuxbrew/bin/tbl2asn
+[23:23:27] Determined tbl2asn version is 25.6
+[23:23:27] Using genetic code table 11.
+[23:23:27] Loading and checking input file: /projects/micb405/resources/project_2/2018/SaanichInlet_120m/MetaBAT2_SaanichInlet_120m//MedQPlus_MAGs/SaanichInlet_120m.230.fa
+[23:23:27] Wrote 153 contigs totalling 1429870 bp.
+[23:23:27] Predicting tRNAs and tmRNAs
+[23:23:27] Running: aragorn -l -gc11  -w \/home\/cho_mb18\/prokka_output\/230\/\/PROKKA_11162018\.fna
+[23:23:29] 1 tRNA-Asp [27844,27920] 35 (gtc)
+[23:23:29] 1 tRNA-Gln [8864,8935] 33 (ttg)
+[23:23:29] 1 tRNA-Gly [15630,15703] 34 (tcc)
+[23:23:29] 1 tRNA-His c[8327,8401] 35 (gtg)
+[23:23:29] 1 tRNA-Met c[29254,29328] 35 (cat)
+[23:23:29] 1 tRNA-Val c[2871,2946] 36 (tac)
+[23:23:29] 2 tRNA-Leu c[4568,4652] 35 (gag)
+[23:23:29] 3 tRNA-Lys c[4726,4799] 34 (ttt)
+[23:23:29] 1 tRNA-Leu c[2061,2147] 35 (taa)
+[23:23:29] 2 tRNA-Gly c[2183,2256] 34 (gcc)
+[23:23:29] 1 tRNA-Ser c[1504,1591] 35 (tga)
+[23:23:29] 1 tRNA-Met c[3052,3126] 35 (cat)
+[23:23:29] 1 tRNA-Met [6730,6803] 34 (cat)
+[23:23:29] 1 tRNA-Phe c[12728,12803] 34 (gaa)
+[23:23:29] 1 tRNA-Ala [1235,1312] 36 (ggc)
+[23:23:29] 1 tRNA-Arg [5372,5446] 35 (acg)
+[23:23:29] 1 tmRNA c[8600,8998] 173,265 AEHLAGAPVLRRLITRCGKFRNAVSLRFAG*
+[23:23:29] 1 tRNA-Met c[-1,72] 34 (cat)
+[23:23:29] 1 tRNA-Leu c[7483,7569] 35 (taa)
+[23:23:29] 2 tRNA-Gly c[7605,7678] 34 (gcc)
+[23:23:29] 1 tRNA-Ala c[4415,4489] 35 (ggc)
+[23:23:29] 1 tRNA-Met c[7661,7734] 34 (cat)
+[23:23:29] 1 tRNA-Lys c[37,110] 34 (ttt)
+[23:23:29] 1 tRNA-Leu c[141,225] 35 (gag)
+[23:23:29] 2 tRNA-Lys c[307,380] 34 (ttt)
+[23:23:29] 1 tRNA-Val [1508,1583] 36 (gac)
+[23:23:29] Found 26 tRNAs
+[23:23:29] Predicting Ribosomal RNAs
+[23:23:29] Running Barrnap with 8 threads
+[23:23:31] Found 0 rRNAs
+[23:23:31] Skipping ncRNA search, enable with --rfam if desired.
+[23:23:31] Total of 25 tRNA + rRNA features
+[23:23:31] Searching for CRISPR repeats
+[23:23:32] Found 0 CRISPRs
+[23:23:32] Predicting coding sequences
+[23:23:32] Contigs total 1429870 bp, so using single mode
+[23:23:32] Running: prodigal -i \/home\/cho_mb18\/prokka_output\/230\/\/PROKKA_11162018\.fna -c -m -g 11 -p single -f sco -q
+[23:23:39] Excluding CDS which overlaps existing RNA (tRNA) at SaanichInlet_120m_230_72:6762..7142 on - strand
+[23:23:39] Excluding CDS which overlaps existing RNA (tRNA) at SaanichInlet_120m_230_139:6071..7702 on + strand
+[23:23:39] Found 1280 CDS
+[23:23:39] Connecting features back to sequences
+[23:23:39] Not using genus-specific database. Try --usegenus to enable it.
+[23:23:39] Annotating CDS, please be patient.
+[23:23:39] Will use 8 CPUs for similarity searching.
+[23:23:40] There are still 1280 unannotated CDS left (started with 1280)
+[23:23:40] Will use blast to search against /home/linuxbrew/.linuxbrew/Cellar/prokka/1.13/bin/../db/kingdom/Bacteria/sprot with 8 CPUs
+[23:23:40] Running: cat \/home\/cho_mb18\/prokka_output\/230\/\/sprot\.faa | parallel --gnu --plain -j 8 --block 26959 --recstart '>' --pipe blastp -query - -db /home/linuxbrew/.linuxbrew/Cellar/prokka/1.13/bin/../db/kingdom/Bacteria/sprot -evalue 1e-06 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > \/home\/cho_mb18\/prokka_output\/230\/\/sprot\.blast 2> /dev/null
+[23:24:22] Modify product: Probable peptidyl-prolyl cis-trans isomerase => putative peptidyl-prolyl cis-trans isomerase
+[23:24:22] Modify product: Probable peptidyl-prolyl cis-trans isomerase => putative peptidyl-prolyl cis-trans isomerase
+[23:24:22] Modify product: Uncharacterized protein YedJ => putative protein YedJ
+[23:24:22] Modify product: Probable tRNA-dihydrouridine synthase => putative tRNA-dihydrouridine synthase
+[23:24:22] Modify product: Uncharacterized metal-dependent hydrolase YjjV => putative metal-dependent hydrolase YjjV
+[23:24:22] Modify product: UPF0176 protein YceA => hypothetical protein
+[23:24:22] Modify product: Uncharacterized epimerase/dehydratase SA0511 => putative epimerase/dehydratase
+[23:24:22] Modify product: Uncharacterized protein YhaP => putative protein YhaP
+[23:24:22] Modify product: Uncharacterized protein Rv1276c => putative protein
+[23:24:22] Modify product: Cyclic nucleotide-gated potassium channel mll3241 => Cyclic nucleotide-gated potassium channel
+[23:24:22] Modify product: Probable ATP-dependent helicase DinG homolog => putative ATP-dependent helicase DinG 
+[23:24:22] Modify product: Uncharacterized protein MRA_2757 => putative protein
+[23:24:22] Modify product: Probable transcriptional regulatory protein HP_0162 => putative transcriptional regulatory protein
+[23:24:22] Modify product: DNA-binding protein VF_0530 => DNA-binding protein
+[23:24:22] Modify product: Uncharacterized ABC transporter ATP-binding protein TM_0288 => putative ABC transporter ATP-binding protein
+[23:24:22] Modify product: Epimerase family protein SA0724 => Epimerase family protein
+[23:24:22] Modify product: Probable branched-chain-amino-acid aminotransferase => putative branched-chain-amino-acid aminotransferase
+[23:24:22] Modify product: Bifunctional protein FolD => Bifunctional protein FolD protein
+[23:24:22] Modify product: UPF0301 protein SO_3346 => hypothetical protein
+[23:24:22] Modify product: Probable lipoprotein YiaD => putative lipoprotein YiaD
+[23:24:22] Modify product: Uncharacterized AAA domain-containing protein Rv2559c => putative AAA domain-containing protein
+[23:24:22] Modify product: Uncharacterized protein HI_0933 => putative protein
+[23:24:22] Modify product: Probable 3-hydroxybutyryl-CoA dehydrogenase => putative 3-hydroxybutyryl-CoA dehydrogenase
+[23:24:23] Modify product: Putative bifunctional exonuclease/endonuclease protein Rv2191 => Putative bifunctional exonuclease/endonuclease protein
+[23:24:23] Modify product: Uncharacterized zinc protease Rv2782c => putative zinc protease
+[23:24:23] Modify product: Putative O-methyltransferase Rv1220c => Putative O-methyltransferase
+[23:24:23] Modify product: Probable phospholipid ABC transporter permease protein MlaE => putative phospholipid ABC transporter permease protein MlaE
+[23:24:23] Modify product: Probable FKBP-type peptidyl-prolyl cis-trans isomerase FkpA => putative FKBP-type peptidyl-prolyl cis-trans isomerase FkpA
+[23:24:23] Modify product: UPF0394 membrane protein XF_0766 => hypothetical protein
+[23:24:23] Modify product: UPF0394 membrane protein XF_0765 => hypothetical protein
+[23:24:23] Modify product: Uncharacterized ABC transporter ATP-binding protein YejF => putative ABC transporter ATP-binding protein YejF
+[23:24:23] Modify product: UPF0145 protein BC_1012 => hypothetical protein
+[23:24:23] Modify product: Probable multidrug resistance ABC transporter ATP-binding/permease protein YheI => putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+[23:24:23] Modify product: Uncharacterized protein YyaP => putative protein YyaP
+[23:24:23] Modify product: UPF0382 membrane protein YwdK => hypothetical protein
+[23:24:23] Modify product: UPF0053 inner membrane protein YoaE => hypothetical protein
+[23:24:23] Modify product: Uncharacterized protein YqeN => putative protein YqeN
+[23:24:23] Modify product: UPF0053 protein Rv2366c => hypothetical protein
+[23:24:23] Modify product: UPF0758 protein CT0611 => hypothetical protein
+[23:24:23] Modify product: Probable GTPase Rv1496 => putative GTPase
+[23:24:23] Modify product: Uncharacterized HIT-like protein Rv0759c => putative HIT-like protein
+[23:24:23] Modify product: Probable CtpA-like serine protease => putative CtpA-like serine protease
+[23:24:23] Modify product: Uncharacterized protein YbbA => putative protein YbbA
+[23:24:23] Modify product: Uncharacterized ABC transporter ATP-binding protein YheS => putative ABC transporter ATP-binding protein YheS
+[23:24:23] Modify product: Oxygen-independent coproporphyrinogen-III oxidase-like protein sll1917 => Oxygen-independent coproporphyrinogen-III oxidase-like protein
+[23:24:23] Modify product: Uncharacterized ABC transporter ATP-binding protein YbiT => putative ABC transporter ATP-binding protein YbiT
+[23:24:23] Modify product: Uncharacterized protein YjbR => putative protein YjbR
+[23:24:23] Modify product: Uncharacterized protein BHWA1_00569 => putative protein
+[23:24:23] Modify product: Glucuronide carrier protein homolog => Glucuronide carrier protein 
+[23:24:24] Modify product: Sulfurtransferase Alvin_2599 => Sulfurtransferase
+[23:24:24] Modify product: Sulfurtransferase Alvin_2599 => Sulfurtransferase
+[23:24:24] Modify product: UPF0039 protein Rv2851c => hypothetical protein
+[23:24:24] Modify product: SCO1 protein homolog => SCO1 protein 
+[23:24:24] Modify product: UPF0056 inner membrane protein YhgN => hypothetical protein
+[23:24:24] Modify product: DNA-binding protein VF_0530 => DNA-binding protein
+[23:24:24] Modify product: Uncharacterized protein YfgD => putative protein YfgD
+[23:24:24] Modify product: Uncharacterized zinc protease Rv2782c => putative zinc protease
+[23:24:24] Cleaned 57 /product names
+[23:24:24] Deleting unwanted file: /home/cho_mb18/prokka_output/230//sprot.faa
+[23:24:24] Deleting unwanted file: /home/cho_mb18/prokka_output/230//sprot.blast
+[23:24:24] There are still 625 unannotated CDS left (started with 1280)
+[23:24:24] Will use hmmer3 to search against /home/linuxbrew/.linuxbrew/Cellar/prokka/1.13/bin/../db/hmm/HAMAP.hmm with 8 CPUs
+[23:24:24] Running: cat \/home\/cho_mb18\/prokka_output\/230\/\/HAMAP\.hmm\.faa | parallel --gnu --plain -j 8 --block 11812 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-06 --cpu 1 /home/linuxbrew/.linuxbrew/Cellar/prokka/1.13/bin/../db/hmm/HAMAP.hmm /dev/stdin > \/home\/cho_mb18\/prokka_output\/230\/\/HAMAP\.hmm\.hmmer3 2> /dev/null
+[23:24:41] Modify product: Uncharacterized Nudix hydrolase NudL => putative Nudix hydrolase NudL
+[23:24:41] Cleaned 1 /product names
+[23:24:41] Deleting unwanted file: /home/cho_mb18/prokka_output/230//HAMAP.hmm.faa
+[23:24:41] Deleting unwanted file: /home/cho_mb18/prokka_output/230//HAMAP.hmm.hmmer3
+[23:24:41] Labelling remaining 581 proteins as 'hypothetical protein'
+[23:24:41] Possible /pseudo 'putative peptidyl-prolyl cis-trans isomerase' at SaanichInlet_120m_230_12 position 3452
+[23:24:41] Possible /pseudo 'Sulfurtransferase' at SaanichInlet_120m_230_118 position 3628
+[23:24:41] Possible /pseudo 'Cytochrome c oxidase subunit 3' at SaanichInlet_120m_230_126 position 9505
+[23:24:41] Found 558 unique /gene codes.
+[23:24:41] Fixed 2 duplicate /gene - gyrB_1 gyrB_2
+[23:24:41] Fixed 2 duplicate /gene - ppiB_1 ppiB_2
+[23:24:41] Fixed 2 duplicate /gene - xerD_1 xerD_2
+[23:24:41] Fixed 2 duplicate /gene - pdhC_1 pdhC_2
+[23:24:41] Fixed 5 duplicate /gene - susC_1 susC_2 susC_3 susC_4 susC_5
+[23:24:41] Fixed 2 duplicate /gene - prsA1_1 prsA1_2
+[23:24:41] Fixed 2 duplicate /gene - ybeZ_1 ybeZ_2
+[23:24:41] Fixed 2 duplicate /gene - rhlE_1 rhlE_2
+[23:24:41] Fixed 2 duplicate /gene - glyA_1 glyA_2
+[23:24:41] Fixed 2 duplicate /gene - yhhW_1 yhhW_2
+[23:24:41] Fixed 2 duplicate /gene - ctaE_1 ctaE_2
+[23:24:41] Fixed 4 duplicate /gene - mepM_1 mepM_2 mepM_3 mepM_4
+[23:24:41] Fixed 2 duplicate /gene - gyrA_1 gyrA_2
+[23:24:41] Fixed 2 duplicate /gene - lpxH_1 lpxH_2
+[23:24:41] Fixed 2 duplicate /gene - ssb_1 ssb_2
+[23:24:41] Fixed 4 duplicate /gene - oprF_1 oprF_2 oprF_3 oprF_4
+[23:24:41] Fixed 2 duplicate /gene - rlmCD_1 rlmCD_2
+[23:24:41] Fixed 2 duplicate /gene - nfuA_1 nfuA_2
+[23:24:41] Fixed 5 duplicate /gene - ccp_1 ccp_2 ccp_3 ccp_4 ccp_5
+[23:24:41] Fixed 3 duplicate /gene - sglT_1 sglT_2 sglT_3
+[23:24:41] Fixed 2 duplicate /gene - acdA_1 acdA_2
+[23:24:41] Fixed 2 duplicate /gene - dap4_1 dap4_2
+[23:24:41] Fixed 2 duplicate /gene - thcC_1 thcC_2
+[23:24:41] Fixed 2 duplicate /gene - fbp_1 fbp_2
+[23:24:41] Fixed 2 duplicate /gene - lysC_1 lysC_2
+[23:24:41] Fixed 2 duplicate /gene - dsbD_1 dsbD_2
+[23:24:41] Fixed 2 duplicate /gene - wbbL_1 wbbL_2
+[23:24:41] Fixed 4 duplicate /gene - natA_1 natA_2 natA_3 natA_4
+[23:24:41] Fixed 2 duplicate /gene - ilvE_1 ilvE_2
+[23:24:41] Fixed 3 duplicate /gene - trmB_1 trmB_2 trmB_3
+[23:24:41] Fixed 2 duplicate /gene - fecE_1 fecE_2
+[23:24:41] Fixed 2 duplicate /gene - mutS_1 mutS_2
+[23:24:41] Fixed 3 duplicate /gene - lysA_1 lysA_2 lysA_3
+[23:24:41] Fixed 2 duplicate /gene - bepA_1 bepA_2
+[23:24:41] Fixed 2 duplicate /gene - thyA_1 thyA_2
+[23:24:41] Fixed 2 duplicate /gene - rsmA_1 rsmA_2
+[23:24:41] Fixed 3 duplicate /gene - betS_1 betS_2 betS_3
+[23:24:41] Fixed 2 duplicate /gene - hutG_1 hutG_2
+[23:24:41] Fixed 2 duplicate /gene - patA_1 patA_2
+[23:24:41] Fixed 2 duplicate /gene - mntB_1 mntB_2
+[23:24:41] Fixed 2 duplicate /gene - yceI_1 yceI_2
+[23:24:41] Fixed 2 duplicate /gene - aroK_1 aroK_2
+[23:24:41] Fixed 4 duplicate /gene - resA_1 resA_2 resA_3 resA_4
+[23:24:41] Fixed 2 duplicate /gene - queD_1 queD_2
+[23:24:41] Fixed 2 duplicate /gene - fabG_1 fabG_2
+[23:24:41] Fixed 2 duplicate /gene - troA_1 troA_2
+[23:24:41] Fixed 2 duplicate /gene - dnaE_1 dnaE_2
+[23:24:41] Fixed 2 duplicate /gene - atpH_1 atpH_2
+[23:24:41] Fixed 2 duplicate /gene - acsA_1 acsA_2
+[23:24:41] Fixed 3 duplicate /gene - fabH_1 fabH_2 fabH_3
+[23:24:41] Fixed 3 duplicate /gene - btuB_1 btuB_2 btuB_3
+[23:24:41] Fixed 2 duplicate /gene - rlmF_1 rlmF_2
+[23:24:41] Fixed 2 duplicate /gene - lolE_1 lolE_2
+[23:24:41] Fixed 3 duplicate /gene - pyrR_1 pyrR_2 pyrR_3
+[23:24:41] Fixed 2 duplicate /gene - queA_1 queA_2
+[23:24:41] Fixed 55 colliding /gene names.
+[23:24:41] Adding /locus_tag identifiers
+[23:24:41] Assigned 1306 locus_tags to CDS and RNA features.
+[23:24:41] Writing outputs to /home/cho_mb18/prokka_output/230//
+[23:24:43] Generating annotation statistics file
+[23:24:43] Generating Genbank and Sequin files
+[23:24:43] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.13 from https://github.com/tseemann/prokka' -Z \/home\/cho_mb18\/prokka_output\/230\/\/PROKKA_11162018\.err -i \/home\/cho_mb18\/prokka_output\/230\/\/PROKKA_11162018\.fsa 2> /dev/null
+[23:24:48] Deleting unwanted file: /home/cho_mb18/prokka_output/230//errorsummary.val
+[23:24:48] Deleting unwanted file: /home/cho_mb18/prokka_output/230//PROKKA_11162018.dr
+[23:24:48] Deleting unwanted file: /home/cho_mb18/prokka_output/230//PROKKA_11162018.fixedproducts
+[23:24:48] Deleting unwanted file: /home/cho_mb18/prokka_output/230//PROKKA_11162018.ecn
+[23:24:48] Deleting unwanted file: /home/cho_mb18/prokka_output/230//PROKKA_11162018.val
+[23:24:48] Repairing broken .GBK output that tbl2asn produces...
+[23:24:48] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < \/home\/cho_mb18\/prokka_output\/230\/\/PROKKA_11162018\.gbf > \/home\/cho_mb18\/prokka_output\/230\/\/PROKKA_11162018\.gbk
+[23:24:48] Deleting unwanted file: /home/cho_mb18/prokka_output/230//PROKKA_11162018.gbf
+[23:24:48] Output files:
+[23:24:48] /home/cho_mb18/prokka_output/230/PROKKA_11162018.log
+[23:24:48] /home/cho_mb18/prokka_output/230/PROKKA_11162018.fna
+[23:24:48] /home/cho_mb18/prokka_output/230/PROKKA_11162018.gff
+[23:24:48] /home/cho_mb18/prokka_output/230/PROKKA_11162018.faa
+[23:24:48] /home/cho_mb18/prokka_output/230/PROKKA_11162018.ffn
+[23:24:48] /home/cho_mb18/prokka_output/230/PROKKA_11162018.tbl
+[23:24:48] /home/cho_mb18/prokka_output/230/PROKKA_11162018.fsa
+[23:24:48] /home/cho_mb18/prokka_output/230/PROKKA_11162018.tsv
+[23:24:48] /home/cho_mb18/prokka_output/230/PROKKA_11162018.txt
+[23:24:48] /home/cho_mb18/prokka_output/230/PROKKA_11162018.gbk
+[23:24:48] /home/cho_mb18/prokka_output/230/PROKKA_11162018.sqn
+[23:24:48] /home/cho_mb18/prokka_output/230/PROKKA_11162018.err
+[23:24:48] Annotation finished successfully.
+[23:24:48] Walltime used: 1.35 minutes
+[23:24:48] If you use this result please cite the Prokka paper:
+[23:24:48] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[23:24:48] Type 'prokka --citation' for more details.
+[23:24:48] Share and enjoy!

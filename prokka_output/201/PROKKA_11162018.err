@@ -1,0 +1,2424 @@
+Discrepancy Report Results
+
+Summary
+FATAL: MISSING_PROTEIN_ID:453 proteins have invalid IDs.
+DISC_SOURCE_QUALS_ASNDISC:strain (all present, all same)
+DISC_SOURCE_QUALS_ASNDISC:taxname (all present, all same)
+DISC_FEATURE_COUNT:CDS: 453 present
+DISC_FEATURE_COUNT:tRNA: 18 present
+DISC_FEATURE_COUNT:rRNA: 2 present
+DISC_COUNT_NUCLEOTIDES:3 nucleotide Bioseqs are present
+FEATURE_LOCATION_CONFLICT:473 features have inconsistent gene locations.
+DISC_QUALITY_SCORES:Quality scores are missing on all sequences.
+FATAL: DISC_SUSPECT_RRNA_PRODUCTS:1 rRNA product names contain suspect phrase
+FATAL: DISC_SHORT_RRNA:1 rRNA features are too short
+ONCALLER_COMMENT_PRESENT:3 comment descriptors were found (all same)
+SHORT_PROT_SEQUENCES:6 protein sequences are shorter than 50 aa.
+MISSING_GENOMEASSEMBLY_COMMENTS:3 bioseqs are missing GenomeAssembly structured comments
+MOLTYPE_NOT_MRNA:3 molecule types are not set as mRNA.
+TECHNIQUE_NOT_TSA:3 technique are not set as TSA
+MISSING_STRUCTURED_COMMENT:3 sequences do not include structured comments.
+MISSING_PROJECT:456 sequences do not include project.
+FATAL: RRNA_NAME_CONFLICTS:1 rRNA product names are not standard. Correct the names to the standard format, eg "16S ribosomal RNA"
+DISC_INCONSISTENT_MOLINFO_TECH:Molinfo Technique Report (some missing, all same)
+
+
+Detailed Report
+
+FATAL: DiscRep_ALL:MISSING_PROTEIN_ID::453 proteins have invalid IDs.
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_1 (length 84)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_2 (length 226)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_3 (length 200)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_4 (length 813)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_5 (length 174)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_6 (length 185)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_7 (length 47)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_8 (length 408)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_9 (length 115)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_10 (length 366)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_11 (length 691)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_12 (length 89)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_13 (length 316)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_14 (length 213)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_15 (length 115)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_16 (length 783)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_17 (length 464)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_18 (length 239)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_19 (length 345)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_20 (length 241)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_21 (length 791)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_22 (length 350)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_23 (length 413)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_24 (length 204)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_25 (length 1244)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_26 (length 192)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_27 (length 169)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_28 (length 134)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_29 (length 288)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_30 (length 570)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_31 (length 175)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_32 (length 150)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_33 (length 213)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_34 (length 222)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_35 (length 288)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_36 (length 130)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_37 (length 571)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_38 (length 558)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_39 (length 209)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_40 (length 230)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_41 (length 449)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_42 (length 257)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_43 (length 280)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_44 (length 300)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_45 (length 292)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_46 (length 90)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_47 (length 374)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_48 (length 608)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_49 (length 215)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_50 (length 296)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_51 (length 138)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_52 (length 354)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_53 (length 541)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_54 (length 97)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_55 (length 288)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_56 (length 68)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_57 (length 192)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_58 (length 299)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_59 (length 63)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_60 (length 147)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_61 (length 466)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_62 (length 452)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_63 (length 325)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_64 (length 420)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_65 (length 163)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_66 (length 168)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_67 (length 483)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_68 (length 261)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_69 (length 360)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_70 (length 168)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_71 (length 285)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_72 (length 217)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_73 (length 309)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_74 (length 193)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_75 (length 240)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_76 (length 311)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_77 (length 599)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_78 (length 326)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_79 (length 285)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_80 (length 428)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_81 (length 445)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_82 (length 416)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_83 (length 416)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_84 (length 268)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_85 (length 408)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_86 (length 590)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_87 (length 159)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_88 (length 262)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_89 (length 346)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_90 (length 174)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_91 (length 407)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_92 (length 536)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_93 (length 238)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_94 (length 311)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_95 (length 111)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_96 (length 403)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_97 (length 151)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_98 (length 371)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_99 (length 168)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_100 (length 624)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_101 (length 264)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_102 (length 205)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_103 (length 392)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_104 (length 30)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_105 (length 219)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_106 (length 292)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_107 (length 171)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_108 (length 103)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_109 (length 175)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_110 (length 120)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_111 (length 238)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_112 (length 191)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_113 (length 142)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_114 (length 355)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_115 (length 169)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_116 (length 386)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_117 (length 275)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_118 (length 416)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_119 (length 446)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_120 (length 86)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_121 (length 799)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_122 (length 332)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_123 (length 164)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_124 (length 104)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_125 (length 104)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_126 (length 67)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_127 (length 205)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_128 (length 540)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_129 (length 738)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_130 (length 619)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_131 (length 314)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_132 (length 236)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_133 (length 339)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_134 (length 243)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_135 (length 234)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_136 (length 593)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_137 (length 532)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_138 (length 152)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_139 (length 429)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_140 (length 189)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_141 (length 401)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_142 (length 666)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_143 (length 183)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_144 (length 424)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_145 (length 345)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_146 (length 237)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_147 (length 313)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_148 (length 85)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_149 (length 170)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_150 (length 488)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_151 (length 252)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_152 (length 461)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_153 (length 144)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_154 (length 121)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_155 (length 142)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_156 (length 845)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_157 (length 202)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_158 (length 314)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_159 (length 373)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_160 (length 90)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_161 (length 457)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_162 (length 337)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_163 (length 163)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_164 (length 200)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_165 (length 237)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_166 (length 74)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_167 (length 475)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_168 (length 135)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_169 (length 406)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_170 (length 439)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_171 (length 125)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_172 (length 354)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_173 (length 298)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_174 (length 247)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_175 (length 133)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_176 (length 129)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_177 (length 211)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_178 (length 125)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_179 (length 235)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_180 (length 197)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_181 (length 391)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_182 (length 398)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_183 (length 233)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_184 (length 151)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_185 (length 1028)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_186 (length 163)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_187 (length 70)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_2_1 (length 196)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_2_2 (length 333)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_2_3 (length 89)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_1 (length 141)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_2 (length 217)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_3 (length 273)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_4 (length 514)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_5 (length 550)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_6 (length 164)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_7 (length 615)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_8 (length 49)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_9 (length 369)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_10 (length 108)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_11 (length 140)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_12 (length 103)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_13 (length 604)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_14 (length 208)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_15 (length 257)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_16 (length 473)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_17 (length 334)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_18 (length 204)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_19 (length 161)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_20 (length 542)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_21 (length 184)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_22 (length 307)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_23 (length 371)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_24 (length 285)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_25 (length 506)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_26 (length 693)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_27 (length 105)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_28 (length 171)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_29 (length 312)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_30 (length 238)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_31 (length 341)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_32 (length 372)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_33 (length 420)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_34 (length 464)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_35 (length 138)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_36 (length 201)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_37 (length 259)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_38 (length 195)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_39 (length 311)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_40 (length 601)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_41 (length 465)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_42 (length 1097)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_43 (length 136)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_44 (length 148)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_45 (length 322)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_46 (length 305)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_47 (length 533)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_48 (length 291)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_49 (length 364)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_50 (length 453)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_51 (length 246)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_52 (length 319)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_53 (length 319)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_54 (length 406)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_55 (length 77)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_56 (length 243)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_57 (length 302)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_58 (length 125)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_59 (length 133)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_60 (length 291)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_61 (length 388)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_62 (length 538)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_63 (length 326)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_64 (length 78)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_65 (length 484)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_66 (length 752)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_67 (length 188)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_68 (length 273)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_69 (length 152)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_70 (length 296)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_71 (length 102)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_72 (length 642)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_73 (length 447)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_74 (length 377)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_75 (length 361)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_76 (length 455)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_77 (length 309)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_78 (length 250)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_79 (length 413)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_80 (length 399)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_81 (length 105)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_82 (length 298)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_83 (length 441)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_84 (length 104)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_85 (length 238)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_86 (length 214)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_87 (length 613)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_88 (length 88)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_89 (length 801)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_90 (length 904)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_91 (length 368)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_92 (length 594)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_93 (length 541)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_94 (length 268)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_95 (length 383)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_96 (length 422)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_97 (length 247)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_98 (length 132)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_99 (length 181)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_100 (length 483)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_101 (length 428)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_102 (length 369)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_103 (length 597)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_104 (length 347)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_105 (length 145)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_106 (length 109)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_107 (length 545)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_108 (length 126)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_109 (length 168)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_110 (length 213)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_111 (length 47)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_112 (length 206)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_113 (length 242)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_114 (length 114)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_115 (length 709)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_116 (length 187)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_117 (length 232)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_118 (length 107)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_119 (length 366)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_120 (length 267)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_121 (length 186)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_122 (length 96)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_123 (length 268)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_124 (length 453)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_125 (length 721)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_126 (length 136)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_127 (length 457)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_128 (length 244)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_129 (length 358)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_130 (length 92)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_131 (length 58)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_132 (length 452)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_133 (length 322)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_134 (length 332)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_135 (length 249)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_136 (length 567)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_137 (length 246)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_138 (length 137)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_139 (length 243)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_140 (length 158)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_141 (length 197)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_142 (length 358)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_143 (length 757)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_144 (length 186)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_145 (length 183)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_146 (length 32)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_147 (length 183)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_148 (length 459)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_149 (length 396)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_150 (length 54)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_151 (length 60)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_152 (length 177)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_153 (length 142)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_154 (length 226)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_155 (length 172)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_156 (length 125)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_157 (length 1252)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_158 (length 1393)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_159 (length 124)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_160 (length 157)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_161 (length 696)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_162 (length 102)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_163 (length 206)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_164 (length 206)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_165 (length 103)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_166 (length 275)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_167 (length 90)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_168 (length 110)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_169 (length 212)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_170 (length 140)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_171 (length 69)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_172 (length 84)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_173 (length 122)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_174 (length 101)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_175 (length 195)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_176 (length 101)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_177 (length 132)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_178 (length 183)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_179 (length 119)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_180 (length 168)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_181 (length 62)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_182 (length 143)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_183 (length 434)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_184 (length 249)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_185 (length 74)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_186 (length 38)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_187 (length 125)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_188 (length 128)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_189 (length 204)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_190 (length 321)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_191 (length 139)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_192 (length 147)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_193 (length 446)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_194 (length 399)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_195 (length 245)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_196 (length 114)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_197 (length 414)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_198 (length 227)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_199 (length 116)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_200 (length 418)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_201 (length 449)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_202 (length 474)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_203 (length 524)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_204 (length 318)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_205 (length 477)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_206 (length 446)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_207 (length 249)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_208 (length 136)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_209 (length 230)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_210 (length 335)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_211 (length 141)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_212 (length 143)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_213 (length 177)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_214 (length 62)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_215 (length 141)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_216 (length 239)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_217 (length 468)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_218 (length 158)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_219 (length 571)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_220 (length 290)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_221 (length 165)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_222 (length 252)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_223 (length 279)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_224 (length 146)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_225 (length 254)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_226 (length 495)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_227 (length 119)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_228 (length 152)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_229 (length 536)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_230 (length 104)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_231 (length 199)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_232 (length 167)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_233 (length 181)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_234 (length 427)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_235 (length 334)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_236 (length 393)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_237 (length 524)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_238 (length 193)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_239 (length 332)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_240 (length 165)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_241 (length 623)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_242 (length 306)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_243 (length 734)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_244 (length 167)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_245 (length 237)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_246 (length 646)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_247 (length 151)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_248 (length 65)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_249 (length 116)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_250 (length 329)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_251 (length 792)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_252 (length 97)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_253 (length 291)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_254 (length 595)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_255 (length 106)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_256 (length 367)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_257 (length 220)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_258 (length 374)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_259 (length 289)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_260 (length 340)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_261 (length 252)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_262 (length 204)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_263 (length 331)
+
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::strain (all present, all same)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::3 sources have 'strain' for strain
+DiscRep_ALL:DISC_SOURCE_QUALS_ASNDISC::taxname (all present, all same)
+DiscRep_SUB:DISC_SOURCE_QUALS_ASNDISC::3 sources have 'Genus species' for taxname
+DiscRep_ALL:DISC_FEATURE_COUNT::CDS: 453 present
+DiscRep_ALL:DISC_FEATURE_COUNT::tRNA: 18 present
+DiscRep_ALL:DISC_FEATURE_COUNT::rRNA: 2 present
+DiscRep_ALL:DISC_COUNT_NUCLEOTIDES::3 nucleotide Bioseqs are present
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1 (length 177982)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_2 (length 2594)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3 (length 245728)
+
+DiscRep_ALL:FEATURE_LOCATION_CONFLICT::473 features have inconsistent gene locations.
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:47-301	FEKHAPIA_00001
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:391-1071	FEKHAPIA_00002
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:1184-1786	FEKHAPIA_00003
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Leucine--tRNA ligase	SaanichInlet_120m_201_1:c4204-1763	FEKHAPIA_00004
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c4732-4208	FEKHAPIA_00005
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Peptide methionine sulfoxide reductase MsrA 2	SaanichInlet_120m_201_1:c5305-4748	FEKHAPIA_00006
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c5432-5289	FEKHAPIA_00007
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c6767-5541	FEKHAPIA_00008
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	HTH-type transcriptional repressor BluR	SaanichInlet_120m_201_1:c7119-6772	FEKHAPIA_00009
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Alanine dehydrogenase	SaanichInlet_120m_201_1:c8285-7185	FEKHAPIA_00010
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Polyribonucleotide nucleotidyltransferase	SaanichInlet_120m_201_1:c10395-8320	FEKHAPIA_00011
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S15	SaanichInlet_120m_201_1:c10675-10406	FEKHAPIA_00012
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Riboflavin biosynthesis protein RibF	SaanichInlet_120m_201_1:c11615-10665	FEKHAPIA_00013
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	tRNA pseudouridine synthase B	SaanichInlet_120m_201_1:c12244-11603	FEKHAPIA_00014
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Ribosome-binding factor A	SaanichInlet_120m_201_1:c12594-12247	FEKHAPIA_00015
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Translation initiation factor IF-2	SaanichInlet_120m_201_1:c14942-12591	FEKHAPIA_00016
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Transcription termination/antitermination protein NusA	SaanichInlet_120m_201_1:c16340-14946	FEKHAPIA_00017
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c17156-16437	FEKHAPIA_00018
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c18132-17095	FEKHAPIA_00019
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c18934-18209	FEKHAPIA_00020
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Fe(3+) dicitrate transport protein FecA	SaanichInlet_120m_201_1:c21493-19118	FEKHAPIA_00021
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Protein TolB	SaanichInlet_120m_201_1:c22637-21585	FEKHAPIA_00022
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Aminopeptidase S	SaanichInlet_120m_201_1:c23865-22624	FEKHAPIA_00023
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c24499-23885	FEKHAPIA_00024
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c28236-24502	FEKHAPIA_00025
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c28896-28318	FEKHAPIA_00026
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c29408-28899	FEKHAPIA_00027
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c29813-29409	FEKHAPIA_00028
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	D-alanine aminotransferase	SaanichInlet_120m_201_1:c30802-29936	FEKHAPIA_00029
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Putative alkyl/aryl-sulfatase YjcS	SaanichInlet_120m_201_1:30856-32568	FEKHAPIA_00030
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Adenine phosphoribosyltransferase	SaanichInlet_120m_201_1:c33096-32569	FEKHAPIA_00031
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:33309-33761	FEKHAPIA_00032
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c34403-33762	FEKHAPIA_00033
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	PqqC-like protein	SaanichInlet_120m_201_1:c35074-34406	FEKHAPIA_00034
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Cyclopentanol dehydrogenase	SaanichInlet_120m_201_1:c36396-35530	FEKHAPIA_00036
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c36864-36472	FEKHAPIA_00037
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Acetolactate synthase large subunit IlvG	SaanichInlet_120m_201_1:c38576-36861	FEKHAPIA_00038
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	putative CtpA-like serine protease	SaanichInlet_120m_201_1:c40271-38595	FEKHAPIA_00039
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Thymidylate kinase	SaanichInlet_120m_201_1:c40897-40268	FEKHAPIA_00040
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Ribosomal RNA small subunit methyltransferase I	SaanichInlet_120m_201_1:c41570-40878	FEKHAPIA_00041
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	putative L-lysine-epsilon aminotransferase	SaanichInlet_120m_201_1:c42919-41570	FEKHAPIA_00042
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c43696-42923	FEKHAPIA_00043
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c44540-43698	FEKHAPIA_00044
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c45442-44540	FEKHAPIA_00045
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c46322-45444	FEKHAPIA_00046
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c46587-46315	FEKHAPIA_00047
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c47708-46584	FEKHAPIA_00048
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c49535-47709	FEKHAPIA_00049
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Phosphatidate cytidylyltransferase	SaanichInlet_120m_201_1:c50179-49532	FEKHAPIA_00050
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Putative lipid kinase YtlR	SaanichInlet_120m_201_1:c51096-50206	FEKHAPIA_00051
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Endolytic peptidoglycan transglycosylase RlpA	SaanichInlet_120m_201_1:c51509-51093	FEKHAPIA_00052
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit	SaanichInlet_120m_201_1:c52593-51529	FEKHAPIA_00053
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c54208-52583	FEKHAPIA_00054
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:54223-54516	FEKHAPIA_00055
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	UV DNA damage endonuclease	SaanichInlet_120m_201_1:54537-55403	FEKHAPIA_00056
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c55636-55430	FEKHAPIA_00057
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c56214-55636	FEKHAPIA_00058
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c57100-56201	FEKHAPIA_00059
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c57327-57136	FEKHAPIA_00060
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c57770-57327	FEKHAPIA_00061
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Glutamyl-tRNA(Gln) amidotransferase subunit A	SaanichInlet_120m_201_1:57863-59263	FEKHAPIA_00062
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Alpha-N-acetylgalactosaminidase	SaanichInlet_120m_201_1:59392-60750	FEKHAPIA_00063
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	GTPase Obg	SaanichInlet_120m_201_1:c61878-60901	FEKHAPIA_00065
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Isocitrate dehydrogenase [NADP]	SaanichInlet_120m_201_1:c63150-61888	FEKHAPIA_00066
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Phosphopantetheine adenylyltransferase	SaanichInlet_120m_201_1:c63634-63143	FEKHAPIA_00067
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Ribosomal RNA small subunit methyltransferase D	SaanichInlet_120m_201_1:c64137-63631	FEKHAPIA_00068
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c65585-64134	FEKHAPIA_00069
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c66375-65590	FEKHAPIA_00070
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Chaperone protein DnaJ	SaanichInlet_120m_201_1:c67504-66422	FEKHAPIA_00071
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Protein GrpE	SaanichInlet_120m_201_1:c68007-67501	FEKHAPIA_00072
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Cell division protein FtsX	SaanichInlet_120m_201_1:c68861-68004	FEKHAPIA_00073
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Cell division ATP-binding protein FtsE	SaanichInlet_120m_201_1:c69511-68858	FEKHAPIA_00074
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Inner membrane protein YrbG	SaanichInlet_120m_201_1:c70433-69504	FEKHAPIA_00075
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	putative nicotinate-nucleotide adenylyltransferase	SaanichInlet_120m_201_1:c71014-70433	FEKHAPIA_00076
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Outer membrane protein assembly factor BamD	SaanichInlet_120m_201_1:c71749-71027	FEKHAPIA_00077
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c72738-71803	FEKHAPIA_00078
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	C4-dicarboxylate TRAP transporter large permease protein DctM	SaanichInlet_120m_201_1:c74561-72762	FEKHAPIA_00079
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	2,3-diketo-L-gulonate-binding periplasmic protein YiaO	SaanichInlet_120m_201_1:c75531-74551	FEKHAPIA_00080
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c76398-75541	FEKHAPIA_00081
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Serine hydroxymethyltransferase	SaanichInlet_120m_201_1:c77677-76391	FEKHAPIA_00082
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Beta-barrel assembly-enhancing protease	SaanichInlet_120m_201_1:c79019-77682	FEKHAPIA_00083
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c80285-79035	FEKHAPIA_00084
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c81522-80272	FEKHAPIA_00085
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Glycogen synthase	SaanichInlet_120m_201_1:c82332-81526	FEKHAPIA_00086
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Peptidoglycan glycosyltransferase MrdB	SaanichInlet_120m_201_1:c83618-82392	FEKHAPIA_00087
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Peptidoglycan D,D-transpeptidase MrdA	SaanichInlet_120m_201_1:c85387-83615	FEKHAPIA_00088
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c85859-85380	FEKHAPIA_00089
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Cell shape-determining protein MreC	SaanichInlet_120m_201_1:c86652-85864	FEKHAPIA_00090
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Rod shape-determining protein MreB	SaanichInlet_120m_201_1:c87695-86655	FEKHAPIA_00091
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Bifunctional protein	SaanichInlet_120m_201_1:c88263-87739	FEKHAPIA_00092
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c89492-88269	FEKHAPIA_00093
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c91099-89489	FEKHAPIA_00094
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Tungstate uptake system ATP-binding protein TupC	SaanichInlet_120m_201_1:c91841-91125	FEKHAPIA_00095
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Thioredoxin reductase	SaanichInlet_120m_201_1:c92811-91876	FEKHAPIA_00096
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Thioredoxin 1	SaanichInlet_120m_201_1:c93166-92831	FEKHAPIA_00097
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Tyrosine--tRNA ligase	SaanichInlet_120m_201_1:c94475-93264	FEKHAPIA_00098
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	SsrA-binding protein	SaanichInlet_120m_201_1:c94930-94475	FEKHAPIA_00099
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase	SaanichInlet_120m_201_1:c96776-95661	FEKHAPIA_00101
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c97279-96773	FEKHAPIA_00102
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Oligoendopeptidase F, plasmid	SaanichInlet_120m_201_1:c99162-97288	FEKHAPIA_00103
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	putative NTE family protein	SaanichInlet_120m_201_1:99223-100017	FEKHAPIA_00104
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Peptidyl-prolyl cis-trans isomerase A	SaanichInlet_120m_201_1:c100678-100061	FEKHAPIA_00105
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c101853-100675	FEKHAPIA_00106
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c101899-101807	FEKHAPIA_00107
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Transaldolase	SaanichInlet_120m_201_1:c102724-102065	FEKHAPIA_00109
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c103737-102859	FEKHAPIA_00110
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c104291-103776	FEKHAPIA_00111
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c104603-104292	FEKHAPIA_00112
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	ECF RNA polymerase sigma factor SigE	SaanichInlet_120m_201_1:c105127-104600	FEKHAPIA_00113
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c105526-105164	FEKHAPIA_00114
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	T-protein	SaanichInlet_120m_201_1:c106255-105539	FEKHAPIA_00115
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	P-protein	SaanichInlet_120m_201_1:c106823-106248	FEKHAPIA_00116
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	3-dehydroquinate dehydratase	SaanichInlet_120m_201_1:c107248-106820	FEKHAPIA_00117
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	3-dehydroquinate synthase	SaanichInlet_120m_201_1:c108312-107245	FEKHAPIA_00118
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Shikimate kinase	SaanichInlet_120m_201_1:c108814-108305	FEKHAPIA_00119
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Chorismate synthase	SaanichInlet_120m_201_1:c109961-108801	FEKHAPIA_00120
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Shikimate dehydrogenase (NADP(+))	SaanichInlet_120m_201_1:c110782-109955	FEKHAPIA_00121
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	3-phosphoshikimate 1-carboxyvinyltransferase	SaanichInlet_120m_201_1:c112029-110779	FEKHAPIA_00122
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Phospho-2-dehydro-3-deoxyheptonate aldolase	SaanichInlet_120m_201_1:c113369-112029	FEKHAPIA_00123
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	T-protein	SaanichInlet_120m_201_1:c113629-113369	FEKHAPIA_00124
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Penicillin acylase 2 proenzyme	SaanichInlet_120m_201_1:c116202-113803	FEKHAPIA_00125
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c117216-116218	FEKHAPIA_00126
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Methylated-DNA--protein-cysteine methyltransferase	SaanichInlet_120m_201_1:c117707-117213	FEKHAPIA_00127
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	putative protein YqjZ	SaanichInlet_120m_201_1:c118026-117712	FEKHAPIA_00128
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c118340-118026	FEKHAPIA_00129
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c118540-118337	FEKHAPIA_00130
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Thiol-disulfide oxidoreductase ResA	SaanichInlet_120m_201_1:118606-119223	FEKHAPIA_00131
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:119229-120851	FEKHAPIA_00132
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Dipeptidyl aminopeptidase 4	SaanichInlet_120m_201_1:c123069-120853	FEKHAPIA_00133
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Foldase protein PrsA 3	SaanichInlet_120m_201_1:123166-125025	FEKHAPIA_00134
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha	SaanichInlet_120m_201_1:c125966-125022	FEKHAPIA_00135
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Undecaprenyl-phosphate mannosyltransferase	SaanichInlet_120m_201_1:c126677-125967	FEKHAPIA_00136
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c127693-126674	FEKHAPIA_00137
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c128390-127659	FEKHAPIA_00138
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c129098-128394	FEKHAPIA_00139
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Elongation factor 4	SaanichInlet_120m_201_1:c130881-129100	FEKHAPIA_00140
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Glutamine-dependent NAD(+) synthetase	SaanichInlet_120m_201_1:c132472-130874	FEKHAPIA_00141
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c132915-132457	FEKHAPIA_00142
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Asparagine--tRNA ligase	SaanichInlet_120m_201_1:c134204-132915	FEKHAPIA_00143
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c134778-134209	FEKHAPIA_00144
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Transcriptional regulatory protein ZraR	SaanichInlet_120m_201_1:c135949-134744	FEKHAPIA_00145
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	UvrABC system protein B	SaanichInlet_120m_201_1:c137960-135960	FEKHAPIA_00146
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 1	SaanichInlet_120m_201_1:c138575-138024	FEKHAPIA_00147
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	3-deoxy-D-manno-octulosonic acid transferase	SaanichInlet_120m_201_1:c139846-138572	FEKHAPIA_00148
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	ADP-heptose--LPS heptosyltransferase 2	SaanichInlet_120m_201_1:c140880-139843	FEKHAPIA_00149
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Sec-independent protein translocase protein TatC	SaanichInlet_120m_201_1:c141557-140844	FEKHAPIA_00150
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	GTPase ArgK	SaanichInlet_120m_201_1:c142510-141569	FEKHAPIA_00151
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S20	SaanichInlet_120m_201_1:142605-142862	FEKHAPIA_00152
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Flavodoxin	SaanichInlet_120m_201_1:c143423-142911	FEKHAPIA_00153
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Inosine-5'-monophosphate dehydrogenase	SaanichInlet_120m_201_1:c144992-143526	FEKHAPIA_00154
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c145871-145113	FEKHAPIA_00155
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c147262-145877	FEKHAPIA_00156
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c147689-147255	FEKHAPIA_00157
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	2-iminobutanoate/2-iminopropanoate deaminase	SaanichInlet_120m_201_1:c148042-147677	FEKHAPIA_00158
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c148483-148055	FEKHAPIA_00159
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Alanine--tRNA ligase	SaanichInlet_120m_201_1:c151020-148483	FEKHAPIA_00160
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:151067-151675	FEKHAPIA_00161
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Proline iminopeptidase	SaanichInlet_120m_201_1:c152621-151677	FEKHAPIA_00162
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	NAD(P) transhydrogenase subunit alpha part 1	SaanichInlet_120m_201_1:152717-153838	FEKHAPIA_00163
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	NAD(P) transhydrogenase subunit alpha	SaanichInlet_120m_201_1:153838-154110	FEKHAPIA_00164
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	NAD(P) transhydrogenase subunit beta	SaanichInlet_120m_201_1:154107-155480	FEKHAPIA_00165
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	NADPH-dependent curcumin reductase	SaanichInlet_120m_201_1:155578-156591	FEKHAPIA_00166
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:156682-157173	FEKHAPIA_00167
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:157200-157802	FEKHAPIA_00168
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c158549-157836	FEKHAPIA_00169
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c158781-158557	FEKHAPIA_00170
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Cytosol aminopeptidase	SaanichInlet_120m_201_1:c160208-158781	FEKHAPIA_00171
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	putative acyl-CoA thioester hydrolase	SaanichInlet_120m_201_1:c160619-160212	FEKHAPIA_00172
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c161902-160682	FEKHAPIA_00173
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	GTPase Der	SaanichInlet_120m_201_1:c163290-161971	FEKHAPIA_00174
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c163710-163333	FEKHAPIA_00175
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	RNA polymerase sigma factor SigA	SaanichInlet_120m_201_1:c164821-163757	FEKHAPIA_00176
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Epimerase family protein	SaanichInlet_120m_201_1:c165797-164901	FEKHAPIA_00177
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	putative enoyl-CoA hydratase	SaanichInlet_120m_201_1:c166537-165794	FEKHAPIA_00178
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c166956-166555	FEKHAPIA_00179
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c167345-166956	FEKHAPIA_00180
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c167977-167342	FEKHAPIA_00181
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Sulfurtransferase	SaanichInlet_120m_201_1:c168441-168064	FEKHAPIA_00182
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c169239-168532	FEKHAPIA_00183
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Pyridoxine/pyridoxamine 5'-phosphate oxidase	SaanichInlet_120m_201_1:c169880-169287	FEKHAPIA_00184
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Homoserine kinase	SaanichInlet_120m_201_1:c171122-169947	FEKHAPIA_00185
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	(R)-benzylsuccinyl-CoA dehydrogenase	SaanichInlet_120m_201_1:c172325-171129	FEKHAPIA_00186
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	SaanichInlet_120m_201_1:c173035-172334	FEKHAPIA_00187
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	putative enoyl-CoA hydratase 1	SaanichInlet_120m_201_1:c173503-173048	FEKHAPIA_00188
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Colicin I receptor	SaanichInlet_120m_201_1:c176667-173581	FEKHAPIA_00189
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Peptide methionine sulfoxide reductase MsrB	SaanichInlet_120m_201_1:176803-177294	FEKHAPIA_00190
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_1:c177923-177711	FEKHAPIA_00191
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Val	SaanichInlet_120m_201_1:c35510-35436	FEKHAPIA_00035
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Ser	SaanichInlet_120m_201_1:c60873-60786	FEKHAPIA_00064
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Gly	SaanichInlet_120m_201_1:c95635-95562	FEKHAPIA_00100
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Ala	SaanichInlet_120m_201_1:c102061-101988	FEKHAPIA_00108
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_2:c897-307	FEKHAPIA_00192
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_2:1042-2043	FEKHAPIA_00193
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_2:c2518-2249	FEKHAPIA_00194
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE	SaanichInlet_120m_201_3:1160-1585	FEKHAPIA_00197
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB	SaanichInlet_120m_201_3:1582-2235	FEKHAPIA_00198
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta	SaanichInlet_120m_201_3:2235-3056	FEKHAPIA_00199
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	GMP synthase [glutamine-hydrolyzing]	SaanichInlet_120m_201_3:3053-4597	FEKHAPIA_00200
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Arylsulfatase	SaanichInlet_120m_201_3:4599-6251	FEKHAPIA_00201
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:6257-6751	FEKHAPIA_00202
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]	SaanichInlet_120m_201_3:6739-8586	FEKHAPIA_00203
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:8686-8835	FEKHAPIA_00204
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:8845-9954	FEKHAPIA_00205
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Multidrug transporter EmrE	SaanichInlet_120m_201_3:9963-10289	FEKHAPIA_00206
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:10292-10714	FEKHAPIA_00207
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:10732-11043	FEKHAPIA_00208
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Penicillin-binding protein activator LpoA	SaanichInlet_120m_201_3:11054-12868	FEKHAPIA_00209
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Polyphenol oxidase	SaanichInlet_120m_201_3:12877-13503	FEKHAPIA_00210
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Undecaprenyl-diphosphatase	SaanichInlet_120m_201_3:13496-14269	FEKHAPIA_00211
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	High-affinity proline transporter PutP	SaanichInlet_120m_201_3:14266-15687	FEKHAPIA_00212
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:15684-16688	FEKHAPIA_00213
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	ECF RNA polymerase sigma-E factor	SaanichInlet_120m_201_3:16639-17253	FEKHAPIA_00214
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:17254-17739	FEKHAPIA_00215
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Lipopolysaccharide assembly protein B	SaanichInlet_120m_201_3:17827-19455	FEKHAPIA_00216
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:19448-20002	FEKHAPIA_00217
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Dodecaprenyl-phosphate galacturonate synthase	SaanichInlet_120m_201_3:20003-20926	FEKHAPIA_00218
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase	SaanichInlet_120m_201_3:20919-22034	FEKHAPIA_00219
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Poly-beta-1,6-N-acetyl-D-glucosamine synthase	SaanichInlet_120m_201_3:22027-22884	FEKHAPIA_00220
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:22881-24401	FEKHAPIA_00221
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:24398-26479	FEKHAPIA_00222
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Sec translocon accessory complex subunit YajC	SaanichInlet_120m_201_3:26494-26811	FEKHAPIA_00223
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Peptide deformylase 2	SaanichInlet_120m_201_3:26813-27328	FEKHAPIA_00224
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Methionyl-tRNA formyltransferase	SaanichInlet_120m_201_3:27318-28256	FEKHAPIA_00225
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Serine/threonine-protein kinase PK-1	SaanichInlet_120m_201_3:28257-28973	FEKHAPIA_00226
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:28970-29995	FEKHAPIA_00227
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	GTPase HflX	SaanichInlet_120m_201_3:29985-31103	FEKHAPIA_00228
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Proton/glutamate-aspartate symporter	SaanichInlet_120m_201_3:c32331-31069	FEKHAPIA_00229
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	High-affinity proline transporter PutP	SaanichInlet_120m_201_3:32373-33767	FEKHAPIA_00230
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:c34404-33988	FEKHAPIA_00231
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:c35094-34489	FEKHAPIA_00232
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Orotidine 5'-phosphate decarboxylase	SaanichInlet_120m_201_3:35172-35951	FEKHAPIA_00233
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Orotate phosphoribosyltransferase	SaanichInlet_120m_201_3:35941-36528	FEKHAPIA_00234
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	putative NTE family protein	SaanichInlet_120m_201_3:36538-37473	FEKHAPIA_00235
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Thiol:disulfide interchange protein DsbD	SaanichInlet_120m_201_3:37481-39286	FEKHAPIA_00236
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Periplasmic serine endoprotease DegP	SaanichInlet_120m_201_3:39330-40727	FEKHAPIA_00237
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Isoleucine--tRNA ligase	SaanichInlet_120m_201_3:40784-44077	FEKHAPIA_00238
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	RNA polymerase-binding transcription factor DksA	SaanichInlet_120m_201_3:44090-44500	FEKHAPIA_00239
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Lipoprotein signal peptidase	SaanichInlet_120m_201_3:44497-44943	FEKHAPIA_00240
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Ribosomal large subunit pseudouridine synthase D	SaanichInlet_120m_201_3:44951-45919	FEKHAPIA_00241
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Tyrosine recombinase XerC	SaanichInlet_120m_201_3:45906-46823	FEKHAPIA_00242
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Phosphoenolpyruvate carboxykinase (ATP)	SaanichInlet_120m_201_3:46820-48421	FEKHAPIA_00243
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:c49291-48416	FEKHAPIA_00244
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:c50390-49296	FEKHAPIA_00245
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Amino-acid carrier protein AlsT	SaanichInlet_120m_201_3:50413-51774	FEKHAPIA_00246
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:51791-52531	FEKHAPIA_00247
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	(2E,6E)-farnesyl diphosphate synthase	SaanichInlet_120m_201_3:52521-53480	FEKHAPIA_00248
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:53482-54441	FEKHAPIA_00249
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	3-oxoacyl-[acyl-carrier-protein] synthase 2	SaanichInlet_120m_201_3:c55658-54438	FEKHAPIA_00250
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Acyl carrier protein	SaanichInlet_120m_201_3:c55894-55661	FEKHAPIA_00251
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	3-oxoacyl-[acyl-carrier-protein] reductase FabG	SaanichInlet_120m_201_3:c56641-55910	FEKHAPIA_00252
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Malonyl CoA-acyl carrier protein transacylase	SaanichInlet_120m_201_3:c57542-56634	FEKHAPIA_00253
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:c58153-57776	FEKHAPIA_00254
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Nucleoside diphosphate kinase	SaanichInlet_120m_201_3:c58547-58146	FEKHAPIA_00255
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Succinate--CoA ligase [ADP-forming] subunit alpha	SaanichInlet_120m_201_3:c59426-58551	FEKHAPIA_00256
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Succinate--CoA ligase [ADP-forming] subunit beta	SaanichInlet_120m_201_3:c60594-59428	FEKHAPIA_00257
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	1-pyrroline-5-carboxylate dehydrogenase 1	SaanichInlet_120m_201_3:c62212-60596	FEKHAPIA_00258
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	putative tRNA-dihydrouridine synthase	SaanichInlet_120m_201_3:c63210-62230	FEKHAPIA_00259
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L28	SaanichInlet_120m_201_3:63291-63527	FEKHAPIA_00260
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	SaanichInlet_120m_201_3:c64978-63524	FEKHAPIA_00261
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Aconitate hydratase A	SaanichInlet_120m_201_3:c67233-64975	FEKHAPIA_00262
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Septum formation protein Maf	SaanichInlet_120m_201_3:67289-67855	FEKHAPIA_00263
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:67852-68673	FEKHAPIA_00264
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Transcriptional regulator MraZ	SaanichInlet_120m_201_3:68815-69273	FEKHAPIA_00265
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Ribosomal RNA small subunit methyltransferase H	SaanichInlet_120m_201_3:69273-70163	FEKHAPIA_00266
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:70156-70464	FEKHAPIA_00267
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Stage V sporulation protein D	SaanichInlet_120m_201_3:70457-72385	FEKHAPIA_00268
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	UDP-N-acetylmuramoylalanine--D-glutamate ligase	SaanichInlet_120m_201_3:72382-73725	FEKHAPIA_00269
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	putative peptidoglycan glycosyltransferase FtsW	SaanichInlet_120m_201_3:73722-74855	FEKHAPIA_00270
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	SaanichInlet_120m_201_3:74848-75933	FEKHAPIA_00271
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	UDP-N-acetylmuramate--L-alanine ligase	SaanichInlet_120m_201_3:75923-77290	FEKHAPIA_00272
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	UDP-N-acetylenolpyruvoylglucosamine reductase	SaanichInlet_120m_201_3:77287-78216	FEKHAPIA_00273
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Cell division protein FtsQ	SaanichInlet_120m_201_3:78213-78965	FEKHAPIA_00274
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Cell division protein FtsA	SaanichInlet_120m_201_3:78965-80206	FEKHAPIA_00275
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Cell division protein FtsZ	SaanichInlet_120m_201_3:80230-81429	FEKHAPIA_00276
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:81532-81849	FEKHAPIA_00277
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Murein DD-endopeptidase MepM	SaanichInlet_120m_201_3:81853-82749	FEKHAPIA_00278
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase	SaanichInlet_120m_201_3:82750-84075	FEKHAPIA_00279
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Lipopolysaccharide assembly protein A	SaanichInlet_120m_201_3:84075-84389	FEKHAPIA_00280
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Lipopolysaccharide assembly protein B	SaanichInlet_120m_201_3:84725-85441	FEKHAPIA_00281
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:85425-86069	FEKHAPIA_00282
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:c87915-86074	FEKHAPIA_00283
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:88053-88319	FEKHAPIA_00284
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Pesticin receptor	SaanichInlet_120m_201_3:88394-90799	FEKHAPIA_00285
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	DNA polymerase I	SaanichInlet_120m_201_3:90846-93560	FEKHAPIA_00286
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Alanine racemase 1	SaanichInlet_120m_201_3:93560-94666	FEKHAPIA_00287
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:94815-96599	FEKHAPIA_00288
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Methylmalonyl-CoA carboxyltransferase 12S subunit	SaanichInlet_120m_201_3:96746-98371	FEKHAPIA_00289
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	putative enoyl-CoA hydratase	SaanichInlet_120m_201_3:98381-99187	FEKHAPIA_00290
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Acyl-CoA dehydrogenase	SaanichInlet_120m_201_3:99207-100358	FEKHAPIA_00291
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:100694-101962	FEKHAPIA_00293
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Putative TrmH family tRNA/rRNA methyltransferase	SaanichInlet_120m_201_3:c102714-101971	FEKHAPIA_00294
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Peptidyl-tRNA hydrolase ArfB	SaanichInlet_120m_201_3:102745-103143	FEKHAPIA_00295
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:103136-103681	FEKHAPIA_00296
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	SaanichInlet_120m_201_3:103659-105110	FEKHAPIA_00297
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	SaanichInlet_120m_201_3:105100-106386	FEKHAPIA_00298
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Phospho-N-acetylmuramoyl-pentapeptide-transferase	SaanichInlet_120m_201_3:106376-107485	FEKHAPIA_00299
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)	SaanichInlet_120m_201_3:107488-109281	FEKHAPIA_00300
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Small-conductance mechanosensitive channel	SaanichInlet_120m_201_3:109350-110393	FEKHAPIA_00301
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Deoxyuridine 5'-triphosphate nucleotidohydrolase	SaanichInlet_120m_201_3:110377-110814	FEKHAPIA_00302
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	10 kDa chaperonin	SaanichInlet_120m_201_3:110926-111255	FEKHAPIA_00303
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	60 kDa chaperonin	SaanichInlet_120m_201_3:111269-112906	FEKHAPIA_00304
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Dihydroneopterin aldolase	SaanichInlet_120m_201_3:112959-113339	FEKHAPIA_00305
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase	SaanichInlet_120m_201_3:113332-113838	FEKHAPIA_00306
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Deoxyguanosine kinase	SaanichInlet_120m_201_3:113835-114476	FEKHAPIA_00307
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:114480-114623	FEKHAPIA_00308
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:114616-115236	FEKHAPIA_00309
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Ribosomal RNA small subunit methyltransferase E	SaanichInlet_120m_201_3:115229-115957	FEKHAPIA_00310
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Purine nucleoside phosphoramidase	SaanichInlet_120m_201_3:115950-116294	FEKHAPIA_00311
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Chromosome partition protein Smc	SaanichInlet_120m_201_3:116299-118428	FEKHAPIA_00312
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S16	SaanichInlet_120m_201_3:118507-119070	FEKHAPIA_00313
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	tRNA (guanine-N(1)-)-methyltransferase	SaanichInlet_120m_201_3:119110-119808	FEKHAPIA_00314
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L19	SaanichInlet_120m_201_3:119801-120124	FEKHAPIA_00315
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:120170-121270	FEKHAPIA_00316
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:121270-122073	FEKHAPIA_00317
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Guanylate kinase	SaanichInlet_120m_201_3:122070-122630	FEKHAPIA_00318
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	DNA-directed RNA polymerase subunit omega	SaanichInlet_120m_201_3:122634-122924	FEKHAPIA_00319
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Uracil-DNA glycosylase	SaanichInlet_120m_201_3:122878-123684	FEKHAPIA_00320
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Replicative DNA helicase	SaanichInlet_120m_201_3:123828-125189	FEKHAPIA_00321
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	GTP pyrophosphokinase	SaanichInlet_120m_201_3:125189-127354	FEKHAPIA_00322
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Putative pre-16S rRNA nuclease	SaanichInlet_120m_201_3:127357-127767	FEKHAPIA_00323
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Apolipoprotein N-acyltransferase	SaanichInlet_120m_201_3:127767-129140	FEKHAPIA_00324
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	tRNA pseudouridine synthase A	SaanichInlet_120m_201_3:129133-129867	FEKHAPIA_00325
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Putative serine protease HhoB	SaanichInlet_120m_201_3:129857-130933	FEKHAPIA_00326
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:130930-131208	FEKHAPIA_00327
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Sec-independent protein translocase protein TatAy	SaanichInlet_120m_201_3:131225-131401	FEKHAPIA_00328
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Glutamyl-tRNA(Gln) amidotransferase subunit A	SaanichInlet_120m_201_3:131407-132765	FEKHAPIA_00329
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:132773-133741	FEKHAPIA_00330
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:133738-134736	FEKHAPIA_00331
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:134733-135482	FEKHAPIA_00332
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:135479-137182	FEKHAPIA_00333
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:137175-137915	FEKHAPIA_00334
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:137917-138330	FEKHAPIA_00335
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	putative transcriptional regulatory protein	SaanichInlet_120m_201_3:138331-139062	FEKHAPIA_00336
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Crossover junction endodeoxyribonuclease RuvC	SaanichInlet_120m_201_3:139059-139535	FEKHAPIA_00337
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Holliday junction ATP-dependent DNA helicase RuvA	SaanichInlet_120m_201_3:139532-140125	FEKHAPIA_00338
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Aminomethyltransferase	SaanichInlet_120m_201_3:140122-141198	FEKHAPIA_00339
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	DNA translocase SpoIIIE	SaanichInlet_120m_201_3:141198-143471	FEKHAPIA_00340
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:143455-144015	FEKHAPIA_00341
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase	SaanichInlet_120m_201_3:144008-144559	FEKHAPIA_00342
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:c144893-144795	FEKHAPIA_00343
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	D-alanine--D-alanine ligase B	SaanichInlet_120m_201_3:144898-145449	FEKHAPIA_00344
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Cysteine--tRNA ligase	SaanichInlet_120m_201_3:145446-146825	FEKHAPIA_00345
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Elongation factor Tu	SaanichInlet_120m_201_3:147352-148542	FEKHAPIA_00350
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L33	SaanichInlet_120m_201_3:148546-148710	FEKHAPIA_00351
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Protein translocase subunit SecE	SaanichInlet_120m_201_3:148810-148992	FEKHAPIA_00353
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Transcription termination/antitermination protein NusG	SaanichInlet_120m_201_3:148989-149522	FEKHAPIA_00354
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L11	SaanichInlet_120m_201_3:149527-149955	FEKHAPIA_00355
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L1	SaanichInlet_120m_201_3:149952-150632	FEKHAPIA_00356
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L10	SaanichInlet_120m_201_3:150635-151153	FEKHAPIA_00357
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L7/L12	SaanichInlet_120m_201_3:151155-151532	FEKHAPIA_00358
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	DNA-directed RNA polymerase subunit beta	SaanichInlet_120m_201_3:151580-155338	FEKHAPIA_00359
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	DNA-directed RNA polymerase subunit beta'	SaanichInlet_120m_201_3:155355-159536	FEKHAPIA_00360
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S12	SaanichInlet_120m_201_3:159674-160048	FEKHAPIA_00361
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S7	SaanichInlet_120m_201_3:160051-160524	FEKHAPIA_00362
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Elongation factor G	SaanichInlet_120m_201_3:160527-162617	FEKHAPIA_00363
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S10	SaanichInlet_120m_201_3:162617-162925	FEKHAPIA_00364
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L3	SaanichInlet_120m_201_3:162928-163548	FEKHAPIA_00365
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L4	SaanichInlet_120m_201_3:163545-164165	FEKHAPIA_00366
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L23	SaanichInlet_120m_201_3:164168-164479	FEKHAPIA_00367
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L2	SaanichInlet_120m_201_3:164489-165316	FEKHAPIA_00368
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S19	SaanichInlet_120m_201_3:165316-165588	FEKHAPIA_00369
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L22	SaanichInlet_120m_201_3:165591-165923	FEKHAPIA_00370
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S3	SaanichInlet_120m_201_3:165927-166565	FEKHAPIA_00371
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L16	SaanichInlet_120m_201_3:166565-166987	FEKHAPIA_00372
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L29	SaanichInlet_120m_201_3:166977-167186	FEKHAPIA_00373
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S17	SaanichInlet_120m_201_3:167179-167433	FEKHAPIA_00374
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L14	SaanichInlet_120m_201_3:167433-167801	FEKHAPIA_00375
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L24	SaanichInlet_120m_201_3:167801-168106	FEKHAPIA_00376
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L5	SaanichInlet_120m_201_3:168112-168699	FEKHAPIA_00377
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S14	SaanichInlet_120m_201_3:168692-168997	FEKHAPIA_00378
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S8	SaanichInlet_120m_201_3:169010-169408	FEKHAPIA_00379
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L6	SaanichInlet_120m_201_3:169410-169961	FEKHAPIA_00380
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L18	SaanichInlet_120m_201_3:169962-170321	FEKHAPIA_00381
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S5	SaanichInlet_120m_201_3:170335-170841	FEKHAPIA_00382
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L30	SaanichInlet_120m_201_3:170845-171033	FEKHAPIA_00383
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L15	SaanichInlet_120m_201_3:171033-171464	FEKHAPIA_00384
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Protein translocase subunit SecY	SaanichInlet_120m_201_3:171461-172765	FEKHAPIA_00385
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Methionine aminopeptidase 1	SaanichInlet_120m_201_3:172765-173514	FEKHAPIA_00386
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Translation initiation factor IF-1	SaanichInlet_120m_201_3:173514-173738	FEKHAPIA_00387
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L36	SaanichInlet_120m_201_3:173741-173857	FEKHAPIA_00388
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S13	SaanichInlet_120m_201_3:173857-174234	FEKHAPIA_00389
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S11	SaanichInlet_120m_201_3:174238-174624	FEKHAPIA_00390
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	30S ribosomal protein S4	SaanichInlet_120m_201_3:174630-175244	FEKHAPIA_00391
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	DNA-directed RNA polymerase subunit alpha	SaanichInlet_120m_201_3:175255-176220	FEKHAPIA_00392
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L17	SaanichInlet_120m_201_3:176221-176640	FEKHAPIA_00393
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Free methionine-R-sulfoxide reductase	SaanichInlet_120m_201_3:c177080-176637	FEKHAPIA_00394
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	NAD(P)-specific glutamate dehydrogenase	SaanichInlet_120m_201_3:178193-179533	FEKHAPIA_00396
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Bifunctional PGK/TIM	SaanichInlet_120m_201_3:179559-180758	FEKHAPIA_00397
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Triosephosphate isomerase	SaanichInlet_120m_201_3:180758-181495	FEKHAPIA_00398
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Protein-export membrane protein SecG	SaanichInlet_120m_201_3:181504-181848	FEKHAPIA_00399
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Beta-barrel assembly-enhancing protease	SaanichInlet_120m_201_3:181980-183224	FEKHAPIA_00401
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Phosphoglycolate phosphatase	SaanichInlet_120m_201_3:183221-183904	FEKHAPIA_00402
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Holo-[acyl-carrier-protein] synthase	SaanichInlet_120m_201_3:183897-184247	FEKHAPIA_00403
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	SaanichInlet_120m_201_3:184250-185506	FEKHAPIA_00404
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Trk system potassium uptake protein TrkA	SaanichInlet_120m_201_3:185558-186907	FEKHAPIA_00405
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Trk system potassium uptake protein TrkH	SaanichInlet_120m_201_3:186907-188331	FEKHAPIA_00406
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	UvrABC system protein C	SaanichInlet_120m_201_3:188360-189934	FEKHAPIA_00407
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Cysteine synthase	SaanichInlet_120m_201_3:c190883-189927	FEKHAPIA_00408
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Metalloprotease TldD	SaanichInlet_120m_201_3:191064-192497	FEKHAPIA_00409
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:192498-193838	FEKHAPIA_00410
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase	SaanichInlet_120m_201_3:194078-194827	FEKHAPIA_00413
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:194911-195321	FEKHAPIA_00414
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:195336-196028	FEKHAPIA_00415
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:196032-197039	FEKHAPIA_00416
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:197083-197508	FEKHAPIA_00417
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:197916-198347	FEKHAPIA_00419
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Non-canonical purine NTP phosphatase	SaanichInlet_120m_201_3:198406-198939	FEKHAPIA_00420
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:198952-199140	FEKHAPIA_00421
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:199144-199569	FEKHAPIA_00422
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Protein YceI	SaanichInlet_120m_201_3:c200292-199573	FEKHAPIA_00423
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Glutamate--tRNA ligase	SaanichInlet_120m_201_3:200477-201883	FEKHAPIA_00425
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Thiol-disulfide oxidoreductase ResA	SaanichInlet_120m_201_3:201886-202362	FEKHAPIA_00426
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:202355-204070	FEKHAPIA_00427
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:204118-204990	FEKHAPIA_00428
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	tRNA-specific adenosine deaminase	SaanichInlet_120m_201_3:205092-205589	FEKHAPIA_00430
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:c206348-205590	FEKHAPIA_00431
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Putative ketoacyl reductase	SaanichInlet_120m_201_3:206393-207232	FEKHAPIA_00432
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:207232-207672	FEKHAPIA_00433
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:207669-208433	FEKHAPIA_00434
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Beta-barrel assembly-enhancing protease	SaanichInlet_120m_201_3:208461-209948	FEKHAPIA_00435
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:209965-210324	FEKHAPIA_00436
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:c210841-210383	FEKHAPIA_00437
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	DNA polymerase III subunit tau	SaanichInlet_120m_201_3:210916-212526	FEKHAPIA_00438
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Nucleoid-associated protein YbaB	SaanichInlet_120m_201_3:212526-212840	FEKHAPIA_00439
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Recombination protein RecR	SaanichInlet_120m_201_3:212840-213439	FEKHAPIA_00440
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	SaanichInlet_120m_201_3:213436-213939	FEKHAPIA_00441
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:213946-214491	FEKHAPIA_00442
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Nicotinamide-nucleotide amidohydrolase PncC	SaanichInlet_120m_201_3:214491-215774	FEKHAPIA_00443
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Protein RecA	SaanichInlet_120m_201_3:215800-216804	FEKHAPIA_00444
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	23S rRNA (uracil-C(5))-methyltransferase RlmCD	SaanichInlet_120m_201_3:216822-218003	FEKHAPIA_00445
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Amino-acid carrier protein AlsT	SaanichInlet_120m_201_3:c219578-218004	FEKHAPIA_00446
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Ribonuclease HII	SaanichInlet_120m_201_3:219613-220194	FEKHAPIA_00447
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Signal peptidase I	SaanichInlet_120m_201_3:220191-221189	FEKHAPIA_00448
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:221265-221762	FEKHAPIA_00449
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Long-chain-fatty-acid--CoA ligase FadD15	SaanichInlet_120m_201_3:221970-223841	FEKHAPIA_00451
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Coenzyme PQQ synthesis protein B	SaanichInlet_120m_201_3:223849-224769	FEKHAPIA_00452
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:224865-227069	FEKHAPIA_00453
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:227119-227622	FEKHAPIA_00454
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:227619-228332	FEKHAPIA_00455
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Threonine--tRNA ligase	SaanichInlet_120m_201_3:228329-230269	FEKHAPIA_00456
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Translation initiation factor IF-3	SaanichInlet_120m_201_3:230319-230774	FEKHAPIA_00457
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L35	SaanichInlet_120m_201_3:230783-230980	FEKHAPIA_00458
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	50S ribosomal protein L20	SaanichInlet_120m_201_3:230984-231334	FEKHAPIA_00459
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Phenylalanine--tRNA ligase alpha subunit	SaanichInlet_120m_201_3:231343-232332	FEKHAPIA_00460
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Phenylalanine--tRNA ligase beta subunit	SaanichInlet_120m_201_3:232332-234710	FEKHAPIA_00461
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Cell division protein ZapA	SaanichInlet_120m_201_3:234724-235017	FEKHAPIA_00462
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Bifunctional protein FolD protein	SaanichInlet_120m_201_3:235040-235915	FEKHAPIA_00463
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:235943-237730	FEKHAPIA_00464
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Divalent-cation tolerance protein CutA	SaanichInlet_120m_201_3:237736-238056	FEKHAPIA_00465
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Ribonuclease BN	SaanichInlet_120m_201_3:238210-239313	FEKHAPIA_00466
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	Putative NAD(P)H nitroreductase	SaanichInlet_120m_201_3:239310-239972	FEKHAPIA_00467
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:240003-241127	FEKHAPIA_00468
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:241153-242022	FEKHAPIA_00469
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:242043-243065	FEKHAPIA_00470
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:243087-243845	FEKHAPIA_00471
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	hypothetical protein	SaanichInlet_120m_201_3:c244522-243908	FEKHAPIA_00472
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:CDS	3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase	SaanichInlet_120m_201_3:244620-245615	FEKHAPIA_00473
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:rRNA	23S ribosomal RNA (partial)	SaanichInlet_120m_201_3:1-936	FEKHAPIA_00195
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:rRNA	5S ribosomal RNA	SaanichInlet_120m_201_3:1009-1120	FEKHAPIA_00196
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Met	SaanichInlet_120m_201_3:100589-100663	FEKHAPIA_00292
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Thr	SaanichInlet_120m_201_3:146901-146974	FEKHAPIA_00346
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Tyr	SaanichInlet_120m_201_3:147051-147134	FEKHAPIA_00347
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Gly	SaanichInlet_120m_201_3:147143-147216	FEKHAPIA_00348
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Thr	SaanichInlet_120m_201_3:147227-147300	FEKHAPIA_00349
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Trp	SaanichInlet_120m_201_3:148722-148795	FEKHAPIA_00352
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Met	SaanichInlet_120m_201_3:c178063-177989	FEKHAPIA_00395
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Leu	SaanichInlet_120m_201_3:181853-181937	FEKHAPIA_00400
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Cys	SaanichInlet_120m_201_3:193877-193951	FEKHAPIA_00411
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Leu	SaanichInlet_120m_201_3:193966-194054	FEKHAPIA_00412
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Ser	SaanichInlet_120m_201_3:197518-197604	FEKHAPIA_00418
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Ser	SaanichInlet_120m_201_3:200388-200475	FEKHAPIA_00424
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Arg	SaanichInlet_120m_201_3:205015-205089	FEKHAPIA_00429
+
+DiscRep_SUB:FEATURE_LOCATION_CONFLICT::RNA feature xref gene does not exist
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:tRNA	Leu	SaanichInlet_120m_201_3:c221898-221814	FEKHAPIA_00450
+
+DiscRep_ALL:DISC_QUALITY_SCORES::Quality scores are missing on all sequences.
+
+FATAL: DiscRep_ALL:DISC_SUSPECT_RRNA_PRODUCTS::1 rRNA product names contain suspect phrase
+FATAL: DiscRep_SUB:DISC_SUSPECT_RRNA_PRODUCTS::1 rRNA product names contains 'partial'
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:rRNA	23S ribosomal RNA (partial)	SaanichInlet_120m_201_3:1-936	FEKHAPIA_00195
+
+FATAL: DiscRep_ALL:DISC_SHORT_RRNA::1 rRNA features are too short
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:rRNA	23S ribosomal RNA (partial)	SaanichInlet_120m_201_3:1-936	FEKHAPIA_00195
+
+DiscRep_ALL:ONCALLER_COMMENT_PRESENT::3 comment descriptors were found (all same)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1:Annotated using prokka 1.13 from https://github.com/tseemann/prokka
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_2:Annotated using prokka 1.13 from https://github.com/tseemann/prokka
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3:Annotated using prokka 1.13 from https://github.com/tseemann/prokka
+
+DiscRep_ALL:SHORT_PROT_SEQUENCES::6 protein sequences are shorter than 50 aa.
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_7 (length 47)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_104 (length 30)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_8 (length 49)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_111 (length 47)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_146 (length 32)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_186 (length 38)
+
+DiscRep_ALL:MISSING_GENOMEASSEMBLY_COMMENTS::3 bioseqs are missing GenomeAssembly structured comments
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1 (length 177982)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_2 (length 2594)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3 (length 245728)
+
+DiscRep_ALL:MOLTYPE_NOT_MRNA::3 molecule types are not set as mRNA.
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1 (length 177982)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_2 (length 2594)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3 (length 245728)
+
+DiscRep_ALL:TECHNIQUE_NOT_TSA::3 technique are not set as TSA
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1 (length 177982)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_2 (length 2594)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3 (length 245728)
+
+DiscRep_ALL:MISSING_STRUCTURED_COMMENT::3 sequences do not include structured comments.
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1 (length 177982)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_2 (length 2594)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3 (length 245728)
+
+DiscRep_ALL:MISSING_PROJECT::456 sequences do not include project.
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1 (length 177982)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_1 (length 84)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_2 (length 226)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_3 (length 200)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_4 (length 813)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_5 (length 174)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_6 (length 185)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_7 (length 47)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_8 (length 408)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_9 (length 115)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_10 (length 366)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_11 (length 691)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_12 (length 89)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_13 (length 316)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_14 (length 213)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_15 (length 115)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_16 (length 783)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_17 (length 464)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_18 (length 239)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_19 (length 345)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_20 (length 241)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_21 (length 791)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_22 (length 350)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_23 (length 413)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_24 (length 204)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_25 (length 1244)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_26 (length 192)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_27 (length 169)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_28 (length 134)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_29 (length 288)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_30 (length 570)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_31 (length 175)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_32 (length 150)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_33 (length 213)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_34 (length 222)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_35 (length 288)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_36 (length 130)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_37 (length 571)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_38 (length 558)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_39 (length 209)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_40 (length 230)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_41 (length 449)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_42 (length 257)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_43 (length 280)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_44 (length 300)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_45 (length 292)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_46 (length 90)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_47 (length 374)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_48 (length 608)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_49 (length 215)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_50 (length 296)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_51 (length 138)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_52 (length 354)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_53 (length 541)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_54 (length 97)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_55 (length 288)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_56 (length 68)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_57 (length 192)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_58 (length 299)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_59 (length 63)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_60 (length 147)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_61 (length 466)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_62 (length 452)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_63 (length 325)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_64 (length 420)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_65 (length 163)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_66 (length 168)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_67 (length 483)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_68 (length 261)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_69 (length 360)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_70 (length 168)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_71 (length 285)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_72 (length 217)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_73 (length 309)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_74 (length 193)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_75 (length 240)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_76 (length 311)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_77 (length 599)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_78 (length 326)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_79 (length 285)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_80 (length 428)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_81 (length 445)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_82 (length 416)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_83 (length 416)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_84 (length 268)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_85 (length 408)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_86 (length 590)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_87 (length 159)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_88 (length 262)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_89 (length 346)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_90 (length 174)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_91 (length 407)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_92 (length 536)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_93 (length 238)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_94 (length 311)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_95 (length 111)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_96 (length 403)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_97 (length 151)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_98 (length 371)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_99 (length 168)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_100 (length 624)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_101 (length 264)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_102 (length 205)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_103 (length 392)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_104 (length 30)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_105 (length 219)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_106 (length 292)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_107 (length 171)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_108 (length 103)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_109 (length 175)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_110 (length 120)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_111 (length 238)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_112 (length 191)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_113 (length 142)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_114 (length 355)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_115 (length 169)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_116 (length 386)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_117 (length 275)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_118 (length 416)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_119 (length 446)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_120 (length 86)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_121 (length 799)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_122 (length 332)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_123 (length 164)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_124 (length 104)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_125 (length 104)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_126 (length 67)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_127 (length 205)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_128 (length 540)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_129 (length 738)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_130 (length 619)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_131 (length 314)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_132 (length 236)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_133 (length 339)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_134 (length 243)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_135 (length 234)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_136 (length 593)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_137 (length 532)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_138 (length 152)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_139 (length 429)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_140 (length 189)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_141 (length 401)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_142 (length 666)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_143 (length 183)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_144 (length 424)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_145 (length 345)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_146 (length 237)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_147 (length 313)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_148 (length 85)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_149 (length 170)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_150 (length 488)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_151 (length 252)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_152 (length 461)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_153 (length 144)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_154 (length 121)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_155 (length 142)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_156 (length 845)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_157 (length 202)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_158 (length 314)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_159 (length 373)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_160 (length 90)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_161 (length 457)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_162 (length 337)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_163 (length 163)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_164 (length 200)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_165 (length 237)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_166 (length 74)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_167 (length 475)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_168 (length 135)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_169 (length 406)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_170 (length 439)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_171 (length 125)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_172 (length 354)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_173 (length 298)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_174 (length 247)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_175 (length 133)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_176 (length 129)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_177 (length 211)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_178 (length 125)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_179 (length 235)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_180 (length 197)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_181 (length 391)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_182 (length 398)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_183 (length 233)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_184 (length 151)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_185 (length 1028)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_186 (length 163)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1_187 (length 70)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_2 (length 2594)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_2_1 (length 196)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_2_2 (length 333)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_2_3 (length 89)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3 (length 245728)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_1 (length 141)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_2 (length 217)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_3 (length 273)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_4 (length 514)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_5 (length 550)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_6 (length 164)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_7 (length 615)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_8 (length 49)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_9 (length 369)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_10 (length 108)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_11 (length 140)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_12 (length 103)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_13 (length 604)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_14 (length 208)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_15 (length 257)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_16 (length 473)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_17 (length 334)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_18 (length 204)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_19 (length 161)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_20 (length 542)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_21 (length 184)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_22 (length 307)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_23 (length 371)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_24 (length 285)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_25 (length 506)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_26 (length 693)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_27 (length 105)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_28 (length 171)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_29 (length 312)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_30 (length 238)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_31 (length 341)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_32 (length 372)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_33 (length 420)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_34 (length 464)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_35 (length 138)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_36 (length 201)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_37 (length 259)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_38 (length 195)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_39 (length 311)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_40 (length 601)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_41 (length 465)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_42 (length 1097)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_43 (length 136)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_44 (length 148)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_45 (length 322)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_46 (length 305)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_47 (length 533)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_48 (length 291)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_49 (length 364)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_50 (length 453)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_51 (length 246)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_52 (length 319)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_53 (length 319)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_54 (length 406)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_55 (length 77)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_56 (length 243)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_57 (length 302)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_58 (length 125)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_59 (length 133)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_60 (length 291)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_61 (length 388)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_62 (length 538)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_63 (length 326)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_64 (length 78)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_65 (length 484)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_66 (length 752)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_67 (length 188)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_68 (length 273)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_69 (length 152)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_70 (length 296)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_71 (length 102)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_72 (length 642)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_73 (length 447)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_74 (length 377)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_75 (length 361)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_76 (length 455)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_77 (length 309)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_78 (length 250)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_79 (length 413)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_80 (length 399)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_81 (length 105)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_82 (length 298)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_83 (length 441)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_84 (length 104)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_85 (length 238)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_86 (length 214)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_87 (length 613)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_88 (length 88)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_89 (length 801)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_90 (length 904)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_91 (length 368)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_92 (length 594)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_93 (length 541)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_94 (length 268)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_95 (length 383)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_96 (length 422)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_97 (length 247)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_98 (length 132)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_99 (length 181)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_100 (length 483)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_101 (length 428)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_102 (length 369)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_103 (length 597)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_104 (length 347)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_105 (length 145)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_106 (length 109)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_107 (length 545)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_108 (length 126)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_109 (length 168)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_110 (length 213)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_111 (length 47)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_112 (length 206)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_113 (length 242)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_114 (length 114)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_115 (length 709)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_116 (length 187)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_117 (length 232)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_118 (length 107)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_119 (length 366)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_120 (length 267)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_121 (length 186)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_122 (length 96)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_123 (length 268)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_124 (length 453)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_125 (length 721)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_126 (length 136)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_127 (length 457)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_128 (length 244)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_129 (length 358)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_130 (length 92)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_131 (length 58)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_132 (length 452)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_133 (length 322)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_134 (length 332)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_135 (length 249)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_136 (length 567)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_137 (length 246)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_138 (length 137)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_139 (length 243)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_140 (length 158)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_141 (length 197)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_142 (length 358)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_143 (length 757)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_144 (length 186)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_145 (length 183)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_146 (length 32)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_147 (length 183)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_148 (length 459)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_149 (length 396)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_150 (length 54)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_151 (length 60)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_152 (length 177)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_153 (length 142)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_154 (length 226)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_155 (length 172)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_156 (length 125)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_157 (length 1252)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_158 (length 1393)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_159 (length 124)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_160 (length 157)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_161 (length 696)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_162 (length 102)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_163 (length 206)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_164 (length 206)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_165 (length 103)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_166 (length 275)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_167 (length 90)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_168 (length 110)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_169 (length 212)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_170 (length 140)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_171 (length 69)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_172 (length 84)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_173 (length 122)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_174 (length 101)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_175 (length 195)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_176 (length 101)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_177 (length 132)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_178 (length 183)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_179 (length 119)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_180 (length 168)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_181 (length 62)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_182 (length 143)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_183 (length 434)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_184 (length 249)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_185 (length 74)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_186 (length 38)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_187 (length 125)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_188 (length 128)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_189 (length 204)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_190 (length 321)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_191 (length 139)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_192 (length 147)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_193 (length 446)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_194 (length 399)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_195 (length 245)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_196 (length 114)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_197 (length 414)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_198 (length 227)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_199 (length 116)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_200 (length 418)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_201 (length 449)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_202 (length 474)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_203 (length 524)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_204 (length 318)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_205 (length 477)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_206 (length 446)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_207 (length 249)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_208 (length 136)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_209 (length 230)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_210 (length 335)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_211 (length 141)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_212 (length 143)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_213 (length 177)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_214 (length 62)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_215 (length 141)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_216 (length 239)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_217 (length 468)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_218 (length 158)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_219 (length 571)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_220 (length 290)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_221 (length 165)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_222 (length 252)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_223 (length 279)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_224 (length 146)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_225 (length 254)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_226 (length 495)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_227 (length 119)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_228 (length 152)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_229 (length 536)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_230 (length 104)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_231 (length 199)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_232 (length 167)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_233 (length 181)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_234 (length 427)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_235 (length 334)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_236 (length 393)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_237 (length 524)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_238 (length 193)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_239 (length 332)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_240 (length 165)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_241 (length 623)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_242 (length 306)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_243 (length 734)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_244 (length 167)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_245 (length 237)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_246 (length 646)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_247 (length 151)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_248 (length 65)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_249 (length 116)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_250 (length 329)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_251 (length 792)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_252 (length 97)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_253 (length 291)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_254 (length 595)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_255 (length 106)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_256 (length 367)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_257 (length 220)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_258 (length 374)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_259 (length 289)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_260 (length 340)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_261 (length 252)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_262 (length 204)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3_263 (length 331)
+
+FATAL: DiscRep_ALL:RRNA_NAME_CONFLICTS::1 rRNA product names are not standard. Correct the names to the standard format, eg "16S ribosomal RNA"
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:rRNA	23S ribosomal RNA (partial)	SaanichInlet_120m_201_3:1-936	FEKHAPIA_00195
+
+DiscRep_ALL:DISC_INCONSISTENT_MOLINFO_TECH::Molinfo Technique Report (some missing, all same)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::technique (all missing)
+DiscRep_SUB:DISC_INCONSISTENT_MOLINFO_TECH::3 Molinfos are missing field technique
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_1 (length 177982)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_2 (length 2594)
+/home/cho_mb18/prokka_output/201//PROKKA_11162018:SaanichInlet_120m_201_3 (length 245728)
+

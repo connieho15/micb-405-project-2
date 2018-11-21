@@ -1,0 +1,1345 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+LLEJNKGF_00001	CDS	1011	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+LLEJNKGF_00002	CDS	537	nudC_1	3.6.1.22	COG2816	NADH pyrophosphatase
+LLEJNKGF_00003	CDS	573	nudL	3.6.1.-		putative Nudix hydrolase NudL
+LLEJNKGF_00004	CDS	534	yrdA		COG0663	Protein YrdA
+LLEJNKGF_00005	CDS	2577	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+LLEJNKGF_00006	CDS	288				hypothetical protein
+LLEJNKGF_00007	CDS	249				hypothetical protein
+LLEJNKGF_00008	CDS	354				hypothetical protein
+LLEJNKGF_00009	CDS	699				hypothetical protein
+LLEJNKGF_00010	CDS	495				hypothetical protein
+LLEJNKGF_00011	CDS	183				hypothetical protein
+LLEJNKGF_00012	CDS	3705	chiA	3.2.1.14		Chitinase A
+LLEJNKGF_00013	CDS	1680	ywrD	2.3.2.2	COG0405	Glutathione hydrolase-like YwrD proenzyme
+LLEJNKGF_00014	CDS	144				hypothetical protein
+LLEJNKGF_00015	CDS	366				hypothetical protein
+LLEJNKGF_00016	CDS	477				hypothetical protein
+LLEJNKGF_00017	CDS	378				hypothetical protein
+LLEJNKGF_00018	CDS	156				hypothetical protein
+LLEJNKGF_00019	CDS	561	ydjA	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase YdjA
+LLEJNKGF_00020	CDS	699		3.4.21.-	COG3340	putative peptidase
+LLEJNKGF_00021	CDS	693				hypothetical protein
+LLEJNKGF_00022	CDS	906		3.1.1.23	COG2267	Monoacylglycerol lipase
+LLEJNKGF_00023	CDS	1110		2.3.1.207	COG0332	Beta-ketodecanoyl-[acyl-carrier-protein] synthase
+LLEJNKGF_00024	CDS	144				hypothetical protein
+LLEJNKGF_00025	CDS	441	crtK-2		COG3476	Tryptophan-rich protein TspO
+LLEJNKGF_00026	CDS	1254	nupX		COG1972	Putative nucleoside permease NupX
+LLEJNKGF_00027	CDS	909				hypothetical protein
+LLEJNKGF_00028	CDS	3189	oar			Protein oar
+LLEJNKGF_00029	CDS	1248	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+LLEJNKGF_00030	CDS	357	crcB		COG0239	Putative fluoride ion transporter CrcB
+LLEJNKGF_00031	CDS	489				hypothetical protein
+LLEJNKGF_00032	CDS	2292	ftsK		COG1674	DNA translocase FtsK
+LLEJNKGF_00033	CDS	936	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+LLEJNKGF_00034	CDS	984	acuI	1.3.1.84	COG0604	putative acrylyl-CoA reductase AcuI
+LLEJNKGF_00035	CDS	132				hypothetical protein
+LLEJNKGF_00036	CDS	771		1.-.-.-		putative oxidoreductase
+LLEJNKGF_00037	CDS	591				hypothetical protein
+LLEJNKGF_00038	CDS	339	glnK_1		COG0347	Nitrogen regulatory protein P-II 2
+LLEJNKGF_00039	CDS	1236	nrgA			Ammonium transporter
+LLEJNKGF_00040	CDS	1278	amtB			Ammonia channel
+LLEJNKGF_00041	CDS	1110				hypothetical protein
+LLEJNKGF_00042	CDS	729	glpQ	3.1.4.46	COG0584	Glycerophosphodiester phosphodiesterase
+LLEJNKGF_00043	CDS	198				hypothetical protein
+LLEJNKGF_00044	CDS	1251				hypothetical protein
+LLEJNKGF_00045	CDS	171				hypothetical protein
+LLEJNKGF_00046	CDS	342		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+LLEJNKGF_00047	CDS	507	yabI		COG0586	Inner membrane protein YabI
+LLEJNKGF_00048	CDS	1113		3.3.2.10		Soluble epoxide hydrolase
+LLEJNKGF_00049	CDS	1095	phy	3.1.3.8		3-phytase
+LLEJNKGF_00050	CDS	597				hypothetical protein
+LLEJNKGF_00051	CDS	1248	pitA		COG0306	Low-affinity inorganic phosphate transporter 1
+LLEJNKGF_00052	CDS	432				hypothetical protein
+LLEJNKGF_00053	CDS	1137				hypothetical protein
+LLEJNKGF_00054	CDS	963	gspK		COG3156	Putative type II secretion system protein K
+LLEJNKGF_00055	CDS	594	xcpW		COG4795	Type II secretion system protein J
+LLEJNKGF_00056	CDS	384	xcpV		COG2165	Type II secretion system protein I
+LLEJNKGF_00057	CDS	531				hypothetical protein
+LLEJNKGF_00058	CDS	429	epsG		COG2165	Type II secretion system protein G
+LLEJNKGF_00059	CDS	1197	epsF		COG1459	Type II secretion system protein F
+LLEJNKGF_00060	CDS	1500	epsE		COG2804	Type II secretion system protein E
+LLEJNKGF_00061	CDS	1860	epsD			Type II secretion system protein D
+LLEJNKGF_00062	CDS	405				hypothetical protein
+LLEJNKGF_00063	CDS	1761	resE	2.7.13.3		Sensor histidine kinase ResE
+LLEJNKGF_00064	CDS	693	srrA		COG0745	Transcriptional regulatory protein SrrA
+LLEJNKGF_00065	CDS	1674	fadD3	6.2.1.41	COG0318	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+LLEJNKGF_00066	CDS	1656		6.2.1.3		Long-chain-fatty-acid--CoA/3-oxocholest-4-en-26-oate--CoA ligase
+LLEJNKGF_00067	CDS	387				hypothetical protein
+LLEJNKGF_00068	CDS	621		5.2.1.8		Peptidyl-prolyl cis-trans isomerase cyp18
+LLEJNKGF_00069	CDS	714	lpxH_1	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+LLEJNKGF_00070	CDS	627				hypothetical protein
+LLEJNKGF_00071	CDS	480				hypothetical protein
+LLEJNKGF_00072	CDS	429	umuD	3.4.21.-	COG1974	Protein UmuD
+LLEJNKGF_00073	CDS	1263	umuC		COG0389	Protein UmuC
+LLEJNKGF_00074	CDS	372				hypothetical protein
+LLEJNKGF_00075	CDS	198				hypothetical protein
+LLEJNKGF_00076	CDS	342				hypothetical protein
+LLEJNKGF_00077	CDS	441				hypothetical protein
+LLEJNKGF_00078	CDS	438				hypothetical protein
+LLEJNKGF_00079	CDS	2583	acnB	4.2.1.3	COG1049	Aconitate hydratase B
+LLEJNKGF_00080	CDS	1488	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+LLEJNKGF_00081	CDS	579	cvpA		COG1286	Colicin V production protein
+LLEJNKGF_00082	CDS	489				hypothetical protein
+LLEJNKGF_00083	CDS	849	accD	6.4.1.2	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+LLEJNKGF_00084	CDS	786	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+LLEJNKGF_00085	CDS	1203	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+LLEJNKGF_00086	CDS	624	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+LLEJNKGF_00087	CDS	786	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+LLEJNKGF_00088	CDS	1335				hypothetical protein
+LLEJNKGF_00089	CDS	1017	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+LLEJNKGF_00090	CDS	1077	leuB	1.1.1.85		3-isopropylmalate dehydrogenase
+LLEJNKGF_00091	CDS	645	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+LLEJNKGF_00092	CDS	1398	leuC1	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit 1
+LLEJNKGF_00093	CDS	1086	aroC	4.2.3.5	COG0082	Chorismate synthase
+LLEJNKGF_00094	CDS	1449	prpD	4.2.1.79	COG2079	2-methylcitrate dehydratase
+LLEJNKGF_00095	CDS	1122	prpC	2.3.3.5	COG0372	2-methylcitrate synthase
+LLEJNKGF_00096	CDS	876	prpB	4.1.3.30	COG2513	2-methylisocitrate lyase
+LLEJNKGF_00097	CDS	663	queH	1.17.99.6	COG1636	Epoxyqueuosine reductase QueH
+LLEJNKGF_00098	CDS	612	thrH	3.1.3.3	COG0560	Phosphoserine phosphatase ThrH
+LLEJNKGF_00099	CDS	909				hypothetical protein
+LLEJNKGF_00100	CDS	630	lexA	3.4.21.88	COG1974	LexA repressor
+LLEJNKGF_00101	CDS	258				hypothetical protein
+LLEJNKGF_00102	CDS	438				hypothetical protein
+LLEJNKGF_00103	CDS	2628	topA	5.99.1.2	COG0550	DNA topoisomerase 1
+LLEJNKGF_00104	CDS	441				hypothetical protein
+LLEJNKGF_00105	CDS	984	pyrD	1.3.5.2	COG0167	Dihydroorotate dehydrogenase (quinone)
+LLEJNKGF_00106	CDS	531	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+LLEJNKGF_00107	CDS	714	lysDH	1.4.1.18		Lysine 6-dehydrogenase
+LLEJNKGF_00108	CDS	195				hypothetical protein
+LLEJNKGF_00109	CDS	459				hypothetical protein
+LLEJNKGF_00110	CDS	492				hypothetical protein
+LLEJNKGF_00111	CDS	690				hypothetical protein
+LLEJNKGF_00112	CDS	621	plsC	2.3.1.-	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+LLEJNKGF_00113	CDS	1830				hypothetical protein
+LLEJNKGF_00114	CDS	699	fadB_1	4.2.1.17	COG1024	putative enoyl-CoA hydratase
+LLEJNKGF_00115	CDS	504				hypothetical protein
+LLEJNKGF_00116	CDS	846				hypothetical protein
+LLEJNKGF_00117	CDS	705				hypothetical protein
+LLEJNKGF_00118	CDS	1791	typA		COG1217	GTP-binding protein TypA/BipA
+LLEJNKGF_00119	CDS	1281	yxeP	3.-.-.-	COG1473	putative hydrolase YxeP
+LLEJNKGF_00120	CDS	972		1.13.12.16	COG2070	Nitronate monooxygenase
+LLEJNKGF_00121	CDS	177				hypothetical protein
+LLEJNKGF_00122	CDS	873	garR_1	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+LLEJNKGF_00123	CDS	360				hypothetical protein
+LLEJNKGF_00124	CDS	150				hypothetical protein
+LLEJNKGF_00125	CDS	417				hypothetical protein
+LLEJNKGF_00126	CDS	969	ygfF	1.-.-.-		putative oxidoreductase YgfF
+LLEJNKGF_00127	CDS	885	hexR_1		COG1737	HTH-type transcriptional regulator HexR
+LLEJNKGF_00128	CDS	2175	uvrD	3.6.4.12	COG0210	DNA helicase II
+LLEJNKGF_00129	CDS	1128			COG4663	Monocarboxylate 2-oxoacid-binding periplasmic protein
+LLEJNKGF_00130	CDS	600	lipB	2.3.1.181	COG0321	Octanoyltransferase
+LLEJNKGF_00131	CDS	963	lipA	2.8.1.8		Lipoyl synthase
+LLEJNKGF_00132	CDS	381	yhaI		COG3152	Inner membrane protein YhaI
+LLEJNKGF_00133	CDS	1338	dctM		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+LLEJNKGF_00134	CDS	474				hypothetical protein
+LLEJNKGF_00135	CDS	768				hypothetical protein
+LLEJNKGF_00136	CDS	861	dpgD	4.2.1.17		Enoyl-CoA-hydratase
+LLEJNKGF_00137	CDS	189				hypothetical protein
+LLEJNKGF_00138	CDS	852	hel		COG2503	Lipoprotein E
+LLEJNKGF_00139	CDS	1125	phoA	3.1.3.1	COG1785	Alkaline phosphatase 4
+LLEJNKGF_00140	CDS	597	yrfG	3.1.3.5	COG1011	GMP/IMP nucleotidase YrfG
+LLEJNKGF_00141	CDS	825	cysQ	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+LLEJNKGF_00142	CDS	861	rpoH		COG0568	RNA polymerase sigma factor RpoH
+LLEJNKGF_00143	CDS	645	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+LLEJNKGF_00144	CDS	1125	hemN	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+LLEJNKGF_00145	CDS	606		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+LLEJNKGF_00146	CDS	588	metXA		COG0500	Bifunctional methionine biosynthesis protein MetXA/MetW
+LLEJNKGF_00147	CDS	1095	metXS	2.3.1.46		Homoserine O-succinyltransferase
+LLEJNKGF_00148	CDS	528				hypothetical protein
+LLEJNKGF_00149	CDS	792	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+LLEJNKGF_00150	CDS	690			COG0325	Pyridoxal phosphate homeostasis protein
+LLEJNKGF_00151	CDS	534	ftsN			Cell division protein FtsN
+LLEJNKGF_00152	CDS	1740	argS	6.1.1.19		Arginine--tRNA ligase
+LLEJNKGF_00153	CDS	561	efp		COG0231	Elongation factor P
+LLEJNKGF_00154	CDS	1821				hypothetical protein
+LLEJNKGF_00155	CDS	849				hypothetical protein
+LLEJNKGF_00156	CDS	789				hypothetical protein
+LLEJNKGF_00157	CDS	1386	exbB_1		COG0811	Biopolymer transport protein ExbB
+LLEJNKGF_00158	CDS	531				hypothetical protein
+LLEJNKGF_00159	CDS	411				hypothetical protein
+LLEJNKGF_00160	CDS	699				hypothetical protein
+LLEJNKGF_00161	CDS	1407				hypothetical protein
+LLEJNKGF_00162	CDS	486	dhfrIII	1.5.1.3		Dihydrofolate reductase type 3
+LLEJNKGF_00163	CDS	864	thyA2	2.1.1.45	COG0207	Thymidylate synthase 2
+LLEJNKGF_00164	CDS	795	lgt	2.4.99.-	COG0682	Prolipoprotein diacylglyceryl transferase
+LLEJNKGF_00165	CDS	798				hypothetical protein
+LLEJNKGF_00166	CDS	492	rppH	3.6.1.-	COG0494	RNA pyrophosphohydrolase
+LLEJNKGF_00167	CDS	657	serB1	3.1.3.3	COG0560	Phosphoserine phosphatase SerB1
+LLEJNKGF_00168	CDS	1242	dadA	1.4.99.-	COG0665	D-amino acid dehydrogenase
+LLEJNKGF_00169	CDS	888	efeU		COG0672	Ferrous iron permease EfeU
+LLEJNKGF_00170	CDS	1086				hypothetical protein
+LLEJNKGF_00171	CDS	1209			COG1167	Putative aminotransferase/MSMEI_6121
+LLEJNKGF_00172	CDS	333	hspQ		COG3785	Heat shock protein HspQ
+LLEJNKGF_00173	CDS	342				hypothetical protein
+LLEJNKGF_00174	CDS	225				hypothetical protein
+LLEJNKGF_00175	CDS	363				hypothetical protein
+LLEJNKGF_00176	CDS	675				hypothetical protein
+LLEJNKGF_00177	CDS	498	aroK_1	2.7.1.71	COG0703	Shikimate kinase
+LLEJNKGF_00178	CDS	435				hypothetical protein
+LLEJNKGF_00179	CDS	741				hypothetical protein
+LLEJNKGF_00180	CDS	954	pip	3.4.11.5		Proline iminopeptidase
+LLEJNKGF_00181	CDS	1152	alkB	1.14.15.3		Alkane 1-monooxygenase
+LLEJNKGF_00182	CDS	324	xylA			Xylene monooxygenase electron transfer component
+LLEJNKGF_00183	CDS	204				hypothetical protein
+LLEJNKGF_00184	tRNA	76				tRNA-Phe(gaa)
+LLEJNKGF_00185	CDS	270			COG2924	putative Fe(2+)-trafficking protein
+LLEJNKGF_00186	CDS	1005	mutY	3.2.2.-	COG1194	Adenine DNA glycosylase
+LLEJNKGF_00187	CDS	621	gpmA	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+LLEJNKGF_00188	CDS	411	yibN		COG0607	putative protein YibN
+LLEJNKGF_00189	CDS	1380	glnG		COG2204	DNA-binding transcriptional regulator NtrC
+LLEJNKGF_00190	CDS	1077	glnL	2.7.13.3	COG3852	Sensory histidine kinase/phosphatase NtrB
+LLEJNKGF_00191	CDS	981	glnII	6.3.1.2	COG0174	Glutamine synthetase
+LLEJNKGF_00192	CDS	573				hypothetical protein
+LLEJNKGF_00193	CDS	447				hypothetical protein
+LLEJNKGF_00194	CDS	1152				hypothetical protein
+LLEJNKGF_00195	CDS	852	ubiA	2.5.1.-	COG0382	4-hydroxybenzoate octaprenyltransferase
+LLEJNKGF_00196	CDS	486	ubiC	4.1.3.40	COG3161	Chorismate pyruvate-lyase
+LLEJNKGF_00197	CDS	171	rubA1		COG1773	Rubredoxin-1
+LLEJNKGF_00198	CDS	1254	gltP		COG1301	Proton/glutamate-aspartate symporter
+LLEJNKGF_00199	CDS	2001	hppA1	3.6.1.1	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+LLEJNKGF_00200	CDS	663				hypothetical protein
+LLEJNKGF_00201	CDS	852				hypothetical protein
+LLEJNKGF_00202	CDS	618	gmk	2.7.4.8	COG0194	Guanylate kinase
+LLEJNKGF_00203	CDS	270	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+LLEJNKGF_00204	CDS	2190	spoT	3.1.7.2	COG0317	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+LLEJNKGF_00205	CDS	387	ridA	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+LLEJNKGF_00206	CDS	909	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+LLEJNKGF_00207	CDS	615	ribC	2.5.1.9	COG0307	Riboflavin synthase
+LLEJNKGF_00208	CDS	639	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+LLEJNKGF_00209	CDS	708	rph	2.7.7.56	COG0689	Ribonuclease PH
+LLEJNKGF_00210	CDS	402	yqeY		COG1610	putative protein YqeY
+LLEJNKGF_00211	CDS	216	rpsU		COG0828	30S ribosomal protein S21
+LLEJNKGF_00212	CDS	1005	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+LLEJNKGF_00213	CDS	348	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+LLEJNKGF_00214	CDS	375	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+LLEJNKGF_00215	CDS	1062		2.7.1.-	COG3173	Putative aminoglycoside phosphotransferase
+LLEJNKGF_00216	CDS	729	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LLEJNKGF_00217	CDS	1023	cca		COG0617	Multifunctional CCA protein
+LLEJNKGF_00218	CDS	816	apaH	3.6.1.41	COG0639	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+LLEJNKGF_00219	CDS	771	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+LLEJNKGF_00220	CDS	981	pdxA	1.1.1.262	COG1995	4-hydroxythreonine-4-phosphate dehydrogenase
+LLEJNKGF_00221	CDS	1242	surA	5.2.1.8	COG0760	Chaperone SurA
+LLEJNKGF_00222	CDS	2343	lptD		COG1452	LPS-assembly protein LptD
+LLEJNKGF_00223	CDS	597	nsaD	5.99.1.4		2-hydroxychromene-2-carboxylate isomerase
+LLEJNKGF_00224	CDS	741	budC	1.1.1.304		Diacetyl reductase [(S)-acetoin forming]
+LLEJNKGF_00225	CDS	858	tsaC1	1.2.1.62		4-formylbenzenesulfonate dehydrogenase TsaC1/TsaC2
+LLEJNKGF_00226	CDS	963	amgK	2.7.1.-	COG3178	N-acetylmuramate/N-acetylglucosamine kinase
+LLEJNKGF_00227	CDS	672	murU	2.7.7.-	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+LLEJNKGF_00228	CDS	666	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+LLEJNKGF_00229	CDS	444				hypothetical protein
+LLEJNKGF_00230	CDS	1467	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+LLEJNKGF_00231	CDS	564	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+LLEJNKGF_00232	CDS	1008	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+LLEJNKGF_00233	CDS	750	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+LLEJNKGF_00234	CDS	1167	radD	3.6.4.12	COG1061	Putative DNA repair helicase RadD
+LLEJNKGF_00235	CDS	126				hypothetical protein
+LLEJNKGF_00236	CDS	93				hypothetical protein
+LLEJNKGF_00237	CDS	1344	mepA_1			Multidrug export protein MepA
+LLEJNKGF_00238	CDS	657				hypothetical protein
+LLEJNKGF_00239	CDS	261	csoR		COG1937	Copper-sensing transcriptional repressor CsoR
+LLEJNKGF_00240	CDS	366				hypothetical protein
+LLEJNKGF_00241	CDS	408				hypothetical protein
+LLEJNKGF_00242	CDS	606				hypothetical protein
+LLEJNKGF_00243	CDS	2115	fyuA		COG1629	Pesticin receptor
+LLEJNKGF_00244	CDS	570	pnuC		COG3201	Nicotinamide riboside transporter PnuC
+LLEJNKGF_00245	CDS	765				hypothetical protein
+LLEJNKGF_00246	CDS	969		1.13.12.16	COG2070	Nitronate monooxygenase
+LLEJNKGF_00247	CDS	789	ucpA	1.-.-.-		Oxidoreductase UcpA
+LLEJNKGF_00248	CDS	1038				hypothetical protein
+LLEJNKGF_00249	CDS	1098				hypothetical protein
+LLEJNKGF_00250	CDS	420				hypothetical protein
+LLEJNKGF_00251	CDS	615	dcmA	4.5.1.3		Dichloromethane dehalogenase
+LLEJNKGF_00252	CDS	681	yfcG	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YfcG
+LLEJNKGF_00253	CDS	1092	dhmA	3.8.1.5	COG0596	Haloalkane dehalogenase
+LLEJNKGF_00254	CDS	633				hypothetical protein
+LLEJNKGF_00255	CDS	1635	atsA	3.1.6.1	COG3119	Arylsulfatase
+LLEJNKGF_00256	CDS	1215	bbsG	1.3.8.3		(R)-benzylsuccinyl-CoA dehydrogenase
+LLEJNKGF_00257	CDS	714	csgA			C-factor
+LLEJNKGF_00258	CDS	741				Green-light absorbing proteorhodopsin
+LLEJNKGF_00259	CDS	486	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+LLEJNKGF_00260	CDS	810	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+LLEJNKGF_00261	CDS	1344	tolC		COG1538	Outer membrane protein TolC
+LLEJNKGF_00262	CDS	1893	parE	5.99.1.3	COG0187	DNA topoisomerase 4 subunit B
+LLEJNKGF_00263	CDS	2250	parC	5.99.1.3	COG0188	DNA topoisomerase 4 subunit A
+LLEJNKGF_00264	CDS	1203	aruC	2.6.1.11	COG4992	Succinylornithine transaminase/acetylornithine aminotransferase
+LLEJNKGF_00265	CDS	477				hypothetical protein
+LLEJNKGF_00266	CDS	1257	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+LLEJNKGF_00267	CDS	1311	mpl	6.3.2.45	COG0773	UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase
+LLEJNKGF_00268	CDS	591	lon_1	3.4.21.53		Lon protease
+LLEJNKGF_00269	CDS	432				hypothetical protein
+LLEJNKGF_00270	CDS	345	rsfS			Ribosomal silencing factor RsfS
+LLEJNKGF_00271	CDS	465	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+LLEJNKGF_00272	CDS	1839	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+LLEJNKGF_00273	CDS	1098	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+LLEJNKGF_00274	CDS	1041	mltB	4.2.2.-	COG2951	Membrane-bound lytic murein transglycosylase B
+LLEJNKGF_00275	CDS	1161	dacC	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacC
+LLEJNKGF_00276	CDS	831	dat	2.6.1.21		D-alanine aminotransferase
+LLEJNKGF_00277	CDS	981				hypothetical protein
+LLEJNKGF_00278	CDS	462	lptE			LPS-assembly lipoprotein LptE
+LLEJNKGF_00279	CDS	2406	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+LLEJNKGF_00280	CDS	1353	accC	6.3.4.14	COG0439	Biotin carboxylase
+LLEJNKGF_00281	CDS	441	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+LLEJNKGF_00282	CDS	435	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+LLEJNKGF_00283	CDS	429	dsbD_1	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+LLEJNKGF_00284	CDS	1011	lip2	3.1.1.3		Lipase 2
+LLEJNKGF_00285	CDS	1599	yejF		COG4172	putative ABC transporter ATP-binding protein YejF
+LLEJNKGF_00286	CDS	1656	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+LLEJNKGF_00287	CDS	453				hypothetical protein
+LLEJNKGF_00288	CDS	408				hypothetical protein
+LLEJNKGF_00289	CDS	957	yrbG		COG0530	Inner membrane protein YrbG
+LLEJNKGF_00290	CDS	798	rhlG	1.1.1.100		Rhamnolipids biosynthesis 3-oxoacyl-[acyl-carrier-protein] reductase
+LLEJNKGF_00291	CDS	909	pcpR			PCP degradation transcriptional activation protein
+LLEJNKGF_00292	CDS	1248	acrC_1	1.3.1.95		Acryloyl-CoA reductase (NADH)
+LLEJNKGF_00293	CDS	1236	sbcB	3.1.11.1	COG2925	Exodeoxyribonuclease I
+LLEJNKGF_00294	tRNA	77				tRNA-Val(gac)
+LLEJNKGF_00295	CDS	543	apt	2.4.2.7		Adenine phosphoribosyltransferase
+LLEJNKGF_00296	CDS	1191	nylB	3.5.1.46		6-aminohexanoate-dimer hydrolase
+LLEJNKGF_00297	CDS	177				hypothetical protein
+LLEJNKGF_00298	CDS	1767			COG1055	putative transporter
+LLEJNKGF_00299	CDS	1086	ynaI		COG0668	Low conductance mechanosensitive channel YnaI
+LLEJNKGF_00300	CDS	702				hypothetical protein
+LLEJNKGF_00301	CDS	1944	dsbD_2	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+LLEJNKGF_00302	CDS	402				hypothetical protein
+LLEJNKGF_00303	CDS	465	slyB		COG3133	Outer membrane lipoprotein SlyB
+LLEJNKGF_00304	CDS	438	recX		COG2137	Regulatory protein RecX
+LLEJNKGF_00305	CDS	1617	dnaX_1	2.7.7.7	COG2812	DNA polymerase III subunit tau
+LLEJNKGF_00306	CDS	597	recR		COG0353	Recombination protein RecR
+LLEJNKGF_00307	CDS	570	dcd	3.5.4.13		dCTP deaminase
+LLEJNKGF_00308	CDS	708				hypothetical protein
+LLEJNKGF_00309	CDS	654	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+LLEJNKGF_00310	CDS	1029	purM	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+LLEJNKGF_00311	CDS	1029				hypothetical protein
+LLEJNKGF_00312	CDS	552	pgsA2	2.7.8.5	COG0558	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 2
+LLEJNKGF_00313	CDS	684	hda		COG0593	DnaA regulatory inactivator Hda
+LLEJNKGF_00314	CDS	1842	sppA	3.4.21.-	COG0616	Protease 4
+LLEJNKGF_00315	CDS	336				hypothetical protein
+LLEJNKGF_00316	CDS	597		1.6.5.2	COG0655	NAD(P)H dehydrogenase (quinone)
+LLEJNKGF_00317	CDS	468	resA		COG0526	Thiol-disulfide oxidoreductase ResA
+LLEJNKGF_00318	CDS	795	mepM_1	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+LLEJNKGF_00319	CDS	1365	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+LLEJNKGF_00320	CDS	882				hypothetical protein
+LLEJNKGF_00321	tRNA	77				tRNA-Val(tac)
+LLEJNKGF_00322	tRNA	75				tRNA-Asp(gtc)
+LLEJNKGF_00323	CDS	408				hypothetical protein
+LLEJNKGF_00324	CDS	1824	htpG		COG0326	Chaperone protein HtpG
+LLEJNKGF_00325	CDS	1038	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+LLEJNKGF_00326	CDS	360				hypothetical protein
+LLEJNKGF_00327	CDS	843	folD			Bifunctional protein FolD protein
+LLEJNKGF_00328	tRNA	77				tRNA-Pro(tgg)
+LLEJNKGF_00329	tRNA	77				tRNA-Arg(tct)
+LLEJNKGF_00330	CDS	915				hypothetical protein
+LLEJNKGF_00331	CDS	519				hypothetical protein
+LLEJNKGF_00332	CDS	1398	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+LLEJNKGF_00333	tRNA	77				tRNA-His(gtg)
+LLEJNKGF_00334	CDS	1296	tig	5.2.1.8		Trigger factor
+LLEJNKGF_00335	CDS	615	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+LLEJNKGF_00336	CDS	1251	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+LLEJNKGF_00337	CDS	2409	lon_2	3.4.21.53	COG0466	Lon protease
+LLEJNKGF_00338	CDS	279	hupB		COG0776	DNA-binding protein HU-beta
+LLEJNKGF_00339	CDS	1875	ppiD	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase D
+LLEJNKGF_00340	CDS	1614	oppA		COG4166	Periplasmic oligopeptide-binding protein
+LLEJNKGF_00341	CDS	924	oppB		COG0601	Oligopeptide transport system permease protein OppB
+LLEJNKGF_00342	CDS	855	oppC		COG1173	Oligopeptide transport system permease protein OppC
+LLEJNKGF_00343	CDS	1425	mltD	4.2.2.-	COG0741	Membrane-bound lytic murein transglycosylase D
+LLEJNKGF_00344	CDS	768	gloB	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase
+LLEJNKGF_00345	CDS	432	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+LLEJNKGF_00346	CDS	717	dnaQ	2.7.7.7	COG0847	DNA polymerase III subunit epsilon
+LLEJNKGF_00347	CDS	1389	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+LLEJNKGF_00348	CDS	930	benM			HTH-type transcriptional regulator BenM
+LLEJNKGF_00349	CDS	2991	btuB_1			Vitamin B12 transporter BtuB
+LLEJNKGF_00350	CDS	1500	sdcS_1		COG0471	Sodium-dependent dicarboxylate transporter SdcS
+LLEJNKGF_00351	CDS	228				hypothetical protein
+LLEJNKGF_00352	CDS	660	ctaE	1.9.3.1	COG1845	Cytochrome c oxidase subunit 3
+LLEJNKGF_00353	CDS	216				hypothetical protein
+LLEJNKGF_00354	CDS	693				hypothetical protein
+LLEJNKGF_00355	CDS	549				hypothetical protein
+LLEJNKGF_00356	CDS	975	ctaA	1.3.-.-		Heme A synthase
+LLEJNKGF_00357	CDS	861	ctaB	2.5.1.-	COG0109	Protoheme IX farnesyltransferase
+LLEJNKGF_00358	CDS	639				hypothetical protein
+LLEJNKGF_00359	CDS	1008	qorA	1.6.5.5	COG0604	Quinone oxidoreductase 1
+LLEJNKGF_00360	CDS	1512	gshA	6.3.2.2	COG2918	Glutamate--cysteine ligase
+LLEJNKGF_00361	CDS	1539	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+LLEJNKGF_00362	CDS	576	dsbB			Disulfide bond formation protein B
+LLEJNKGF_00363	CDS	2703	polA	2.7.7.7	COG0258	DNA polymerase I
+LLEJNKGF_00364	CDS	1101				hypothetical protein
+LLEJNKGF_00365	CDS	516				hypothetical protein
+LLEJNKGF_00366	CDS	579	engB		COG0218	putative GTP-binding protein EngB
+LLEJNKGF_00367	CDS	645	cc4		COG2863	Cytochrome c4
+LLEJNKGF_00368	CDS	630	dsbA		COG0526	Thiol:disulfide interchange protein DsbA
+LLEJNKGF_00369	CDS	411			COG3245	Cytochrome c5
+LLEJNKGF_00370	CDS	231				hypothetical protein
+LLEJNKGF_00371	CDS	708	yigB	3.1.3.104	COG1011	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB
+LLEJNKGF_00372	CDS	912	xerC_1		COG4973	Tyrosine recombinase XerC
+LLEJNKGF_00373	CDS	639				hypothetical protein
+LLEJNKGF_00374	CDS	780	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+LLEJNKGF_00375	CDS	1242	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+LLEJNKGF_00376	CDS	1395	ahcY	3.3.1.1		Adenosylhomocysteinase
+LLEJNKGF_00377	CDS	1176	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+LLEJNKGF_00378	CDS	1995	tktA	2.2.1.1	COG0021	Transketolase 1
+LLEJNKGF_00379	CDS	1140	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+LLEJNKGF_00380	CDS	1020	fda	4.1.2.13	COG3588	Fructose-bisphosphate aldolase class 1
+LLEJNKGF_00381	CDS	588	yvdD		COG1611	LOG family protein YvdD
+LLEJNKGF_00382	CDS	702	tatC		COG0805	Sec-independent protein translocase protein TatC
+LLEJNKGF_00383	CDS	249	tatB		COG1826	Sec-independent protein translocase protein TatB
+LLEJNKGF_00384	CDS	156	tatA		COG1826	Sec-independent protein translocase protein TatA
+LLEJNKGF_00385	CDS	1485	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+LLEJNKGF_00386	CDS	510				hypothetical protein
+LLEJNKGF_00387	CDS	741	ubiE	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+LLEJNKGF_00388	CDS	894	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+LLEJNKGF_00389	CDS	552	orn	3.1.-.-	COG1949	Oligoribonuclease
+LLEJNKGF_00390	CDS	315				hypothetical protein
+LLEJNKGF_00391	CDS	1290	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+LLEJNKGF_00392	CDS	987	ybeZ		COG1702	PhoH-like protein
+LLEJNKGF_00393	CDS	450	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+LLEJNKGF_00394	CDS	855	corC		COG4535	Magnesium and cobalt efflux protein CorC
+LLEJNKGF_00395	CDS	1470	lnt	2.3.1.-	COG0815	Apolipoprotein N-acyltransferase
+LLEJNKGF_00396	CDS	537	ykuD	2.-.-.-	COG1376	Putative L,D-transpeptidase YkuD
+LLEJNKGF_00397	CDS	2157	fadB_2		COG1024	Fatty acid oxidation complex subunit alpha
+LLEJNKGF_00398	CDS	138				hypothetical protein
+LLEJNKGF_00399	CDS	522	gpx1_1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+LLEJNKGF_00400	CDS	639	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+LLEJNKGF_00401	CDS	1551	ilvA	4.3.1.19	COG1171	L-threonine dehydratase biosynthetic IlvA
+LLEJNKGF_00402	CDS	2277				hypothetical protein
+LLEJNKGF_00403	CDS	564		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+LLEJNKGF_00404	CDS	255				hypothetical protein
+LLEJNKGF_00405	CDS	195				hypothetical protein
+LLEJNKGF_00406	CDS	1296	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+LLEJNKGF_00407	CDS	1140	ubiI	1.14.13.-	COG0654	2-octaprenylphenol hydroxylase
+LLEJNKGF_00408	CDS	237	rpmB		COG0227	50S ribosomal protein L28
+LLEJNKGF_00409	CDS	486		3.1.3.-	COG2062	putative protein
+LLEJNKGF_00410	CDS	456	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+LLEJNKGF_00411	CDS	246	rpmE2		COG0254	50S ribosomal protein L31 type B
+LLEJNKGF_00412	CDS	1980	priA	3.6.4.-	COG1198	Primosomal protein N'
+LLEJNKGF_00413	CDS	1248	amiA	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase AmiA
+LLEJNKGF_00414	CDS	456	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+LLEJNKGF_00415	CDS	843	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+LLEJNKGF_00416	CDS	1371				hypothetical protein
+LLEJNKGF_00417	CDS	897	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+LLEJNKGF_00418	CDS	792				hypothetical protein
+LLEJNKGF_00419	CDS	816	gloC_1	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+LLEJNKGF_00420	CDS	327				hypothetical protein
+LLEJNKGF_00421	CDS	1935	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+LLEJNKGF_00422	CDS	666	dgk	2.7.1.113	COG1428	Deoxyguanosine kinase
+LLEJNKGF_00423	CDS	1227	pcnB	2.7.7.19	COG0617	Poly(A) polymerase I
+LLEJNKGF_00424	CDS	498	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+LLEJNKGF_00425	CDS	552	entA	1.3.1.28	COG1028	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase
+LLEJNKGF_00426	CDS	450				hypothetical protein
+LLEJNKGF_00427	CDS	942				hypothetical protein
+LLEJNKGF_00428	CDS	333	yybR		COG1733	putative HTH-type transcriptional regulator YybR
+LLEJNKGF_00429	CDS	1137	tdh	1.1.1.103		L-threonine 3-dehydrogenase
+LLEJNKGF_00430	CDS	1317	lgoT			putative L-galactonate transporter
+LLEJNKGF_00431	CDS	753				hypothetical protein
+LLEJNKGF_00432	CDS	1302	adeP		COG2252	Adenine permease AdeP
+LLEJNKGF_00433	CDS	2436	cirA_1		COG4771	Colicin I receptor
+LLEJNKGF_00434	CDS	576	gpt	2.4.2.22		Xanthine phosphoribosyltransferase
+LLEJNKGF_00435	CDS	600				hypothetical protein
+LLEJNKGF_00436	CDS	378				hypothetical protein
+LLEJNKGF_00437	CDS	969	gpr	1.1.1.-	COG0667	L-glyceraldehyde 3-phosphate reductase
+LLEJNKGF_00438	CDS	393				hypothetical protein
+LLEJNKGF_00439	CDS	417				hypothetical protein
+LLEJNKGF_00440	CDS	999	arnA		COG0223	Bifunctional polymyxin resistance protein ArnA
+LLEJNKGF_00441	CDS	759				hypothetical protein
+LLEJNKGF_00442	CDS	1680	alkJ	1.1.99.-		Alcohol dehydrogenase [acceptor]
+LLEJNKGF_00443	CDS	339	pspE	2.8.1.1	COG0607	Thiosulfate sulfurtransferase PspE
+LLEJNKGF_00444	CDS	288				hypothetical protein
+LLEJNKGF_00445	CDS	924	cotR	3.1.1.-	COG3621	Putative sporulation hydrolase CotR
+LLEJNKGF_00446	CDS	246				hypothetical protein
+LLEJNKGF_00447	CDS	258				hypothetical protein
+LLEJNKGF_00448	CDS	306				hypothetical protein
+LLEJNKGF_00449	CDS	600	tolQ_1		COG0811	Protein TolQ
+LLEJNKGF_00450	CDS	672	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+LLEJNKGF_00451	CDS	1248	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+LLEJNKGF_00452	CDS	1434	calB	1.2.1.68		Coniferyl aldehyde dehydrogenase
+LLEJNKGF_00453	CDS	870	fadH	1.3.1.34	COG1028	putative 2,4-dienoyl-CoA reductase
+LLEJNKGF_00454	CDS	1020	hemH	4.99.1.1	COG0276	Ferrochelatase
+LLEJNKGF_00455	CDS	1182	tetA			Tetracycline resistance protein, class B
+LLEJNKGF_00456	CDS	993	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+LLEJNKGF_00457	CDS	291				hypothetical protein
+LLEJNKGF_00458	CDS	2223	glcB	2.3.3.9	COG2225	Malate synthase G
+LLEJNKGF_00459	CDS	1146	mhbM	1.14.13.24	COG0654	3-hydroxybenzoate 6-hydroxylase
+LLEJNKGF_00460	CDS	756				hypothetical protein
+LLEJNKGF_00461	CDS	756				hypothetical protein
+LLEJNKGF_00462	CDS	969				hypothetical protein
+LLEJNKGF_00463	tRNA	76				tRNA-Gly(gcc)
+LLEJNKGF_00464	CDS	504				hypothetical protein
+LLEJNKGF_00465	CDS	2403				hypothetical protein
+LLEJNKGF_00466	CDS	480				hypothetical protein
+LLEJNKGF_00467	CDS	270				hypothetical protein
+LLEJNKGF_00468	CDS	1113	acdA	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+LLEJNKGF_00469	CDS	1218		1.3.99.-		Acyl-CoA dehydrogenase FadE34
+LLEJNKGF_00470	CDS	798				hypothetical protein
+LLEJNKGF_00471	CDS	378				hypothetical protein
+LLEJNKGF_00472	CDS	609				hypothetical protein
+LLEJNKGF_00473	CDS	2154	ligA	6.5.1.2	COG0272	DNA ligase
+LLEJNKGF_00474	CDS	651	zipA			Cell division protein ZipA
+LLEJNKGF_00475	CDS	2988	smc		COG1196	Chromosome partition protein Smc
+LLEJNKGF_00476	CDS	783				hypothetical protein
+LLEJNKGF_00477	CDS	372	ccmH		COG3088	Cytochrome c-type biogenesis protein CcmH
+LLEJNKGF_00478	CDS	531	dsbE		COG0526	Thiol:disulfide interchange protein DsbE
+LLEJNKGF_00479	CDS	1893	ccmF		COG1138	Cytochrome c-type biogenesis protein CcmF
+LLEJNKGF_00480	CDS	402	ccmE		COG2332	Cytochrome c-type biogenesis protein CcmE
+LLEJNKGF_00481	CDS	159				hypothetical protein
+LLEJNKGF_00482	CDS	756	ccmC		COG0755	Heme exporter protein C
+LLEJNKGF_00483	CDS	657	ccmB		COG2386	Heme exporter protein B
+LLEJNKGF_00484	CDS	576	ccmA	3.6.3.41	COG4133	Cytochrome c biogenesis ATP-binding export protein CcmA
+LLEJNKGF_00485	CDS	1002	ydjH	2.7.1.-	COG0524	putative sugar kinase YdjH
+LLEJNKGF_00486	CDS	1287	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+LLEJNKGF_00487	CDS	390				hypothetical protein
+LLEJNKGF_00488	CDS	345	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+LLEJNKGF_00489	CDS	1095	anmK	2.7.1.170	COG2377	Anhydro-N-acetylmuramic acid kinase
+LLEJNKGF_00490	CDS	1266	mepM_2	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+LLEJNKGF_00491	CDS	3045	putA		COG0506	Bifunctional protein PutA
+LLEJNKGF_00492	CDS	1188	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+LLEJNKGF_00493	CDS	462	mip	5.2.1.8	COG0545	Peptidyl-prolyl cis-trans isomerase Mip
+LLEJNKGF_00494	CDS	2034	f1pep1	3.4.21.26		Prolyl endopeptidase
+LLEJNKGF_00495	CDS	675				hypothetical protein
+LLEJNKGF_00496	tRNA	78				tRNA-Ile(gat)
+LLEJNKGF_00497	CDS	1050	sphX_1		COG0226	Protein SphX
+LLEJNKGF_00498	CDS	1377	pstC1_1		COG0573	Phosphate transport system permease protein PstC 1
+LLEJNKGF_00499	CDS	1284	pstA_1		COG0581	Phosphate transport system permease protein PstA
+LLEJNKGF_00500	CDS	831	pstB_1	3.6.3.27		Phosphate import ATP-binding protein PstB
+LLEJNKGF_00501	CDS	687				hypothetical protein
+LLEJNKGF_00502	CDS	93				hypothetical protein
+LLEJNKGF_00503	CDS	1344	mepA_2			Multidrug export protein MepA
+LLEJNKGF_00504	CDS	546				hypothetical protein
+LLEJNKGF_00505	CDS	480	pdxB	1.1.1.290	COG0111	Erythronate-4-phosphate dehydrogenase
+LLEJNKGF_00506	CDS	423				hypothetical protein
+LLEJNKGF_00507	CDS	396	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+LLEJNKGF_00508	CDS	1560	murJ		COG0728	putative lipid II flippase MurJ
+LLEJNKGF_00509	CDS	948	ribF		COG0196	Riboflavin biosynthesis protein RibF
+LLEJNKGF_00510	CDS	2772	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+LLEJNKGF_00511	CDS	489	lspA_1	3.4.23.36	COG0597	Lipoprotein signal peptidase
+LLEJNKGF_00512	CDS	948	ispH_1	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+LLEJNKGF_00513	CDS	540	ampD_1	3.5.1.28	COG3023	1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD
+LLEJNKGF_00514	CDS	1260	ampG_1		COG0477	Protein AmpG
+LLEJNKGF_00515	CDS	339				hypothetical protein
+LLEJNKGF_00516	tmRNA	349	ssrA			transfer-messenger RNA, SsrA
+LLEJNKGF_00517	CDS	510				hypothetical protein
+LLEJNKGF_00518	CDS	264	rpsT		COG0268	30S ribosomal protein S20
+LLEJNKGF_00519	CDS	1023	cgtA	3.6.5.-	COG0536	GTPase Obg/CgtA
+LLEJNKGF_00520	CDS	258	rpmA		COG0211	50S ribosomal protein L27
+LLEJNKGF_00521	CDS	321	rplU		COG0261	50S ribosomal protein L21
+LLEJNKGF_00522	CDS	948	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+LLEJNKGF_00523	CDS	522	fabA	4.2.1.59	COG0764	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+LLEJNKGF_00524	CDS	1209	fabB	2.3.1.41		3-oxoacyl-[acyl-carrier-protein] synthase 1
+LLEJNKGF_00525	CDS	1080		1.-.-.-		NADH oxidase
+LLEJNKGF_00526	CDS	870	fadB_3	4.2.1.17	COG1024	putative enoyl-CoA hydratase
+LLEJNKGF_00527	CDS	444	ssb		COG0629	Single-stranded DNA-binding protein
+LLEJNKGF_00528	CDS	2826	uvrA		COG0178	UvrABC system protein A
+LLEJNKGF_00529	CDS	411	rplQ		COG0203	50S ribosomal protein L17
+LLEJNKGF_00530	CDS	966	rpoA	2.7.7.6		DNA-directed RNA polymerase subunit alpha
+LLEJNKGF_00531	CDS	624	rpsD		COG0522	30S ribosomal protein S4
+LLEJNKGF_00532	CDS	378	rpsK		COG0100	30S ribosomal protein S11
+LLEJNKGF_00533	CDS	357	rpsM		COG0099	30S ribosomal protein S13
+LLEJNKGF_00534	CDS	1296	secY		COG0201	Protein translocase subunit SecY
+LLEJNKGF_00535	CDS	450	rplO		COG0200	50S ribosomal protein L15
+LLEJNKGF_00536	CDS	186	rpmD		COG1841	50S ribosomal protein L30
+LLEJNKGF_00537	CDS	513	rpsE		COG0098	30S ribosomal protein S5
+LLEJNKGF_00538	CDS	348	rplR		COG0256	50S ribosomal protein L18
+LLEJNKGF_00539	CDS	546	rplF		COG0097	50S ribosomal protein L6
+LLEJNKGF_00540	CDS	396	rpsH		COG0096	30S ribosomal protein S8
+LLEJNKGF_00541	CDS	306	rpsN		COG0199	30S ribosomal protein S14
+LLEJNKGF_00542	CDS	540	rplE			50S ribosomal protein L5
+LLEJNKGF_00543	CDS	330	rplX		COG0198	50S ribosomal protein L24
+LLEJNKGF_00544	CDS	369	rplN		COG0093	50S ribosomal protein L14
+LLEJNKGF_00545	CDS	294	rpsQ		COG0186	30S ribosomal protein S17
+LLEJNKGF_00546	CDS	207	rpmC		COG0255	50S ribosomal protein L29
+LLEJNKGF_00547	CDS	411	rplP		COG0197	50S ribosomal protein L16
+LLEJNKGF_00548	CDS	657	rpsC		COG0092	30S ribosomal protein S3
+LLEJNKGF_00549	CDS	339	rplV		COG0091	50S ribosomal protein L22
+LLEJNKGF_00550	CDS	273	rpsS		COG0185	30S ribosomal protein S19
+LLEJNKGF_00551	CDS	828	rplB		COG0090	50S ribosomal protein L2
+LLEJNKGF_00552	CDS	297	rplW		COG0089	50S ribosomal protein L23
+LLEJNKGF_00553	CDS	615	rplD		COG0088	50S ribosomal protein L4
+LLEJNKGF_00554	CDS	636	rplC		COG0087	50S ribosomal protein L3
+LLEJNKGF_00555	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+LLEJNKGF_00556	CDS	2103	fusA		COG0480	Elongation factor G
+LLEJNKGF_00557	CDS	471	rpsG		COG0049	30S ribosomal protein S7
+LLEJNKGF_00558	CDS	372	rpsL		COG0048	30S ribosomal protein S12
+LLEJNKGF_00559	CDS	4182	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+LLEJNKGF_00560	CDS	4062	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+LLEJNKGF_00561	CDS	381	rplL			50S ribosomal protein L7/L12
+LLEJNKGF_00562	CDS	531	rplJ		COG0244	50S ribosomal protein L10
+LLEJNKGF_00563	CDS	693	rplA		COG0081	50S ribosomal protein L1
+LLEJNKGF_00564	CDS	429	rplK		COG0080	50S ribosomal protein L11
+LLEJNKGF_00565	CDS	528	nusG		COG0250	Transcription termination/antitermination protein NusG
+LLEJNKGF_00566	CDS	363	secE		COG0690	Protein translocase subunit SecE
+LLEJNKGF_00567	tRNA	76				tRNA-Trp(cca)
+LLEJNKGF_00568	CDS	1191	tuf1			Elongation factor Tu
+LLEJNKGF_00569	tRNA	75				tRNA-Thr(ggt)
+LLEJNKGF_00570	tRNA	84				tRNA-Tyr(gta)
+LLEJNKGF_00571	CDS	741	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+LLEJNKGF_00572	CDS	555	msrA_1	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+LLEJNKGF_00573	tRNA	77				tRNA-Thr(tgt)
+LLEJNKGF_00574	CDS	1275	ade	3.5.4.2		Adenine deaminase
+LLEJNKGF_00575	CDS	1395	pyrC	3.5.2.3	COG0044	Dihydroorotase
+LLEJNKGF_00576	CDS	225				hypothetical protein
+LLEJNKGF_00577	CDS	1056	adh	1.1.1.1		Alcohol dehydrogenase
+LLEJNKGF_00578	CDS	273				hypothetical protein
+LLEJNKGF_00579	CDS	2163			COG1629	putative TonB-dependent receptor
+LLEJNKGF_00580	CDS	411				hypothetical protein
+LLEJNKGF_00581	CDS	2592	cirA_2		COG4771	Colicin I receptor
+LLEJNKGF_00582	CDS	1482	rnr	3.1.13.1	COG0557	Ribonuclease R
+LLEJNKGF_00583	CDS	723	rlmB	2.1.1.185	COG0566	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+LLEJNKGF_00584	CDS	915	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+LLEJNKGF_00585	CDS	2721	secA		COG0653	Protein translocase subunit SecA
+LLEJNKGF_00586	CDS	165	yacG		COG3024	DNA gyrase inhibitor YacG
+LLEJNKGF_00587	CDS	594	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+LLEJNKGF_00588	rRNA	109				5S ribosomal RNA
+LLEJNKGF_00589	rRNA	1154				23S ribosomal RNA (partial)
+LLEJNKGF_00590	CDS	567				hypothetical protein
+LLEJNKGF_00591	CDS	1254				hypothetical protein
+LLEJNKGF_00592	CDS	633				hypothetical protein
+LLEJNKGF_00593	CDS	1653	groL		COG0459	60 kDa chaperonin
+LLEJNKGF_00594	CDS	291	groS		COG0234	10 kDa chaperonin
+LLEJNKGF_00595	CDS	348				hypothetical protein
+LLEJNKGF_00596	CDS	1233	ampG_2		COG0477	Protein AmpG
+LLEJNKGF_00597	CDS	540	ampD_2	3.5.1.28	COG3023	1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD
+LLEJNKGF_00598	CDS	948	ispH_2	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+LLEJNKGF_00599	CDS	489	lspA_2	3.4.23.36	COG0597	Lipoprotein signal peptidase
+LLEJNKGF_00600	CDS	534	fumC	4.2.1.2	COG0114	Fumarate hydratase class II
+LLEJNKGF_00601	CDS	339		4.2.1.96		Putative pterin-4-alpha-carbinolamine dehydratase
+LLEJNKGF_00602	CDS	228				hypothetical protein
+LLEJNKGF_00603	CDS	1467	guaB	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+LLEJNKGF_00604	CDS	624	gstB_1	2.5.1.18	COG0625	Glutathione S-transferase GstB
+LLEJNKGF_00605	CDS	1263	msrA_2	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+LLEJNKGF_00606	CDS	1158		1.13.12.-	COG2070	Putative monooxygenase
+LLEJNKGF_00607	CDS	486		4.1.3.17		Putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase
+LLEJNKGF_00608	CDS	894	yihG	2.3.-.-	COG0204	putative acyltransferase YihG
+LLEJNKGF_00609	CDS	327		1.3.99.-	COG1960	putative acyl-CoA dehydrogenase fadE25
+LLEJNKGF_00610	CDS	837				hypothetical protein
+LLEJNKGF_00611	tRNA	90				tRNA-Ser(gct)
+LLEJNKGF_00612	CDS	2316				hypothetical protein
+LLEJNKGF_00613	CDS	447		3.1.3.-	COG4502	Putative 5'(3')-deoxyribonucleotidase
+LLEJNKGF_00614	CDS	288				hypothetical protein
+LLEJNKGF_00615	CDS	417				hypothetical protein
+LLEJNKGF_00616	CDS	510				hypothetical protein
+LLEJNKGF_00617	CDS	1296	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+LLEJNKGF_00618	CDS	399				hypothetical protein
+LLEJNKGF_00619	CDS	990				hypothetical protein
+LLEJNKGF_00620	CDS	498				hypothetical protein
+LLEJNKGF_00621	CDS	2886	cirA_3		COG4771	Colicin I receptor
+LLEJNKGF_00622	CDS	1935	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+LLEJNKGF_00623	tRNA	75				tRNA-Arg(cct)
+LLEJNKGF_00624	CDS	495				hypothetical protein
+LLEJNKGF_00625	CDS	1392	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+LLEJNKGF_00626	CDS	612	yceF		COG0424	Maf-like protein YceF
+LLEJNKGF_00627	CDS	585	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+LLEJNKGF_00628	CDS	648	gloC_2	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+LLEJNKGF_00629	CDS	798	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+LLEJNKGF_00630	CDS	2466				hypothetical protein
+LLEJNKGF_00631	CDS	261	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+LLEJNKGF_00632	CDS	450				hypothetical protein
+LLEJNKGF_00633	CDS	1254	rocD2	2.6.1.13		Ornithine aminotransferase 2
+LLEJNKGF_00634	CDS	870				hypothetical protein
+LLEJNKGF_00635	CDS	420				hypothetical protein
+LLEJNKGF_00636	CDS	861		1.1.1.391	COG1028	3-beta-hydroxycholanate 3-dehydrogenase (NAD(+)) 2
+LLEJNKGF_00637	CDS	246				hypothetical protein
+LLEJNKGF_00638	CDS	618	ubiG_1	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase
+LLEJNKGF_00639	CDS	621		2.3.1.41		Phenolphthiocerol synthesis polyketide synthase type I Pks15/1
+LLEJNKGF_00640	CDS	891				hypothetical protein
+LLEJNKGF_00641	CDS	201				hypothetical protein
+LLEJNKGF_00642	CDS	156				hypothetical protein
+LLEJNKGF_00643	CDS	561				hypothetical protein
+LLEJNKGF_00644	CDS	393				hypothetical protein
+LLEJNKGF_00645	CDS	396				hypothetical protein
+LLEJNKGF_00646	CDS	219				hypothetical protein
+LLEJNKGF_00647	CDS	390				hypothetical protein
+LLEJNKGF_00648	tRNA	85				tRNA-Leu(tag)
+LLEJNKGF_00649	CDS	1005	argF'	2.1.3.9	COG0078	N-acetylornithine carbamoyltransferase
+LLEJNKGF_00650	CDS	1191	argG	6.3.4.5		Argininosuccinate synthase
+LLEJNKGF_00651	CDS	1308	argB	2.7.2.8		Acetylglutamate kinase
+LLEJNKGF_00652	CDS	942	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+LLEJNKGF_00653	CDS	1284	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+LLEJNKGF_00654	CDS	1275	sauU			putative sulfoacetate transporter SauU
+LLEJNKGF_00655	CDS	774	amn	3.2.2.4	COG0775	AMP nucleosidase
+LLEJNKGF_00656	CDS	510				hypothetical protein
+LLEJNKGF_00657	CDS	417				hypothetical protein
+LLEJNKGF_00658	CDS	297				hypothetical protein
+LLEJNKGF_00659	CDS	447		3.1.3.-	COG4502	Putative 5'(3')-deoxyribonucleotidase
+LLEJNKGF_00660	CDS	1302				hypothetical protein
+LLEJNKGF_00661	CDS	363				hypothetical protein
+LLEJNKGF_00662	CDS	1374	rhlE_1	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlE
+LLEJNKGF_00663	CDS	411				hypothetical protein
+LLEJNKGF_00664	CDS	393				hypothetical protein
+LLEJNKGF_00665	CDS	561				hypothetical protein
+LLEJNKGF_00666	CDS	156				hypothetical protein
+LLEJNKGF_00667	CDS	201				hypothetical protein
+LLEJNKGF_00668	CDS	891				hypothetical protein
+LLEJNKGF_00669	CDS	861	atpG		COG0224	ATP synthase gamma chain
+LLEJNKGF_00670	CDS	1545	atpA	3.6.3.14	COG0056	ATP synthase subunit alpha
+LLEJNKGF_00671	CDS	537	atpH		COG0712	ATP synthase subunit delta
+LLEJNKGF_00672	CDS	471	atpF		COG0711	ATP synthase subunit b
+LLEJNKGF_00673	CDS	222	atpE		COG0636	ATP synthase subunit c
+LLEJNKGF_00674	CDS	954	atpB		COG0356	ATP synthase subunit a
+LLEJNKGF_00675	CDS	318				hypothetical protein
+LLEJNKGF_00676	CDS	846	spo0C		COG1475	Chromosome-partitioning protein Spo0J
+LLEJNKGF_00677	CDS	762	soj	3.6.-.-	COG1192	Chromosome-partitioning ATPase Soj
+LLEJNKGF_00678	CDS	585	rsmG	2.1.1.170	COG0357	Ribosomal RNA small subunit methyltransferase G
+LLEJNKGF_00679	CDS	1845	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+LLEJNKGF_00680	CDS	1311	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+LLEJNKGF_00681	CDS	1539	yidC		COG0706	Membrane protein insertase YidC
+LLEJNKGF_00682	CDS	294	rnpA	3.1.26.5		Ribonuclease P protein component
+LLEJNKGF_00683	CDS	135	rpmH			50S ribosomal protein L34
+LLEJNKGF_00684	CDS	1296	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+LLEJNKGF_00685	CDS	1104	dnaN		COG0592	Beta sliding clamp
+LLEJNKGF_00686	CDS	1077	recF		COG1195	DNA replication and repair protein RecF
+LLEJNKGF_00687	CDS	1920	gyrB	5.99.1.3	COG0187	DNA gyrase subunit B
+LLEJNKGF_00688	CDS	1344	glyQS	6.1.1.14	COG0423	Glycine--tRNA ligase
+LLEJNKGF_00689	CDS	864	lpxM	2.3.1.243	COG1560	Lipid A biosynthesis myristoyltransferase
+LLEJNKGF_00690	CDS	1434	trkH		COG0168	Trk system potassium uptake protein TrkH
+LLEJNKGF_00691	CDS	1353	trkA		COG0569	Trk system potassium uptake protein TrkA
+LLEJNKGF_00692	CDS	918	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+LLEJNKGF_00693	CDS	498	def	3.5.1.88	COG0242	Peptide deformylase
+LLEJNKGF_00694	CDS	501	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+LLEJNKGF_00695	CDS	564	tsaC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+LLEJNKGF_00696	CDS	912	hemF	1.3.3.3	COG0408	Oxygen-dependent coproporphyrinogen-III oxidase
+LLEJNKGF_00697	CDS	813	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+LLEJNKGF_00698	CDS	201				hypothetical protein
+LLEJNKGF_00699	CDS	1470	btuB_2			Vitamin B12 transporter BtuB
+LLEJNKGF_00700	CDS	876				hypothetical protein
+LLEJNKGF_00701	CDS	885	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+LLEJNKGF_00702	CDS	726				hypothetical protein
+LLEJNKGF_00703	CDS	522				hypothetical protein
+LLEJNKGF_00704	CDS	921		1.13.12.16	COG2070	Nitronate monooxygenase
+LLEJNKGF_00705	CDS	909				hypothetical protein
+LLEJNKGF_00706	CDS	2091	ptrB	3.4.21.83	COG1770	Protease 2
+LLEJNKGF_00707	CDS	1476				hypothetical protein
+LLEJNKGF_00708	CDS	1461				hypothetical protein
+LLEJNKGF_00709	CDS	393				hypothetical protein
+LLEJNKGF_00710	CDS	2862				hypothetical protein
+LLEJNKGF_00711	CDS	294	dcsD	2.6.99.3		O-ureido-L-serine synthase
+LLEJNKGF_00712	CDS	1389	cnrA			Nickel and cobalt resistance protein CnrA
+LLEJNKGF_00713	CDS	225				hypothetical protein
+LLEJNKGF_00714	CDS	807	bamD		COG4105	Outer membrane protein assembly factor BamD
+LLEJNKGF_00715	CDS	933	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+LLEJNKGF_00716	CDS	1716	ilvI	2.2.1.6	COG0028	Acetolactate synthase isozyme 3 large subunit
+LLEJNKGF_00717	CDS	288	ilvH	2.2.1.6	COG0440	Acetolactate synthase isozyme 3 small subunit
+LLEJNKGF_00718	CDS	1044	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+LLEJNKGF_00719	CDS	744	suhB	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+LLEJNKGF_00720	CDS	1416	phrB_1	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+LLEJNKGF_00721	CDS	1425	ald_1	1.2.1.83		3-succinoylsemialdehyde-pyridine dehydrogenase
+LLEJNKGF_00722	CDS	309	novR	4.1.-.-		Decarboxylase NovR
+LLEJNKGF_00723	CDS	132				hypothetical protein
+LLEJNKGF_00724	CDS	957				hypothetical protein
+LLEJNKGF_00725	CDS	930	etfA		COG2025	Electron transfer flavoprotein subunit alpha
+LLEJNKGF_00726	CDS	753	etfB			Electron transfer flavoprotein subunit beta
+LLEJNKGF_00727	CDS	1617		1.5.5.1	COG0644	Electron transfer flavoprotein-ubiquinone oxidoreductase
+LLEJNKGF_00728	CDS	1773				hypothetical protein
+LLEJNKGF_00729	CDS	543				hypothetical protein
+LLEJNKGF_00730	CDS	612	rhtC		COG1280	Threonine efflux protein
+LLEJNKGF_00731	CDS	996	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+LLEJNKGF_00732	CDS	726	kdsB	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+LLEJNKGF_00733	CDS	1626	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+LLEJNKGF_00734	CDS	735				hypothetical protein
+LLEJNKGF_00735	CDS	249				hypothetical protein
+LLEJNKGF_00736	CDS	177				hypothetical protein
+LLEJNKGF_00737	CDS	987				hypothetical protein
+LLEJNKGF_00738	CDS	882				hypothetical protein
+LLEJNKGF_00739	CDS	129				hypothetical protein
+LLEJNKGF_00740	CDS	414				hypothetical protein
+LLEJNKGF_00741	CDS	969				hypothetical protein
+LLEJNKGF_00742	CDS	183				hypothetical protein
+LLEJNKGF_00743	CDS	936	gltT			Proton/sodium-glutamate symport protein
+LLEJNKGF_00744	CDS	501				hypothetical protein
+LLEJNKGF_00745	CDS	786				hypothetical protein
+LLEJNKGF_00746	CDS	819				hypothetical protein
+LLEJNKGF_00747	CDS	309				hypothetical protein
+LLEJNKGF_00748	CDS	330				hypothetical protein
+LLEJNKGF_00749	CDS	1227	nylB'	3.5.1.46		6-aminohexanoate-dimer hydrolase
+LLEJNKGF_00750	CDS	399				hypothetical protein
+LLEJNKGF_00751	CDS	633				hypothetical protein
+LLEJNKGF_00752	CDS	390				hypothetical protein
+LLEJNKGF_00753	CDS	1209	uctC_1	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+LLEJNKGF_00754	CDS	1305	recD2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+LLEJNKGF_00755	CDS	441				hypothetical protein
+LLEJNKGF_00756	CDS	1287		1.14.13.-	COG2072	Baeyer-Villiger monooxygenase
+LLEJNKGF_00757	CDS	849				hypothetical protein
+LLEJNKGF_00758	CDS	1338				hypothetical protein
+LLEJNKGF_00759	CDS	987				hypothetical protein
+LLEJNKGF_00760	CDS	630				hypothetical protein
+LLEJNKGF_00761	CDS	540				hypothetical protein
+LLEJNKGF_00762	CDS	465	rutF	1.5.1.42	COG1853	FMN reductase (NADH) RutF
+LLEJNKGF_00763	CDS	552	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+LLEJNKGF_00764	CDS	1155	xerC_2			Tyrosine recombinase XerC
+LLEJNKGF_00765	tRNA	76				tRNA-Thr(tgt)
+LLEJNKGF_00766	CDS	1188				hypothetical protein
+LLEJNKGF_00767	CDS	915	secF		COG0341	Protein translocase subunit SecF
+LLEJNKGF_00768	CDS	1860	secD		COG0342	Protein translocase subunit SecD
+LLEJNKGF_00769	CDS	354	yajC		COG1862	Sec translocon accessory complex subunit YajC
+LLEJNKGF_00770	CDS	933	tgt	2.4.2.29	COG0343	Queuine tRNA-ribosyltransferase
+LLEJNKGF_00771	CDS	1164				hypothetical protein
+LLEJNKGF_00772	CDS	792				hypothetical protein
+LLEJNKGF_00773	CDS	951				hypothetical protein
+LLEJNKGF_00774	CDS	1203	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+LLEJNKGF_00775	CDS	816	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+LLEJNKGF_00776	CDS	873	panC	6.3.2.1	COG0414	Pantothenate synthetase
+LLEJNKGF_00777	CDS	390	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+LLEJNKGF_00778	CDS	1230	rhlE_2	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlE
+LLEJNKGF_00779	CDS	1242			COG2081	putative protein
+LLEJNKGF_00780	CDS	1869	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+LLEJNKGF_00781	tRNA	77				tRNA-Arg(acg)
+LLEJNKGF_00782	CDS	765	ybhF		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+LLEJNKGF_00783	CDS	1089	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+LLEJNKGF_00784	CDS	171				hypothetical protein
+LLEJNKGF_00785	CDS	1023				hypothetical protein
+LLEJNKGF_00786	CDS	471				hypothetical protein
+LLEJNKGF_00787	CDS	897	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+LLEJNKGF_00788	CDS	714				hypothetical protein
+LLEJNKGF_00789	CDS	1278	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+LLEJNKGF_00790	CDS	321	trxA		COG0526	Thioredoxin 1
+LLEJNKGF_00791	CDS	309	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+LLEJNKGF_00792	CDS	762	fbiB	6.3.2.31	COG0778	Coenzyme F420:L-glutamate ligase
+LLEJNKGF_00793	CDS	765	pdxJ	2.6.99.2		Pyridoxine 5'-phosphate synthase
+LLEJNKGF_00794	CDS	315	grxD		COG0278	Glutaredoxin 4
+LLEJNKGF_00795	CDS	591	rnt	3.1.13.-	COG0847	Ribonuclease T
+LLEJNKGF_00796	CDS	678	rsxB		COG2878	Electron transport complex subunit RsxB
+LLEJNKGF_00797	CDS	1050		1.18.1.2	COG0492	Ferredoxin--NADP reductase
+LLEJNKGF_00798	CDS	1959	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+LLEJNKGF_00799	CDS	699	apbC		COG0489	Iron-sulfur cluster carrier protein
+LLEJNKGF_00800	CDS	696	mlaA		COG2853	putative phospholipid-binding lipoprotein MlaA
+LLEJNKGF_00801	CDS	972	dusA	1.3.1.-	COG0042	tRNA-dihydrouridine(20/20a) synthase
+LLEJNKGF_00802	CDS	1509	nhaB		COG3067	Na(+)/H(+) antiporter NhaB
+LLEJNKGF_00803	CDS	819	nudC_2	3.6.1.22	COG2816	NADH pyrophosphatase
+LLEJNKGF_00804	CDS	2142	rne	3.1.26.12	COG1530	Ribonuclease E
+LLEJNKGF_00805	CDS	873	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+LLEJNKGF_00806	CDS	210	rpmF		COG0333	50S ribosomal protein L32
+LLEJNKGF_00807	CDS	915	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+LLEJNKGF_00808	CDS	717	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LLEJNKGF_00809	CDS	231	acpP			Acyl carrier protein
+LLEJNKGF_00810	CDS	1227	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+LLEJNKGF_00811	CDS	960	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+LLEJNKGF_00812	CDS	594	tmk	2.7.4.9	COG0125	Thymidylate kinase
+LLEJNKGF_00813	CDS	984	dnaX_2	2.7.7.7	COG2812	DNA polymerase III subunit tau
+LLEJNKGF_00814	CDS	768	idnO	1.1.1.69		5-keto-D-gluconate 5-reductase
+LLEJNKGF_00815	CDS	228	grxC		COG0695	Glutaredoxin 3
+LLEJNKGF_00816	CDS	1641	alsT		COG1115	Amino-acid carrier protein AlsT
+LLEJNKGF_00817	CDS	1332	glcA	3.2.1.39		Glucan endo-1,3-beta-glucosidase A1
+LLEJNKGF_00818	CDS	603	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+LLEJNKGF_00819	CDS	771	hisF	4.1.3.-	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+LLEJNKGF_00820	CDS	720	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+LLEJNKGF_00821	CDS	573	hisH	2.4.2.-	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+LLEJNKGF_00822	CDS	1866	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+LLEJNKGF_00823	CDS	867	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+LLEJNKGF_00824	CDS	270	trpR			Trp operon repressor
+LLEJNKGF_00825	CDS	1014	trmA	2.1.1.-	COG2265	tRNA/tmRNA (uracil-C(5))-methyltransferase
+LLEJNKGF_00826	CDS	165				hypothetical protein
+LLEJNKGF_00827	CDS	594	nfuA		COG0316	Fe/S biogenesis protein NfuA
+LLEJNKGF_00828	CDS	837				hypothetical protein
+LLEJNKGF_00829	CDS	3312	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+LLEJNKGF_00830	CDS	1173		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+LLEJNKGF_00831	CDS	1095	acrC_2	1.3.1.95		Acryloyl-CoA reductase (NADH)
+LLEJNKGF_00832	CDS	1503	gap2	1.2.1.-		Glyceraldehyde-3-phosphate dehydrogenase-like protein
+LLEJNKGF_00833	CDS	1308	nqrA	1.6.5.8	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+LLEJNKGF_00834	CDS	1227	nqrB	1.6.5.8	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+LLEJNKGF_00835	CDS	774	nqrC	1.6.5.8	COG2869	Na(+)-translocating NADH-quinone reductase subunit C
+LLEJNKGF_00836	CDS	687	nqrD	1.6.5.8	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+LLEJNKGF_00837	CDS	612	nqrE	1.6.5.8	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+LLEJNKGF_00838	CDS	1227	nqrF	1.6.5.8	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+LLEJNKGF_00839	CDS	1014	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+LLEJNKGF_00840	CDS	1575		4.1.3.1	COG2224	Isocitrate lyase
+LLEJNKGF_00841	CDS	1362	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+LLEJNKGF_00842	CDS	1098	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+LLEJNKGF_00843	CDS	1254	icd	1.1.1.42		Isocitrate dehydrogenase [NADP]
+LLEJNKGF_00844	CDS	336	clpS		COG2127	ATP-dependent Clp protease adapter protein ClpS
+LLEJNKGF_00845	CDS	2241	clpA		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpA
+LLEJNKGF_00846	CDS	219	infA		COG0361	Translation initiation factor IF-1
+LLEJNKGF_00847	CDS	456				hypothetical protein
+LLEJNKGF_00848	CDS	345				hypothetical protein
+LLEJNKGF_00849	CDS	150				hypothetical protein
+LLEJNKGF_00850	CDS	474				hypothetical protein
+LLEJNKGF_00851	CDS	1497				hypothetical protein
+LLEJNKGF_00852	CDS	2097				hypothetical protein
+LLEJNKGF_00853	CDS	228				hypothetical protein
+LLEJNKGF_00854	CDS	381				hypothetical protein
+LLEJNKGF_00855	CDS	873	garR_2	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+LLEJNKGF_00856	CDS	273	pntA_1	1.6.1.2	COG3288	NAD(P) transhydrogenase subunit alpha
+LLEJNKGF_00857	CDS	1119	pntAA_1	1.6.1.2	COG3288	NAD(P) transhydrogenase subunit alpha part 1
+LLEJNKGF_00858	CDS	696	ubiG_2	2.1.1.222	COG2227	Ubiquinone biosynthesis O-methyltransferase
+LLEJNKGF_00859	CDS	669	mupP	3.1.3.-	COG0546	N-acetylmuramic acid 6-phosphate phosphatase
+LLEJNKGF_00860	CDS	726	yciK	1.-.-.-	COG1028	putative oxidoreductase YciK
+LLEJNKGF_00861	CDS	597				hypothetical protein
+LLEJNKGF_00862	CDS	732	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+LLEJNKGF_00863	CDS	204	scpB		COG1386	Segregation and condensation protein B 
+LLEJNKGF_00864	CDS	741				hypothetical protein
+LLEJNKGF_00865	CDS	1326	exbB_2		COG0811	Biopolymer transport protein ExbB
+LLEJNKGF_00866	CDS	513				hypothetical protein
+LLEJNKGF_00867	CDS	405				hypothetical protein
+LLEJNKGF_00868	CDS	627	tonB		COG0810	Protein TonB
+LLEJNKGF_00869	CDS	1212				hypothetical protein
+LLEJNKGF_00870	CDS	678	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+LLEJNKGF_00871	CDS	1224	macA		COG0845	Macrolide export protein MacA
+LLEJNKGF_00872	CDS	1257	macB	3.6.3.-	COG0577	Macrolide export ATP-binding/permease protein MacB
+LLEJNKGF_00873	CDS	1101	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+LLEJNKGF_00874	CDS	984	tuaC	2.4.-.-	COG0438	Putative teichuronic acid biosynthesis glycosyltransferase TuaC
+LLEJNKGF_00875	CDS	957				hypothetical protein
+LLEJNKGF_00876	CDS	768	lpxH_2	3.6.1.54		UDP-2,3-diacylglucosamine hydrolase
+LLEJNKGF_00877	CDS	186				hypothetical protein
+LLEJNKGF_00878	CDS	303	bolA		COG0271	DNA-binding transcriptional regulator BolA
+LLEJNKGF_00879	CDS	2421				hypothetical protein
+LLEJNKGF_00880	CDS	1104	uctC_2	2.8.3.19		Acetyl-CoA:oxalate CoA-transferase
+LLEJNKGF_00881	CDS	822	tatD	3.1.11.-	COG0084	3'-5' ssDNA/RNA exonuclease TatD
+LLEJNKGF_00882	CDS	846				hypothetical protein
+LLEJNKGF_00883	CDS	855				hypothetical protein
+LLEJNKGF_00884	CDS	1176				hypothetical protein
+LLEJNKGF_00885	CDS	1341				hypothetical protein
+LLEJNKGF_00886	CDS	921	yadG		COG1131	putative ABC transporter ATP-binding protein YadG
+LLEJNKGF_00887	CDS	780	yadH		COG0842	Inner membrane transport permease YadH
+LLEJNKGF_00888	CDS	723	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+LLEJNKGF_00889	CDS	471				hypothetical protein
+LLEJNKGF_00890	tRNA	90				tRNA-Ser(gga)
+LLEJNKGF_00891	CDS	315				hypothetical protein
+LLEJNKGF_00892	CDS	594				hypothetical protein
+LLEJNKGF_00893	CDS	726	trmJ	2.1.1.200	COG0565	tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ
+LLEJNKGF_00894	tRNA	76				tRNA-Glu(ttc)
+LLEJNKGF_00895	CDS	2865				hypothetical protein
+LLEJNKGF_00896	CDS	510				hypothetical protein
+LLEJNKGF_00897	CDS	1788	mnmC		COG0665	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+LLEJNKGF_00898	CDS	1704	yjcS	3.1.6.-	COG2015	Putative alkyl/aryl-sulfatase YjcS
+LLEJNKGF_00899	CDS	2061	dapb3	3.4.14.-		Dipeptidyl aminopeptidase BIII
+LLEJNKGF_00900	CDS	1158	mmgC_1	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+LLEJNKGF_00901	CDS	234				hypothetical protein
+LLEJNKGF_00902	CDS	582	tdk	2.7.1.21		Thymidine kinase
+LLEJNKGF_00903	CDS	1014	curA	1.3.1.-	COG2130	NADPH-dependent curcumin reductase
+LLEJNKGF_00904	CDS	783	yddE	5.1.-.-	COG0384	putative isomerase YddE
+LLEJNKGF_00905	CDS	1089	ald_2	1.4.1.1	COG0686	Alanine dehydrogenase
+LLEJNKGF_00906	CDS	1368	rimK	6.3.2.-	COG0189	Ribosomal protein S6--L-glutamate ligase
+LLEJNKGF_00907	tRNA	76				tRNA-Ala(ggc)
+LLEJNKGF_00908	CDS	972			COG2220	putative protein
+LLEJNKGF_00909	CDS	2808	btuB_3		COG4206	Vitamin B12 transporter BtuB
+LLEJNKGF_00910	CDS	792	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+LLEJNKGF_00911	CDS	624	ycgJ_1	2.1.1.-		putative methyltransferase YcgJ
+LLEJNKGF_00912	CDS	1449				hypothetical protein
+LLEJNKGF_00913	CDS	2307	aspA	3.4.21.-		Microbial serine proteinase
+LLEJNKGF_00914	CDS	519				hypothetical protein
+LLEJNKGF_00915	CDS	735	outO			Type 4 prepilin-like proteins leader peptide-processing enzyme
+LLEJNKGF_00916	CDS	360	ggt	3.4.19.13	COG0405	Glutathione hydrolase proenzyme
+LLEJNKGF_00917	CDS	648				hypothetical protein
+LLEJNKGF_00918	CDS	1290	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+LLEJNKGF_00919	CDS	1308				hypothetical protein
+LLEJNKGF_00920	CDS	732	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+LLEJNKGF_00921	CDS	1380	norM		COG0534	Multidrug resistance protein NorM
+LLEJNKGF_00922	CDS	873	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+LLEJNKGF_00923	CDS	1161	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+LLEJNKGF_00924	CDS	1425	lpd	1.8.1.4		Dihydrolipoyl dehydrogenase
+LLEJNKGF_00925	CDS	1188	sucB	2.3.1.61	COG0508	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+LLEJNKGF_00926	CDS	2793	sucA	1.2.4.2	COG0567	2-oxoglutarate dehydrogenase E1 component
+LLEJNKGF_00927	CDS	735	sdhB	1.3.5.1	COG0479	Succinate dehydrogenase iron-sulfur subunit
+LLEJNKGF_00928	CDS	1785	sdhA	1.3.5.1		Succinate dehydrogenase flavoprotein subunit
+LLEJNKGF_00929	CDS	363				hypothetical protein
+LLEJNKGF_00930	CDS	381	sdhC		COG2009	Succinate dehydrogenase cytochrome b556 subunit
+LLEJNKGF_00931	CDS	1386	der		COG1160	GTPase Der
+LLEJNKGF_00932	CDS	1149	bamB		COG1520	Outer membrane protein assembly factor BamB
+LLEJNKGF_00933	CDS	642				hypothetical protein
+LLEJNKGF_00934	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+LLEJNKGF_00935	CDS	1095	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+LLEJNKGF_00936	CDS	876	rodZ			Cytoskeleton protein RodZ
+LLEJNKGF_00937	CDS	1080	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+LLEJNKGF_00938	CDS	426	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+LLEJNKGF_00939	CDS	204	iscX		COG2975	Protein IscX
+LLEJNKGF_00940	CDS	339	fdx		COG0633	2Fe-2S ferredoxin
+LLEJNKGF_00941	CDS	342	iscA		COG0316	Iron-binding protein IscA
+LLEJNKGF_00942	CDS	405	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+LLEJNKGF_00943	CDS	1224	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+LLEJNKGF_00944	CDS	435	iscR		COG1959	HTH-type transcriptional regulator IscR
+LLEJNKGF_00945	CDS	723	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+LLEJNKGF_00946	CDS	978	bamC			Outer membrane protein assembly factor BamC
+LLEJNKGF_00947	CDS	888	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+LLEJNKGF_00948	CDS	471	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+LLEJNKGF_00949	CDS	1056			COG0628	Putative transport protein
+LLEJNKGF_00950	CDS	1455	bepA	3.4.-.-	COG4783	Beta-barrel assembly-enhancing protease
+LLEJNKGF_00951	CDS	1251				hypothetical protein
+LLEJNKGF_00952	tRNA	76				tRNA-Lys(ttt)
+LLEJNKGF_00953	CDS	651	cpoB		COG1729	Cell division coordinator CpoB
+LLEJNKGF_00954	CDS	495	pal		COG2885	Peptidoglycan-associated lipoprotein
+LLEJNKGF_00955	CDS	1275	tolB		COG0823	Protein TolB
+LLEJNKGF_00956	CDS	642	tolA			Protein TolA
+LLEJNKGF_00957	CDS	423	exbD		COG0848	Biopolymer transport protein ExbD
+LLEJNKGF_00958	CDS	675	tolQ_2		COG0811	Protein TolQ
+LLEJNKGF_00959	CDS	411	ybgC	3.1.2.-	COG0824	Acyl-CoA thioester hydrolase YbgC
+LLEJNKGF_00960	CDS	426				hypothetical protein
+LLEJNKGF_00961	CDS	738	pmpR		COG0217	Transcriptional regulatory protein PmpR
+LLEJNKGF_00962	CDS	1770	aspS	6.1.1.23	COG0173	Aspartate--tRNA(Asp/Asn) ligase
+LLEJNKGF_00963	CDS	279				hypothetical protein
+LLEJNKGF_00964	CDS	1275	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+LLEJNKGF_00965	CDS	282				hypothetical protein
+LLEJNKGF_00966	CDS	915	qmcA		COG0330	Protein QmcA
+LLEJNKGF_00967	CDS	1179	fadA_1	2.3.1.-	COG0183	Putative acyltransferase
+LLEJNKGF_00968	CDS	1020	recA		COG0468	Protein RecA
+LLEJNKGF_00969	CDS	324			COG1146	Ferredoxin 1
+LLEJNKGF_00970	CDS	741				hypothetical protein
+LLEJNKGF_00971	CDS	684	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+LLEJNKGF_00972	CDS	741	surE	3.1.3.5	COG0496	5'/3'-nucleotidase SurE
+LLEJNKGF_00973	CDS	1140	ispDF		COG0245	Bifunctional enzyme IspD/IspF
+LLEJNKGF_00974	CDS	300	ftsB			Cell division protein FtsB
+LLEJNKGF_00975	CDS	1275	eno	4.2.1.11		Enolase
+LLEJNKGF_00976	CDS	840	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+LLEJNKGF_00977	CDS	1632	pyrG	6.3.4.2	COG0504	CTP synthase
+LLEJNKGF_00978	CDS	1056	dadX	5.1.1.1	COG0787	Alanine racemase, catabolic
+LLEJNKGF_00979	CDS	1368	dnaB	3.6.4.12	COG0305	Replicative DNA helicase
+LLEJNKGF_00980	CDS	447	rplI		COG0359	50S ribosomal protein L9
+LLEJNKGF_00981	CDS	195	rpsR		COG0238	30S ribosomal protein S18
+LLEJNKGF_00982	CDS	396	rpsF		COG0360	30S ribosomal protein S6
+LLEJNKGF_00983	CDS	1224	ftsA		COG0849	Cell division protein FtsA
+LLEJNKGF_00984	CDS	618				hypothetical protein
+LLEJNKGF_00985	CDS	930	ddl	6.3.2.4	COG1181	D-alanine--D-alanine ligase
+LLEJNKGF_00986	CDS	1395	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+LLEJNKGF_00987	CDS	1038	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+LLEJNKGF_00988	CDS	1113	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+LLEJNKGF_00989	CDS	1029	murD	6.3.2.9	COG0771	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+LLEJNKGF_00990	CDS	1086	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+LLEJNKGF_00991	CDS	1335	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+LLEJNKGF_00992	CDS	1428	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+LLEJNKGF_00993	CDS	1608	pbpC	3.4.16.4	COG0768	putative peptidoglycan D,D-transpeptidase PbpC
+LLEJNKGF_00994	CDS	282				hypothetical protein
+LLEJNKGF_00995	CDS	894	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+LLEJNKGF_00996	CDS	1116	ftsZ		COG0206	Cell division protein FtsZ
+LLEJNKGF_00997	CDS	468	mraZ		COG2001	Transcriptional regulator MraZ
+LLEJNKGF_00998	CDS	816	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+LLEJNKGF_00999	CDS	1125				hypothetical protein
+LLEJNKGF_01000	CDS	612	sspA		COG0625	Stringent starvation protein A
+LLEJNKGF_01001	CDS	828	petC		COG2857	Ammonia monooxygenase gamma subunit
+LLEJNKGF_01002	CDS	1218	petB		COG1290	Cytochrome b
+LLEJNKGF_01003	CDS	585	petA	1.10.2.2	COG0723	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+LLEJNKGF_01004	CDS	393	rpsI		COG0103	30S ribosomal protein S9
+LLEJNKGF_01005	CDS	435	rplM		COG0102	50S ribosomal protein L13
+LLEJNKGF_01006	CDS	1062	zapE		COG1485	Cell division protein ZapE
+LLEJNKGF_01007	CDS	972	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+LLEJNKGF_01008	CDS	1257	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+LLEJNKGF_01009	CDS	219				hypothetical protein
+LLEJNKGF_01010	CDS	573				hypothetical protein
+LLEJNKGF_01011	CDS	966	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+LLEJNKGF_01012	CDS	402	lptA			Lipopolysaccharide export system protein LptA
+LLEJNKGF_01013	CDS	714	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+LLEJNKGF_01014	CDS	1275	rpoN		COG1508	RNA polymerase sigma-54 factor
+LLEJNKGF_01015	CDS	1341			COG2239	Magnesium transporter MgtE
+LLEJNKGF_01016	CDS	2394				hypothetical protein
+LLEJNKGF_01017	CDS	483				hypothetical protein
+LLEJNKGF_01018	CDS	834				hypothetical protein
+LLEJNKGF_01019	CDS	1050	mreB		COG1077	Rod shape-determining protein MreB
+LLEJNKGF_01020	CDS	282	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+LLEJNKGF_01021	CDS	1455	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+LLEJNKGF_01022	CDS	1428	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+LLEJNKGF_01023	CDS	462		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+LLEJNKGF_01024	CDS	1623	dmdB	6.2.1.44	COG0318	3-methylmercaptopropionyl-CoA ligase
+LLEJNKGF_01025	CDS	828	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+LLEJNKGF_01026	CDS	1086	prfA		COG0216	Peptide chain release factor RF1
+LLEJNKGF_01027	CDS	1233	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+LLEJNKGF_01028	CDS	471				hypothetical protein
+LLEJNKGF_01029	CDS	834	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+LLEJNKGF_01030	tRNA	75				tRNA-Gln(ttg)
+LLEJNKGF_01031	CDS	954	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+LLEJNKGF_01032	CDS	681	rplY			50S ribosomal protein L25
+LLEJNKGF_01033	CDS	567	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+LLEJNKGF_01034	CDS	1092	ychF		COG0012	Ribosome-binding ATPase YchF
+LLEJNKGF_01035	tRNA	77				tRNA-Met(cat)
+LLEJNKGF_01036	CDS	234				hypothetical protein
+LLEJNKGF_01037	CDS	216				hypothetical protein
+LLEJNKGF_01038	CDS	1875				hypothetical protein
+LLEJNKGF_01039	CDS	387				hypothetical protein
+LLEJNKGF_01040	CDS	906	porB			Major outer membrane protein P.IB
+LLEJNKGF_01041	CDS	222				hypothetical protein
+LLEJNKGF_01042	CDS	405				hypothetical protein
+LLEJNKGF_01043	CDS	1791				hypothetical protein
+LLEJNKGF_01044	CDS	894	ybbA		COG2819	putative protein YbbA
+LLEJNKGF_01045	CDS	468	smpB		COG0691	SsrA-binding protein
+LLEJNKGF_01046	CDS	465				hypothetical protein
+LLEJNKGF_01047	CDS	1350				hypothetical protein
+LLEJNKGF_01048	CDS	417	ratA		COG2867	Ribosome association toxin RatA
+LLEJNKGF_01049	CDS	279	rnfH			Protein RnfH
+LLEJNKGF_01050	CDS	339	bamE		COG2913	Outer membrane protein assembly factor BamE
+LLEJNKGF_01051	CDS	405	fur		COG0735	Ferric uptake regulation protein
+LLEJNKGF_01052	CDS	525	grpE			Protein GrpE
+LLEJNKGF_01053	CDS	1920	dnaK		COG0443	Chaperone protein DnaK
+LLEJNKGF_01054	CDS	1104	dnaJ		COG0484	Chaperone protein DnaJ
+LLEJNKGF_01055	CDS	660	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+LLEJNKGF_01056	CDS	891	rpsB		COG0052	30S ribosomal protein S2
+LLEJNKGF_01057	CDS	858	tsf		COG0264	Elongation factor Ts
+LLEJNKGF_01058	CDS	714	pyrH	2.7.4.22	COG0528	Uridylate kinase
+LLEJNKGF_01059	CDS	555	frr		COG0233	Ribosome-recycling factor
+LLEJNKGF_01060	CDS	729	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+LLEJNKGF_01061	CDS	819	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+LLEJNKGF_01062	CDS	1158	dxr	1.1.1.267		1-deoxy-D-xylulose 5-phosphate reductoisomerase
+LLEJNKGF_01063	CDS	1356	rseP	3.4.24.-	COG0750	Regulator of sigma-E protease RseP
+LLEJNKGF_01064	CDS	2424	bamA		COG4775	Outer membrane protein assembly factor BamA
+LLEJNKGF_01065	CDS	540				hypothetical protein
+LLEJNKGF_01066	CDS	939	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+LLEJNKGF_01067	CDS	441	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+LLEJNKGF_01068	CDS	780	lpxA	2.3.1.129		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+LLEJNKGF_01069	CDS	1116	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+LLEJNKGF_01070	CDS	546	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+LLEJNKGF_01071	CDS	3450	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+LLEJNKGF_01072	CDS	999	accA	6.4.1.2	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+LLEJNKGF_01073	CDS	957	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+LLEJNKGF_01074	CDS	774		4.2.1.150	COG1024	Crotonyl-CoA hydratase
+LLEJNKGF_01075	CDS	1659	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+LLEJNKGF_01076	CDS	435				hypothetical protein
+LLEJNKGF_01077	CDS	441	rimI	2.3.1.128	COG0456	Ribosomal-protein-alanine acetyltransferase
+LLEJNKGF_01078	CDS	483	gpx1_2	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+LLEJNKGF_01079	CDS	480	gpx1_3	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+LLEJNKGF_01080	CDS	465				hypothetical protein
+LLEJNKGF_01081	CDS	468				hypothetical protein
+LLEJNKGF_01082	CDS	2220	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+LLEJNKGF_01083	CDS	1515	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+LLEJNKGF_01084	CDS	1143	lptF		COG0795	Lipopolysaccharide export system permease protein LptF
+LLEJNKGF_01085	CDS	1065	lptG		COG0795	Lipopolysaccharide export system permease protein LptG
+LLEJNKGF_01086	CDS	411				hypothetical protein
+LLEJNKGF_01087	CDS	1485	dtpD		COG3104	Dipeptide permease D
+LLEJNKGF_01088	CDS	1119	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+LLEJNKGF_01089	CDS	915	dapD	2.3.1.117	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+LLEJNKGF_01090	CDS	2514	glnD		COG2844	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+LLEJNKGF_01091	CDS	771	map	3.4.11.18	COG0024	Methionine aminopeptidase
+LLEJNKGF_01092	CDS	1122	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+LLEJNKGF_01093	CDS	3210	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+LLEJNKGF_01094	CDS	477	greA		COG0782	Transcription elongation factor GreA
+LLEJNKGF_01095	CDS	573	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+LLEJNKGF_01096	CDS	1911	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+LLEJNKGF_01097	CDS	1323	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+LLEJNKGF_01098	CDS	744	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+LLEJNKGF_01099	CDS	312	secG		COG1314	Protein-export membrane protein SecG
+LLEJNKGF_01100	tRNA	87				tRNA-Leu(gag)
+LLEJNKGF_01101	tRNA	77				tRNA-Met(cat)
+LLEJNKGF_01102	CDS	483	rimP		COG0779	Ribosome maturation factor RimP
+LLEJNKGF_01103	CDS	1461	nusA		COG0195	Transcription termination/antitermination protein NusA
+LLEJNKGF_01104	CDS	2283	infB		COG0532	Translation initiation factor IF-2
+LLEJNKGF_01105	CDS	345	rbfA			Ribosome-binding factor A
+LLEJNKGF_01106	CDS	840	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+LLEJNKGF_01107	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+LLEJNKGF_01108	CDS	2154	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+LLEJNKGF_01109	CDS	225				hypothetical protein
+LLEJNKGF_01110	CDS	234				hypothetical protein
+LLEJNKGF_01111	tRNA	77				tRNA-Met(cat)
+LLEJNKGF_01112	CDS	1350	xylP_1			Isoprimeverose transporter
+LLEJNKGF_01113	CDS	912	rdmC_1	3.1.1.95		Aclacinomycin methylesterase RdmC
+LLEJNKGF_01114	CDS	219			COG4628	DNA-binding protein
+LLEJNKGF_01115	tRNA	85				tRNA-Leu(caa)
+LLEJNKGF_01116	CDS	1824				hypothetical protein
+LLEJNKGF_01117	CDS	1152	mmgC_2	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+LLEJNKGF_01118	CDS	279				hypothetical protein
+LLEJNKGF_01119	CDS	264				hypothetical protein
+LLEJNKGF_01120	CDS	165				hypothetical protein
+LLEJNKGF_01121	CDS	732	rsmJ	2.1.1.242		Ribosomal RNA small subunit methyltransferase J
+LLEJNKGF_01122	CDS	792	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+LLEJNKGF_01123	CDS	654	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+LLEJNKGF_01124	CDS	645	adk	2.7.4.3		Adenylate kinase
+LLEJNKGF_01125	CDS	378	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+LLEJNKGF_01126	CDS	693	recO		COG1381	DNA repair protein RecO
+LLEJNKGF_01127	CDS	906	era		COG1159	GTPase Era
+LLEJNKGF_01128	CDS	657	rnc	3.1.26.3	COG0571	Ribonuclease 3
+LLEJNKGF_01129	CDS	948	lepB	3.4.21.89	COG0681	Signal peptidase I
+LLEJNKGF_01130	CDS	1788	lepA	3.6.5.-	COG0481	Elongation factor 4
+LLEJNKGF_01131	CDS	1401	htrA			Putative serine protease HtrA
+LLEJNKGF_01132	CDS	675				hypothetical protein
+LLEJNKGF_01133	CDS	570	rpoE			ECF RNA polymerase sigma-E factor
+LLEJNKGF_01134	CDS	258	sdhE		COG2938	FAD assembly factor SdhE
+LLEJNKGF_01135	CDS	792	ygfZ			tRNA-modifying protein YgfZ
+LLEJNKGF_01136	CDS	681	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+LLEJNKGF_01137	CDS	1176		1.1.1.81	COG0111	Hydroxypyruvate reductase
+LLEJNKGF_01138	CDS	1452	glpK	2.7.1.30	COG0554	Glycerol kinase
+LLEJNKGF_01139	CDS	2877	nrdA	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase 1 subunit alpha
+LLEJNKGF_01140	CDS	1242	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+LLEJNKGF_01141	CDS	651				hypothetical protein
+LLEJNKGF_01142	CDS	612	gstB_2	2.5.1.18	COG0625	Glutathione S-transferase GST-6.0
+LLEJNKGF_01143	CDS	903		1.1.1.-	COG1028	Putative short-chain type dehydrogenase/reductase
+LLEJNKGF_01144	CDS	573				hypothetical protein
+LLEJNKGF_01145	CDS	999	mdh	1.1.1.37	COG0039	Malate dehydrogenase
+LLEJNKGF_01146	CDS	447				hypothetical protein
+LLEJNKGF_01147	CDS	381				hypothetical protein
+LLEJNKGF_01148	CDS	1434	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+LLEJNKGF_01149	CDS	1098	prfB		COG1186	Peptide chain release factor RF2
+LLEJNKGF_01150	CDS	1386	thrC	4.2.3.1	COG0498	Threonine synthase
+LLEJNKGF_01151	CDS	1266	hom	1.1.1.3	COG0460	Homoserine dehydrogenase
+LLEJNKGF_01152	CDS	1182	alaC	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaC
+LLEJNKGF_01153	CDS	705	dsbC		COG1651	Thiol:disulfide interchange protein DsbC
+LLEJNKGF_01154	CDS	891	xerD		COG4974	Tyrosine recombinase XerD
+LLEJNKGF_01155	CDS	504	rplS		COG0335	50S ribosomal protein L19
+LLEJNKGF_01156	CDS	732	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+LLEJNKGF_01157	CDS	531	rimM		COG0806	Ribosome maturation factor RimM
+LLEJNKGF_01158	CDS	1287	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+LLEJNKGF_01159	CDS	1542	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+LLEJNKGF_01160	CDS	267	fis		COG2901	DNA-binding protein Fis
+LLEJNKGF_01161	CDS	564				hypothetical protein
+LLEJNKGF_01162	CDS	735	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+LLEJNKGF_01163	CDS	918	gshB	6.3.2.3	COG0189	Glutathione synthetase
+LLEJNKGF_01164	CDS	627				hypothetical protein
+LLEJNKGF_01165	CDS	426	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+LLEJNKGF_01166	CDS	1761	dnaG	2.7.7.-	COG0358	DNA primase
+LLEJNKGF_01167	CDS	1815	rpoD		COG0568	RNA polymerase sigma factor RpoD
+LLEJNKGF_01168	CDS	639	yrbL			putative protein YrbL
+LLEJNKGF_01169	tRNA	77				tRNA-Met(cat)
+LLEJNKGF_01170	CDS	654	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+LLEJNKGF_01171	CDS	729	pcs	2.7.8.24	COG1183	Phosphatidylcholine synthase
+LLEJNKGF_01172	CDS	1224				hypothetical protein
+LLEJNKGF_01173	CDS	234				hypothetical protein
+LLEJNKGF_01174	CDS	1170				hypothetical protein
+LLEJNKGF_01175	CDS	1698	nfdA	3.5.1.91		N-substituted formamide deformylase
+LLEJNKGF_01176	CDS	585				hypothetical protein
+LLEJNKGF_01177	CDS	1305	hflX		COG2262	GTPase HflX
+LLEJNKGF_01178	CDS	420				hypothetical protein
+LLEJNKGF_01179	CDS	2187	fecA		COG4772	Fe(3+) dicitrate transport protein FecA
+LLEJNKGF_01180	CDS	522	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+LLEJNKGF_01181	tRNA	76				tRNA-Ala(tgc)
+LLEJNKGF_01182	CDS	864	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+LLEJNKGF_01183	CDS	774	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+LLEJNKGF_01184	CDS	975	mccA	2.5.1.134	COG0031	O-acetylserine dependent cystathionine beta-synthase
+LLEJNKGF_01185	CDS	1245				hypothetical protein
+LLEJNKGF_01186	CDS	822	coaW	2.7.1.33		Type II pantothenate kinase
+LLEJNKGF_01187	CDS	2382	pepN	3.4.11.2		Aminopeptidase N
+LLEJNKGF_01188	CDS	183				hypothetical protein
+LLEJNKGF_01189	CDS	747				hypothetical protein
+LLEJNKGF_01190	CDS	1044				hypothetical protein
+LLEJNKGF_01191	CDS	1227				hypothetical protein
+LLEJNKGF_01192	CDS	1107				hypothetical protein
+LLEJNKGF_01193	CDS	1770	cobT	6.6.1.2		Aerobic cobaltochelatase subunit CobT
+LLEJNKGF_01194	CDS	975	cobS	6.6.1.2		Aerobic cobaltochelatase subunit CobS
+LLEJNKGF_01195	CDS	879	tesB	3.1.2.-	COG1946	Acyl-CoA thioesterase 2
+LLEJNKGF_01196	CDS	1035	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+LLEJNKGF_01197	CDS	1662	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+LLEJNKGF_01198	CDS	4434	gltB	1.4.1.13	COG0067	Glutamate synthase [NADPH] large chain
+LLEJNKGF_01199	CDS	1077	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+LLEJNKGF_01200	CDS	510	aroK_2	2.7.1.71	COG0703	Shikimate kinase 1
+LLEJNKGF_01201	CDS	2442	mrcA		COG5009	Penicillin-binding protein 1A
+LLEJNKGF_01202	CDS	570	slmA		COG1309	Nucleoid occlusion factor SlmA
+LLEJNKGF_01203	CDS	1377	algC	5.4.2.2		Phosphomannomutase/phosphoglucomutase
+LLEJNKGF_01204	CDS	936	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+LLEJNKGF_01205	CDS	1269	mshA	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+LLEJNKGF_01206	CDS	711	ycgJ_2	2.1.1.-		putative methyltransferase YcgJ
+LLEJNKGF_01207	CDS	1056				hypothetical protein
+LLEJNKGF_01208	CDS	603				hypothetical protein
+LLEJNKGF_01209	CDS	873	lpxP	2.3.1.242	COG1560	Lipid A biosynthesis palmitoleoyltransferase
+LLEJNKGF_01210	CDS	1257	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+LLEJNKGF_01211	CDS	339	glnK_2		COG0347	Nitrogen regulatory protein P-II 2
+LLEJNKGF_01212	CDS	900	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+LLEJNKGF_01213	CDS	1071	hflK		COG0330	Modulator of FtsH protease HflK
+LLEJNKGF_01214	CDS	870	hflC		COG0330	Modulator of FtsH protease HflC
+LLEJNKGF_01215	CDS	1218	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+LLEJNKGF_01216	CDS	417				hypothetical protein
+LLEJNKGF_01217	CDS	462	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+LLEJNKGF_01218	CDS	1077	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+LLEJNKGF_01219	CDS	1110	ribD		COG0117	Riboflavin biosynthesis protein RibD
+LLEJNKGF_01220	CDS	468	nrdR		COG1327	Transcriptional repressor NrdR
+LLEJNKGF_01221	CDS	1320	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+LLEJNKGF_01222	CDS	654	pdg			Ultraviolet N-glycosylase/AP lyase
+LLEJNKGF_01223	CDS	321				hypothetical protein
+LLEJNKGF_01224	CDS	1188	fadA_2	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase
+LLEJNKGF_01225	CDS	879	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+LLEJNKGF_01226	CDS	489	pgpA	3.1.3.27	COG1267	Phosphatidylglycerophosphatase A
+LLEJNKGF_01227	CDS	1860	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+LLEJNKGF_01228	CDS	885		2.5.1.10		Farnesyl diphosphate synthase
+LLEJNKGF_01229	CDS	219	xseB	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+LLEJNKGF_01230	CDS	3114	mdtC			Multidrug resistance protein MdtC
+LLEJNKGF_01231	CDS	870	aaeA			p-hydroxybenzoic acid efflux pump subunit AaeA
+LLEJNKGF_01232	CDS	555				hypothetical protein
+LLEJNKGF_01233	CDS	792				hypothetical protein
+LLEJNKGF_01234	CDS	1050	aroG	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Phe-sensitive
+LLEJNKGF_01235	CDS	831	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+LLEJNKGF_01236	CDS	1086	pheA	4.2.1.51		Prephenate dehydratase
+LLEJNKGF_01237	CDS	1101	hisC	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase
+LLEJNKGF_01238	CDS	846	tyrC	1.3.1.43		Cyclohexadienyl dehydrogenase
+LLEJNKGF_01239	CDS	1317	aroA1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase 1
+LLEJNKGF_01240	CDS	207	apy	3.2.1.-	COG1472	Exo-alpha-(1->6)-L-arabinopyranosidase
+LLEJNKGF_01241	CDS	2004	iolU	1.1.1.371	COG0673	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+LLEJNKGF_01242	CDS	1350	xylP_2			Isoprimeverose transporter
+LLEJNKGF_01243	CDS	912	rdmC_2	3.1.1.95		Aclacinomycin methylesterase RdmC
+LLEJNKGF_01244	CDS	219			COG4628	DNA-binding protein
+LLEJNKGF_01245	CDS	1164				hypothetical protein
+LLEJNKGF_01246	CDS	792				hypothetical protein
+LLEJNKGF_01247	CDS	951				hypothetical protein
+LLEJNKGF_01248	CDS	1209	wecA	2.7.8.33	COG0472	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase
+LLEJNKGF_01249	CDS	435				hypothetical protein
+LLEJNKGF_01250	CDS	729				hypothetical protein
+LLEJNKGF_01251	CDS	1437	sdcS_2		COG0471	Sodium-dependent dicarboxylate transporter SdcS
+LLEJNKGF_01252	CDS	2127	btuB_4			Vitamin B12 transporter BtuB
+LLEJNKGF_01253	CDS	1050	sphX_2		COG0226	Protein SphX
+LLEJNKGF_01254	CDS	1377	pstC1_2		COG0573	Phosphate transport system permease protein PstC 1
+LLEJNKGF_01255	CDS	1284	pstA_2		COG0581	Phosphate transport system permease protein PstA
+LLEJNKGF_01256	CDS	831	pstB_2	3.6.3.27		Phosphate import ATP-binding protein PstB
+LLEJNKGF_01257	CDS	687				hypothetical protein
+LLEJNKGF_01258	CDS	660	betI			HTH-type transcriptional regulator BetI
+LLEJNKGF_01259	CDS	1167				hypothetical protein
+LLEJNKGF_01260	CDS	2274	wzc	2.7.10.-	COG0489	Tyrosine-protein kinase wzc
+LLEJNKGF_01261	CDS	93				hypothetical protein
+LLEJNKGF_01262	CDS	261				hypothetical protein
+LLEJNKGF_01263	CDS	1809		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD17
+LLEJNKGF_01264	CDS	1065	rnz	3.1.26.11	COG1234	Ribonuclease Z
+LLEJNKGF_01265	CDS	855	hchA	4.2.1.130		Molecular chaperone Hsp31 and glyoxalase 3
+LLEJNKGF_01266	CDS	927	cynR			HTH-type transcriptional regulator CynR
+LLEJNKGF_01267	CDS	1176		1.3.1.-	COG3268	Putative trans-acting enoyl reductase
+LLEJNKGF_01268	CDS	351	yfgD		COG1393	putative protein YfgD
+LLEJNKGF_01269	CDS	393		2.7.7.1		Nicotinamide-nucleotide adenylyltransferase
+LLEJNKGF_01270	CDS	411	cysC	2.7.1.25		Adenylyl-sulfate kinase
+LLEJNKGF_01271	CDS	1086				hypothetical protein
+LLEJNKGF_01272	CDS	1293		1.-.-.-		NADH oxidase
+LLEJNKGF_01273	CDS	531				hypothetical protein
+LLEJNKGF_01274	CDS	459	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+LLEJNKGF_01275	CDS	435		2.3.1.-		Acetyltransferase
+LLEJNKGF_01276	CDS	813	xthA	3.1.11.2	COG0708	Exodeoxyribonuclease III
+LLEJNKGF_01277	CDS	2043	prc	3.4.21.102	COG0793	Tail-specific protease
+LLEJNKGF_01278	CDS	1089	carC	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+LLEJNKGF_01279	CDS	1224		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+LLEJNKGF_01280	CDS	789	echA8	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+LLEJNKGF_01281	CDS	1782				hypothetical protein
+LLEJNKGF_01282	CDS	627				hypothetical protein
+LLEJNKGF_01283	CDS	1929	accA1		COG4770	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+LLEJNKGF_01284	CDS	174				hypothetical protein
+LLEJNKGF_01285	CDS	144				hypothetical protein
+LLEJNKGF_01286	CDS	978	dauP	3.1.1.-		Rhodomycin D methylesterase DauP
+LLEJNKGF_01287	CDS	1098				hypothetical protein
+LLEJNKGF_01288	CDS	570				hypothetical protein
+LLEJNKGF_01289	CDS	777	zupT		COG0428	Zinc transporter ZupT
+LLEJNKGF_01290	CDS	708	yfiH	1.10.3.-	COG1496	Polyphenol oxidase
+LLEJNKGF_01291	CDS	309	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+LLEJNKGF_01292	CDS	228				hypothetical protein
+LLEJNKGF_01293	CDS	141				hypothetical protein
+LLEJNKGF_01294	CDS	144				hypothetical protein
+LLEJNKGF_01295	CDS	216				hypothetical protein
+LLEJNKGF_01296	CDS	234				hypothetical protein
+LLEJNKGF_01297	CDS	168				hypothetical protein
+LLEJNKGF_01298	CDS	222				hypothetical protein
+LLEJNKGF_01299	CDS	246				hypothetical protein
+LLEJNKGF_01300	tRNA	75				tRNA-Gly(tcc)
+LLEJNKGF_01301	CDS	726				hypothetical protein
+LLEJNKGF_01302	CDS	990				hypothetical protein
+LLEJNKGF_01303	CDS	111				hypothetical protein
+LLEJNKGF_01304	CDS	936		1.6.3.5	COG3380	Renalase
+LLEJNKGF_01305	CDS	1512	phrB_2	4.1.99.13	COG3046	(6-4) photolyase
+LLEJNKGF_01306	CDS	840				hypothetical protein
+LLEJNKGF_01307	CDS	1098				hypothetical protein
+LLEJNKGF_01308	CDS	195				hypothetical protein
+LLEJNKGF_01309	CDS	882				hypothetical protein
+LLEJNKGF_01310	CDS	1431	uidB		COG2211	Glucuronide carrier protein 
+LLEJNKGF_01311	CDS	1008				hypothetical protein
+LLEJNKGF_01312	CDS	1200				hypothetical protein
+LLEJNKGF_01313	CDS	3468				hypothetical protein
+LLEJNKGF_01314	CDS	912	glk	2.7.1.2	COG0837	Glucokinase
+LLEJNKGF_01315	CDS	2499		3.2.1.21	COG1472	Beta-glucosidase BoGH3B
+LLEJNKGF_01316	CDS	1569	sglT			Sodium/glucose cotransporter
+LLEJNKGF_01317	CDS	621	eda	4.1.2.14	COG0800	2-dehydro-3-deoxy-phosphogluconate aldolase
+LLEJNKGF_01318	CDS	1803	edd	4.2.1.12	COG0129	Phosphogluconate dehydratase
+LLEJNKGF_01319	CDS	1455	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+LLEJNKGF_01320	CDS	1263	aceF	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+LLEJNKGF_01321	CDS	2640	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+LLEJNKGF_01322	CDS	834	hexR_2		COG1737	HTH-type transcriptional regulator HexR
+LLEJNKGF_01323	CDS	612	pgl	3.1.1.31	COG0363	6-phosphogluconolactonase
+LLEJNKGF_01324	CDS	630				hypothetical protein
+LLEJNKGF_01325	CDS	1416	pyk	2.7.1.40		Pyruvate kinase
+LLEJNKGF_01326	CDS	1038	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+LLEJNKGF_01327	CDS	219	oadG	4.1.1.3		oxaloacetate decarboxylase gamma chain
+LLEJNKGF_01328	CDS	1767		2.1.3.1	COG5016	Methylmalonyl-CoA carboxyltransferase 5S subunit
+LLEJNKGF_01329	CDS	1287	oadB	4.1.1.3	COG1883	Oxaloacetate decarboxylase beta chain
+LLEJNKGF_01330	CDS	531				hypothetical protein
+LLEJNKGF_01331	CDS	210				hypothetical protein
+LLEJNKGF_01332	CDS	138				hypothetical protein
+LLEJNKGF_01333	CDS	876				hypothetical protein
+LLEJNKGF_01334	CDS	384	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+LLEJNKGF_01335	CDS	2406	btuB_5		COG4206	Vitamin B12 transporter BtuB
+LLEJNKGF_01336	tRNA	77				tRNA-Arg(tcg)
+LLEJNKGF_01337	CDS	2556	gyrA_1	5.99.1.3	COG0188	DNA gyrase subunit A
+LLEJNKGF_01338	CDS	696	algA		COG0662	Alginate biosynthesis protein AlgA
+LLEJNKGF_01339	CDS	2412	mdtB			Multidrug resistance protein MdtB
+LLEJNKGF_01340	CDS	2556	gyrA_2	5.99.1.3	COG0188	DNA gyrase subunit A
+LLEJNKGF_01341	CDS	774	hldE		COG2870	Bifunctional protein HldE
+LLEJNKGF_01342	CDS	1368	pntB	1.6.1.2	COG1282	NAD(P) transhydrogenase subunit beta
+LLEJNKGF_01343	CDS	273	pntA_2	1.6.1.2	COG3288	NAD(P) transhydrogenase subunit alpha
+LLEJNKGF_01344	CDS	1119	pntAA_2	1.6.1.2	COG3288	NAD(P) transhydrogenase subunit alpha part 1

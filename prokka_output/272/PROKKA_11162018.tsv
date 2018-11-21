@@ -1,0 +1,651 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MAKMAAJI_00001	CDS	465	mraZ			Transcriptional regulator MraZ
+MAKMAAJI_00002	CDS	900	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+MAKMAAJI_00003	CDS	318				hypothetical protein
+MAKMAAJI_00004	CDS	1989	spoVD		COG0768	Stage V sporulation protein D
+MAKMAAJI_00005	CDS	357	secG		COG1314	putative protein-export membrane protein SecG
+MAKMAAJI_00006	CDS	282	groS		COG0234	10 kDa chaperonin
+MAKMAAJI_00007	CDS	1638	groL		COG0459	60 kDa chaperonin
+MAKMAAJI_00008	CDS	471	msrC	1.8.4.14	COG1956	Free methionine-R-sulfoxide reductase
+MAKMAAJI_00009	CDS	1527	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+MAKMAAJI_00010	CDS	453				hypothetical protein
+MAKMAAJI_00011	CDS	825	bepA_1	3.4.-.-	COG4783	Beta-barrel assembly-enhancing protease
+MAKMAAJI_00012	CDS	1509				hypothetical protein
+MAKMAAJI_00013	CDS	1191		2.6.1.1		Aspartate aminotransferase
+MAKMAAJI_00014	CDS	621	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+MAKMAAJI_00015	CDS	1626	putC	1.2.1.88	COG1012	1-pyrroline-5-carboxylate dehydrogenase 2
+MAKMAAJI_00016	CDS	387	apaG		COG2967	Protein ApaG
+MAKMAAJI_00017	CDS	1242				hypothetical protein
+MAKMAAJI_00018	CDS	1353	nqrA	1.6.5.8	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+MAKMAAJI_00019	CDS	444	mscL		COG1970	Large-conductance mechanosensitive channel
+MAKMAAJI_00020	CDS	1185	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+MAKMAAJI_00021	CDS	393	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+MAKMAAJI_00022	CDS	1020	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B
+MAKMAAJI_00023	CDS	564				hypothetical protein
+MAKMAAJI_00024	CDS	1029	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+MAKMAAJI_00025	CDS	762				hypothetical protein
+MAKMAAJI_00026	CDS	606				hypothetical protein
+MAKMAAJI_00027	CDS	324	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+MAKMAAJI_00028	CDS	507				hypothetical protein
+MAKMAAJI_00029	CDS	453				hypothetical protein
+MAKMAAJI_00030	CDS	978	cbs	4.2.1.22	COG0031	Putative cystathionine beta-synthase
+MAKMAAJI_00031	CDS	1227	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+MAKMAAJI_00032	CDS	492				hypothetical protein
+MAKMAAJI_00033	CDS	630	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+MAKMAAJI_00034	CDS	882	folD			Bifunctional protein FolD protein
+MAKMAAJI_00035	CDS	1323	ffh		COG0541	Signal recognition particle protein
+MAKMAAJI_00036	CDS	654				hypothetical protein
+MAKMAAJI_00037	CDS	1446				hypothetical protein
+MAKMAAJI_00038	tRNA	75				tRNA-Arg(tcg)
+MAKMAAJI_00039	CDS	447	yqeY		COG1610	putative protein YqeY
+MAKMAAJI_00040	CDS	1797	ftsZ		COG0206	Cell division protein FtsZ
+MAKMAAJI_00041	CDS	1308	ftsA		COG0849	Cell division protein FtsA
+MAKMAAJI_00042	CDS	705				hypothetical protein
+MAKMAAJI_00043	CDS	219				hypothetical protein
+MAKMAAJI_00044	CDS	237				hypothetical protein
+MAKMAAJI_00045	CDS	1155	czcB			Cobalt-zinc-cadmium resistance protein CzcB
+MAKMAAJI_00046	CDS	225				hypothetical protein
+MAKMAAJI_00047	CDS	387				hypothetical protein
+MAKMAAJI_00048	CDS	3765	gltB	1.4.7.1		Ferredoxin-dependent glutamate synthase 1
+MAKMAAJI_00049	CDS	1464	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+MAKMAAJI_00050	CDS	1956				hypothetical protein
+MAKMAAJI_00051	CDS	594	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+MAKMAAJI_00052	CDS	2418				hypothetical protein
+MAKMAAJI_00053	CDS	705	lipB	2.3.1.181	COG0321	Octanoyltransferase
+MAKMAAJI_00054	CDS	1692	lysU	6.1.1.6	COG1190	Lysine--tRNA ligase, heat inducible
+MAKMAAJI_00055	CDS	258	oprF_1			Outer membrane porin F
+MAKMAAJI_00056	CDS	312	panC	6.3.2.1	COG0414	Pantothenate synthetase
+MAKMAAJI_00057	CDS	351	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+MAKMAAJI_00058	CDS	957				hypothetical protein
+MAKMAAJI_00059	CDS	1350	radA	3.6.4.-	COG1066	DNA repair protein RadA
+MAKMAAJI_00060	CDS	582	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+MAKMAAJI_00061	CDS	945				hypothetical protein
+MAKMAAJI_00062	CDS	816	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+MAKMAAJI_00063	CDS	645	recN		COG0497	DNA repair protein RecN
+MAKMAAJI_00064	CDS	390	gyrB	5.99.1.3	COG0187	DNA gyrase subunit B
+MAKMAAJI_00065	CDS	1764				hypothetical protein
+MAKMAAJI_00066	CDS	828	bepA_2	3.4.-.-	COG4783	Beta-barrel assembly-enhancing protease
+MAKMAAJI_00067	CDS	663	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+MAKMAAJI_00068	CDS	3639	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+MAKMAAJI_00069	CDS	1215	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+MAKMAAJI_00070	CDS	420				hypothetical protein
+MAKMAAJI_00071	CDS	555	atpH_1		COG0712	ATP synthase subunit delta
+MAKMAAJI_00072	CDS	504	atpF			ATP synthase subunit b
+MAKMAAJI_00073	CDS	192	atpE			ATP synthase subunit c
+MAKMAAJI_00074	CDS	1077	atpB		COG0356	ATP synthase subunit a
+MAKMAAJI_00075	CDS	114				hypothetical protein
+MAKMAAJI_00076	CDS	219				hypothetical protein
+MAKMAAJI_00077	CDS	414				hypothetical protein
+MAKMAAJI_00078	CDS	2010				hypothetical protein
+MAKMAAJI_00079	CDS	1059		3.4.21.26		Prolyl endopeptidase
+MAKMAAJI_00080	CDS	1347	accC	6.3.4.14	COG0439	Biotin carboxylase
+MAKMAAJI_00081	CDS	489	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+MAKMAAJI_00082	CDS	282	fabH2	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 2
+MAKMAAJI_00083	CDS	342				hypothetical protein
+MAKMAAJI_00084	CDS	660	aqpZ2			Aquaporin Z 2
+MAKMAAJI_00085	CDS	696				hypothetical protein
+MAKMAAJI_00086	CDS	582	yhdE		COG0424	Maf-like protein YhdE
+MAKMAAJI_00087	CDS	528	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+MAKMAAJI_00088	CDS	747				hypothetical protein
+MAKMAAJI_00089	CDS	420	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+MAKMAAJI_00090	CDS	297				hypothetical protein
+MAKMAAJI_00091	CDS	402				hypothetical protein
+MAKMAAJI_00092	CDS	1089	recF		COG1195	DNA replication and repair protein RecF
+MAKMAAJI_00093	CDS	756				hypothetical protein
+MAKMAAJI_00094	CDS	1800	uvrC		COG0322	UvrABC system protein C
+MAKMAAJI_00095	CDS	561		6.3.3.2		5-formyltetrahydrofolate cyclo-ligase
+MAKMAAJI_00096	CDS	183				hypothetical protein
+MAKMAAJI_00097	CDS	330				hypothetical protein
+MAKMAAJI_00098	CDS	606				hypothetical protein
+MAKMAAJI_00099	CDS	267				hypothetical protein
+MAKMAAJI_00100	CDS	417	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+MAKMAAJI_00101	CDS	519	idi	5.3.3.2	COG1443	Isopentenyl-diphosphate Delta-isomerase
+MAKMAAJI_00102	CDS	378	dksA			RNA polymerase-binding transcription factor DksA
+MAKMAAJI_00103	CDS	2262	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+MAKMAAJI_00104	CDS	933	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+MAKMAAJI_00105	CDS	1887	rpsA		COG0539	30S ribosomal protein S1
+MAKMAAJI_00106	CDS	504	gnl	3.1.1.17		Gluconolactonase
+MAKMAAJI_00107	CDS	1791	yidC		COG0706	Membrane protein insertase YidC
+MAKMAAJI_00108	CDS	1329	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+MAKMAAJI_00109	CDS	453	trxA_1		COG0526	Thioredoxin
+MAKMAAJI_00110	CDS	1518	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MAKMAAJI_00111	CDS	549				hypothetical protein
+MAKMAAJI_00112	CDS	702	vanYB	3.4.16.4	COG1876	D-alanyl-D-alanine carboxypeptidase
+MAKMAAJI_00113	CDS	366		2.3.1.-		Acetyltransferase
+MAKMAAJI_00114	CDS	981	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+MAKMAAJI_00115	CDS	1158	dprA		COG0758	DNA processing protein DprA
+MAKMAAJI_00116	CDS	906				hypothetical protein
+MAKMAAJI_00117	CDS	510		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+MAKMAAJI_00118	CDS	2793				hypothetical protein
+MAKMAAJI_00119	CDS	465				hypothetical protein
+MAKMAAJI_00120	tRNA	73				tRNA-Arg(cct)
+MAKMAAJI_00121	CDS	1467	crtP	1.14.99.44	COG1233	Diapolycopene oxygenase
+MAKMAAJI_00122	CDS	675	crtA	1.14.15.9		Spheroidene monooxygenase
+MAKMAAJI_00123	CDS	177				hypothetical protein
+MAKMAAJI_00124	CDS	903	yxlF	3.6.3.-	COG1131	putative ABC transporter ATP-binding protein YxlF
+MAKMAAJI_00125	CDS	834				hypothetical protein
+MAKMAAJI_00126	CDS	1098	alr1	5.1.1.1	COG0787	Alanine racemase 1
+MAKMAAJI_00127	CDS	642	tdk	2.7.1.21	COG1435	Thymidine kinase
+MAKMAAJI_00128	CDS	444				hypothetical protein
+MAKMAAJI_00129	CDS	699	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+MAKMAAJI_00130	CDS	1182	fadA_1	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase
+MAKMAAJI_00131	CDS	1656				hypothetical protein
+MAKMAAJI_00132	CDS	1446				hypothetical protein
+MAKMAAJI_00133	CDS	645				hypothetical protein
+MAKMAAJI_00134	CDS	1527	spoIIIE		COG1674	DNA translocase SpoIIIE
+MAKMAAJI_00135	CDS	870	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+MAKMAAJI_00136	CDS	2559	clpC		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpC
+MAKMAAJI_00137	CDS	1008	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+MAKMAAJI_00138	CDS	1182	argG	6.3.4.5		Argininosuccinate synthase
+MAKMAAJI_00139	CDS	591				hypothetical protein
+MAKMAAJI_00140	CDS	1338	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+MAKMAAJI_00141	CDS	1263		2.3.1.-		Putative pyridoxal phosphate-dependent acyltransferase
+MAKMAAJI_00142	CDS	987	iaaA	3.4.19.5	COG1446	Isoaspartyl peptidase
+MAKMAAJI_00143	CDS	279				hypothetical protein
+MAKMAAJI_00144	CDS	540	pyrR_1			Bifunctional protein pyrR
+MAKMAAJI_00145	CDS	924	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+MAKMAAJI_00146	CDS	159	rpmH		COG0230	50S ribosomal protein L34
+MAKMAAJI_00147	CDS	2853	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+MAKMAAJI_00148	CDS	2475	topA	5.99.1.2		DNA topoisomerase 1
+MAKMAAJI_00149	CDS	558				hypothetical protein
+MAKMAAJI_00150	CDS	300				hypothetical protein
+MAKMAAJI_00151	CDS	1485	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+MAKMAAJI_00152	CDS	1245	ntrC		COG2204	DNA-binding transcriptional regulator NtrC
+MAKMAAJI_00153	CDS	507				hypothetical protein
+MAKMAAJI_00154	CDS	540				hypothetical protein
+MAKMAAJI_00155	CDS	567	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+MAKMAAJI_00156	CDS	573	gmk	2.7.4.8	COG0194	Guanylate kinase
+MAKMAAJI_00157	CDS	861				hypothetical protein
+MAKMAAJI_00158	CDS	360	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+MAKMAAJI_00159	CDS	1698	lepB	3.4.21.89	COG0681	Signal peptidase I
+MAKMAAJI_00160	CDS	615				putative protein
+MAKMAAJI_00161	CDS	420				hypothetical protein
+MAKMAAJI_00162	CDS	1041	kinA	2.7.13.3	COG0642	Sporulation kinase A
+MAKMAAJI_00163	CDS	735				hypothetical protein
+MAKMAAJI_00164	CDS	411				hypothetical protein
+MAKMAAJI_00165	CDS	519				hypothetical protein
+MAKMAAJI_00166	CDS	687	djlA		COG1076	Co-chaperone protein DjlA
+MAKMAAJI_00167	CDS	660	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+MAKMAAJI_00168	CDS	1164	tig	5.2.1.8	COG0544	Trigger factor
+MAKMAAJI_00169	CDS	276	rplJ		COG0244	50S ribosomal protein L10
+MAKMAAJI_00170	CDS	378	rplL		COG0222	50S ribosomal protein L7/L12
+MAKMAAJI_00171	CDS	1392	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+MAKMAAJI_00172	CDS	1353	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+MAKMAAJI_00173	CDS	909	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+MAKMAAJI_00174	CDS	1002	metH_1	2.1.1.13	COG0646	Methionine synthase
+MAKMAAJI_00175	CDS	1176	metZ	2.5.1.-	COG0626	O-succinylhomoserine sulfhydrylase
+MAKMAAJI_00176	CDS	432	yhfA		COG1765	Protein YhfA
+MAKMAAJI_00177	CDS	582	metXA_1	2.3.1.31	COG2021	Homoserine O-acetyltransferase
+MAKMAAJI_00178	CDS	330	metXA_2	2.3.1.31	COG2021	Homoserine O-acetyltransferase
+MAKMAAJI_00179	CDS	720	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+MAKMAAJI_00180	CDS	723				hypothetical protein
+MAKMAAJI_00181	CDS	726	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+MAKMAAJI_00182	CDS	960			COG0488	putative ABC transporter ATP-binding protein
+MAKMAAJI_00183	CDS	132				hypothetical protein
+MAKMAAJI_00184	CDS	318				hypothetical protein
+MAKMAAJI_00185	CDS	708	hel		COG2503	Lipoprotein E
+MAKMAAJI_00186	CDS	549				hypothetical protein
+MAKMAAJI_00187	CDS	90				hypothetical protein
+MAKMAAJI_00188	CDS	768	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+MAKMAAJI_00189	CDS	942	iolS	1.1.1.-	COG0667	Aldo-keto reductase IolS
+MAKMAAJI_00190	CDS	210	frr		COG0233	Ribosome-recycling factor
+MAKMAAJI_00191	CDS	2385	mexB		COG0841	Multidrug resistance protein MexB
+MAKMAAJI_00192	CDS	1401	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+MAKMAAJI_00193	CDS	1449	rpoN		COG1508	RNA polymerase sigma-54 factor
+MAKMAAJI_00194	CDS	201				hypothetical protein
+MAKMAAJI_00195	CDS	741	lpxD_1	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+MAKMAAJI_00196	CDS	285	lpxD_2	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+MAKMAAJI_00197	CDS	1200				hypothetical protein
+MAKMAAJI_00198	CDS	1095			COG0327	GTP cyclohydrolase 1 type 2 
+MAKMAAJI_00199	CDS	1005	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+MAKMAAJI_00200	CDS	366	lipA	2.8.1.8		Lipoyl synthase
+MAKMAAJI_00201	CDS	369	rsfS			Ribosomal silencing factor RsfS
+MAKMAAJI_00202	CDS	2025	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+MAKMAAJI_00203	CDS	1473	guaB_1	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+MAKMAAJI_00204	CDS	843				hypothetical protein
+MAKMAAJI_00205	CDS	654	rplY			50S ribosomal protein L25
+MAKMAAJI_00206	CDS	582	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+MAKMAAJI_00207	CDS	936	ribF		COG0196	Riboflavin biosynthesis protein RibF
+MAKMAAJI_00208	CDS	1272	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+MAKMAAJI_00209	CDS	318				hypothetical protein
+MAKMAAJI_00210	CDS	1278				hypothetical protein
+MAKMAAJI_00211	CDS	492	xerD		COG4974	Tyrosine recombinase XerD
+MAKMAAJI_00212	CDS	435	umuD	3.4.21.-	COG1974	Protein UmuD
+MAKMAAJI_00213	CDS	1266	umuC		COG0389	Protein UmuC
+MAKMAAJI_00214	CDS	579				hypothetical protein
+MAKMAAJI_00215	CDS	1611	ilvD_1	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+MAKMAAJI_00216	CDS	1698	ilvB_1	2.2.1.6	COG0028	Acetolactate synthase large subunit
+MAKMAAJI_00217	CDS	522	ilvH_1	2.2.1.6	COG0440	Putative acetolactate synthase small subunit
+MAKMAAJI_00218	CDS	1107	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+MAKMAAJI_00219	CDS	267				hypothetical protein
+MAKMAAJI_00220	CDS	768	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+MAKMAAJI_00221	CDS	594				hypothetical protein
+MAKMAAJI_00222	CDS	663	gno	1.1.1.-		Gluconate 5-dehydrogenase
+MAKMAAJI_00223	CDS	1599	pdhC	2.3.1.12		Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+MAKMAAJI_00224	CDS	999	acoA	1.1.1.-	COG1071	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha
+MAKMAAJI_00225	CDS	213				hypothetical protein
+MAKMAAJI_00226	CDS	267	fadA_2	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase
+MAKMAAJI_00227	CDS	1119	fadE_1	1.3.99.-	COG1960	putative acyl-CoA dehydrogenase
+MAKMAAJI_00228	CDS	657	fadE_2	1.3.99.-	COG1960	putative acyl-CoA dehydrogenase
+MAKMAAJI_00229	CDS	1329		3.4.11.10		Bacterial leucyl aminopeptidase
+MAKMAAJI_00230	CDS	834				hypothetical protein
+MAKMAAJI_00231	CDS	1032				hypothetical protein
+MAKMAAJI_00232	CDS	1002				hypothetical protein
+MAKMAAJI_00233	CDS	1584				hypothetical protein
+MAKMAAJI_00234	CDS	867			COG1721	putative protein
+MAKMAAJI_00235	CDS	885				hypothetical protein
+MAKMAAJI_00236	CDS	447	atpH_2		COG0712	ATP synthase subunit delta
+MAKMAAJI_00237	CDS	1581	atpA_1	3.6.3.14	COG0056	ATP synthase subunit alpha
+MAKMAAJI_00238	CDS	855	atpG_1			ATP synthase gamma chain, sodium ion specific
+MAKMAAJI_00239	CDS	552				hypothetical protein
+MAKMAAJI_00240	CDS	531				hypothetical protein
+MAKMAAJI_00241	CDS	1473				hypothetical protein
+MAKMAAJI_00242	CDS	228				hypothetical protein
+MAKMAAJI_00243	CDS	924	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+MAKMAAJI_00244	CDS	1023	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+MAKMAAJI_00245	CDS	777	coxN	1.9.3.1	COG0843	Alternative cytochrome c oxidase subunit 1
+MAKMAAJI_00246	CDS	1659	aspS	6.1.1.12		Aspartate--tRNA ligase
+MAKMAAJI_00247	CDS	258				hypothetical protein
+MAKMAAJI_00248	CDS	444	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+MAKMAAJI_00249	CDS	636	dgt	3.1.5.1		Deoxyguanosinetriphosphate triphosphohydrolase
+MAKMAAJI_00250	CDS	2319				hypothetical protein
+MAKMAAJI_00251	CDS	1230	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+MAKMAAJI_00252	CDS	906	uxaA	4.2.1.7	COG2721	Altronate dehydratase
+MAKMAAJI_00253	CDS	786		1.1.1.-		2-keto-3-deoxy-L-fuconate dehydrogenase
+MAKMAAJI_00254	CDS	855		4.3.2.3		Ureidoglycolate lyase
+MAKMAAJI_00255	CDS	447				hypothetical protein
+MAKMAAJI_00256	CDS	750	rnc	3.1.26.3		Ribonuclease 3
+MAKMAAJI_00257	CDS	1251	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+MAKMAAJI_00258	CDS	234	acpP		COG0236	Acyl carrier protein AcpP
+MAKMAAJI_00259	CDS	564	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+MAKMAAJI_00260	CDS	468	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+MAKMAAJI_00261	CDS	924	kdgK	2.7.1.45	COG0524	2-dehydro-3-deoxygluconokinase
+MAKMAAJI_00262	CDS	1896	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+MAKMAAJI_00263	CDS	603	sodA	1.15.1.1	COG0605	Superoxide dismutase [Mn]
+MAKMAAJI_00264	CDS	3084	uvrD	3.6.4.12	COG0210	DNA helicase II
+MAKMAAJI_00265	CDS	1332	oprF_2		COG2885	Outer membrane porin F
+MAKMAAJI_00266	CDS	2541				hypothetical protein
+MAKMAAJI_00267	CDS	1404		3.1.6.1	COG3119	Arylsulfatase
+MAKMAAJI_00268	CDS	795				hypothetical protein
+MAKMAAJI_00269	CDS	1647	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+MAKMAAJI_00270	CDS	951	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+MAKMAAJI_00271	CDS	285				hypothetical protein
+MAKMAAJI_00272	CDS	330				hypothetical protein
+MAKMAAJI_00273	CDS	801	bamD			Outer membrane protein assembly factor BamD
+MAKMAAJI_00274	CDS	633				hypothetical protein
+MAKMAAJI_00275	CDS	885	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+MAKMAAJI_00276	CDS	507				hypothetical protein
+MAKMAAJI_00277	CDS	2001	ligA	6.5.1.2	COG0272	DNA ligase
+MAKMAAJI_00278	CDS	531	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+MAKMAAJI_00279	CDS	1116				hypothetical protein
+MAKMAAJI_00280	CDS	774	yafV	3.5.1.3		Omega-amidase YafV
+MAKMAAJI_00281	CDS	747	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+MAKMAAJI_00282	CDS	2004	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+MAKMAAJI_00283	CDS	660				hypothetical protein
+MAKMAAJI_00284	CDS	1605				hypothetical protein
+MAKMAAJI_00285	CDS	1272				hypothetical protein
+MAKMAAJI_00286	CDS	636				hypothetical protein
+MAKMAAJI_00287	CDS	222				hypothetical protein
+MAKMAAJI_00288	CDS	789	ald	1.4.1.1	COG0686	Alanine dehydrogenase
+MAKMAAJI_00289	CDS	951				hypothetical protein
+MAKMAAJI_00290	CDS	336	yciH		COG0023	putative protein YciH
+MAKMAAJI_00291	CDS	684				hypothetical protein
+MAKMAAJI_00292	CDS	666	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+MAKMAAJI_00293	CDS	915	kinD	2.7.13.3		Sporulation kinase D
+MAKMAAJI_00294	CDS	396			COG0537	putative HIT-like protein
+MAKMAAJI_00295	CDS	474	greA		COG0782	Transcription elongation factor GreA
+MAKMAAJI_00296	CDS	426				hypothetical protein
+MAKMAAJI_00297	CDS	2187	btuB_1			Vitamin B12 transporter BtuB
+MAKMAAJI_00298	CDS	243				hypothetical protein
+MAKMAAJI_00299	CDS	708				hypothetical protein
+MAKMAAJI_00300	CDS	2865	gcvP	1.4.4.2		Glycine dehydrogenase (decarboxylating)
+MAKMAAJI_00301	CDS	1059	fabH1	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 1
+MAKMAAJI_00302	CDS	627	cda	3.6.3.8		Calcium-transporting ATPase
+MAKMAAJI_00303	CDS	1668	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+MAKMAAJI_00304	CDS	1242	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+MAKMAAJI_00305	CDS	1512	prc	3.4.21.102	COG0793	Tail-specific protease
+MAKMAAJI_00306	CDS	702				hypothetical protein
+MAKMAAJI_00307	CDS	738	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+MAKMAAJI_00308	CDS	1236	nusA		COG0195	Transcription termination/antitermination protein NusA
+MAKMAAJI_00309	CDS	474	rimP			Ribosome maturation factor RimP
+MAKMAAJI_00310	tRNA	74				tRNA-Gln(ttg)
+MAKMAAJI_00311	CDS	207				hypothetical protein
+MAKMAAJI_00312	CDS	1518	atpD	3.6.3.14	COG0055	ATP synthase subunit beta
+MAKMAAJI_00313	CDS	279	atpC		COG0355	ATP synthase epsilon chain
+MAKMAAJI_00314	CDS	1791	btuB_2		COG4206	Vitamin B12 transporter BtuB
+MAKMAAJI_00315	CDS	471	recX			Regulatory protein RecX
+MAKMAAJI_00316	CDS	726	recO		COG1381	DNA repair protein RecO
+MAKMAAJI_00317	CDS	2286				hypothetical protein
+MAKMAAJI_00318	CDS	1341	gdhA	1.4.1.3		NAD(P)-specific glutamate dehydrogenase
+MAKMAAJI_00319	CDS	1155	metC	4.4.1.8	COG0626	Cystathionine beta-lyase
+MAKMAAJI_00320	CDS	1110	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+MAKMAAJI_00321	CDS	1596	secA		COG0653	Protein translocase subunit SecA
+MAKMAAJI_00322	CDS	1023				hypothetical protein
+MAKMAAJI_00323	CDS	315				hypothetical protein
+MAKMAAJI_00324	CDS	1053	menE	6.2.1.26	COG0318	putative 2-succinylbenzoate--CoA ligase
+MAKMAAJI_00325	CDS	1038	ykfB	5.1.1.20	COG4948	L-Ala-D/L-Glu epimerase
+MAKMAAJI_00326	CDS	918	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+MAKMAAJI_00327	CDS	168	menB	4.1.3.36		1,4-dihydroxy-2-naphthoyl-CoA synthase
+MAKMAAJI_00328	CDS	1632	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+MAKMAAJI_00329	CDS	1248	mepM_1	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+MAKMAAJI_00330	CDS	855				hypothetical protein
+MAKMAAJI_00331	CDS	1962			COG1752	putative NTE family protein
+MAKMAAJI_00332	CDS	2502				hypothetical protein
+MAKMAAJI_00333	CDS	1272				hypothetical protein
+MAKMAAJI_00334	CDS	1452				hypothetical protein
+MAKMAAJI_00335	CDS	129				hypothetical protein
+MAKMAAJI_00336	CDS	396				hypothetical protein
+MAKMAAJI_00337	CDS	1158	mvaS	2.3.3.10	COG3425	Hydroxymethylglutaryl-CoA synthase
+MAKMAAJI_00338	CDS	888	pchR		COG2207	Regulatory protein PchR
+MAKMAAJI_00339	CDS	1236	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+MAKMAAJI_00340	CDS	789				hypothetical protein
+MAKMAAJI_00341	CDS	726	rluF	5.4.99.21	COG1187	23S rRNA pseudouridine(2604) synthase
+MAKMAAJI_00342	CDS	696				hypothetical protein
+MAKMAAJI_00343	CDS	423	sppA	3.4.21.-	COG0616	Protease 4
+MAKMAAJI_00344	CDS	1065	aroC	4.2.3.5	COG0082	Chorismate synthase
+MAKMAAJI_00345	CDS	1302	gltP		COG1301	Proton/glutamate-aspartate symporter
+MAKMAAJI_00346	CDS	339				hypothetical protein
+MAKMAAJI_00347	CDS	336				hypothetical protein
+MAKMAAJI_00348	CDS	1647				hypothetical protein
+MAKMAAJI_00349	CDS	1149	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+MAKMAAJI_00350	CDS	408	rocD2	2.6.1.13		Ornithine aminotransferase 2
+MAKMAAJI_00351	CDS	648	ykuR	3.5.1.47	COG1473	N-acetyldiaminopimelate deacetylase
+MAKMAAJI_00352	CDS	1257	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+MAKMAAJI_00353	CDS	561				hypothetical protein
+MAKMAAJI_00354	CDS	738	entC	5.4.4.2	COG1169	Isochorismate synthase EntC
+MAKMAAJI_00355	CDS	1797	menD	2.2.1.9	COG1165	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+MAKMAAJI_00356	CDS	1086	ppiB	5.2.1.8	COG0652	putative peptidyl-prolyl cis-trans isomerase
+MAKMAAJI_00357	CDS	1005	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+MAKMAAJI_00358	CDS	282				hypothetical protein
+MAKMAAJI_00359	CDS	270				hypothetical protein
+MAKMAAJI_00360	CDS	2409	pdhB_1	1.2.4.1		Pyruvate dehydrogenase E1 component subunit beta
+MAKMAAJI_00361	CDS	1002	yqeN		COG1466	putative protein YqeN
+MAKMAAJI_00362	CDS	450				hypothetical protein
+MAKMAAJI_00363	CDS	120	hemE	4.1.1.37		Uroporphyrinogen decarboxylase
+MAKMAAJI_00364	CDS	903	hemF	1.3.3.3		Oxygen-dependent coproporphyrinogen-III oxidase
+MAKMAAJI_00365	CDS	975	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+MAKMAAJI_00366	CDS	1173	nylB'	3.5.1.46		6-aminohexanoate-dimer hydrolase
+MAKMAAJI_00367	CDS	720				hypothetical protein
+MAKMAAJI_00368	CDS	315	alaS	6.1.1.7		Alanine--tRNA ligase
+MAKMAAJI_00369	CDS	540				hypothetical protein
+MAKMAAJI_00370	CDS	939	dcyD	4.4.1.15	COG2515	D-cysteine desulfhydrase
+MAKMAAJI_00371	CDS	801		3.2.1.-	COG1388	Autolysin
+MAKMAAJI_00372	CDS	1287	hemL	5.4.3.8	COG0001	Glutamate-1-semialdehyde 2,1-aminomutase
+MAKMAAJI_00373	CDS	408				hypothetical protein
+MAKMAAJI_00374	CDS	2418	nrdA	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase 1 subunit alpha
+MAKMAAJI_00375	CDS	984	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+MAKMAAJI_00376	CDS	456	rplM		COG0102	50S ribosomal protein L13
+MAKMAAJI_00377	CDS	2805	polA	2.7.7.7	COG0258	DNA polymerase I
+MAKMAAJI_00378	CDS	297				Thioredoxin-like protein
+MAKMAAJI_00379	CDS	1707				hypothetical protein
+MAKMAAJI_00380	CDS	210				hypothetical protein
+MAKMAAJI_00381	CDS	1302	tyrS1	6.1.1.1	COG0162	Tyrosine--tRNA ligase 1
+MAKMAAJI_00382	CDS	351				hypothetical protein
+MAKMAAJI_00383	CDS	1338	pyrC	3.5.2.3	COG0044	Dihydroorotase
+MAKMAAJI_00384	CDS	726		2.4.1.54		Undecaprenyl-phosphate mannosyltransferase
+MAKMAAJI_00385	CDS	642				hypothetical protein
+MAKMAAJI_00386	CDS	786				hypothetical protein
+MAKMAAJI_00387	CDS	387				hypothetical protein
+MAKMAAJI_00388	CDS	471	asnC		COG1522	Regulatory protein AsnC
+MAKMAAJI_00389	CDS	693				hypothetical protein
+MAKMAAJI_00390	CDS	1596	bicA		COG0659	Bicarbonate transporter BicA
+MAKMAAJI_00391	CDS	729	mhqN	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase MhqN
+MAKMAAJI_00392	CDS	1269	kynU	3.7.1.3		Kynureninase
+MAKMAAJI_00393	CDS	705				hypothetical protein
+MAKMAAJI_00394	CDS	1728			COG0659	putative sulfate transporter
+MAKMAAJI_00395	CDS	714	sucA	1.2.4.2	COG0567	2-oxoglutarate dehydrogenase E1 component
+MAKMAAJI_00396	CDS	1203	sucB	2.3.1.61	COG0508	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+MAKMAAJI_00397	CDS	873	nfuA			Fe/S biogenesis protein NfuA
+MAKMAAJI_00398	CDS	513	yrdA		COG0663	Protein YrdA
+MAKMAAJI_00399	CDS	774	murI	5.1.1.3	COG0796	Glutamate racemase
+MAKMAAJI_00400	CDS	300				hypothetical protein
+MAKMAAJI_00401	CDS	261	regX3		COG0745	Sensory transduction protein regX3
+MAKMAAJI_00402	CDS	1077	phoR	2.7.13.3	COG0642	Alkaline phosphatase synthesis sensor protein PhoR
+MAKMAAJI_00403	CDS	690	trmB	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+MAKMAAJI_00404	CDS	324	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+MAKMAAJI_00405	CDS	1140	apbC		COG0489	Iron-sulfur cluster carrier protein
+MAKMAAJI_00406	CDS	681			COG4867	putative protein
+MAKMAAJI_00407	CDS	1458				hypothetical protein
+MAKMAAJI_00408	CDS	954		3.2.1.28	COG3387	Trehalase
+MAKMAAJI_00409	CDS	585				hypothetical protein
+MAKMAAJI_00410	CDS	1386	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+MAKMAAJI_00411	CDS	1233	sufD		COG0719	FeS cluster assembly protein SufD
+MAKMAAJI_00412	CDS	1227	sufS	2.8.1.7	COG0520	Cysteine desulfurase
+MAKMAAJI_00413	CDS	423	sufE		COG2166	Cysteine desulfuration protein SufE
+MAKMAAJI_00414	CDS	312	sufT			Fe-S protein maturation auxiliary factor SufT
+MAKMAAJI_00415	CDS	507				hypothetical protein
+MAKMAAJI_00416	CDS	882				hypothetical protein
+MAKMAAJI_00417	CDS	1212	hflX		COG2262	GTPase HflX
+MAKMAAJI_00418	CDS	759	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+MAKMAAJI_00419	CDS	450				hypothetical protein
+MAKMAAJI_00420	CDS	774	crt	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+MAKMAAJI_00421	CDS	777	hdpA	3.1.3.-		Dihydroxyacetone phosphatase
+MAKMAAJI_00422	CDS	435	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+MAKMAAJI_00423	CDS	774		2.7.4.1		Polyphosphate:ADP phosphotransferase 2
+MAKMAAJI_00424	CDS	849	ppk2	2.7.4.1	COG2326	Polyphosphate:ADP/GDP phosphotransferase
+MAKMAAJI_00425	CDS	849	atpG_2		COG0224	ATP synthase gamma chain
+MAKMAAJI_00426	CDS	906	atpA_2	3.6.3.14	COG0056	ATP synthase subunit alpha
+MAKMAAJI_00427	CDS	813	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+MAKMAAJI_00428	CDS	561	pabA	2.6.1.85	COG0512	Aminodeoxychorismate/anthranilate synthase component 2
+MAKMAAJI_00429	CDS	996	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+MAKMAAJI_00430	CDS	786	trpC	4.1.1.48	COG0134	Indole-3-glycerol phosphate synthase
+MAKMAAJI_00431	CDS	321				hypothetical protein
+MAKMAAJI_00432	tRNA	74				tRNA-Phe(gaa)
+MAKMAAJI_00433	CDS	744	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+MAKMAAJI_00434	CDS	1245				hypothetical protein
+MAKMAAJI_00435	CDS	804	glgA	2.4.1.21	COG0297	Glycogen synthase
+MAKMAAJI_00436	CDS	1671		3.2.1.55	COG3507	Non-reducing end alpha-L-arabinofuranosidase BoGH43B
+MAKMAAJI_00437	CDS	1728	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+MAKMAAJI_00438	CDS	987				hypothetical protein
+MAKMAAJI_00439	CDS	1248	metK	2.5.1.6		S-adenosylmethionine synthase
+MAKMAAJI_00440	CDS	645	bglA	3.2.1.73		Beta-glucanase
+MAKMAAJI_00441	CDS	585				hypothetical protein
+MAKMAAJI_00442	CDS	717			COG0217	putative transcriptional regulatory protein
+MAKMAAJI_00443	CDS	720	kpsU	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+MAKMAAJI_00444	CDS	1425	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+MAKMAAJI_00445	CDS	651				hypothetical protein
+MAKMAAJI_00446	CDS	540	ilvH_2	2.2.1.6	COG0440	Putative acetolactate synthase small subunit
+MAKMAAJI_00447	CDS	1704	ilvB_2	2.2.1.6	COG0028	Acetolactate synthase large subunit
+MAKMAAJI_00448	CDS	348	ilvD_2	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+MAKMAAJI_00449	CDS	1761	yheI	3.6.3.-	COG1132	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+MAKMAAJI_00450	CDS	1119	dnaN		COG0592	Beta sliding clamp
+MAKMAAJI_00451	CDS	825	salL	2.5.1.94	COG1912	Adenosyl-chloride synthase
+MAKMAAJI_00452	CDS	495	pyrR_2			Bifunctional protein pyrR
+MAKMAAJI_00453	CDS	372	hslR		COG1188	Heat shock protein 15
+MAKMAAJI_00454	CDS	885				hypothetical protein
+MAKMAAJI_00455	CDS	960	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+MAKMAAJI_00456	CDS	612	tkt	2.2.1.1	COG0021	Transketolase
+MAKMAAJI_00457	CDS	405				hypothetical protein
+MAKMAAJI_00458	CDS	1080	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+MAKMAAJI_00459	CDS	414				hypothetical protein
+MAKMAAJI_00460	CDS	846	kfoC			Chondroitin synthase
+MAKMAAJI_00461	CDS	132				hypothetical protein
+MAKMAAJI_00462	CDS	1158				hypothetical protein
+MAKMAAJI_00463	CDS	252	rpmE2		COG0254	50S ribosomal protein L31 type B
+MAKMAAJI_00464	CDS	507				hypothetical protein
+MAKMAAJI_00465	CDS	960	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+MAKMAAJI_00466	CDS	1704	pgcA	5.4.2.2		Phosphoglucomutase
+MAKMAAJI_00467	CDS	663	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+MAKMAAJI_00468	CDS	696	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+MAKMAAJI_00469	CDS	1002	yhhT		COG0628	Putative transport protein YhhT
+MAKMAAJI_00470	CDS	315				hypothetical protein
+MAKMAAJI_00471	CDS	105				hypothetical protein
+MAKMAAJI_00472	tRNA	85				tRNA-Ser(gct)
+MAKMAAJI_00473	CDS	690	argF'	2.1.3.9	COG0078	N-acetylornithine carbamoyltransferase
+MAKMAAJI_00474	CDS	777	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+MAKMAAJI_00475	CDS	1062	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+MAKMAAJI_00476	CDS	1284	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+MAKMAAJI_00477	CDS	546				hypothetical protein
+MAKMAAJI_00478	CDS	453	vanH	1.1.1.-		D-specific alpha-keto acid dehydrogenase
+MAKMAAJI_00479	CDS	423	arsC	1.20.4.4	COG0394	Arsenate reductase
+MAKMAAJI_00480	CDS	1809				hypothetical protein
+MAKMAAJI_00481	CDS	1251	lysC	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+MAKMAAJI_00482	CDS	495				hypothetical protein
+MAKMAAJI_00483	CDS	234		3.2.1.22		Retaining alpha-galactosidase
+MAKMAAJI_00484	CDS	1131	galK	2.7.1.6	COG0153	Galactokinase
+MAKMAAJI_00485	CDS	1032	galT	2.7.7.12	COG1085	Galactose-1-phosphate uridylyltransferase
+MAKMAAJI_00486	CDS	1689	sglT			Sodium/glucose cotransporter
+MAKMAAJI_00487	CDS	1161	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+MAKMAAJI_00488	CDS	675	truC	5.4.99.26	COG0564	tRNA pseudouridine synthase C
+MAKMAAJI_00489	CDS	819	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+MAKMAAJI_00490	CDS	354				hypothetical protein
+MAKMAAJI_00491	CDS	1446	sufB		COG0719	FeS cluster assembly protein SufB
+MAKMAAJI_00492	CDS	330			COG0316	Protein
+MAKMAAJI_00493	CDS	1038	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+MAKMAAJI_00494	CDS	1284	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+MAKMAAJI_00495	CDS	477				hypothetical protein
+MAKMAAJI_00496	CDS	501	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+MAKMAAJI_00497	CDS	1392	lpdC	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+MAKMAAJI_00498	CDS	1401	lpd	1.8.1.4		Dihydrolipoyl dehydrogenase
+MAKMAAJI_00499	CDS	1434	mleN		COG1757	Malate-2H(+)/Na(+)-lactate antiporter
+MAKMAAJI_00500	CDS	639	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+MAKMAAJI_00501	CDS	315	trxA_2		COG0526	Thioredoxin
+MAKMAAJI_00502	CDS	258				hypothetical protein
+MAKMAAJI_00503	CDS	930				hypothetical protein
+MAKMAAJI_00504	CDS	1074				hypothetical protein
+MAKMAAJI_00505	CDS	414				hypothetical protein
+MAKMAAJI_00506	CDS	1341		3.4.24.-	COG0750	Putative zinc metalloprotease
+MAKMAAJI_00507	CDS	690	ypmQ		COG1999	SCO1 protein 
+MAKMAAJI_00508	CDS	225				hypothetical protein
+MAKMAAJI_00509	CDS	2091	feoB		COG0370	Fe(2+) transporter FeoB
+MAKMAAJI_00510	CDS	822	zupT		COG0428	Zinc transporter ZupT
+MAKMAAJI_00511	CDS	1200				hypothetical protein
+MAKMAAJI_00512	CDS	975		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+MAKMAAJI_00513	CDS	1023		3.4.11.24	COG2234	Aminopeptidase S
+MAKMAAJI_00514	CDS	801				hypothetical protein
+MAKMAAJI_00515	CDS	852	liuE	4.1.3.26	COG0119	3-hydroxy-3-isohexenylglutaryl-CoA/hydroxy-methylglutaryl-CoA lyase
+MAKMAAJI_00516	CDS	615				hypothetical protein
+MAKMAAJI_00517	CDS	1845	btuB_3		COG4206	Vitamin B12 transporter BtuB
+MAKMAAJI_00518	CDS	486				hypothetical protein
+MAKMAAJI_00519	CDS	393	fosB	2.5.1.-		Metallothiol transferase FosB
+MAKMAAJI_00520	CDS	948				hypothetical protein
+MAKMAAJI_00521	CDS	1329	fadF_1	1.-.-.-	COG0247	putative iron-sulfur-binding oxidoreductase FadF
+MAKMAAJI_00522	CDS	453				hypothetical protein
+MAKMAAJI_00523	CDS	795	fadF_2	1.-.-.-	COG0247	putative iron-sulfur-binding oxidoreductase FadF
+MAKMAAJI_00524	CDS	483				hypothetical protein
+MAKMAAJI_00525	CDS	1599	nagZ	3.2.1.52	COG1472	Beta-hexosaminidase
+MAKMAAJI_00526	CDS	1122	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+MAKMAAJI_00527	CDS	1104		2.1.3.1	COG4799	Methylmalonyl-CoA carboxyltransferase 12S subunit
+MAKMAAJI_00528	CDS	291	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+MAKMAAJI_00529	CDS	447		2.3.1.-		Acetyltransferase
+MAKMAAJI_00530	CDS	363	rnpA	3.1.26.5		Ribonuclease P protein component
+MAKMAAJI_00531	CDS	1809				hypothetical protein
+MAKMAAJI_00532	CDS	864	ytnP	3.1.1.-	COG0491	putative quorum-quenching lactonase YtnP
+MAKMAAJI_00533	CDS	2196	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+MAKMAAJI_00534	CDS	849				hypothetical protein
+MAKMAAJI_00535	CDS	1797	lepA	3.6.5.-	COG0481	Elongation factor 4
+MAKMAAJI_00536	CDS	867				hypothetical protein
+MAKMAAJI_00537	CDS	990	dus	1.3.1.-	COG0042	putative tRNA-dihydrouridine synthase
+MAKMAAJI_00538	CDS	1194	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+MAKMAAJI_00539	CDS	360	rbfA			Ribosome-binding factor A
+MAKMAAJI_00540	CDS	765	garL	4.1.2.20	COG3836	5-keto-4-deoxy-D-glucarate aldolase
+MAKMAAJI_00541	CDS	1437		1.2.1.97		3-sulfolactaldehyde dehydrogenase
+MAKMAAJI_00542	CDS	636	gci	5.5.1.27	COG4948	D-galactarolactone cycloisomerase
+MAKMAAJI_00543	CDS	582	metH_2	2.1.1.13	COG0646	Methionine synthase
+MAKMAAJI_00544	CDS	957	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+MAKMAAJI_00545	CDS	462				hypothetical protein
+MAKMAAJI_00546	CDS	186				hypothetical protein
+MAKMAAJI_00547	CDS	297				hypothetical protein
+MAKMAAJI_00548	CDS	957	etfA		COG2025	Electron transfer flavoprotein subunit alpha
+MAKMAAJI_00549	CDS	747	etfB			Electron transfer flavoprotein subunit beta
+MAKMAAJI_00550	CDS	975	pdhB_2	1.2.4.1		Pyruvate dehydrogenase E1 component subunit beta
+MAKMAAJI_00551	CDS	357				hypothetical protein
+MAKMAAJI_00552	CDS	288	clpS			ATP-dependent Clp protease adapter protein ClpS
+MAKMAAJI_00553	CDS	825	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+MAKMAAJI_00554	CDS	750	tpiA	5.3.1.1		Triosephosphate isomerase
+MAKMAAJI_00555	CDS	417	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+MAKMAAJI_00556	CDS	1386	algC	5.4.2.2		Phosphomannomutase/phosphoglucomutase
+MAKMAAJI_00557	CDS	588	acpH	3.1.4.14	COG3124	Acyl carrier protein phosphodiesterase
+MAKMAAJI_00558	CDS	279				hypothetical protein
+MAKMAAJI_00559	CDS	246				hypothetical protein
+MAKMAAJI_00560	CDS	1215				hypothetical protein
+MAKMAAJI_00561	CDS	702	opuCA		COG1125	Glycine betaine/carnitine/choline transport ATP-binding protein OpuCA
+MAKMAAJI_00562	CDS	945				hypothetical protein
+MAKMAAJI_00563	CDS	693	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+MAKMAAJI_00564	CDS	1482	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+MAKMAAJI_00565	CDS	225			COG0759	Putative membrane protein insertion efficiency factor
+MAKMAAJI_00566	CDS	831	lgt	2.4.99.-	COG0682	Prolipoprotein diacylglyceryl transferase
+MAKMAAJI_00567	CDS	1416	secDF		COG0341	Protein translocase subunit SecDF
+MAKMAAJI_00568	CDS	795	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+MAKMAAJI_00569	CDS	249				hypothetical protein
+MAKMAAJI_00570	CDS	870	ftsX		COG2177	Cell division protein FtsX
+MAKMAAJI_00571	CDS	267	rpsO		COG0184	30S ribosomal protein S15
+MAKMAAJI_00572	CDS	2205	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+MAKMAAJI_00573	CDS	1266	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+MAKMAAJI_00574	CDS	1197	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+MAKMAAJI_00575	CDS	1368	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+MAKMAAJI_00576	CDS	459	rplI		COG0359	50S ribosomal protein L9
+MAKMAAJI_00577	CDS	294	rpsR			30S ribosomal protein S18
+MAKMAAJI_00578	CDS	339	rpsF		COG0360	30S ribosomal protein S6
+MAKMAAJI_00579	CDS	402				hypothetical protein
+MAKMAAJI_00580	CDS	2049		3.4.24.-	COG0612	putative zinc protease
+MAKMAAJI_00581	CDS	1317		3.4.24.-	COG0612	putative zinc protease
+MAKMAAJI_00582	CDS	507	rplU		COG0261	50S ribosomal protein L21
+MAKMAAJI_00583	CDS	669	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+MAKMAAJI_00584	CDS	1287	hisD	1.1.1.23	COG0141	Histidinol dehydrogenase
+MAKMAAJI_00585	CDS	756	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+MAKMAAJI_00586	CDS	738	mlaE		COG0767	putative phospholipid ABC transporter permease protein MlaE
+MAKMAAJI_00587	CDS	684	yvdM	5.4.2.6	COG0637	Beta-phosphoglucomutase
+MAKMAAJI_00588	CDS	1365				hypothetical protein
+MAKMAAJI_00589	CDS	1137	cytR		COG1609	HTH-type transcriptional repressor CytR
+MAKMAAJI_00590	CDS	1035	mutY	3.2.2.-		Adenine DNA glycosylase
+MAKMAAJI_00591	CDS	291			COG0776	DNA-binding protein HRL53
+MAKMAAJI_00592	CDS	576	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+MAKMAAJI_00593	CDS	609				hypothetical protein
+MAKMAAJI_00594	CDS	936	qmcA		COG0330	Protein QmcA
+MAKMAAJI_00595	CDS	1503	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+MAKMAAJI_00596	CDS	450	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+MAKMAAJI_00597	CDS	1872	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+MAKMAAJI_00598	CDS	825	ubiG	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase
+MAKMAAJI_00599	CDS	1128	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit tau
+MAKMAAJI_00600	CDS	1188	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+MAKMAAJI_00601	CDS	975				hypothetical protein
+MAKMAAJI_00602	CDS	171	tatAy			Sec-independent protein translocase protein TatAy
+MAKMAAJI_00603	CDS	867	mepM_2	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+MAKMAAJI_00604	CDS	1797	mrcA		COG5009	Penicillin-binding protein 1A
+MAKMAAJI_00605	CDS	468		3.6.1.25	COG2954	Inorganic triphosphatase
+MAKMAAJI_00606	CDS	798				hypothetical protein
+MAKMAAJI_00607	CDS	948	metG	6.1.1.10		Methionine--tRNA ligase
+MAKMAAJI_00608	CDS	216				hypothetical protein
+MAKMAAJI_00609	CDS	903	acuC			Acetoin utilization protein AcuC
+MAKMAAJI_00610	CDS	327	ssb		COG0629	Single-stranded DNA-binding protein
+MAKMAAJI_00611	CDS	465	guaB_2	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+MAKMAAJI_00612	CDS	816	yeeZ		COG0451	Protein YeeZ
+MAKMAAJI_00613	CDS	489				hypothetical protein
+MAKMAAJI_00614	CDS	912				hypothetical protein
+MAKMAAJI_00615	CDS	270				hypothetical protein
+MAKMAAJI_00616	CDS	825	pheA		COG0077	P-protein
+MAKMAAJI_00617	CDS	1149	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+MAKMAAJI_00618	CDS	846	tyrC	1.3.1.43		Cyclohexadienyl dehydrogenase
+MAKMAAJI_00619	CDS	1083	aroA		COG1605	Protein AroA(G)
+MAKMAAJI_00620	CDS	948	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+MAKMAAJI_00621	CDS	456	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+MAKMAAJI_00622	CDS	330	ypjD		COG1694	putative protein YpjD
+MAKMAAJI_00623	CDS	219	wbpE	2.6.1.98	COG0399	UDP-2-acetamido-2-deoxy-3-oxo-D-glucuronate aminotransferase
+MAKMAAJI_00624	CDS	882	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+MAKMAAJI_00625	CDS	903	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+MAKMAAJI_00626	CDS	825	thyA	2.1.1.45	COG0207	Thymidylate synthase
+MAKMAAJI_00627	CDS	1164	nupX		COG1972	Putative nucleoside permease NupX
+MAKMAAJI_00628	CDS	234				hypothetical protein
+MAKMAAJI_00629	CDS	615				hypothetical protein
+MAKMAAJI_00630	CDS	1266	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+MAKMAAJI_00631	CDS	228				hypothetical protein
+MAKMAAJI_00632	CDS	606				hypothetical protein
+MAKMAAJI_00633	CDS	1035				hypothetical protein
+MAKMAAJI_00634	CDS	213				hypothetical protein
+MAKMAAJI_00635	CDS	906	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+MAKMAAJI_00636	CDS	213				hypothetical protein
+MAKMAAJI_00637	CDS	582	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+MAKMAAJI_00638	CDS	1617	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+MAKMAAJI_00639	CDS	333	hisH	2.4.2.-	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+MAKMAAJI_00640	CDS	729	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+MAKMAAJI_00641	CDS	753	hisF	4.1.3.-	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+MAKMAAJI_00642	CDS	597	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+MAKMAAJI_00643	CDS	1302	phrA	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+MAKMAAJI_00644	CDS	690	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+MAKMAAJI_00645	CDS	468				hypothetical protein
+MAKMAAJI_00646	CDS	501	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+MAKMAAJI_00647	CDS	621				hypothetical protein
+MAKMAAJI_00648	CDS	1539	glyQS	6.1.1.14		Glycine--tRNA ligase
+MAKMAAJI_00649	CDS	1794				hypothetical protein
+MAKMAAJI_00650	CDS	477	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]

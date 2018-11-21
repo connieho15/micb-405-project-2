@@ -1,0 +1,710 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+GJALPCBL_00001	CDS	2493	uvrA			UvrABC system protein A
+GJALPCBL_00002	CDS	969	lpxG	3.6.1.-	COG1408	UDP-2,3-diacylglucosamine pyrophosphatase LpxG
+GJALPCBL_00003	CDS	684				hypothetical protein
+GJALPCBL_00004	CDS	555				hypothetical protein
+GJALPCBL_00005	CDS	138				hypothetical protein
+GJALPCBL_00006	CDS	240				hypothetical protein
+GJALPCBL_00007	tmRNA	395	ssrA			transfer-messenger RNA, SsrA
+GJALPCBL_00008	CDS	960				hypothetical protein
+GJALPCBL_00009	CDS	207				hypothetical protein
+GJALPCBL_00010	CDS	1230	umuC		COG0389	Protein UmuC
+GJALPCBL_00011	CDS	609	lexA	3.4.21.88		LexA repressor
+GJALPCBL_00012	CDS	1194				hypothetical protein
+GJALPCBL_00013	CDS	888				hypothetical protein
+GJALPCBL_00014	CDS	1548	tagV	2.7.8.-	COG1316	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagV
+GJALPCBL_00015	CDS	684				hypothetical protein
+GJALPCBL_00016	CDS	948				hypothetical protein
+GJALPCBL_00017	CDS	981	fldH	1.1.1.-		Phenyllactate dehydrogenase
+GJALPCBL_00018	CDS	630				hypothetical protein
+GJALPCBL_00019	CDS	459				hypothetical protein
+GJALPCBL_00020	CDS	222				hypothetical protein
+GJALPCBL_00021	CDS	1374				hypothetical protein
+GJALPCBL_00022	CDS	414	rplL			50S ribosomal protein L7/L12
+GJALPCBL_00023	CDS	642	rplJ		COG0244	50S ribosomal protein L10
+GJALPCBL_00024	CDS	378	bshA_1	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+GJALPCBL_00025	CDS	1014	mshA_1	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+GJALPCBL_00026	CDS	708	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+GJALPCBL_00027	CDS	1026				hypothetical protein
+GJALPCBL_00028	CDS	1605				hypothetical protein
+GJALPCBL_00029	CDS	1032				hypothetical protein
+GJALPCBL_00030	CDS	975	mshA_2	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+GJALPCBL_00031	CDS	1161	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+GJALPCBL_00032	CDS	576				hypothetical protein
+GJALPCBL_00033	CDS	195				hypothetical protein
+GJALPCBL_00034	CDS	927	prfB_1		COG1186	Peptide chain release factor 2
+GJALPCBL_00035	CDS	312				hypothetical protein
+GJALPCBL_00036	CDS	840				hypothetical protein
+GJALPCBL_00037	CDS	525	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+GJALPCBL_00038	CDS	537				hypothetical protein
+GJALPCBL_00039	CDS	681				hypothetical protein
+GJALPCBL_00040	CDS	399	prfB_2			Peptide chain release factor 2
+GJALPCBL_00041	CDS	210	rpmB		COG0227	50S ribosomal protein L28
+GJALPCBL_00042	CDS	669				hypothetical protein
+GJALPCBL_00043	CDS	120				hypothetical protein
+GJALPCBL_00044	CDS	297				hypothetical protein
+GJALPCBL_00045	CDS	801	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+GJALPCBL_00046	CDS	1008	aroF	2.5.1.54	COG0722	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+GJALPCBL_00047	CDS	705				hypothetical protein
+GJALPCBL_00048	CDS	1665				hypothetical protein
+GJALPCBL_00049	CDS	1719	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+GJALPCBL_00050	CDS	540				hypothetical protein
+GJALPCBL_00051	CDS	840				hypothetical protein
+GJALPCBL_00052	CDS	579				hypothetical protein
+GJALPCBL_00053	CDS	663	nth	4.2.99.18	COG0177	Endonuclease III
+GJALPCBL_00054	CDS	621		3.1.-.-	COG0322	Putative bifunctional exonuclease/endonuclease protein
+GJALPCBL_00055	CDS	441	def	3.5.1.88	COG0242	Peptide deformylase
+GJALPCBL_00056	CDS	1443	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+GJALPCBL_00057	CDS	561	efp			Elongation factor P
+GJALPCBL_00058	CDS	390				hypothetical protein
+GJALPCBL_00059	CDS	201				hypothetical protein
+GJALPCBL_00060	CDS	582	maf		COG0424	Septum formation protein Maf
+GJALPCBL_00061	CDS	708				hypothetical protein
+GJALPCBL_00062	CDS	714				hypothetical protein
+GJALPCBL_00063	CDS	957	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+GJALPCBL_00064	CDS	654	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+GJALPCBL_00065	CDS	1167				Cell surface glycoprotein 2
+GJALPCBL_00066	CDS	1146				hypothetical protein
+GJALPCBL_00067	CDS	651				hypothetical protein
+GJALPCBL_00068	CDS	1929				hypothetical protein
+GJALPCBL_00069	CDS	387	tagD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+GJALPCBL_00070	CDS	657				hypothetical protein
+GJALPCBL_00071	CDS	738	comC			Type 4 prepilin-like proteins leader peptide-processing enzyme
+GJALPCBL_00072	CDS	450	smpB		COG0691	SsrA-binding protein
+GJALPCBL_00073	CDS	498				hypothetical protein
+GJALPCBL_00074	CDS	546				hypothetical protein
+GJALPCBL_00075	CDS	282				hypothetical protein
+GJALPCBL_00076	CDS	828				hypothetical protein
+GJALPCBL_00077	CDS	789				hypothetical protein
+GJALPCBL_00078	CDS	1146	pyrC	3.5.2.3	COG0044	Dihydroorotase
+GJALPCBL_00079	CDS	864	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+GJALPCBL_00080	CDS	1410				hypothetical protein
+GJALPCBL_00081	CDS	330				hypothetical protein
+GJALPCBL_00082	CDS	3267	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+GJALPCBL_00083	CDS	840				hypothetical protein
+GJALPCBL_00084	CDS	996				hypothetical protein
+GJALPCBL_00085	tRNA	86				tRNA-Leu(taa)
+GJALPCBL_00086	CDS	1251				hypothetical protein
+GJALPCBL_00087	CDS	1086	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+GJALPCBL_00088	CDS	324				hypothetical protein
+GJALPCBL_00089	CDS	1047	recA			Protein RecA
+GJALPCBL_00090	CDS	405			COG2852	putative protein
+GJALPCBL_00091	CDS	1377	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+GJALPCBL_00092	CDS	1062	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+GJALPCBL_00093	CDS	1014	gapB	1.2.1.59	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 2
+GJALPCBL_00094	CDS	960	fbp	3.1.3.11	COG0158	Fructose-1,6-bisphosphatase class 1
+GJALPCBL_00095	CDS	315				hypothetical protein
+GJALPCBL_00096	CDS	555				hypothetical protein
+GJALPCBL_00097	CDS	1011	mfpsA	2.4.1.246	COG0438	Mannosylfructose-phosphate synthase
+GJALPCBL_00098	CDS	885	nadK	2.7.1.23	COG0061	NAD kinase
+GJALPCBL_00099	CDS	285				hypothetical protein
+GJALPCBL_00100	CDS	426	ruvB	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+GJALPCBL_00101	CDS	444				hypothetical protein
+GJALPCBL_00102	CDS	1122	bshA_2	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+GJALPCBL_00103	tRNA	75				tRNA-Lys(ttt)
+GJALPCBL_00104	CDS	798	efeU		COG0672	Ferrous iron permease EfeU
+GJALPCBL_00105	CDS	759	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+GJALPCBL_00106	tRNA	77				tRNA-Gly(gcc)
+GJALPCBL_00107	CDS	1233				hypothetical protein
+GJALPCBL_00108	CDS	558				hypothetical protein
+GJALPCBL_00109	CDS	369				hypothetical protein
+GJALPCBL_00110	CDS	1539	metG	6.1.1.10	COG0143	Methionine--tRNA ligase
+GJALPCBL_00111	CDS	339				hypothetical protein
+GJALPCBL_00112	CDS	1275				Surface layer protein
+GJALPCBL_00113	CDS	855	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+GJALPCBL_00114	CDS	333	rbfA		COG0858	Ribosome-binding factor A
+GJALPCBL_00115	CDS	1011	nrnA_1	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+GJALPCBL_00116	CDS	2289	traC			Protein TraC
+GJALPCBL_00117	CDS	831				hypothetical protein
+GJALPCBL_00118	CDS	1362	nrnA_2	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+GJALPCBL_00119	CDS	1266	eno	4.2.1.11	COG0148	Enolase
+GJALPCBL_00120	CDS	867				hypothetical protein
+GJALPCBL_00121	CDS	912	corA		COG0598	Cobalt/magnesium transport protein CorA
+GJALPCBL_00122	CDS	408				hypothetical protein
+GJALPCBL_00123	CDS	399				hypothetical protein
+GJALPCBL_00124	CDS	858	lgt_1	2.4.99.-	COG0682	Prolipoprotein diacylglyceryl transferase
+GJALPCBL_00125	CDS	723				hypothetical protein
+GJALPCBL_00126	CDS	648	tal_1	2.2.1.2	COG0176	Transaldolase
+GJALPCBL_00127	CDS	1377	gndA_1	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+GJALPCBL_00128	CDS	2484		3.6.3.8		Calcium-transporting ATPase 1
+GJALPCBL_00129	CDS	1110				hypothetical protein
+GJALPCBL_00130	tRNA	90				tRNA-Ser(gct)
+GJALPCBL_00131	CDS	612				hypothetical protein
+GJALPCBL_00132	CDS	900	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+GJALPCBL_00133	CDS	273	ftsL			Cell division protein FtsL
+GJALPCBL_00134	CDS	519				hypothetical protein
+GJALPCBL_00135	CDS	2088	hppA1	3.6.1.1	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+GJALPCBL_00136	CDS	1617	guaB1	1.-.-.-	COG0516	putative oxidoreductase
+GJALPCBL_00137	CDS	990				hypothetical protein
+GJALPCBL_00138	CDS	1242				hypothetical protein
+GJALPCBL_00139	CDS	1668	pyrG	6.3.4.2		CTP synthase
+GJALPCBL_00140	CDS	768				hypothetical protein
+GJALPCBL_00141	CDS	591				hypothetical protein
+GJALPCBL_00142	CDS	2598				hypothetical protein
+GJALPCBL_00143	CDS	423				hypothetical protein
+GJALPCBL_00144	CDS	288	ybaB			Nucleoid-associated protein YbaB
+GJALPCBL_00145	CDS	1566				hypothetical protein
+GJALPCBL_00146	CDS	750		2.4.-.-	COG0463	putative glycosyltransferase
+GJALPCBL_00147	CDS	1755				hypothetical protein
+GJALPCBL_00148	CDS	1299				hypothetical protein
+GJALPCBL_00149	CDS	1317				hypothetical protein
+GJALPCBL_00150	CDS	423				hypothetical protein
+GJALPCBL_00151	CDS	405				hypothetical protein
+GJALPCBL_00152	CDS	2712				hypothetical protein
+GJALPCBL_00153	CDS	1047				hypothetical protein
+GJALPCBL_00154	CDS	1809				hypothetical protein
+GJALPCBL_00155	CDS	639				hypothetical protein
+GJALPCBL_00156	CDS	597				hypothetical protein
+GJALPCBL_00157	CDS	567	btrP	3.1.3.88		5''-phosphoribostamycin phosphatase
+GJALPCBL_00158	CDS	336				hypothetical protein
+GJALPCBL_00159	CDS	237				hypothetical protein
+GJALPCBL_00160	CDS	480				hypothetical protein
+GJALPCBL_00161	CDS	159				hypothetical protein
+GJALPCBL_00162	CDS	552	rsbW	2.7.11.1		Serine-protein kinase RsbW
+GJALPCBL_00163	CDS	1800	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+GJALPCBL_00164	CDS	1146				hypothetical protein
+GJALPCBL_00165	CDS	489				hypothetical protein
+GJALPCBL_00166	CDS	1761				hypothetical protein
+GJALPCBL_00167	CDS	417				hypothetical protein
+GJALPCBL_00168	CDS	627				hypothetical protein
+GJALPCBL_00169	CDS	528	uvrB			UvrABC system protein B
+GJALPCBL_00170	tRNA	77				tRNA-Met(cat)
+GJALPCBL_00171	CDS	447				hypothetical protein
+GJALPCBL_00172	CDS	1257	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+GJALPCBL_00173	CDS	1284	xynA	3.2.1.8		Endo-1,4-beta-xylanase A
+GJALPCBL_00174	CDS	1188				hypothetical protein
+GJALPCBL_00175	CDS	1701	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+GJALPCBL_00176	CDS	309				hypothetical protein
+GJALPCBL_00177	CDS	180				hypothetical protein
+GJALPCBL_00178	CDS	1566	rny	3.1.-.-	COG1418	Ribonuclease Y
+GJALPCBL_00179	CDS	699				hypothetical protein
+GJALPCBL_00180	CDS	231				hypothetical protein
+GJALPCBL_00181	tRNA	77				tRNA-Ala(ggc)
+GJALPCBL_00182	CDS	237				hypothetical protein
+GJALPCBL_00183	tRNA	78				tRNA-Arg(gcg)
+GJALPCBL_00184	CDS	450	purE	4.1.1.21	COG0041	Phosphoribosylaminoimidazole carboxylase
+GJALPCBL_00185	CDS	570	tmung	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+GJALPCBL_00186	CDS	363				hypothetical protein
+GJALPCBL_00187	CDS	1353	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+GJALPCBL_00188	CDS	1119				hypothetical protein
+GJALPCBL_00189	CDS	363				hypothetical protein
+GJALPCBL_00190	CDS	1251	wbpA	1.1.1.136	COG0677	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+GJALPCBL_00191	CDS	1044	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+GJALPCBL_00192	tRNA	88				tRNA-Leu(tag)
+GJALPCBL_00193	CDS	1863				hypothetical protein
+GJALPCBL_00194	CDS	351				hypothetical protein
+GJALPCBL_00195	CDS	462	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+GJALPCBL_00196	CDS	1677	rpoB	2.7.7.6		DNA-directed RNA polymerase subunit beta
+GJALPCBL_00197	CDS	381	ssb		COG0629	Single-stranded DNA-binding protein
+GJALPCBL_00198	CDS	144				hypothetical protein
+GJALPCBL_00199	CDS	312				hypothetical protein
+GJALPCBL_00200	CDS	2187	appA			Oligopeptide-binding protein AppA
+GJALPCBL_00201	CDS	447	rplI		COG0359	50S ribosomal protein L9
+GJALPCBL_00202	tRNA	77				tRNA-Ile(tat)
+GJALPCBL_00203	CDS	363	rplU		COG0261	50S ribosomal protein L21
+GJALPCBL_00204	CDS	1065	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+GJALPCBL_00205	CDS	423				hypothetical protein
+GJALPCBL_00206	CDS	300	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+GJALPCBL_00207	CDS	1212				hypothetical protein
+GJALPCBL_00208	CDS	1215	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+GJALPCBL_00209	CDS	1776	nhaP2		COG3263	K(+)/H(+) antiporter NhaP2
+GJALPCBL_00210	CDS	396	grpE		COG0576	Protein GrpE
+GJALPCBL_00211	CDS	933	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+GJALPCBL_00212	CDS	453				hypothetical protein
+GJALPCBL_00213	tRNA	77				tRNA-Ile(gat)
+GJALPCBL_00214	CDS	846				hypothetical protein
+GJALPCBL_00215	CDS	624				hypothetical protein
+GJALPCBL_00216	CDS	951	cugP	2.7.7.9		UTP--glucose-1-phosphate uridylyltransferase
+GJALPCBL_00217	CDS	675				hypothetical protein
+GJALPCBL_00218	CDS	615			COG0328	Bifunctional protein
+GJALPCBL_00219	CDS	546				hypothetical protein
+GJALPCBL_00220	CDS	1281		3.4.21.-		putative CtpA-like serine protease
+GJALPCBL_00221	CDS	435	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+GJALPCBL_00222	CDS	459		3.4.24.-	COG0612	putative zinc protease
+GJALPCBL_00223	CDS	234	rpsR2		COG0238	30S ribosomal protein S18 2
+GJALPCBL_00224	CDS	744			COG0217	putative transcriptional regulatory protein/MSMEI_2866
+GJALPCBL_00225	CDS	3132	pbpG		COG0744	Penicillin-binding protein 2D
+GJALPCBL_00226	CDS	294				hypothetical protein
+GJALPCBL_00227	CDS	600				hypothetical protein
+GJALPCBL_00228	CDS	945	ftsX		COG2177	Cell division protein FtsX
+GJALPCBL_00229	CDS	642	recO		COG1381	DNA repair protein RecO
+GJALPCBL_00230	CDS	954	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+GJALPCBL_00231	CDS	1140	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+GJALPCBL_00232	CDS	330		4.2.1.96		Putative pterin-4-alpha-carbinolamine dehydratase
+GJALPCBL_00233	CDS	750				hypothetical protein
+GJALPCBL_00234	CDS	192				hypothetical protein
+GJALPCBL_00235	CDS	1122	msrAB		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+GJALPCBL_00236	CDS	837				hypothetical protein
+GJALPCBL_00237	CDS	930				hypothetical protein
+GJALPCBL_00238	CDS	534				hypothetical protein
+GJALPCBL_00239	CDS	615				hypothetical protein
+GJALPCBL_00240	CDS	1740				hypothetical protein
+GJALPCBL_00241	CDS	981				hypothetical protein
+GJALPCBL_00242	CDS	1509				Cell surface glycoprotein 2
+GJALPCBL_00243	CDS	255				hypothetical protein
+GJALPCBL_00244	CDS	330	groS		COG0234	10 kDa chaperonin
+GJALPCBL_00245	CDS	1995				hypothetical protein
+GJALPCBL_00246	CDS	501				hypothetical protein
+GJALPCBL_00247	CDS	132				hypothetical protein
+GJALPCBL_00248	CDS	906				hypothetical protein
+GJALPCBL_00249	CDS	1977				hypothetical protein
+GJALPCBL_00250	CDS	882				hypothetical protein
+GJALPCBL_00251	CDS	1596				hypothetical protein
+GJALPCBL_00252	CDS	1383	algC	5.4.2.2		Phosphomannomutase/phosphoglucomutase
+GJALPCBL_00253	CDS	177				hypothetical protein
+GJALPCBL_00254	CDS	993	ansA	3.5.1.1	COG0252	L-asparaginase 1
+GJALPCBL_00255	CDS	579	gmk	2.7.4.8	COG0194	Guanylate kinase
+GJALPCBL_00256	CDS	468	rsmF	2.1.1.178		Ribosomal RNA small subunit methyltransferase F
+GJALPCBL_00257	CDS	1002	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+GJALPCBL_00258	CDS	1758	dnaG	2.7.7.-	COG0358	DNA primase
+GJALPCBL_00259	CDS	1545	sigA		COG0568	RNA polymerase sigma factor SigA
+GJALPCBL_00260	CDS	207				hypothetical protein
+GJALPCBL_00261	CDS	2667	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+GJALPCBL_00262	CDS	411				hypothetical protein
+GJALPCBL_00263	CDS	870				hypothetical protein
+GJALPCBL_00264	CDS	1287	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+GJALPCBL_00265	CDS	471				hypothetical protein
+GJALPCBL_00266	CDS	1290				Surface layer protein
+GJALPCBL_00267	CDS	1095	ychF		COG0012	Ribosome-binding ATPase YchF
+GJALPCBL_00268	CDS	294				hypothetical protein
+GJALPCBL_00269	CDS	438				hypothetical protein
+GJALPCBL_00270	CDS	1377				hypothetical protein
+GJALPCBL_00271	CDS	537				hypothetical protein
+GJALPCBL_00272	CDS	333	csaA		COG0073	putative chaperone CsaA
+GJALPCBL_00273	CDS	2304	cbbT	2.2.1.1		Transketolase 2
+GJALPCBL_00274	tRNA	90				tRNA-Ser(tga)
+GJALPCBL_00275	tRNA	77				tRNA-Val(gac)
+GJALPCBL_00276	CDS	624	pyrE	2.4.2.10		Orotate phosphoribosyltransferase
+GJALPCBL_00277	CDS	1122	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+GJALPCBL_00278	CDS	1452	dnaA			Chromosomal replication initiator protein DnaA
+GJALPCBL_00279	CDS	1815	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase 1
+GJALPCBL_00280	CDS	1122	iscS	2.8.1.7		Cysteine desulfurase IscS
+GJALPCBL_00281	CDS	264				hypothetical protein
+GJALPCBL_00282	CDS	1245	yidC2		COG0706	Membrane protein insertase YidC 2
+GJALPCBL_00283	CDS	360	rnpA	3.1.26.5		Ribonuclease P protein component
+GJALPCBL_00284	CDS	297	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+GJALPCBL_00285	CDS	624				hypothetical protein
+GJALPCBL_00286	CDS	1014				hypothetical protein
+GJALPCBL_00287	CDS	1080	dnaJ		COG0484	Chaperone protein DnaJ
+GJALPCBL_00288	CDS	384			COG2852	putative protein
+GJALPCBL_00289	CDS	546				hypothetical protein
+GJALPCBL_00290	CDS	276	hup		COG0776	DNA-binding protein HU
+GJALPCBL_00291	CDS	2403	topA	5.99.1.2	COG0550	DNA topoisomerase 1
+GJALPCBL_00292	CDS	963	otcC	1.14.13.38		Anhydrotetracycline monooxygenase
+GJALPCBL_00293	CDS	1320	rhlE	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlE
+GJALPCBL_00294	CDS	192				hypothetical protein
+GJALPCBL_00295	CDS	417				hypothetical protein
+GJALPCBL_00296	CDS	624	yceI			Protein YceI
+GJALPCBL_00297	CDS	1896	yrrB			TPR repeat-containing protein YrrB
+GJALPCBL_00298	CDS	750				hypothetical protein
+GJALPCBL_00299	CDS	2481				hypothetical protein
+GJALPCBL_00300	CDS	309				hypothetical protein
+GJALPCBL_00301	CDS	303				hypothetical protein
+GJALPCBL_00302	CDS	381				hypothetical protein
+GJALPCBL_00303	CDS	534				hypothetical protein
+GJALPCBL_00304	CDS	756	fbiB	6.3.2.34		Coenzyme F420:L-glutamate ligase
+GJALPCBL_00305	CDS	1242			COG0628	Putative transport protein
+GJALPCBL_00306	CDS	342				hypothetical protein
+GJALPCBL_00307	CDS	720				hypothetical protein
+GJALPCBL_00308	tRNA	77				tRNA-Trp(cca)
+GJALPCBL_00309	CDS	876	mepM_1	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+GJALPCBL_00310	CDS	1137	dgt		COG0232	Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+GJALPCBL_00311	CDS	1332	cueO		COG2132	Blue copper oxidase CueO
+GJALPCBL_00312	CDS	2415	clpC		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpC
+GJALPCBL_00313	CDS	423				hypothetical protein
+GJALPCBL_00314	CDS	606	tmk	2.7.4.9	COG0125	Thymidylate kinase
+GJALPCBL_00315	CDS	852	folD			Bifunctional protein FolD protein
+GJALPCBL_00316	CDS	1506	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+GJALPCBL_00317	CDS	1326	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+GJALPCBL_00318	CDS	3078				hypothetical protein
+GJALPCBL_00319	CDS	1035	bshA_3	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+GJALPCBL_00320	CDS	714	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+GJALPCBL_00321	CDS	960	rmlB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+GJALPCBL_00322	CDS	351				hypothetical protein
+GJALPCBL_00323	CDS	360	clpB			Chaperone protein ClpB
+GJALPCBL_00324	CDS	636				hypothetical protein
+GJALPCBL_00325	CDS	705				hypothetical protein
+GJALPCBL_00326	CDS	120				hypothetical protein
+GJALPCBL_00327	CDS	432				hypothetical protein
+GJALPCBL_00328	CDS	246	yodB		COG1733	HTH-type transcriptional regulator YodB
+GJALPCBL_00329	CDS	366				hypothetical protein
+GJALPCBL_00330	CDS	477	yncB	3.1.-.-	COG1525	Endonuclease YncB
+GJALPCBL_00331	CDS	180				hypothetical protein
+GJALPCBL_00332	CDS	792	prfA		COG0216	Peptide chain release factor RF1
+GJALPCBL_00333	CDS	1326				Folate-biopterin transporter
+GJALPCBL_00334	CDS	543	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+GJALPCBL_00335	CDS	396				hypothetical protein
+GJALPCBL_00336	CDS	207				hypothetical protein
+GJALPCBL_00337	CDS	960				hypothetical protein
+GJALPCBL_00338	tmRNA	395	ssrA			transfer-messenger RNA, SsrA
+GJALPCBL_00339	CDS	240				hypothetical protein
+GJALPCBL_00340	CDS	138				hypothetical protein
+GJALPCBL_00341	CDS	927	xerC		COG4973	Tyrosine recombinase XerC
+GJALPCBL_00342	CDS	597				hypothetical protein
+GJALPCBL_00343	CDS	1596				hypothetical protein
+GJALPCBL_00344	CDS	1239	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+GJALPCBL_00345	CDS	690	pgl	3.1.1.31		6-phosphogluconolactonase
+GJALPCBL_00346	CDS	1485	zwf	1.1.1.49	COG0364	Glucose-6-phosphate 1-dehydrogenase
+GJALPCBL_00347	CDS	99				hypothetical protein
+GJALPCBL_00348	CDS	243				hypothetical protein
+GJALPCBL_00349	CDS	1176	metK	2.5.1.6		S-adenosylmethionine synthase
+GJALPCBL_00350	CDS	804	lytB		COG2247	Amidase enhancer
+GJALPCBL_00351	CDS	1056	ligA	6.5.1.2	COG0272	DNA ligase
+GJALPCBL_00352	CDS	375	zraR		COG2204	Transcriptional regulatory protein ZraR
+GJALPCBL_00353	CDS	1788	ycf3			Photosystem I assembly protein Ycf3
+GJALPCBL_00354	CDS	2304				hypothetical protein
+GJALPCBL_00355	CDS	2598				hypothetical protein
+GJALPCBL_00356	CDS	345				hypothetical protein
+GJALPCBL_00357	CDS	738	rimK	6.3.2.-	COG0189	Ribosomal protein S6--L-glutamate ligase
+GJALPCBL_00358	CDS	744				hypothetical protein
+GJALPCBL_00359	CDS	678				hypothetical protein
+GJALPCBL_00360	CDS	777				hypothetical protein
+GJALPCBL_00361	CDS	264				hypothetical protein
+GJALPCBL_00362	CDS	555				hypothetical protein
+GJALPCBL_00363	tRNA	87				tRNA-Leu(gag)
+GJALPCBL_00364	CDS	816	ftsZ			Cell division protein FtsZ
+GJALPCBL_00365	CDS	474	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+GJALPCBL_00366	CDS	2496				hypothetical protein
+GJALPCBL_00367	CDS	255				hypothetical protein
+GJALPCBL_00368	CDS	345				hypothetical protein
+GJALPCBL_00369	CDS	669	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+GJALPCBL_00370	CDS	2700				hypothetical protein
+GJALPCBL_00371	CDS	609	sigM		COG1595	ECF RNA polymerase sigma factor SigM
+GJALPCBL_00372	CDS	1782	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+GJALPCBL_00373	CDS	387				hypothetical protein
+GJALPCBL_00374	CDS	567				hypothetical protein
+GJALPCBL_00375	CDS	1305				hypothetical protein
+GJALPCBL_00376	CDS	1326	mnaA	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+GJALPCBL_00377	CDS	666	gpmA	5.4.2.11		2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+GJALPCBL_00378	CDS	318				hypothetical protein
+GJALPCBL_00379	CDS	723	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+GJALPCBL_00380	CDS	678	bdbD_1		COG1651	Disulfide bond formation protein D
+GJALPCBL_00381	CDS	270				hypothetical protein
+GJALPCBL_00382	CDS	216	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+GJALPCBL_00383	CDS	1452	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+GJALPCBL_00384	tRNA	75				tRNA-Gly(tcc)
+GJALPCBL_00385	CDS	279				hypothetical protein
+GJALPCBL_00386	CDS	279				hypothetical protein
+GJALPCBL_00387	CDS	492				hypothetical protein
+GJALPCBL_00388	CDS	333		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+GJALPCBL_00389	CDS	942	rpsA		COG0539	30S ribosomal protein S1
+GJALPCBL_00390	CDS	930				hypothetical protein
+GJALPCBL_00391	CDS	1470	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+GJALPCBL_00392	CDS	453	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+GJALPCBL_00393	CDS	252				hypothetical protein
+GJALPCBL_00394	CDS	735	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+GJALPCBL_00395	CDS	1671	nrdZ	1.17.4.1	COG0209	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+GJALPCBL_00396	CDS	1272	uvrC		COG0322	UvrABC system protein C
+GJALPCBL_00397	CDS	579				hypothetical protein
+GJALPCBL_00398	tRNA	75				tRNA-Glu(ctc)
+GJALPCBL_00399	CDS	342				hypothetical protein
+GJALPCBL_00400	CDS	624				hypothetical protein
+GJALPCBL_00401	CDS	2406	leuS	6.1.1.4		Leucine--tRNA ligase
+GJALPCBL_00402	CDS	1338	der		COG1160	GTPase Der
+GJALPCBL_00403	CDS	651				hypothetical protein
+GJALPCBL_00404	CDS	138				hypothetical protein
+GJALPCBL_00405	CDS	612				hypothetical protein
+GJALPCBL_00406	CDS	1302				hypothetical protein
+GJALPCBL_00407	CDS	1332				hypothetical protein
+GJALPCBL_00408	CDS	168				hypothetical protein
+GJALPCBL_00409	CDS	957	femB	2.3.2.18	COG2348	Aminoacyltransferase FemB
+GJALPCBL_00410	CDS	606	sodA	1.15.1.1		Superoxide dismutase [Mn]
+GJALPCBL_00411	CDS	444				hypothetical protein
+GJALPCBL_00412	CDS	684				hypothetical protein
+GJALPCBL_00413	CDS	756	sufD		COG0719	FeS cluster assembly protein SufD
+GJALPCBL_00414	CDS	375				hypothetical protein
+GJALPCBL_00415	CDS	183				hypothetical protein
+GJALPCBL_00416	CDS	1419				hypothetical protein
+GJALPCBL_00417	CDS	108				hypothetical protein
+GJALPCBL_00418	CDS	615				hypothetical protein
+GJALPCBL_00419	CDS	621				hypothetical protein
+GJALPCBL_00420	CDS	753			COG2968	26 kDa periplasmic immunogenic protein
+GJALPCBL_00421	CDS	654	sufC		COG0396	Vegetative protein 296
+GJALPCBL_00422	CDS	285	fdx		COG0633	2Fe-2S ferredoxin
+GJALPCBL_00423	CDS	762	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+GJALPCBL_00424	CDS	192				hypothetical protein
+GJALPCBL_00425	CDS	456	rppH	3.6.1.-	COG0494	RNA pyrophosphohydrolase
+GJALPCBL_00426	CDS	909	arnF			4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnF
+GJALPCBL_00427	CDS	195				hypothetical protein
+GJALPCBL_00428	CDS	921		4.3.1.9	COG0492	Glucosaminate ammonia-lyase
+GJALPCBL_00429	CDS	1284	rocG	1.4.1.2	COG0334	Catabolic NAD-specific glutamate dehydrogenase RocG
+GJALPCBL_00430	CDS	2754	secA		COG0653	Protein translocase subunit SecA
+GJALPCBL_00431	CDS	540				hypothetical protein
+GJALPCBL_00432	CDS	501				hypothetical protein
+GJALPCBL_00433	CDS	555	atpE			V-type proton ATPase subunit E
+GJALPCBL_00434	CDS	1008	atpC			V-type ATP synthase subunit C
+GJALPCBL_00435	CDS	351	ntpG			V-type sodium ATPase subunit G
+GJALPCBL_00436	CDS	168				hypothetical protein
+GJALPCBL_00437	CDS	1758	ntpA	3.6.3.15		V-type sodium ATPase catalytic subunit A
+GJALPCBL_00438	CDS	1434	ntpB			V-type sodium ATPase subunit B
+GJALPCBL_00439	CDS	762				hypothetical protein
+GJALPCBL_00440	CDS	645	ntpD			V-type sodium ATPase subunit D
+GJALPCBL_00441	CDS	342	rplT		COG0292	50S ribosomal protein L20
+GJALPCBL_00442	CDS	204	rpmI		COG0291	50S ribosomal protein L35
+GJALPCBL_00443	CDS	552	infC			Translation initiation factor IF-3
+GJALPCBL_00444	CDS	870				hypothetical protein
+GJALPCBL_00445	CDS	597				hypothetical protein
+GJALPCBL_00446	CDS	348				hypothetical protein
+GJALPCBL_00447	CDS	555				hypothetical protein
+GJALPCBL_00448	CDS	261				hypothetical protein
+GJALPCBL_00449	CDS	570				hypothetical protein
+GJALPCBL_00450	tRNA	77				tRNA-Pro(tgg)
+GJALPCBL_00451	CDS	2103	priA	3.6.4.-	COG1198	Primosomal protein N'
+GJALPCBL_00452	CDS	1200				hypothetical protein
+GJALPCBL_00453	CDS	459	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+GJALPCBL_00454	CDS	1233	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+GJALPCBL_00455	CDS	546	frr		COG0233	Ribosome-recycling factor
+GJALPCBL_00456	CDS	735	pyrH	2.7.4.22	COG0528	Uridylate kinase
+GJALPCBL_00457	tRNA	77				tRNA-Arg(tct)
+GJALPCBL_00458	CDS	1485				Surface layer protein
+GJALPCBL_00459	CDS	165				hypothetical protein
+GJALPCBL_00460	CDS	1113				hypothetical protein
+GJALPCBL_00461	CDS	927	ribD		COG0117	Riboflavin biosynthesis protein RibD
+GJALPCBL_00462	CDS	1971	fusA		COG0480	Elongation factor G
+GJALPCBL_00463	CDS	1563				hypothetical protein
+GJALPCBL_00464	CDS	594				hypothetical protein
+GJALPCBL_00465	CDS	504				hypothetical protein
+GJALPCBL_00466	CDS	411				hypothetical protein
+GJALPCBL_00467	CDS	303				hypothetical protein
+GJALPCBL_00468	CDS	327				hypothetical protein
+GJALPCBL_00469	tRNA	77				tRNA-Met(cat)
+GJALPCBL_00470	CDS	732	lip3	3.1.1.3		Lipase 3
+GJALPCBL_00471	CDS	1491	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+GJALPCBL_00472	CDS	1224	rfbE	2.6.1.102	COG0399	GDP-perosamine synthase
+GJALPCBL_00473	CDS	828	nfo	3.1.21.2		endonuclease 4
+GJALPCBL_00474	CDS	1011	gap	1.2.1.12		Glyceraldehyde-3-phosphate dehydrogenase
+GJALPCBL_00475	CDS	1935	dnaK		COG0443	Chaperone protein DnaK
+GJALPCBL_00476	CDS	576	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+GJALPCBL_00477	CDS	762	ftsE		COG2884	Cell division ATP-binding protein FtsE
+GJALPCBL_00478	CDS	453				hypothetical protein
+GJALPCBL_00479	CDS	1068	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+GJALPCBL_00480	CDS	222				hypothetical protein
+GJALPCBL_00481	CDS	216				hypothetical protein
+GJALPCBL_00482	CDS	300				hypothetical protein
+GJALPCBL_00483	tRNA	75				tRNA-Gln(ctg)
+GJALPCBL_00484	tRNA	77				tRNA-Arg(tcg)
+GJALPCBL_00485	CDS	516				hypothetical protein
+GJALPCBL_00486	CDS	324				hypothetical protein
+GJALPCBL_00487	CDS	411				hypothetical protein
+GJALPCBL_00488	CDS	945				hypothetical protein
+GJALPCBL_00489	CDS	567	rplS			50S ribosomal protein L19
+GJALPCBL_00490	CDS	585				hypothetical protein
+GJALPCBL_00491	CDS	261				hypothetical protein
+GJALPCBL_00492	CDS	378				Bifunctional NMN adenylyltransferase/Nudix hydrolase
+GJALPCBL_00493	CDS	1617	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+GJALPCBL_00494	CDS	594				hypothetical protein
+GJALPCBL_00495	CDS	753				hypothetical protein
+GJALPCBL_00496	CDS	702				hypothetical protein
+GJALPCBL_00497	CDS	675	rpsC		COG0092	30S ribosomal protein S3
+GJALPCBL_00498	CDS	519	rplV		COG0091	50S ribosomal protein L22
+GJALPCBL_00499	CDS	273	rpsS			30S ribosomal protein S19
+GJALPCBL_00500	CDS	855	rplB		COG0090	50S ribosomal protein L2
+GJALPCBL_00501	CDS	300	rplW		COG0089	50S ribosomal protein L23
+GJALPCBL_00502	CDS	396	rplD		COG0088	50S ribosomal protein L4
+GJALPCBL_00503	tRNA	85				tRNA-Tyr(gta)
+GJALPCBL_00504	CDS	819	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+GJALPCBL_00505	CDS	2214	sftA			DNA translocase SftA
+GJALPCBL_00506	CDS	597		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+GJALPCBL_00507	CDS	840				hypothetical protein
+GJALPCBL_00508	CDS	2715	yjcD	3.6.4.12	COG0210	Putative ATP-dependent DNA helicase YjcD
+GJALPCBL_00509	CDS	261	rpsT		COG0268	30S ribosomal protein S20
+GJALPCBL_00510	CDS	1776	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+GJALPCBL_00511	CDS	2532	spoVD		COG0768	Stage V sporulation protein D
+GJALPCBL_00512	CDS	801	wbbL	2.4.1.289	COG1216	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+GJALPCBL_00513	CDS	663	ctc		COG1825	General stress protein CTC
+GJALPCBL_00514	CDS	927	yerB			Putative lipoprotein YerB
+GJALPCBL_00515	CDS	2376				hypothetical protein
+GJALPCBL_00516	CDS	1509				hypothetical protein
+GJALPCBL_00517	CDS	321				hypothetical protein
+GJALPCBL_00518	CDS	1092				hypothetical protein
+GJALPCBL_00519	CDS	558	pilT		COG2805	Twitching mobility protein
+GJALPCBL_00520	CDS	243				hypothetical protein
+GJALPCBL_00521	CDS	483				hypothetical protein
+GJALPCBL_00522	CDS	246				hypothetical protein
+GJALPCBL_00523	CDS	435				hypothetical protein
+GJALPCBL_00524	CDS	2985				hypothetical protein
+GJALPCBL_00525	CDS	1521	rpfC	2.7.13.3	COG0642	Sensory/regulatory protein RpfC
+GJALPCBL_00526	CDS	843	prmA	2.1.1.-		Ribosomal protein L11 methyltransferase
+GJALPCBL_00527	CDS	591				hypothetical protein
+GJALPCBL_00528	CDS	315				hypothetical protein
+GJALPCBL_00529	CDS	1281				Surface layer protein
+GJALPCBL_00530	CDS	306				hypothetical protein
+GJALPCBL_00531	CDS	414				hypothetical protein
+GJALPCBL_00532	CDS	609				hypothetical protein
+GJALPCBL_00533	CDS	420	rplK		COG0080	50S ribosomal protein L11
+GJALPCBL_00534	CDS	654				hypothetical protein
+GJALPCBL_00535	CDS	411				hypothetical protein
+GJALPCBL_00536	CDS	294				hypothetical protein
+GJALPCBL_00537	CDS	834	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+GJALPCBL_00538	CDS	348				hypothetical protein
+GJALPCBL_00539	CDS	459	hspA		COG0071	Spore protein SP21
+GJALPCBL_00540	CDS	93				hypothetical protein
+GJALPCBL_00541	CDS	879				hypothetical protein
+GJALPCBL_00542	CDS	837	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+GJALPCBL_00543	CDS	225				hypothetical protein
+GJALPCBL_00544	CDS	993	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+GJALPCBL_00545	CDS	768				hypothetical protein
+GJALPCBL_00546	CDS	1935				hypothetical protein
+GJALPCBL_00547	CDS	1557				hypothetical protein
+GJALPCBL_00548	CDS	768				hypothetical protein
+GJALPCBL_00549	CDS	1032	sap			S-layer protein sap
+GJALPCBL_00550	CDS	357	ribF			Riboflavin biosynthesis protein RibF
+GJALPCBL_00551	CDS	1269	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+GJALPCBL_00552	CDS	780	lgt_2	2.4.99.-	COG0682	Prolipoprotein diacylglyceryl transferase
+GJALPCBL_00553	CDS	1413				hypothetical protein
+GJALPCBL_00554	CDS	810				hypothetical protein
+GJALPCBL_00555	CDS	240				hypothetical protein
+GJALPCBL_00556	tRNA	90				tRNA-Ser(gga)
+GJALPCBL_00557	CDS	960	polX		COG1387	DNA polymerase/3'-5' exonuclease PolX
+GJALPCBL_00558	CDS	303				hypothetical protein
+GJALPCBL_00559	CDS	1344	ahcY	3.3.1.1		Adenosylhomocysteinase
+GJALPCBL_00560	CDS	951	adoK	2.7.1.20		Adenosine kinase
+GJALPCBL_00561	CDS	1311	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+GJALPCBL_00562	CDS	963	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+GJALPCBL_00563	CDS	1179				hypothetical protein
+GJALPCBL_00564	CDS	312				hypothetical protein
+GJALPCBL_00565	CDS	1092	lnt			Bifunctional apolipoprotein N-acyltransferase/polyprenol monophosphomannose synthase
+GJALPCBL_00566	CDS	918	rffG	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase 2
+GJALPCBL_00567	CDS	978				hypothetical protein
+GJALPCBL_00568	CDS	273				hypothetical protein
+GJALPCBL_00569	CDS	162				hypothetical protein
+GJALPCBL_00570	CDS	1167				hypothetical protein
+GJALPCBL_00571	CDS	984				hypothetical protein
+GJALPCBL_00572	CDS	1479	mepM_2	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+GJALPCBL_00573	CDS	996	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+GJALPCBL_00574	CDS	255				hypothetical protein
+GJALPCBL_00575	CDS	591				hypothetical protein
+GJALPCBL_00576	CDS	135				hypothetical protein
+GJALPCBL_00577	CDS	948	miaA	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+GJALPCBL_00578	CDS	501				hypothetical protein
+GJALPCBL_00579	CDS	444				hypothetical protein
+GJALPCBL_00580	CDS	378				hypothetical protein
+GJALPCBL_00581	CDS	1395	mscS		COG0668	Small-conductance mechanosensitive channel
+GJALPCBL_00582	CDS	1083	rlmN	2.1.1.192		putative dual-specificity RNA methyltransferase RlmN
+GJALPCBL_00583	CDS	870	rlmK	2.1.1.264	COG1092	Ribosomal RNA large subunit methyltransferase K
+GJALPCBL_00584	tRNA	75				tRNA-Asn(gtt)
+GJALPCBL_00585	CDS	933				hypothetical protein
+GJALPCBL_00586	CDS	216				hypothetical protein
+GJALPCBL_00587	CDS	942	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+GJALPCBL_00588	CDS	840			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+GJALPCBL_00589	CDS	435				hypothetical protein
+GJALPCBL_00590	tRNA	75				tRNA-Glu(ttc)
+GJALPCBL_00591	CDS	285				hypothetical protein
+GJALPCBL_00592	CDS	1671	typA		COG1217	GTP-binding protein TypA/BipA
+GJALPCBL_00593	CDS	159				hypothetical protein
+GJALPCBL_00594	CDS	4188				hypothetical protein
+GJALPCBL_00595	CDS	822				hypothetical protein
+GJALPCBL_00596	CDS	408				hypothetical protein
+GJALPCBL_00597	CDS	1251	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+GJALPCBL_00598	CDS	384				hypothetical protein
+GJALPCBL_00599	CDS	456				hypothetical protein
+GJALPCBL_00600	CDS	726				hypothetical protein
+GJALPCBL_00601	CDS	1125	bshA_4	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+GJALPCBL_00602	CDS	735				hypothetical protein
+GJALPCBL_00603	CDS	630				hypothetical protein
+GJALPCBL_00604	CDS	1296				hypothetical protein
+GJALPCBL_00605	CDS	204				hypothetical protein
+GJALPCBL_00606	CDS	1626	pdxT	3.5.1.2		Pyridoxal 5'-phosphate synthase subunit PdxT
+GJALPCBL_00607	CDS	774	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+GJALPCBL_00608	CDS	1311	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+GJALPCBL_00609	CDS	672				hypothetical protein
+GJALPCBL_00610	CDS	276				hypothetical protein
+GJALPCBL_00611	CDS	471			COG0716	Flavodoxin
+GJALPCBL_00612	CDS	1728	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+GJALPCBL_00613	CDS	888	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+GJALPCBL_00614	CDS	321				hypothetical protein
+GJALPCBL_00615	CDS	606				hypothetical protein
+GJALPCBL_00616	CDS	195	cspD		COG1278	Cold shock-like protein CspD
+GJALPCBL_00617	CDS	1098				hypothetical protein
+GJALPCBL_00618	CDS	1101				hypothetical protein
+GJALPCBL_00619	CDS	1050	ynaI		COG0668	Low conductance mechanosensitive channel YnaI
+GJALPCBL_00620	CDS	528	idi	5.3.3.2	COG1443	Isopentenyl-diphosphate Delta-isomerase
+GJALPCBL_00621	CDS	435	uppS	2.5.1.-	COG0020	Isoprenyl transferase
+GJALPCBL_00622	CDS	837				hypothetical protein
+GJALPCBL_00623	CDS	978	thrB	2.7.1.39		Homoserine kinase
+GJALPCBL_00624	CDS	1692				hypothetical protein
+GJALPCBL_00625	CDS	564	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+GJALPCBL_00626	CDS	864	valG	2.4.1.338	COG0463	Validoxylamine A glucosyltransferase
+GJALPCBL_00627	CDS	1194	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+GJALPCBL_00628	CDS	1038	murG	2.4.1.227		UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+GJALPCBL_00629	CDS	744		5.2.1.8		Putative peptidyl-prolyl cis-trans isomerase
+GJALPCBL_00630	CDS	1476	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+GJALPCBL_00631	CDS	444				hypothetical protein
+GJALPCBL_00632	tRNA	75				tRNA-Cys(gca)
+GJALPCBL_00633	CDS	1242				hypothetical protein
+GJALPCBL_00634	CDS	648				hypothetical protein
+GJALPCBL_00635	CDS	429				hypothetical protein
+GJALPCBL_00636	CDS	93				hypothetical protein
+GJALPCBL_00637	CDS	660				hypothetical protein
+GJALPCBL_00638	CDS	543	ribE	2.5.1.9	COG0307	Riboflavin synthase
+GJALPCBL_00639	CDS	480	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+GJALPCBL_00640	CDS	480	mprA		COG0745	Response regulator MprA
+GJALPCBL_00641	CDS	774	tsf		COG0264	Elongation factor Ts
+GJALPCBL_00642	CDS	714	rpsB		COG0052	30S ribosomal protein S2
+GJALPCBL_00643	CDS	417				hypothetical protein
+GJALPCBL_00644	CDS	1464	glyQS	6.1.1.14		Glycine--tRNA ligase
+GJALPCBL_00645	CDS	426				hypothetical protein
+GJALPCBL_00646	CDS	1056	bshA_5	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+GJALPCBL_00647	CDS	249				hypothetical protein
+GJALPCBL_00648	CDS	387	narL		COG2197	putative transcriptional regulatory protein NarL
+GJALPCBL_00649	CDS	249				hypothetical protein
+GJALPCBL_00650	CDS	417				hypothetical protein
+GJALPCBL_00651	CDS	1314	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+GJALPCBL_00652	CDS	381				hypothetical protein
+GJALPCBL_00653	CDS	1080	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+GJALPCBL_00654	CDS	1431				hypothetical protein
+GJALPCBL_00655	CDS	426				hypothetical protein
+GJALPCBL_00656	CDS	708				hypothetical protein
+GJALPCBL_00657	CDS	987				hypothetical protein
+GJALPCBL_00658	CDS	471				hypothetical protein
+GJALPCBL_00659	CDS	669				hypothetical protein
+GJALPCBL_00660	CDS	1356	recG	3.6.4.12		ATP-dependent DNA helicase RecG
+GJALPCBL_00661	CDS	654			COG0330	putative protein
+GJALPCBL_00662	CDS	138				hypothetical protein
+GJALPCBL_00663	CDS	864				hypothetical protein
+GJALPCBL_00664	CDS	1080	dprA		COG0758	DNA processing protein DprA
+GJALPCBL_00665	CDS	219				hypothetical protein
+GJALPCBL_00666	CDS	414				hypothetical protein
+GJALPCBL_00667	CDS	375				hypothetical protein
+GJALPCBL_00668	CDS	309				hypothetical protein
+GJALPCBL_00669	CDS	408	cbaB	1.9.3.1	COG1622	Cytochrome c oxidase subunit 2
+GJALPCBL_00670	CDS	582				hypothetical protein
+GJALPCBL_00671	CDS	279				hypothetical protein
+GJALPCBL_00672	CDS	297				hypothetical protein
+GJALPCBL_00673	CDS	1035	groL1			60 kDa chaperonin 1
+GJALPCBL_00674	CDS	582	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+GJALPCBL_00675	CDS	1140	mepM_3	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+GJALPCBL_00676	CDS	309				hypothetical protein
+GJALPCBL_00677	CDS	675	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+GJALPCBL_00678	CDS	2652	gyrA	5.99.1.3	COG0188	DNA gyrase subunit A
+GJALPCBL_00679	CDS	213	rpmE		COG0254	50S ribosomal protein L31
+GJALPCBL_00680	CDS	711	hrcA			Heat-inducible transcription repressor HrcA
+GJALPCBL_00681	CDS	2667				hypothetical protein
+GJALPCBL_00682	CDS	369				hypothetical protein
+GJALPCBL_00683	CDS	882				hypothetical protein
+GJALPCBL_00684	CDS	447				hypothetical protein
+GJALPCBL_00685	CDS	996				Surface layer protein
+GJALPCBL_00686	CDS	1269	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+GJALPCBL_00687	CDS	591		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+GJALPCBL_00688	CDS	1488	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit tau
+GJALPCBL_00689	CDS	585	bdbD_2		COG1651	Disulfide bond formation protein D
+GJALPCBL_00690	CDS	594				hypothetical protein
+GJALPCBL_00691	CDS	1293				hypothetical protein
+GJALPCBL_00692	CDS	1335	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+GJALPCBL_00693	CDS	954				hypothetical protein
+GJALPCBL_00694	CDS	1086				hypothetical protein
+GJALPCBL_00695	tRNA	77				tRNA-His(gtg)
+GJALPCBL_00696	CDS	1902				hypothetical protein
+GJALPCBL_00697	CDS	294				hypothetical protein
+GJALPCBL_00698	CDS	597	ntpK			V-type sodium ATPase subunit K
+GJALPCBL_00699	CDS	1929				hypothetical protein
+GJALPCBL_00700	CDS	384				hypothetical protein
+GJALPCBL_00701	CDS	963				hypothetical protein
+GJALPCBL_00702	CDS	921	pat	2.3.1.-	COG0454	Protein lysine acetyltransferase Pat
+GJALPCBL_00703	CDS	1059				hypothetical protein
+GJALPCBL_00704	CDS	420				hypothetical protein
+GJALPCBL_00705	CDS	636				hypothetical protein
+GJALPCBL_00706	tRNA	76				tRNA-Asp(gtc)
+GJALPCBL_00707	CDS	891				hypothetical protein
+GJALPCBL_00708	CDS	648	tal_2	2.2.1.2	COG0176	Transaldolase
+GJALPCBL_00709	CDS	1377	gndA_2	1.1.1.44	COG0362	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating

@@ -1,0 +1,1393 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+AKBAPOEL_00001	CDS	906	rpoH		COG0568	RNA polymerase sigma factor RpoH
+AKBAPOEL_00002	CDS	960	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+AKBAPOEL_00003	CDS	291				hypothetical protein
+AKBAPOEL_00004	CDS	432				hypothetical protein
+AKBAPOEL_00005	CDS	954	nlhH	3.1.1.1	COG0657	Carboxylesterase NlhH
+AKBAPOEL_00006	CDS	396	ahpD	1.11.1.15		Alkyl hydroperoxide reductase AhpD
+AKBAPOEL_00007	CDS	1365	bauA	2.6.1.18	COG0161	Beta-alanine--pyruvate aminotransferase
+AKBAPOEL_00008	CDS	1533	sauT	6.2.1.-	COG0318	putative sulfoacetate--CoA ligase
+AKBAPOEL_00009	CDS	996				hypothetical protein
+AKBAPOEL_00010	CDS	795	ywrD	2.3.2.2	COG0405	Glutathione hydrolase-like YwrD proenzyme
+AKBAPOEL_00011	CDS	561	yvdD		COG1611	LOG family protein YvdD
+AKBAPOEL_00012	CDS	1215	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+AKBAPOEL_00013	CDS	2643	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+AKBAPOEL_00014	CDS	1101	recA		COG0468	Protein RecA
+AKBAPOEL_00015	CDS	444	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+AKBAPOEL_00016	CDS	1215				hypothetical protein
+AKBAPOEL_00017	CDS	804				hypothetical protein
+AKBAPOEL_00018	CDS	2304				hypothetical protein
+AKBAPOEL_00019	CDS	630	alkA	3.2.2.21	COG0122	DNA-3-methyladenine glycosylase
+AKBAPOEL_00020	CDS	612	comR			HTH-type transcriptional repressor ComR
+AKBAPOEL_00021	CDS	1149	cnrB			Nickel and cobalt resistance protein CnrB
+AKBAPOEL_00022	CDS	360				hypothetical protein
+AKBAPOEL_00023	CDS	540	pdxH_1	1.4.3.5		Pyridoxine/pyridoxamine 5'-phosphate oxidase
+AKBAPOEL_00024	CDS	789	fcbB2	3.8.1.7		4-chlorobenzoyl coenzyme A dehalogenase-2
+AKBAPOEL_00025	CDS	876	linB	3.8.1.5		Haloalkane dehalogenase
+AKBAPOEL_00026	CDS	345				hypothetical protein
+AKBAPOEL_00027	CDS	654				hypothetical protein
+AKBAPOEL_00028	CDS	744				hypothetical protein
+AKBAPOEL_00029	CDS	405				hypothetical protein
+AKBAPOEL_00030	CDS	408				hypothetical protein
+AKBAPOEL_00031	CDS	1224	fadI	2.3.1.16		3-ketoacyl-CoA thiolase
+AKBAPOEL_00032	CDS	1125	yfdE_1	2.8.3.19	COG1804	Acetyl-CoA:oxalate CoA-transferase
+AKBAPOEL_00033	CDS	1194	mmgC_1	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+AKBAPOEL_00034	CDS	861	Hgd	1.1.1.291		2-(hydroxymethyl)glutarate dehydrogenase
+AKBAPOEL_00035	CDS	405				hypothetical protein
+AKBAPOEL_00036	CDS	594	iolD	3.7.1.22		3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+AKBAPOEL_00037	CDS	519				hypothetical protein
+AKBAPOEL_00038	CDS	792	djlA		COG1076	Co-chaperone protein DjlA
+AKBAPOEL_00039	CDS	3630	apc3	6.4.1.8	COG0145	Acetophenone carboxylase gamma subunit
+AKBAPOEL_00040	CDS	762	mlaA		COG2853	putative phospholipid-binding lipoprotein MlaA
+AKBAPOEL_00041	CDS	384	sucB_1	2.3.1.61	COG0508	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+AKBAPOEL_00042	CDS	1392	lpd3	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase 3
+AKBAPOEL_00043	CDS	945	xerD			Tyrosine recombinase XerD
+AKBAPOEL_00044	CDS	657	tal_1	2.2.1.2	COG0176	Transaldolase
+AKBAPOEL_00045	CDS	432	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+AKBAPOEL_00046	CDS	1125	dnaN			Beta sliding clamp
+AKBAPOEL_00047	CDS	1182	recF		COG1195	DNA replication and repair protein RecF
+AKBAPOEL_00048	CDS	2430	gyrB	5.99.1.3		DNA gyrase subunit B
+AKBAPOEL_00049	CDS	192				hypothetical protein
+AKBAPOEL_00050	CDS	576	egtD	2.1.1.44		Histidine N-alpha-methyltransferase
+AKBAPOEL_00051	CDS	285	petJ			Cytochrome c6
+AKBAPOEL_00052	CDS	231				hypothetical protein
+AKBAPOEL_00053	CDS	819				hypothetical protein
+AKBAPOEL_00054	CDS	1653	pamO	1.14.13.92	COG2072	Phenylacetone monooxygenase
+AKBAPOEL_00055	CDS	1575	rhlE	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlE
+AKBAPOEL_00056	CDS	1482	emrB			Multidrug export protein EmrB
+AKBAPOEL_00057	CDS	984	oxyR			Hydrogen peroxide-inducible genes activator
+AKBAPOEL_00058	CDS	1059	tas		COG0667	Protein tas
+AKBAPOEL_00059	CDS	1233	namA	1.6.99.1	COG1902	NADPH dehydrogenase
+AKBAPOEL_00060	CDS	2799	polA	2.7.7.7	COG0258	DNA polymerase I
+AKBAPOEL_00061	CDS	1146	hcaT			putative 3-phenylpropionic acid transporter
+AKBAPOEL_00062	CDS	171				hypothetical protein
+AKBAPOEL_00063	CDS	939	yadG_1		COG1131	putative ABC transporter ATP-binding protein YadG
+AKBAPOEL_00064	CDS	378	arnE			4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE
+AKBAPOEL_00065	CDS	972	gnu	5.1.3.26	COG0451	N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol 4-epimerase
+AKBAPOEL_00066	CDS	1938				hypothetical protein
+AKBAPOEL_00067	CDS	1290	bicA_1		COG0659	Bicarbonate transporter BicA
+AKBAPOEL_00068	CDS	654				hypothetical protein
+AKBAPOEL_00069	CDS	2760				hypothetical protein
+AKBAPOEL_00070	CDS	2046				hypothetical protein
+AKBAPOEL_00071	CDS	606	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+AKBAPOEL_00072	CDS	1074	dpnA	2.1.1.72		Modification methylase DpnIIB
+AKBAPOEL_00073	CDS	1020	mutY	3.2.2.-		Adenine DNA glycosylase
+AKBAPOEL_00074	CDS	462				hypothetical protein
+AKBAPOEL_00075	CDS	453	iorA	1.3.99.16		Isoquinoline 1-oxidoreductase subunit alpha
+AKBAPOEL_00076	CDS	2283	iorB	1.3.99.16		Isoquinoline 1-oxidoreductase subunit beta
+AKBAPOEL_00077	CDS	303				hypothetical protein
+AKBAPOEL_00078	CDS	822	mhpD_1	4.2.1.80	COG3971	2-keto-4-pentenoate hydratase
+AKBAPOEL_00079	CDS	300				hypothetical protein
+AKBAPOEL_00080	CDS	195				hypothetical protein
+AKBAPOEL_00081	CDS	1401	gdhA	1.4.1.3	COG0334	Glutamate dehydrogenase
+AKBAPOEL_00082	CDS	432				hypothetical protein
+AKBAPOEL_00083	CDS	387				hypothetical protein
+AKBAPOEL_00084	CDS	429	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+AKBAPOEL_00085	CDS	150				hypothetical protein
+AKBAPOEL_00086	CDS	459	yqeY		COG1610	putative protein YqeY
+AKBAPOEL_00087	CDS	1734	dnaG	2.7.7.-	COG0358	DNA primase
+AKBAPOEL_00088	CDS	591	soxA	1.8.2.-		SoxAX cytochrome complex subunit A
+AKBAPOEL_00089	CDS	978	cysK_1	2.5.1.47		Cysteine synthase
+AKBAPOEL_00090	CDS	1176	metC	4.4.1.8	COG0626	Cystathionine beta-lyase
+AKBAPOEL_00091	CDS	510		3.1.3.-	COG2062	putative protein
+AKBAPOEL_00092	CDS	789		1.1.99.3		Gluconate 2-dehydrogenase cytochrome c subunit
+AKBAPOEL_00093	CDS	465	cycP			Cytochrome c'
+AKBAPOEL_00094	CDS	1548	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+AKBAPOEL_00095	CDS	933	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+AKBAPOEL_00096	CDS	1893	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+AKBAPOEL_00097	CDS	600	nsaD_1	5.99.1.4		2-hydroxychromene-2-carboxylate isomerase
+AKBAPOEL_00098	CDS	1011	serA_1	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+AKBAPOEL_00099	CDS	1416	aam	3.5.1.13	COG0154	Acylamidase
+AKBAPOEL_00100	CDS	324				hypothetical protein
+AKBAPOEL_00101	CDS	321	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+AKBAPOEL_00102	CDS	132				hypothetical protein
+AKBAPOEL_00103	CDS	276				hypothetical protein
+AKBAPOEL_00104	CDS	195				hypothetical protein
+AKBAPOEL_00105	CDS	732	udg	3.2.2.27	COG1573	Type-4 uracil-DNA glycosylase
+AKBAPOEL_00106	CDS	1794	slt	4.2.2.-	COG0741	Soluble lytic murein transglycosylase
+AKBAPOEL_00107	CDS	543	moaB		COG0521	Molybdenum cofactor biosynthesis protein B
+AKBAPOEL_00108	CDS	243				hypothetical protein
+AKBAPOEL_00109	CDS	1179	fadD	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+AKBAPOEL_00110	CDS	768	crt_1	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+AKBAPOEL_00111	CDS	849	citE	4.1.3.6	COG2301	Citrate lyase subunit beta
+AKBAPOEL_00112	CDS	579				hypothetical protein
+AKBAPOEL_00113	CDS	768				hypothetical protein
+AKBAPOEL_00114	CDS	1002	phnE		COG3639	Phosphate-import permease protein PhnE
+AKBAPOEL_00115	CDS	738	phnC	3.6.3.27	COG3638	Phosphate-import ATP-binding protein PhnC
+AKBAPOEL_00116	CDS	924	phnD2		COG3221	putative ABC transporter phosphonate/phosphite binding protein PhnD2
+AKBAPOEL_00117	CDS	1194	rhmD	4.2.1.90	COG4948	L-rhamnonate dehydratase
+AKBAPOEL_00118	CDS	822				hypothetical protein
+AKBAPOEL_00119	CDS	1221	yedY	1.8.-.-		Sulfoxide reductase catalytic subunit YedY
+AKBAPOEL_00120	CDS	255				hypothetical protein
+AKBAPOEL_00121	CDS	159				hypothetical protein
+AKBAPOEL_00122	CDS	336				hypothetical protein
+AKBAPOEL_00123	CDS	696	tenA	3.5.99.2	COG0819	Aminopyrimidine aminohydrolase
+AKBAPOEL_00124	CDS	1161	carC	1.3.1.108	COG1960	Caffeyl-CoA reductase-Etf complex subunit CarC
+AKBAPOEL_00125	CDS	330				hypothetical protein
+AKBAPOEL_00126	CDS	489				hypothetical protein
+AKBAPOEL_00127	CDS	639	gstB	2.5.1.18	COG0625	Glutathione S-transferase GST-6.0
+AKBAPOEL_00128	CDS	435				hypothetical protein
+AKBAPOEL_00129	CDS	1206	bbsG_1	1.3.8.3		(R)-benzylsuccinyl-CoA dehydrogenase
+AKBAPOEL_00130	CDS	1140		2.7.1.-	COG3173	Putative aminoglycoside phosphotransferase
+AKBAPOEL_00131	CDS	1164	lldD	1.1.-.-	COG1304	L-lactate dehydrogenase
+AKBAPOEL_00132	CDS	768		1.-.-.-		putative oxidoreductase
+AKBAPOEL_00133	CDS	768	ppnK	2.7.1.23	COG0061	NAD kinase
+AKBAPOEL_00134	CDS	1005	bioB	2.8.1.6	COG0502	Biotin synthase
+AKBAPOEL_00135	CDS	1152	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+AKBAPOEL_00136	CDS	669	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+AKBAPOEL_00137	CDS	954				hypothetical protein
+AKBAPOEL_00138	CDS	660				hypothetical protein
+AKBAPOEL_00139	CDS	456	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+AKBAPOEL_00140	CDS	138				hypothetical protein
+AKBAPOEL_00141	CDS	321				hypothetical protein
+AKBAPOEL_00142	CDS	447				hypothetical protein
+AKBAPOEL_00143	CDS	4635	gltB	1.4.7.1		Ferredoxin-dependent glutamate synthase 1
+AKBAPOEL_00144	CDS	1419	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+AKBAPOEL_00145	CDS	477	cymR			HTH-type transcriptional regulator CymR
+AKBAPOEL_00146	CDS	1479	sufB		COG0719	FeS cluster assembly protein SufB
+AKBAPOEL_00147	CDS	756	sufC		COG0396	putative ATP-dependent transporter SufC
+AKBAPOEL_00148	CDS	1344	sufD		COG0719	FeS cluster assembly protein SufD
+AKBAPOEL_00149	CDS	414	pntAA	1.6.1.2	COG3288	NAD(P) transhydrogenase subunit alpha part 1
+AKBAPOEL_00150	CDS	306	pntA	1.6.1.2	COG3288	NAD(P) transhydrogenase subunit alpha
+AKBAPOEL_00151	CDS	1392	pntB	1.6.1.2	COG1282	NAD(P) transhydrogenase subunit beta
+AKBAPOEL_00152	CDS	1497				hypothetical protein
+AKBAPOEL_00153	CDS	2142				hypothetical protein
+AKBAPOEL_00154	CDS	792	gloB	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloB
+AKBAPOEL_00155	CDS	996		1.1.1.81	COG0111	Hydroxypyruvate reductase
+AKBAPOEL_00156	CDS	201	rpsU		COG0828	30S ribosomal protein S21
+AKBAPOEL_00157	CDS	510	def	3.5.1.88	COG0242	Peptide deformylase
+AKBAPOEL_00158	CDS	660				hypothetical protein
+AKBAPOEL_00159	CDS	1062	purK	6.3.4.18	COG0026	N5-carboxyaminoimidazole ribonucleotide synthase
+AKBAPOEL_00160	CDS	513	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+AKBAPOEL_00161	CDS	1086	pyrD	1.3.5.2	COG0167	Dihydroorotate dehydrogenase (quinone)
+AKBAPOEL_00162	CDS	903	nagD	3.1.3.5	COG0647	Ribonucleotide monophosphatase NagD
+AKBAPOEL_00163	CDS	1254	dinB	2.7.7.7	COG0389	DNA polymerase IV
+AKBAPOEL_00164	CDS	453	fosB_1	2.5.1.-		Metallothiol transferase FosB
+AKBAPOEL_00165	CDS	792	ectD_1	1.14.11.55		Ectoine dioxygenase
+AKBAPOEL_00166	CDS	1224	smtB_1	2.8.3.22	COG1804	Succinyl-CoA--L-malate CoA-transferase beta subunit
+AKBAPOEL_00167	CDS	393	caiD	4.2.1.149		Carnitinyl-CoA dehydratase
+AKBAPOEL_00168	CDS	300	fadB_1	4.2.1.17	COG1024	putative enoyl-CoA hydratase
+AKBAPOEL_00169	CDS	663				hypothetical protein
+AKBAPOEL_00170	CDS	2238	yccM_1		COG0348	Putative electron transport protein YccM
+AKBAPOEL_00171	CDS	1632	dmdB	6.2.1.44	COG0318	3-methylmercaptopropionyl-CoA ligase
+AKBAPOEL_00172	CDS	1272	fprA	1.18.1.2	COG0493	NADPH-ferredoxin reductase FprA
+AKBAPOEL_00173	CDS	1155	mmgC_2	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+AKBAPOEL_00174	CDS	432	ybgC_1	3.1.2.-	COG0824	Acyl-CoA thioester hydrolase YbgC
+AKBAPOEL_00175	CDS	1329				hypothetical protein
+AKBAPOEL_00176	CDS	840	crt_2	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+AKBAPOEL_00177	CDS	1080		1.13.12.16	COG2070	Nitronate monooxygenase
+AKBAPOEL_00178	CDS	375				hypothetical protein
+AKBAPOEL_00179	CDS	1593	prfC		COG4108	Peptide chain release factor 3
+AKBAPOEL_00180	CDS	1221	lysN	2.6.1.39	COG1167	2-aminoadipate transaminase
+AKBAPOEL_00181	CDS	726	pncA	3.5.1.19	COG1335	Nicotinamidase
+AKBAPOEL_00182	CDS	324	orr	5.1.1.12	COG3457	Ornithine racemase
+AKBAPOEL_00183	CDS	864	yhhW	1.13.11.24	COG1741	Quercetin 2,3-dioxygenase
+AKBAPOEL_00184	CDS	1023			COG1680	putative protein
+AKBAPOEL_00185	CDS	1323				hypothetical protein
+AKBAPOEL_00186	CDS	768	bacC	1.1.1.385		Dihydroanticapsin 7-dehydrogenase
+AKBAPOEL_00187	CDS	1074	odh	1.5.1.28		Opine dehydrogenase
+AKBAPOEL_00188	CDS	975	hbd	1.1.1.157	COG1250	3-hydroxybutyryl-CoA dehydrogenase
+AKBAPOEL_00189	CDS	669	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+AKBAPOEL_00190	CDS	2472	abo	1.5.3.19		4-methylaminobutanoate oxidase (formaldehyde-forming)
+AKBAPOEL_00191	CDS	705	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+AKBAPOEL_00192	CDS	441	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+AKBAPOEL_00193	CDS	807	moeZ		COG0476	putative adenylyltransferase/sulfurtransferase MoeZ
+AKBAPOEL_00194	CDS	366				hypothetical protein
+AKBAPOEL_00195	CDS	975		1.1.1.29		Glycerate dehydrogenase
+AKBAPOEL_00196	CDS	528				hypothetical protein
+AKBAPOEL_00197	CDS	588				hypothetical protein
+AKBAPOEL_00198	CDS	1341	glpC		COG0247	Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+AKBAPOEL_00199	CDS	420	rbr		COG1592	Rubrerythrin
+AKBAPOEL_00200	CDS	426	fur_1		COG0735	Ferric uptake regulation protein
+AKBAPOEL_00201	CDS	1125	yccM_2		COG0348	Putative electron transport protein YccM
+AKBAPOEL_00202	CDS	2178	uvrD	3.6.4.12	COG0210	DNA helicase II
+AKBAPOEL_00203	CDS	834	idnO	1.1.1.69		5-keto-D-gluconate 5-reductase
+AKBAPOEL_00204	CDS	660	proA_1	4.1.3.16		4-hydroxy-4-methyl-2-oxoglutarate aldolase/4-carboxy-4-hydroxy-2-oxoadipate aldolase
+AKBAPOEL_00205	CDS	201				hypothetical protein
+AKBAPOEL_00206	CDS	852	ctaC	1.9.3.1	COG1622	Cytochrome c oxidase subunit 2
+AKBAPOEL_00207	CDS	1584	ctaD	1.9.3.1	COG0843	Cytochrome c oxidase subunit 1
+AKBAPOEL_00208	CDS	918	ctaB_1	2.5.1.-	COG0109	Protoheme IX farnesyltransferase
+AKBAPOEL_00209	CDS	126				hypothetical protein
+AKBAPOEL_00210	CDS	585	ctaG_1		COG3175	Cytochrome c oxidase assembly protein CtaG
+AKBAPOEL_00211	CDS	267	fadA_1	2.3.1.-	COG0183	Putative acyltransferase
+AKBAPOEL_00212	CDS	1518	fadB_2		COG1024	Fatty acid oxidation complex subunit alpha
+AKBAPOEL_00213	CDS	375	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+AKBAPOEL_00214	CDS	459		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+AKBAPOEL_00215	CDS	603	pdxH_2	1.4.3.5	COG0259	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+AKBAPOEL_00216	CDS	843	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+AKBAPOEL_00217	CDS	1098	aroC	4.2.3.5	COG0082	Chorismate synthase
+AKBAPOEL_00218	CDS	588				hypothetical protein
+AKBAPOEL_00219	CDS	741	tlyA	2.1.1.226		16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+AKBAPOEL_00220	CDS	270	ispA	2.5.1.10	COG0142	Farnesyl diphosphate synthase
+AKBAPOEL_00221	CDS	1548	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+AKBAPOEL_00222	CDS	984	galE1_1	5.1.3.2	COG1088	UDP-glucose 4-epimerase
+AKBAPOEL_00223	CDS	1158	hipO	3.5.1.32	COG1473	Hippurate hydrolase
+AKBAPOEL_00224	CDS	630	cobO	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+AKBAPOEL_00225	CDS	954	lhpI	1.5.1.49	COG2423	Delta(1)-pyrroline-2-carboxylate reductase
+AKBAPOEL_00226	CDS	435		3.1.2.23		4-hydroxybenzoyl-CoA thioesterase
+AKBAPOEL_00227	CDS	1491	hcl	6.2.1.27		3-hydroxybenzoate--CoA/4-hydroxybenzoate--CoA ligase
+AKBAPOEL_00228	CDS	549				hypothetical protein
+AKBAPOEL_00229	CDS	1020	sdgD_1	1.13.11.4		Gentisate 1,2-dioxygenase
+AKBAPOEL_00230	CDS	708	paaA_1	1.14.13.149	COG3396	1,2-phenylacetyl-CoA epoxidase, subunit A
+AKBAPOEL_00231	CDS	948	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase
+AKBAPOEL_00232	CDS	1026	nagAa	1.18.1.7		Naphthalene 1,2-dioxygenase/salicylate 5-hydroxylase systems, ferredoxin--NAD(P)(+), reductase component
+AKBAPOEL_00233	CDS	1758	appA_1			Oligopeptide-binding protein AppA
+AKBAPOEL_00234	CDS	1926	nrdZ	1.17.4.1		Vitamin B12-dependent ribonucleoside-diphosphate reductase
+AKBAPOEL_00235	CDS	960	nrdB_1	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+AKBAPOEL_00236	CDS	1512	cutL	1.2.5.3		Carbon monoxide dehydrogenase large chain
+AKBAPOEL_00237	CDS	1995	priA	3.6.4.-	COG1198	Primosomal protein N'
+AKBAPOEL_00238	CDS	561	atpH		COG0712	ATP synthase subunit delta
+AKBAPOEL_00239	CDS	1527	atpA	3.6.3.14	COG0056	ATP synthase subunit alpha
+AKBAPOEL_00240	CDS	882	atpG_1		COG0224	ATP synthase gamma chain
+AKBAPOEL_00241	CDS	1422	atpD	3.6.3.14	COG0055	ATP synthase subunit beta
+AKBAPOEL_00242	CDS	411	atpC		COG0355	ATP synthase epsilon chain
+AKBAPOEL_00243	CDS	480	rppH_1	3.6.1.-	COG0494	RNA pyrophosphohydrolase
+AKBAPOEL_00244	CDS	1059		3.4.21.-		putative CtpA-like serine protease
+AKBAPOEL_00245	CDS	384				hypothetical protein
+AKBAPOEL_00246	CDS	1332	dan	3.5.1.81		D-aminoacylase
+AKBAPOEL_00247	CDS	810				hypothetical protein
+AKBAPOEL_00248	CDS	504	paiB		COG2808	Protease synthase and sporulation protein PAI 2
+AKBAPOEL_00249	CDS	834	ribN_1			Riboflavin transporter
+AKBAPOEL_00250	CDS	192				hypothetical protein
+AKBAPOEL_00251	CDS	516				hypothetical protein
+AKBAPOEL_00252	CDS	690	plsC	2.3.1.51	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+AKBAPOEL_00253	CDS	573				hypothetical protein
+AKBAPOEL_00254	CDS	831				hypothetical protein
+AKBAPOEL_00255	CDS	648				hypothetical protein
+AKBAPOEL_00256	CDS	318				hypothetical protein
+AKBAPOEL_00257	CDS	2442				hypothetical protein
+AKBAPOEL_00258	CDS	1272	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+AKBAPOEL_00259	CDS	228				hypothetical protein
+AKBAPOEL_00260	CDS	279				hypothetical protein
+AKBAPOEL_00261	CDS	591		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+AKBAPOEL_00262	CDS	819	ymdB	3.1.4.16	COG1692	2',3'-cyclic-nucleotide 2'-phosphodiesterase
+AKBAPOEL_00263	CDS	753	yebC		COG0217	putative transcriptional regulatory protein YebC
+AKBAPOEL_00264	CDS	498	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+AKBAPOEL_00265	CDS	597	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+AKBAPOEL_00266	CDS	1011	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+AKBAPOEL_00267	CDS	441	ybgC_2	3.1.2.-	COG0824	Acyl-CoA thioesterase YbgC
+AKBAPOEL_00268	CDS	720	tolQ		COG0811	Protein TolQ
+AKBAPOEL_00269	CDS	426	exbD		COG0848	Biopolymer transport protein ExbD
+AKBAPOEL_00270	CDS	786				hypothetical protein
+AKBAPOEL_00271	CDS	1374	tolB		COG0823	Protein TolB
+AKBAPOEL_00272	CDS	561				Outer membrane lipoprotein Omp16
+AKBAPOEL_00273	CDS	507				hypothetical protein
+AKBAPOEL_00274	CDS	405				hypothetical protein
+AKBAPOEL_00275	CDS	912	liuE	4.1.3.26	COG0119	3-hydroxy-3-isohexenylglutaryl-CoA/hydroxy-methylglutaryl-CoA lyase
+AKBAPOEL_00276	CDS	1656	accA1		COG4770	Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+AKBAPOEL_00277	CDS	282	secF			Protein translocase subunit SecF
+AKBAPOEL_00278	CDS	366				hypothetical protein
+AKBAPOEL_00279	CDS	687				hypothetical protein
+AKBAPOEL_00280	CDS	1356	trmFO	2.1.1.74	COG1206	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+AKBAPOEL_00281	CDS	2841	uvrA		COG0178	UvrABC system protein A
+AKBAPOEL_00282	CDS	483	ssb		COG0629	Single-stranded DNA-binding protein
+AKBAPOEL_00283	CDS	2769	gyrA	5.99.1.3	COG0188	DNA gyrase subunit A
+AKBAPOEL_00284	CDS	501	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+AKBAPOEL_00285	CDS	546	ppiB	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase B
+AKBAPOEL_00286	CDS	147				hypothetical protein
+AKBAPOEL_00287	CDS	831	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+AKBAPOEL_00288	CDS	1746	mutL			DNA mismatch repair protein MutL
+AKBAPOEL_00289	CDS	573	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+AKBAPOEL_00290	CDS	738	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+AKBAPOEL_00291	CDS	708		2.4.2.-	COG2071	Putative glutamine amidotransferase
+AKBAPOEL_00292	CDS	498	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+AKBAPOEL_00293	CDS	1266	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+AKBAPOEL_00294	CDS	1425	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+AKBAPOEL_00295	CDS	837	mepM	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+AKBAPOEL_00296	CDS	930	lpxM2	2.3.1.243	COG1560	Lipid A biosynthesis myristoyltransferase 2
+AKBAPOEL_00297	CDS	972	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+AKBAPOEL_00298	CDS	1278	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+AKBAPOEL_00299	CDS	1311	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+AKBAPOEL_00300	CDS	390				hypothetical protein
+AKBAPOEL_00301	CDS	1008	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+AKBAPOEL_00302	CDS	1869	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+AKBAPOEL_00303	CDS	426				hypothetical protein
+AKBAPOEL_00304	CDS	474				hypothetical protein
+AKBAPOEL_00305	CDS	1392				hypothetical protein
+AKBAPOEL_00306	CDS	1158				hypothetical protein
+AKBAPOEL_00307	CDS	729				hypothetical protein
+AKBAPOEL_00308	CDS	909	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+AKBAPOEL_00309	CDS	1032	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+AKBAPOEL_00310	CDS	999	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+AKBAPOEL_00311	CDS	858	dapD	2.3.1.117		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+AKBAPOEL_00312	CDS	714	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+AKBAPOEL_00313	CDS	918	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+AKBAPOEL_00314	CDS	648	engB		COG0218	putative GTP-binding protein EngB
+AKBAPOEL_00315	CDS	1686	yidC			Membrane protein insertase YidC
+AKBAPOEL_00316	CDS	363	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+AKBAPOEL_00317	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+AKBAPOEL_00318	CDS	711	ydjZ		COG0398	TVP38/TMEM64 family inner membrane protein YdjZ
+AKBAPOEL_00319	CDS	762	natA		COG4555	ABC transporter ATP-binding protein NatA
+AKBAPOEL_00320	CDS	798				hypothetical protein
+AKBAPOEL_00321	CDS	648			COG0328	Bifunctional protein
+AKBAPOEL_00322	CDS	1710	ureC1	3.5.1.5		Urease subunit alpha 1
+AKBAPOEL_00323	CDS	315	ureB1	3.5.1.5		Urease subunit beta 1
+AKBAPOEL_00324	CDS	309	ureA1	3.5.1.5		Urease subunit gamma 1
+AKBAPOEL_00325	CDS	759	ureD			Urease accessory protein UreD
+AKBAPOEL_00326	CDS	696	livF_1		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+AKBAPOEL_00327	CDS	762	rbsA	3.6.3.17	COG1129	Ribose import ATP-binding protein RbsA
+AKBAPOEL_00328	CDS	783				hypothetical protein
+AKBAPOEL_00329	CDS	855	panC	6.3.2.1	COG0414	Pantothenate synthetase
+AKBAPOEL_00330	tRNA	77				tRNA-Arg(acg)
+AKBAPOEL_00331	CDS	867				hypothetical protein
+AKBAPOEL_00332	CDS	720				hypothetical protein
+AKBAPOEL_00333	CDS	1155	radD	3.6.4.12	COG1061	Putative DNA repair helicase RadD
+AKBAPOEL_00334	CDS	222				hypothetical protein
+AKBAPOEL_00335	CDS	2334	yccM_3		COG0348	Putative electron transport protein YccM
+AKBAPOEL_00336	CDS	801				hypothetical protein
+AKBAPOEL_00337	CDS	1581	lysS	6.1.1.6	COG1384	Lysine--tRNA ligase
+AKBAPOEL_00338	CDS	594				hypothetical protein
+AKBAPOEL_00339	CDS	915	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase, anabolic
+AKBAPOEL_00340	CDS	1173	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+AKBAPOEL_00341	CDS	831	yadH_1		COG0842	Inner membrane transport permease YadH
+AKBAPOEL_00342	CDS	348	yfgD		COG1393	putative protein YfgD
+AKBAPOEL_00343	CDS	936	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+AKBAPOEL_00344	CDS	522	def1	3.5.1.88		Peptide deformylase 1
+AKBAPOEL_00345	CDS	1065				hypothetical protein
+AKBAPOEL_00346	CDS	606	recR		COG0353	Recombination protein RecR
+AKBAPOEL_00347	CDS	318			COG0718	Nucleoid-associated protein
+AKBAPOEL_00348	CDS	225				hypothetical protein
+AKBAPOEL_00349	CDS	1122	alkB1	1.14.15.3		Alkane 1-monooxygenase 1
+AKBAPOEL_00350	CDS	309	xylA			Xylene monooxygenase electron transfer component
+AKBAPOEL_00351	CDS	570				hypothetical protein
+AKBAPOEL_00352	CDS	540				hypothetical protein
+AKBAPOEL_00353	CDS	945	rimK_1	6.3.2.-		Ribosomal protein S6--L-glutamate ligase
+AKBAPOEL_00354	CDS	129				hypothetical protein
+AKBAPOEL_00355	CDS	1404	rimK_2	6.3.2.-	COG0189	Ribosomal protein S6--L-glutamate ligase
+AKBAPOEL_00356	CDS	756	yecD	3.-.-.-	COG1335	Isochorismatase family protein YecD
+AKBAPOEL_00357	CDS	888	rclR		COG2207	RCS-specific HTH-type transcriptional activator RclR
+AKBAPOEL_00358	CDS	378				hypothetical protein
+AKBAPOEL_00359	CDS	306				hypothetical protein
+AKBAPOEL_00360	CDS	657				hypothetical protein
+AKBAPOEL_00361	CDS	582	sigF		COG1595	ECF RNA polymerase sigma factor SigF
+AKBAPOEL_00362	CDS	1275	fccB	1.8.2.3	COG0446	Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain
+AKBAPOEL_00363	CDS	363	fccA			Cytochrome subunit of sulfide dehydrogenase
+AKBAPOEL_00364	CDS	690				hypothetical protein
+AKBAPOEL_00365	CDS	423				hypothetical protein
+AKBAPOEL_00366	CDS	207				hypothetical protein
+AKBAPOEL_00367	CDS	315				hypothetical protein
+AKBAPOEL_00368	CDS	783	gdhI_1	1.1.1.47	COG1028	Glucose 1-dehydrogenase 1
+AKBAPOEL_00369	CDS	771	crt_3	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+AKBAPOEL_00370	CDS	1125				hypothetical protein
+AKBAPOEL_00371	CDS	186				hypothetical protein
+AKBAPOEL_00372	CDS	396				hypothetical protein
+AKBAPOEL_00373	CDS	273				hypothetical protein
+AKBAPOEL_00374	CDS	144				hypothetical protein
+AKBAPOEL_00375	CDS	1317	dpgC_1	1.13.11.80		(3,5-dihydroxyphenyl)acetyl-CoA 1,2-dioxygenase
+AKBAPOEL_00376	CDS	708	paaA_2	1.14.13.149	COG3396	1,2-phenylacetyl-CoA epoxidase, subunit A
+AKBAPOEL_00377	CDS	1041	sdgD_2	1.13.11.4		Gentisate 1,2-dioxygenase
+AKBAPOEL_00378	CDS	897	tfdA_1	1.14.11.-		Alpha-ketoglutarate-dependent 2,4-dichlorophenoxyacetate dioxygenase
+AKBAPOEL_00379	CDS	240				hypothetical protein
+AKBAPOEL_00380	CDS	954	pqqB_1		COG1235	Coenzyme PQQ synthesis protein B
+AKBAPOEL_00381	CDS	792	pqqCD_1		COG5424	Bifunctional coenzyme PQQ synthesis protein C/D
+AKBAPOEL_00382	CDS	291	pqqCD_2		COG5424	Bifunctional coenzyme PQQ synthesis protein C/D
+AKBAPOEL_00383	CDS	1137	mftC	2.-.-.-	COG0535	Putative mycofactocin radical SAM maturase MftC
+AKBAPOEL_00384	CDS	801				hypothetical protein
+AKBAPOEL_00385	CDS	1161				hypothetical protein
+AKBAPOEL_00386	CDS	453				hypothetical protein
+AKBAPOEL_00387	CDS	729	fixK		COG0664	Nitrogen fixation regulation protein FixK
+AKBAPOEL_00388	CDS	441	ibpB		COG0071	Small heat shock protein IbpB
+AKBAPOEL_00389	CDS	147				hypothetical protein
+AKBAPOEL_00390	CDS	2178	copA	3.6.3.54		putative copper-importing P-type ATPase A
+AKBAPOEL_00391	CDS	474				hypothetical protein
+AKBAPOEL_00392	CDS	1311	yccM_4		COG0348	Putative electron transport protein YccM
+AKBAPOEL_00393	CDS	882	fixP		COG2010	Cbb3-type cytochrome c oxidase subunit FixP
+AKBAPOEL_00394	CDS	156				hypothetical protein
+AKBAPOEL_00395	CDS	741				hypothetical protein
+AKBAPOEL_00396	CDS	1413	fixN	1.9.3.1	COG3278	Cytochrome c oxidase subunit 1 , bacteroid
+AKBAPOEL_00397	CDS	1296	hemN_1	1.3.98.3		Oxygen-independent coproporphyrinogen III oxidase
+AKBAPOEL_00398	CDS	237				hypothetical protein
+AKBAPOEL_00399	CDS	1173	ubiI	1.14.13.-	COG0654	2-octaprenylphenol hydroxylase
+AKBAPOEL_00400	CDS	327				hypothetical protein
+AKBAPOEL_00401	CDS	1050	nrdB_2	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+AKBAPOEL_00402	CDS	258				hypothetical protein
+AKBAPOEL_00403	CDS	459				hypothetical protein
+AKBAPOEL_00404	CDS	684	narI	1.7.99.4	COG2181	Respiratory nitrate reductase 1 gamma chain
+AKBAPOEL_00405	CDS	693	narJ		COG2180	Nitrate reductase molybdenum cofactor assembly chaperone NarJ
+AKBAPOEL_00406	CDS	1575	narH	1.7.99.4	COG1140	Respiratory nitrate reductase 1 beta chain
+AKBAPOEL_00407	CDS	759	narG	1.7.99.4	COG5013	Respiratory nitrate reductase 1 alpha chain
+AKBAPOEL_00408	CDS	681	ufaA1	2.1.1.-	COG2230	Tuberculostearic acid methyltransferase UfaA1
+AKBAPOEL_00409	CDS	492				hypothetical protein
+AKBAPOEL_00410	CDS	765		1.-.-.-	COG1028	putative oxidoreductase
+AKBAPOEL_00411	CDS	660	chrR		COG3806	Anti-sigma-E factor ChrR
+AKBAPOEL_00412	CDS	654	rpoE		COG1595	ECF RNA polymerase sigma factor RpoE
+AKBAPOEL_00413	CDS	837	ppdK_1	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+AKBAPOEL_00414	CDS	888	ygfZ_1		COG0354	tRNA-modifying protein YgfZ
+AKBAPOEL_00415	CDS	1035				hypothetical protein
+AKBAPOEL_00416	CDS	951	rfaF_1	2.-.-.-	COG0859	ADP-heptose--LPS heptosyltransferase 2
+AKBAPOEL_00417	CDS	168				hypothetical protein
+AKBAPOEL_00418	CDS	210				hypothetical protein
+AKBAPOEL_00419	CDS	567				hypothetical protein
+AKBAPOEL_00420	CDS	651				hypothetical protein
+AKBAPOEL_00421	CDS	780	glmU	2.3.1.157		Bifunctional protein GlmU
+AKBAPOEL_00422	CDS	1677				hypothetical protein
+AKBAPOEL_00423	CDS	1227				hypothetical protein
+AKBAPOEL_00424	CDS	1830	nodM	2.6.1.16		Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+AKBAPOEL_00425	CDS	387	rplF		COG0097	50S ribosomal protein L6
+AKBAPOEL_00426	CDS	366	rplR		COG0256	50S ribosomal protein L18
+AKBAPOEL_00427	CDS	555	rpsE		COG0098	30S ribosomal protein S5
+AKBAPOEL_00428	CDS	189	rpmD		COG1841	50S ribosomal protein L30
+AKBAPOEL_00429	CDS	501	rplO		COG0200	50S ribosomal protein L15
+AKBAPOEL_00430	CDS	1341	secY		COG0201	Protein translocase subunit SecY
+AKBAPOEL_00431	CDS	648	adk	2.7.4.3	COG0563	Adenylate kinase
+AKBAPOEL_00432	CDS	369	rpsM		COG0099	30S ribosomal protein S13
+AKBAPOEL_00433	CDS	387	rpsK		COG0100	30S ribosomal protein S11
+AKBAPOEL_00434	CDS	975	mltB	4.2.2.-	COG2951	Membrane-bound lytic murein transglycosylase B
+AKBAPOEL_00435	tRNA	90				tRNA-Ser(tga)
+AKBAPOEL_00436	CDS	1140	metXA_1	2.3.1.31	COG2021	Homoserine O-acetyltransferase
+AKBAPOEL_00437	CDS	819	ptlH	1.14.11.35		1-deoxypentalenic acid 11-beta-hydroxylase
+AKBAPOEL_00438	CDS	891	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+AKBAPOEL_00439	CDS	153				hypothetical protein
+AKBAPOEL_00440	CDS	822	hpcE		COG0179	Homoprotocatechuate catabolism bifunctional isomerase/decarboxylase
+AKBAPOEL_00441	CDS	774	mhpD_2	4.2.1.80	COG3971	2-keto-4-pentenoate hydratase
+AKBAPOEL_00442	CDS	936	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+AKBAPOEL_00443	CDS	726				hypothetical protein
+AKBAPOEL_00444	CDS	159				hypothetical protein
+AKBAPOEL_00445	CDS	495				hypothetical protein
+AKBAPOEL_00446	CDS	1023	tsaT			Outer membrane transporter protein TsaT
+AKBAPOEL_00447	CDS	411		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+AKBAPOEL_00448	CDS	246				hypothetical protein
+AKBAPOEL_00449	CDS	348				hypothetical protein
+AKBAPOEL_00450	CDS	606				hypothetical protein
+AKBAPOEL_00451	CDS	753		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+AKBAPOEL_00452	tRNA	76				tRNA-Thr(tgt)
+AKBAPOEL_00453	CDS	291				hypothetical protein
+AKBAPOEL_00454	tRNA	87				tRNA-Leu(taa)
+AKBAPOEL_00455	CDS	426	cueR		COG0789	HTH-type transcriptional regulator CueR
+AKBAPOEL_00456	CDS	795	crt_4	4.2.1.150	COG1024	Short-chain-enoyl-CoA hydratase
+AKBAPOEL_00457	CDS	1203	yfdE_2	2.8.3.19	COG1804	Acetyl-CoA:oxalate CoA-transferase
+AKBAPOEL_00458	CDS	375				hypothetical protein
+AKBAPOEL_00459	CDS	480	ibpA		COG0071	Small heat shock protein IbpA
+AKBAPOEL_00460	CDS	1188				hypothetical protein
+AKBAPOEL_00461	CDS	1446				hypothetical protein
+AKBAPOEL_00462	CDS	324				hypothetical protein
+AKBAPOEL_00463	CDS	483	hisI	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+AKBAPOEL_00464	CDS	600	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+AKBAPOEL_00465	CDS	618	yceF		COG0424	Maf-like protein YceF
+AKBAPOEL_00466	CDS	1392	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+AKBAPOEL_00467	CDS	1935	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+AKBAPOEL_00468	CDS	216	yidD		COG0759	Putative membrane protein insertion efficiency factor
+AKBAPOEL_00469	CDS	654				hypothetical protein
+AKBAPOEL_00470	CDS	588				hypothetical protein
+AKBAPOEL_00471	CDS	1812	typA		COG1217	GTP-binding protein TypA/BipA
+AKBAPOEL_00472	CDS	1953	ccmF		COG1138	Cytochrome c-type biogenesis protein CcmF
+AKBAPOEL_00473	CDS	561	cycY		COG0526	Thiol:disulfide interchange protein CycY
+AKBAPOEL_00474	CDS	1938		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+AKBAPOEL_00475	CDS	330				hypothetical protein
+AKBAPOEL_00476	CDS	177				hypothetical protein
+AKBAPOEL_00477	CDS	726				hypothetical protein
+AKBAPOEL_00478	CDS	849	livH_1		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+AKBAPOEL_00479	CDS	954				hypothetical protein
+AKBAPOEL_00480	CDS	735	lptB_1	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+AKBAPOEL_00481	CDS	702	livF_2		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+AKBAPOEL_00482	CDS	453	aspC_1	2.6.1.1	COG0436	Aspartate aminotransferase
+AKBAPOEL_00483	CDS	2001	rne	3.1.26.12	COG1530	Ribonuclease E
+AKBAPOEL_00484	CDS	1101	amiC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase AmiC
+AKBAPOEL_00485	CDS	144				hypothetical protein
+AKBAPOEL_00486	CDS	342	lpxB	2.4.1.182		Lipid-A-disaccharide synthase
+AKBAPOEL_00487	CDS	399	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+AKBAPOEL_00488	CDS	1305	gltA	2.3.3.16	COG0372	Citrate synthase
+AKBAPOEL_00489	CDS	1398	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+AKBAPOEL_00490	CDS	621	lexA	3.4.21.88	COG1974	LexA repressor
+AKBAPOEL_00491	CDS	1212	moeA	2.10.1.1	COG0303	Molybdopterin molybdenumtransferase
+AKBAPOEL_00492	CDS	489	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+AKBAPOEL_00493	CDS	798	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+AKBAPOEL_00494	CDS	225	trpD	2.4.2.18		Anthranilate phosphoribosyltransferase
+AKBAPOEL_00495	CDS	273	sulD		COG0801	Bifunctional folate synthesis protein
+AKBAPOEL_00496	CDS	366	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+AKBAPOEL_00497	CDS	2172	rsh	2.7.6.5		GTP pyrophosphokinase rsh
+AKBAPOEL_00498	CDS	597	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+AKBAPOEL_00499	CDS	597				hypothetical protein
+AKBAPOEL_00500	CDS	258				hypothetical protein
+AKBAPOEL_00501	CDS	561	dhlB_1	3.8.1.2		(S)-2-haloacid dehalogenase
+AKBAPOEL_00502	CDS	285				hypothetical protein
+AKBAPOEL_00503	CDS	642	ligF			Protein LigF
+AKBAPOEL_00504	CDS	834	paaF	4.2.1.17	COG1024	2,3-dehydroadipyl-CoA hydratase
+AKBAPOEL_00505	CDS	738	murU	2.7.7.-	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+AKBAPOEL_00506	CDS	984	amgK	2.7.1.-	COG3178	N-acetylmuramate/N-acetylglucosamine kinase
+AKBAPOEL_00507	CDS	801	ucpA	1.-.-.-		Oxidoreductase UcpA
+AKBAPOEL_00508	tRNA	75				tRNA-Thr(ggt)
+AKBAPOEL_00509	CDS	663				hypothetical protein
+AKBAPOEL_00510	CDS	330				hypothetical protein
+AKBAPOEL_00511	CDS	1098	mmpA	3.4.24.-	COG0750	Metalloprotease MmpA
+AKBAPOEL_00512	CDS	165				hypothetical protein
+AKBAPOEL_00513	CDS	213				hypothetical protein
+AKBAPOEL_00514	CDS	156				hypothetical protein
+AKBAPOEL_00515	CDS	183				hypothetical protein
+AKBAPOEL_00516	CDS	147				hypothetical protein
+AKBAPOEL_00517	CDS	183				hypothetical protein
+AKBAPOEL_00518	CDS	168				hypothetical protein
+AKBAPOEL_00519	CDS	249				hypothetical protein
+AKBAPOEL_00520	CDS	99				hypothetical protein
+AKBAPOEL_00521	CDS	168				hypothetical protein
+AKBAPOEL_00522	CDS	273				hypothetical protein
+AKBAPOEL_00523	CDS	1230	fldA	2.8.3.17		Cinnamoyl-CoA:phenyllactate CoA-transferase
+AKBAPOEL_00524	CDS	252				hypothetical protein
+AKBAPOEL_00525	CDS	1299	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+AKBAPOEL_00526	CDS	609	leuD	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit
+AKBAPOEL_00527	CDS	1113	leuB	1.1.1.85	COG0473	3-isopropylmalate dehydrogenase
+AKBAPOEL_00528	CDS	1020	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+AKBAPOEL_00529	CDS	402	sdhC		COG2009	Succinate dehydrogenase cytochrome b556 subunit
+AKBAPOEL_00530	CDS	771	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+AKBAPOEL_00531	CDS	1056				hypothetical protein
+AKBAPOEL_00532	CDS	1200	bbsG_2	1.3.8.3		(R)-benzylsuccinyl-CoA dehydrogenase
+AKBAPOEL_00533	CDS	618	inhA	4.2.1.103		Isonitrile hydratase
+AKBAPOEL_00534	CDS	756	csgA			C-factor
+AKBAPOEL_00535	CDS	717		1.1.1.390		Sulfoquinovose 1-dehydrogenase
+AKBAPOEL_00536	CDS	1143	yeaW	1.14.13.-	COG4638	Carnitine monooxygenase oxygenase subunit
+AKBAPOEL_00537	CDS	774				hypothetical protein
+AKBAPOEL_00538	CDS	258				hypothetical protein
+AKBAPOEL_00539	CDS	717	dhlB_2	3.8.1.2		(S)-2-haloacid dehalogenase
+AKBAPOEL_00540	CDS	507		3.3.2.10		Soluble epoxide hydrolase
+AKBAPOEL_00541	CDS	414				hypothetical protein
+AKBAPOEL_00542	CDS	1536				hypothetical protein
+AKBAPOEL_00543	CDS	2196	walK	2.7.13.3		Sensor protein kinase WalK
+AKBAPOEL_00544	CDS	1443	ntrC		COG2204	DNA-binding transcriptional regulator NtrC
+AKBAPOEL_00545	CDS	1086	glnL	2.7.13.3	COG3852	Sensory histidine kinase/phosphatase NtrB
+AKBAPOEL_00546	CDS	1161	ispDF		COG0245	Bifunctional enzyme IspD/IspF
+AKBAPOEL_00547	CDS	456	pgpA	3.1.3.27	COG1267	Phosphatidylglycerophosphatase A
+AKBAPOEL_00548	CDS	489	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+AKBAPOEL_00549	CDS	432	ratA		COG2867	Ribosome association toxin RatA
+AKBAPOEL_00550	CDS	948	lipA	2.8.1.8		Lipoyl synthase
+AKBAPOEL_00551	CDS	1389	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+AKBAPOEL_00552	CDS	1026	sucB_2	2.3.1.61	COG0508	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+AKBAPOEL_00553	CDS	900	mltF_1			Membrane-bound lytic murein transglycosylase F
+AKBAPOEL_00554	CDS	1728	qedA	1.1.2.8		Quinoprotein alcohol dehydrogenase (cytochrome c)
+AKBAPOEL_00555	CDS	2241	yccM_5		COG0348	Putative electron transport protein YccM
+AKBAPOEL_00556	CDS	1776	yccM_6		COG0348	Putative electron transport protein YccM
+AKBAPOEL_00557	CDS	666				hypothetical protein
+AKBAPOEL_00558	CDS	249	grxD		COG0278	Glutaredoxin 4
+AKBAPOEL_00559	CDS	615	rpsD		COG0522	30S ribosomal protein S4
+AKBAPOEL_00560	CDS	729	trmJ	2.1.1.200	COG0565	tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ
+AKBAPOEL_00561	CDS	1662	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+AKBAPOEL_00562	CDS	1122				hypothetical protein
+AKBAPOEL_00563	CDS	2016	yccM_7		COG0348	Putative electron transport protein YccM
+AKBAPOEL_00564	CDS	204				hypothetical protein
+AKBAPOEL_00565	CDS	1404	trkH		COG0168	Trk system potassium uptake protein TrkH
+AKBAPOEL_00566	CDS	291	trkA		COG0569	Trk system potassium uptake protein TrkA
+AKBAPOEL_00567	CDS	1332	tme	1.1.1.40	COG0280	NADP-dependent malic enzyme
+AKBAPOEL_00568	CDS	2160	ppk	2.7.4.1	COG0855	Polyphosphate kinase
+AKBAPOEL_00569	CDS	486	pitA		COG0306	Low-affinity inorganic phosphate transporter 1
+AKBAPOEL_00570	CDS	1287	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+AKBAPOEL_00571	CDS	1155	hisZ		COG3705	ATP phosphoribosyltransferase regulatory subunit
+AKBAPOEL_00572	CDS	1590	serA_2	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+AKBAPOEL_00573	CDS	1350				hypothetical protein
+AKBAPOEL_00574	CDS	408				hypothetical protein
+AKBAPOEL_00575	CDS	492				hypothetical protein
+AKBAPOEL_00576	CDS	1572	ilvX	2.2.1.6	COG0028	Putative acetolactate synthase large subunit IlvX
+AKBAPOEL_00577	CDS	153				hypothetical protein
+AKBAPOEL_00578	CDS	753	hpcH_1	4.1.2.52	COG3836	4-hydroxy-2-oxo-heptane-1,7-dioate aldolase
+AKBAPOEL_00579	CDS	153				hypothetical protein
+AKBAPOEL_00580	CDS	696				hypothetical protein
+AKBAPOEL_00581	CDS	1200	smtB_2	2.8.3.22	COG1804	Succinyl-CoA--L-malate CoA-transferase beta subunit
+AKBAPOEL_00582	tRNA	86				tRNA-Tyr(gta)
+AKBAPOEL_00583	CDS	1362				hypothetical protein
+AKBAPOEL_00584	CDS	1563				hypothetical protein
+AKBAPOEL_00585	CDS	816				hypothetical protein
+AKBAPOEL_00586	CDS	426				hypothetical protein
+AKBAPOEL_00587	CDS	840	thiQ	3.6.3.-	COG3840	Thiamine import ATP-binding protein ThiQ
+AKBAPOEL_00588	CDS	1653	ilvG	2.2.1.6		Acetolactate synthase isozyme 2 large subunit
+AKBAPOEL_00589	CDS	741	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+AKBAPOEL_00590	CDS	759	hpcH_2	4.1.2.52	COG3836	4-hydroxy-2-oxo-heptane-1,7-dioate aldolase
+AKBAPOEL_00591	CDS	108				hypothetical protein
+AKBAPOEL_00592	CDS	465				hypothetical protein
+AKBAPOEL_00593	tRNA	77				tRNA-Arg(tct)
+AKBAPOEL_00594	CDS	327				hypothetical protein
+AKBAPOEL_00595	tRNA	77				tRNA-Pro(tgg)
+AKBAPOEL_00596	CDS	171		1.2.5.2		Membrane-bound aldehyde dehydrogenase [pyrroloquinoline-quinone]
+AKBAPOEL_00597	CDS	450				hypothetical protein
+AKBAPOEL_00598	CDS	1620	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+AKBAPOEL_00599	CDS	660	yfcG	1.8.4.-	COG0625	Disulfide-bond oxidoreductase YfcG
+AKBAPOEL_00600	CDS	3345				hypothetical protein
+AKBAPOEL_00601	CDS	531				hypothetical protein
+AKBAPOEL_00602	CDS	639				hypothetical protein
+AKBAPOEL_00603	CDS	288				hypothetical protein
+AKBAPOEL_00604	CDS	144				hypothetical protein
+AKBAPOEL_00605	CDS	342				hypothetical protein
+AKBAPOEL_00606	CDS	1455	degP	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+AKBAPOEL_00607	CDS	201				hypothetical protein
+AKBAPOEL_00608	CDS	513	hflC		COG0330	Modulator of FtsH protease HflC
+AKBAPOEL_00609	CDS	1095	groL5			60 kDa chaperonin 5
+AKBAPOEL_00610	CDS	867	garR	1.1.1.60	COG2084	2-hydroxy-3-oxopropionate reductase
+AKBAPOEL_00611	CDS	462	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+AKBAPOEL_00612	CDS	1197	alaC	2.6.1.2	COG0436	Glutamate-pyruvate aminotransferase AlaC
+AKBAPOEL_00613	CDS	513				hypothetical protein
+AKBAPOEL_00614	CDS	1053	argC	1.2.1.38		N-acetyl-gamma-glutamyl-phosphate reductase
+AKBAPOEL_00615	CDS	489	rpsI		COG0103	30S ribosomal protein S9
+AKBAPOEL_00616	CDS	468	rplM		COG0102	50S ribosomal protein L13
+AKBAPOEL_00617	CDS	789	echA8_1	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+AKBAPOEL_00618	CDS	399				hypothetical protein
+AKBAPOEL_00619	CDS	189				hypothetical protein
+AKBAPOEL_00620	CDS	216				hypothetical protein
+AKBAPOEL_00621	CDS	1095				hypothetical protein
+AKBAPOEL_00622	CDS	396				hypothetical protein
+AKBAPOEL_00623	CDS	234				hypothetical protein
+AKBAPOEL_00624	CDS	270				hypothetical protein
+AKBAPOEL_00625	CDS	903				hypothetical protein
+AKBAPOEL_00626	CDS	762				hypothetical protein
+AKBAPOEL_00627	CDS	432				hypothetical protein
+AKBAPOEL_00628	CDS	441				hypothetical protein
+AKBAPOEL_00629	CDS	915	ribN_2			Riboflavin transporter
+AKBAPOEL_00630	CDS	1197	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+AKBAPOEL_00631	CDS	426				hypothetical protein
+AKBAPOEL_00632	CDS	360				hypothetical protein
+AKBAPOEL_00633	CDS	216				hypothetical protein
+AKBAPOEL_00634	CDS	1209	exuT			Hexuronate transporter
+AKBAPOEL_00635	CDS	1443	ramB		COG1396	HTH-type transcriptional regulator RamB
+AKBAPOEL_00636	CDS	1365	icl1	4.1.3.1		Isocitrate lyase 1
+AKBAPOEL_00637	CDS	987	acuI	1.3.1.84	COG0604	Acrylyl-CoA reductase AcuI
+AKBAPOEL_00638	CDS	723	gpmA	5.4.2.11	COG0588	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+AKBAPOEL_00639	CDS	537	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+AKBAPOEL_00640	CDS	723	alr	5.1.1.1		Alanine racemase
+AKBAPOEL_00641	CDS	690	cvpA		COG1286	Colicin V production protein
+AKBAPOEL_00642	CDS	1428	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+AKBAPOEL_00643	CDS	675	yciK	1.-.-.-	COG1028	putative oxidoreductase YciK
+AKBAPOEL_00644	CDS	852	der		COG1160	GTPase Der
+AKBAPOEL_00645	CDS	453				hypothetical protein
+AKBAPOEL_00646	CDS	3474	smc			Chromosome partition protein Smc
+AKBAPOEL_00647	CDS	312	atpI			ATP synthase protein I
+AKBAPOEL_00648	CDS	735	atpB		COG0356	ATP synthase subunit a
+AKBAPOEL_00649	CDS	225	atpE			ATP synthase subunit c
+AKBAPOEL_00650	CDS	594	atpG_2			ATP synthase subunit b'
+AKBAPOEL_00651	CDS	432				hypothetical protein
+AKBAPOEL_00652	CDS	1737	recN		COG0497	DNA repair protein RecN
+AKBAPOEL_00653	CDS	894	bamD		COG4105	Outer membrane protein assembly factor BamD
+AKBAPOEL_00654	CDS	783	suhB	3.1.3.11	COG0483	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+AKBAPOEL_00655	CDS	1269				hypothetical protein
+AKBAPOEL_00656	CDS	189				hypothetical protein
+AKBAPOEL_00657	CDS	405				hypothetical protein
+AKBAPOEL_00658	CDS	258				hypothetical protein
+AKBAPOEL_00659	CDS	123				hypothetical protein
+AKBAPOEL_00660	CDS	195				hypothetical protein
+AKBAPOEL_00661	CDS	174				hypothetical protein
+AKBAPOEL_00662	CDS	2259	lon	3.4.21.53	COG0466	Lon protease
+AKBAPOEL_00663	CDS	276	hupB		COG0776	DNA-binding protein HRm
+AKBAPOEL_00664	tRNA	76				tRNA-Val(tac)
+AKBAPOEL_00665	CDS	1851	nqo3	1.6.5.11	COG1034	NADH-quinone oxidoreductase chain 3
+AKBAPOEL_00666	CDS	195				hypothetical protein
+AKBAPOEL_00667	CDS	1107	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+AKBAPOEL_00668	CDS	1098	wbpE	2.6.1.98	COG0399	UDP-2-acetamido-2-deoxy-3-oxo-D-glucuronate aminotransferase
+AKBAPOEL_00669	CDS	126				hypothetical protein
+AKBAPOEL_00670	CDS	432				hypothetical protein
+AKBAPOEL_00671	CDS	1185	iolS_1	1.1.1.-	COG0667	Aldo-keto reductase IolS
+AKBAPOEL_00672	CDS	477				hypothetical protein
+AKBAPOEL_00673	CDS	429				hypothetical protein
+AKBAPOEL_00674	CDS	411				hypothetical protein
+AKBAPOEL_00675	CDS	405			COG0346	Virulence protein
+AKBAPOEL_00676	CDS	447	zur		COG0735	Zinc uptake regulation protein
+AKBAPOEL_00677	CDS	687	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+AKBAPOEL_00678	CDS	897	dapA	4.3.3.7		4-hydroxy-tetrahydrodipicolinate synthase
+AKBAPOEL_00679	CDS	453	smpB			SsrA-binding protein
+AKBAPOEL_00680	CDS	555	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+AKBAPOEL_00681	CDS	345	udgb	3.2.2.-	COG1573	Type-5 uracil-DNA glycosylase
+AKBAPOEL_00682	tRNA	77				tRNA-Met(cat)
+AKBAPOEL_00683	CDS	909	ribN_3			Riboflavin transporter
+AKBAPOEL_00684	CDS	1116	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+AKBAPOEL_00685	CDS	216				hypothetical protein
+AKBAPOEL_00686	CDS	264				hypothetical protein
+AKBAPOEL_00687	CDS	1200				hypothetical protein
+AKBAPOEL_00688	CDS	837	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+AKBAPOEL_00689	CDS	840	sseA	2.8.1.2	COG2897	3-mercaptopyruvate sulfurtransferase
+AKBAPOEL_00690	CDS	1269	gltP		COG1301	Proton/glutamate-aspartate symporter
+AKBAPOEL_00691	CDS	1485	nuoM	1.6.5.11	COG1008	NADH-quinone oxidoreductase subunit M
+AKBAPOEL_00692	CDS	156				hypothetical protein
+AKBAPOEL_00693	CDS	105				hypothetical protein
+AKBAPOEL_00694	CDS	483				hypothetical protein
+AKBAPOEL_00695	CDS	363				hypothetical protein
+AKBAPOEL_00696	CDS	888				hypothetical protein
+AKBAPOEL_00697	CDS	297				hypothetical protein
+AKBAPOEL_00698	CDS	1800	lepA	3.6.5.-	COG0481	Elongation factor 4
+AKBAPOEL_00699	CDS	255				hypothetical protein
+AKBAPOEL_00700	CDS	972		1.13.12.16	COG2070	Nitronate monooxygenase
+AKBAPOEL_00701	CDS	531				hypothetical protein
+AKBAPOEL_00702	CDS	573				hypothetical protein
+AKBAPOEL_00703	CDS	306				hypothetical protein
+AKBAPOEL_00704	CDS	1908	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+AKBAPOEL_00705	CDS	1311	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+AKBAPOEL_00706	CDS	594	cpoB		COG1729	Cell division coordinator CpoB
+AKBAPOEL_00707	CDS	144				hypothetical protein
+AKBAPOEL_00708	CDS	1155	dadA_1	1.4.99.-	COG0665	D-amino acid dehydrogenase
+AKBAPOEL_00709	CDS	942			COG0715	Putative thiamine biosynthesis protein
+AKBAPOEL_00710	CDS	726	ssuB_1	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+AKBAPOEL_00711	CDS	753	ribX_1			Riboflavin transport system permease protein RibX
+AKBAPOEL_00712	CDS	1437	ald	1.2.1.83		3-succinoylsemialdehyde-pyridine dehydrogenase
+AKBAPOEL_00713	CDS	453				hypothetical protein
+AKBAPOEL_00714	CDS	639				hypothetical protein
+AKBAPOEL_00715	CDS	192	hapE	1.14.13.84		4-hydroxyacetophenone monooxygenase
+AKBAPOEL_00716	CDS	1191	aspC_2	2.6.1.1	COG0436	Aspartate aminotransferase
+AKBAPOEL_00717	CDS	1533	garD	4.2.1.42	COG2721	Galactarate dehydratase (L-threo-forming)
+AKBAPOEL_00718	CDS	885		4.3.2.3		Ureidoglycolate lyase
+AKBAPOEL_00719	CDS	981	ghrB	1.1.1.79	COG1052	Glyoxylate/hydroxypyruvate reductase B
+AKBAPOEL_00720	CDS	321				hypothetical protein
+AKBAPOEL_00721	CDS	621				hypothetical protein
+AKBAPOEL_00722	CDS	246				hypothetical protein
+AKBAPOEL_00723	CDS	192				hypothetical protein
+AKBAPOEL_00724	tRNA	73				tRNA-Met(cat)
+AKBAPOEL_00725	CDS	219				hypothetical protein
+AKBAPOEL_00726	CDS	261				hypothetical protein
+AKBAPOEL_00727	CDS	165				hypothetical protein
+AKBAPOEL_00728	CDS	312				hypothetical protein
+AKBAPOEL_00729	CDS	546				hypothetical protein
+AKBAPOEL_00730	CDS	1581	fdhL	1.1.99.11		Fructose dehydrogenase large subunit
+AKBAPOEL_00731	CDS	1578	livH_2		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+AKBAPOEL_00732	CDS	1278	amiC_2			Aliphatic amidase expression-regulating protein
+AKBAPOEL_00733	CDS	390		3.1.2.-	COG1607	putative acyl-CoA thioester hydrolase
+AKBAPOEL_00734	CDS	261				hypothetical protein
+AKBAPOEL_00735	CDS	987			COG1702	PhoH-like protein
+AKBAPOEL_00736	CDS	1314	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+AKBAPOEL_00737	CDS	603				hypothetical protein
+AKBAPOEL_00738	CDS	243				hypothetical protein
+AKBAPOEL_00739	CDS	933	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+AKBAPOEL_00740	CDS	807	cysQ	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+AKBAPOEL_00741	CDS	285				hypothetical protein
+AKBAPOEL_00742	CDS	150				hypothetical protein
+AKBAPOEL_00743	CDS	1116	zapE		COG1485	Cell division protein ZapE
+AKBAPOEL_00744	CDS	1494	bauC	1.2.1.-	COG1012	Putative 3-oxopropanoate dehydrogenase
+AKBAPOEL_00745	CDS	618	yrbG		COG0530	Inner membrane protein YrbG
+AKBAPOEL_00746	CDS	294				hypothetical protein
+AKBAPOEL_00747	CDS	471	lrp		COG1522	Leucine-responsive regulatory protein
+AKBAPOEL_00748	CDS	2367	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+AKBAPOEL_00749	tRNA	85				tRNA-Leu(tag)
+AKBAPOEL_00750	CDS	1179	dxr	1.1.1.267		1-deoxy-D-xylulose 5-phosphate reductoisomerase
+AKBAPOEL_00751	CDS	792	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+AKBAPOEL_00752	CDS	675	uppS	2.5.1.-		Isoprenyl transferase
+AKBAPOEL_00753	CDS	387	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+AKBAPOEL_00754	CDS	882	ddlB	6.3.2.4	COG1181	D-alanine--D-alanine ligase B
+AKBAPOEL_00755	CDS	714	ftsQ			Cell division protein FtsQ
+AKBAPOEL_00756	CDS	1275	ftsA_1		COG0849	Cell division protein FtsA
+AKBAPOEL_00757	CDS	465				hypothetical protein
+AKBAPOEL_00758	CDS	120				hypothetical protein
+AKBAPOEL_00759	CDS	948	rgtE_1	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+AKBAPOEL_00760	CDS	138				hypothetical protein
+AKBAPOEL_00761	CDS	756				hypothetical protein
+AKBAPOEL_00762	CDS	477				hypothetical protein
+AKBAPOEL_00763	CDS	555	nfuA		COG0316	Fe/S biogenesis protein NfuA
+AKBAPOEL_00764	CDS	948				hypothetical protein
+AKBAPOEL_00765	CDS	555	ddpX	3.4.13.22	COG2173	D-alanyl-D-alanine dipeptidase
+AKBAPOEL_00766	CDS	678				hypothetical protein
+AKBAPOEL_00767	CDS	477	rimI	2.3.1.128	COG0456	Ribosomal-protein-alanine acetyltransferase
+AKBAPOEL_00768	CDS	234			COG0425	Putative sulfur carrier protein
+AKBAPOEL_00769	CDS	408	fur_2		COG0735	Ferric uptake regulation protein
+AKBAPOEL_00770	CDS	564	parB		COG1475	putative chromosome-partitioning protein ParB
+AKBAPOEL_00771	CDS	993				hypothetical protein
+AKBAPOEL_00772	CDS	486				hypothetical protein
+AKBAPOEL_00773	CDS	2586	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+AKBAPOEL_00774	CDS	375				hypothetical protein
+AKBAPOEL_00775	CDS	870	ectD_2	1.14.11.55		Ectoine dioxygenase
+AKBAPOEL_00776	CDS	1599	betA	1.1.99.1	COG2303	Oxygen-dependent choline dehydrogenase
+AKBAPOEL_00777	CDS	600				hypothetical protein
+AKBAPOEL_00778	CDS	396				hypothetical protein
+AKBAPOEL_00779	CDS	168				hypothetical protein
+AKBAPOEL_00780	CDS	162				hypothetical protein
+AKBAPOEL_00781	CDS	240				hypothetical protein
+AKBAPOEL_00782	CDS	468				hypothetical protein
+AKBAPOEL_00783	CDS	225				hypothetical protein
+AKBAPOEL_00784	CDS	1782	araC	4.2.1.25		L-arabonate dehydratase
+AKBAPOEL_00785	CDS	312				hypothetical protein
+AKBAPOEL_00786	CDS	1470	ffh		COG0541	Signal recognition particle protein
+AKBAPOEL_00787	CDS	828	dapF	5.1.1.7		Diaminopimelate epimerase
+AKBAPOEL_00788	CDS	1251	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+AKBAPOEL_00789	CDS	711	tal_2	2.2.1.2	COG0176	Transaldolase
+AKBAPOEL_00790	tRNA	90				tRNA-Ser(gga)
+AKBAPOEL_00791	CDS	2412	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+AKBAPOEL_00792	CDS	1092	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+AKBAPOEL_00793	CDS	351	rplT		COG0292	50S ribosomal protein L20
+AKBAPOEL_00794	CDS	204	rpmI		COG0291	50S ribosomal protein L35
+AKBAPOEL_00795	CDS	876	accD	6.4.1.2	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+AKBAPOEL_00796	CDS	1290	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+AKBAPOEL_00797	CDS	321	trxA		COG0526	Thioredoxin 1
+AKBAPOEL_00798	CDS	474	greA		COG0782	Transcription elongation factor GreA
+AKBAPOEL_00799	CDS	1593	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+AKBAPOEL_00800	CDS	168				hypothetical protein
+AKBAPOEL_00801	CDS	723				hypothetical protein
+AKBAPOEL_00802	CDS	555				hypothetical protein
+AKBAPOEL_00803	CDS	900				Invasin
+AKBAPOEL_00804	CDS	729				hypothetical protein
+AKBAPOEL_00805	CDS	291				hypothetical protein
+AKBAPOEL_00806	CDS	294				hypothetical protein
+AKBAPOEL_00807	CDS	1404	bicA_2		COG0659	Bicarbonate transporter BicA
+AKBAPOEL_00808	CDS	792	rl5	1.10.3.-		Polyphenol oxidase
+AKBAPOEL_00809	CDS	1053				hypothetical protein
+AKBAPOEL_00810	CDS	819	lgt	2.4.99.-	COG0682	Prolipoprotein diacylglyceryl transferase
+AKBAPOEL_00811	CDS	969	hldD	5.1.3.20	COG0451	ADP-L-glycero-D-manno-heptose-6-epimerase
+AKBAPOEL_00812	CDS	258				hypothetical protein
+AKBAPOEL_00813	CDS	504				hypothetical protein
+AKBAPOEL_00814	CDS	822	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+AKBAPOEL_00815	CDS	570				hypothetical protein
+AKBAPOEL_00816	CDS	1317	envZ	2.7.13.3		Osmolarity sensor protein EnvZ
+AKBAPOEL_00817	CDS	519	walR		COG0745	Transcriptional regulatory protein WalR
+AKBAPOEL_00818	CDS	456				hypothetical protein
+AKBAPOEL_00819	CDS	885	mmsB	1.1.1.31	COG2084	3-hydroxyisobutyrate dehydrogenase
+AKBAPOEL_00820	CDS	1215	acdA_1	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+AKBAPOEL_00821	CDS	633				hypothetical protein
+AKBAPOEL_00822	CDS	798	rhlG_1	1.1.1.100		Rhamnolipids biosynthesis 3-oxoacyl-[acyl-carrier-protein] reductase
+AKBAPOEL_00823	CDS	1263	braC		COG0683	Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein
+AKBAPOEL_00824	CDS	948	livH_3		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+AKBAPOEL_00825	CDS	1269				hypothetical protein
+AKBAPOEL_00826	CDS	750	lptB_2	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+AKBAPOEL_00827	CDS	201				hypothetical protein
+AKBAPOEL_00828	CDS	96				hypothetical protein
+AKBAPOEL_00829	CDS	1287	lpoA			Penicillin-binding protein activator LpoA
+AKBAPOEL_00830	CDS	951	hemN_2	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+AKBAPOEL_00831	CDS	867	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+AKBAPOEL_00832	CDS	243				hypothetical protein
+AKBAPOEL_00833	CDS	831	sppA	3.4.21.-	COG0616	Putative signal peptide peptidase SppA
+AKBAPOEL_00834	CDS	747	yfiC	2.1.1.223		tRNA1(Val) (adenine(37)-N6)-methyltransferase
+AKBAPOEL_00835	CDS	999	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+AKBAPOEL_00836	CDS	441	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+AKBAPOEL_00837	CDS	1512	alsT		COG1115	Amino-acid carrier protein AlsT
+AKBAPOEL_00838	CDS	510	hemA	2.3.1.37	COG0156	5-aminolevulinate synthase
+AKBAPOEL_00839	CDS	369				hypothetical protein
+AKBAPOEL_00840	CDS	519				hypothetical protein
+AKBAPOEL_00841	CDS	561	proX		COG3760	Prolyl-tRNA editing protein ProX
+AKBAPOEL_00842	CDS	162				hypothetical protein
+AKBAPOEL_00843	CDS	153				hypothetical protein
+AKBAPOEL_00844	CDS	786	mhpD_3	4.2.1.80	COG3971	2-keto-4-pentenoate hydratase
+AKBAPOEL_00845	CDS	291				hypothetical protein
+AKBAPOEL_00846	CDS	906				hypothetical protein
+AKBAPOEL_00847	CDS	870	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+AKBAPOEL_00848	CDS	1167	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+AKBAPOEL_00849	CDS	987	mdh	1.1.1.37		Malate dehydrogenase
+AKBAPOEL_00850	CDS	885	ectD_3	1.14.11.55		Ectoine dioxygenase
+AKBAPOEL_00851	CDS	243	adhE		COG1012	Aldehyde-alcohol dehydrogenase
+AKBAPOEL_00852	CDS	1464	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+AKBAPOEL_00853	CDS	687	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+AKBAPOEL_00854	CDS	990	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+AKBAPOEL_00855	CDS	1350				hypothetical protein
+AKBAPOEL_00856	CDS	888	malF		COG1175	Maltose transport system permease protein MalF
+AKBAPOEL_00857	CDS	501	carD		COG1329	RNA polymerase-binding transcription factor CarD
+AKBAPOEL_00858	CDS	333	fdxA		COG1146	Ferredoxin-2
+AKBAPOEL_00859	CDS	447				hypothetical protein
+AKBAPOEL_00860	CDS	2529	helY	3.6.4.-	COG4581	putative helicase HelY
+AKBAPOEL_00861	CDS	945	pip_1	3.4.11.5		Proline iminopeptidase
+AKBAPOEL_00862	CDS	1374	dpgC_2	1.13.11.80		(3,5-dihydroxyphenyl)acetyl-CoA 1,2-dioxygenase
+AKBAPOEL_00863	CDS	378	cobB_1	3.5.1.-	COG0846	NAD-dependent protein deacetylase
+AKBAPOEL_00864	CDS	231	cobB_2	3.5.1.-	COG0846	NAD-dependent protein deacylase
+AKBAPOEL_00865	CDS	900	gctA	2.8.3.12	COG1788	Glutaconate CoA-transferase subunit A
+AKBAPOEL_00866	CDS	2205				hypothetical protein
+AKBAPOEL_00867	CDS	516	cysC	2.7.1.25	COG0529	Adenylyl-sulfate kinase
+AKBAPOEL_00868	CDS	672				hypothetical protein
+AKBAPOEL_00869	CDS	1989	uvrB		COG0556	UvrABC system protein B
+AKBAPOEL_00870	CDS	459	patA	2.6.1.-	COG0436	Putative N-acetyl-LL-diaminopimelate aminotransferase
+AKBAPOEL_00871	CDS	582	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+AKBAPOEL_00872	CDS	738	fabG_3	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+AKBAPOEL_00873	CDS	237	acpP_1		COG0236	Acyl carrier protein
+AKBAPOEL_00874	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+AKBAPOEL_00875	CDS	867	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+AKBAPOEL_00876	CDS	636	gmk	2.7.4.8	COG0194	Guanylate kinase
+AKBAPOEL_00877	CDS	861	rsmA	2.1.1.182		Ribosomal RNA small subunit methyltransferase A
+AKBAPOEL_00878	CDS	312				hypothetical protein
+AKBAPOEL_00879	CDS	216				hypothetical protein
+AKBAPOEL_00880	CDS	810	paaG	5.3.3.18	COG1024	1,2-epoxyphenylacetyl-CoA isomerase
+AKBAPOEL_00881	CDS	1620	bclA_1	6.2.1.25		Benzoate--CoA ligase
+AKBAPOEL_00882	CDS	396	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+AKBAPOEL_00883	CDS	1290				hypothetical protein
+AKBAPOEL_00884	CDS	855	tauD	1.14.11.17	COG2175	Alpha-ketoglutarate-dependent taurine dioxygenase
+AKBAPOEL_00885	CDS	651				hypothetical protein
+AKBAPOEL_00886	CDS	918		1.1.1.169	COG1893	Putative 2-dehydropantoate 2-reductase
+AKBAPOEL_00887	CDS	798				hypothetical protein
+AKBAPOEL_00888	CDS	852		3.-.-.-		putative metallo-hydrolase
+AKBAPOEL_00889	CDS	1542	bclA_2	6.2.1.25		Benzoate--CoA ligase
+AKBAPOEL_00890	CDS	468	cinC			Cindoxin
+AKBAPOEL_00891	CDS	903	aroK_1	2.7.1.71	COG0703	Shikimate kinase
+AKBAPOEL_00892	CDS	636	cgtA	3.6.5.-		GTPase Obg/CgtA
+AKBAPOEL_00893	CDS	1137	proB	2.7.2.11		Glutamate 5-kinase
+AKBAPOEL_00894	CDS	1266	proA_2	1.2.1.41	COG0014	Gamma-glutamyl phosphate reductase
+AKBAPOEL_00895	CDS	573	nadD	2.7.7.18		putative nicotinate-nucleotide adenylyltransferase
+AKBAPOEL_00896	CDS	351	rsfS			Ribosomal silencing factor RsfS
+AKBAPOEL_00897	CDS	945			COG4942	putative protein
+AKBAPOEL_00898	CDS	180				hypothetical protein
+AKBAPOEL_00899	CDS	552	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+AKBAPOEL_00900	CDS	573				hypothetical protein
+AKBAPOEL_00901	CDS	1410	rgtA	2.4.1.-	COG1807	Lipopolysaccharide core galacturonosyltransferase RgtA
+AKBAPOEL_00902	CDS	276				hypothetical protein
+AKBAPOEL_00903	CDS	741	rgtE_2	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+AKBAPOEL_00904	CDS	558				hypothetical protein
+AKBAPOEL_00905	CDS	228				hypothetical protein
+AKBAPOEL_00906	CDS	222				hypothetical protein
+AKBAPOEL_00907	CDS	189				hypothetical protein
+AKBAPOEL_00908	CDS	195				hypothetical protein
+AKBAPOEL_00909	CDS	1047	cotSA	2.4.-.-	COG0438	Spore coat protein SA
+AKBAPOEL_00910	CDS	945	rfaF_2	2.-.-.-	COG0859	ADP-heptose--LPS heptosyltransferase 2
+AKBAPOEL_00911	CDS	618	infC		COG0290	Translation initiation factor IF-3
+AKBAPOEL_00912	CDS	330				hypothetical protein
+AKBAPOEL_00913	CDS	264	rpsT		COG0268	30S ribosomal protein S20
+AKBAPOEL_00914	CDS	786	echA8_2	4.2.1.17	COG1024	putative enoyl-CoA hydratase echA8
+AKBAPOEL_00915	CDS	384				hypothetical protein
+AKBAPOEL_00916	CDS	840	mutM	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+AKBAPOEL_00917	CDS	1071			COG4663	Monocarboxylate 2-oxoacid-binding periplasmic protein
+AKBAPOEL_00918	CDS	441				hypothetical protein
+AKBAPOEL_00919	CDS	531	takP_1		COG4663	Alpha-keto acid-binding periplasmic protein TakP
+AKBAPOEL_00920	CDS	960	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+AKBAPOEL_00921	CDS	480				hypothetical protein
+AKBAPOEL_00922	CDS	1584	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+AKBAPOEL_00923	CDS	252				hypothetical protein
+AKBAPOEL_00924	CDS	651	epsM	2.3.1.-	COG0110	Putative acetyltransferase EpsM
+AKBAPOEL_00925	CDS	345				hypothetical protein
+AKBAPOEL_00926	CDS	1938	dnaK			Chaperone protein DnaK
+AKBAPOEL_00927	CDS	219	acpP_2			Acyl carrier protein
+AKBAPOEL_00928	CDS	822				hypothetical protein
+AKBAPOEL_00929	CDS	345				hypothetical protein
+AKBAPOEL_00930	CDS	159				hypothetical protein
+AKBAPOEL_00931	CDS	1341	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+AKBAPOEL_00932	CDS	639				hypothetical protein
+AKBAPOEL_00933	CDS	177				hypothetical protein
+AKBAPOEL_00934	CDS	597				hypothetical protein
+AKBAPOEL_00935	CDS	225				hypothetical protein
+AKBAPOEL_00936	CDS	1050				hypothetical protein
+AKBAPOEL_00937	CDS	270				hypothetical protein
+AKBAPOEL_00938	CDS	222				hypothetical protein
+AKBAPOEL_00939	CDS	465	bfr	1.16.3.1	COG2193	Bacterioferritin
+AKBAPOEL_00940	CDS	852				hypothetical protein
+AKBAPOEL_00941	CDS	396				hypothetical protein
+AKBAPOEL_00942	CDS	1179				hypothetical protein
+AKBAPOEL_00943	CDS	708	livF_3		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+AKBAPOEL_00944	CDS	744	lptB_3	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+AKBAPOEL_00945	CDS	828				hypothetical protein
+AKBAPOEL_00946	CDS	1926	infB		COG0532	Translation initiation factor IF-2
+AKBAPOEL_00947	CDS	378	rbfA			Ribosome-binding factor A
+AKBAPOEL_00948	CDS	912	truB	5.4.99.25		tRNA pseudouridine synthase B
+AKBAPOEL_00949	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+AKBAPOEL_00950	CDS	2172	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+AKBAPOEL_00951	CDS	1410				hypothetical protein
+AKBAPOEL_00952	CDS	585				hypothetical protein
+AKBAPOEL_00953	CDS	735				hypothetical protein
+AKBAPOEL_00954	CDS	1371	cnbH	3.5.99.5		2-amino-5-chloromuconic acid deaminase
+AKBAPOEL_00955	CDS	1203	amtB			Ammonia channel
+AKBAPOEL_00956	CDS	690				hypothetical protein
+AKBAPOEL_00957	CDS	978	qorA	1.6.5.5	COG0604	Quinone oxidoreductase 1
+AKBAPOEL_00958	CDS	1014				hypothetical protein
+AKBAPOEL_00959	CDS	1014	yfmJ	1.-.-.-	COG2130	Putative NADP-dependent oxidoreductase YfmJ
+AKBAPOEL_00960	CDS	552				hypothetical protein
+AKBAPOEL_00961	CDS	759	actIII	1.3.1.-		Putative ketoacyl reductase
+AKBAPOEL_00962	CDS	2298	sdgC	1.14.13.209		Salicyloyl-CoA 5-hydroxylase
+AKBAPOEL_00963	CDS	1071	rdmE	1.14.13.180		Aklavinone 12-hydroxylase RdmE
+AKBAPOEL_00964	CDS	336		1.5.5.1	COG0644	Electron transfer flavoprotein-ubiquinone oxidoreductase
+AKBAPOEL_00965	CDS	774				hypothetical protein
+AKBAPOEL_00966	CDS	927	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+AKBAPOEL_00967	CDS	540	ftsA_2		COG0849	Cell division protein FtsA
+AKBAPOEL_00968	CDS	2457	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+AKBAPOEL_00969	CDS	357	acdA_2	1.3.99.-	COG1960	Acyl-CoA dehydrogenase
+AKBAPOEL_00970	CDS	273				hypothetical protein
+AKBAPOEL_00971	CDS	1038	cbdC			2-halobenzoate 1,2-dioxygenase electron transfer component
+AKBAPOEL_00972	CDS	552	resA			Thiol-disulfide oxidoreductase ResA
+AKBAPOEL_00973	CDS	744	ybhF		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+AKBAPOEL_00974	CDS	735				hypothetical protein
+AKBAPOEL_00975	CDS	1947				hypothetical protein
+AKBAPOEL_00976	CDS	846	catD	3.1.1.24	COG0596	3-oxoadipate enol-lactonase 2
+AKBAPOEL_00977	CDS	1059	nicX	1.13.11.9	COG2309	2,5-dihydroxypyridine 5,6-dioxygenase
+AKBAPOEL_00978	CDS	735	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+AKBAPOEL_00979	CDS	543				hypothetical protein
+AKBAPOEL_00980	CDS	291				hypothetical protein
+AKBAPOEL_00981	CDS	1479	glpK	2.7.1.30		Glycerol kinase
+AKBAPOEL_00982	tRNA	75				tRNA-Val(gac)
+AKBAPOEL_00983	tRNA	77				tRNA-Met(cat)
+AKBAPOEL_00984	CDS	1299				hypothetical protein
+AKBAPOEL_00985	CDS	2640	helD	3.6.4.12	COG0210	DNA helicase IV
+AKBAPOEL_00986	CDS	975				hypothetical protein
+AKBAPOEL_00987	CDS	600	grpE		COG0576	Protein GrpE
+AKBAPOEL_00988	CDS	1068	hrcA		COG1420	Heat-inducible transcription repressor HrcA
+AKBAPOEL_00989	CDS	741	rph	2.7.7.56	COG0689	Ribonuclease PH
+AKBAPOEL_00990	CDS	603		3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+AKBAPOEL_00991	CDS	156				hypothetical protein
+AKBAPOEL_00992	CDS	1821	appA_2			Oligopeptide-binding protein AppA
+AKBAPOEL_00993	CDS	525	cycM		COG3474	Cytochrome c-552
+AKBAPOEL_00994	CDS	744	kdsB	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+AKBAPOEL_00995	CDS	861	pheA		COG0077	P-protein
+AKBAPOEL_00996	CDS	888	nudC	3.6.1.22	COG2816	NADH pyrophosphatase
+AKBAPOEL_00997	CDS	609	ycjP		COG0395	Inner membrane ABC transporter permease protein YcjP
+AKBAPOEL_00998	CDS	1092	ugpC	3.6.3.20	COG3839	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+AKBAPOEL_00999	CDS	981		1.3.1.103		2-haloacrylate reductase
+AKBAPOEL_01000	CDS	336	psiE			Protein PsiE
+AKBAPOEL_01001	CDS	426				hypothetical protein
+AKBAPOEL_01002	CDS	702	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+AKBAPOEL_01003	CDS	630	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+AKBAPOEL_01004	CDS	372	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+AKBAPOEL_01005	CDS	450	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+AKBAPOEL_01006	CDS	888	tfdA_2	1.14.11.-		Alpha-ketoglutarate-dependent 2,4-dichlorophenoxyacetate dioxygenase
+AKBAPOEL_01007	CDS	564	gmhA1	5.3.1.28	COG0279	Phosphoheptose isomerase 1
+AKBAPOEL_01008	CDS	1437	glnA	6.3.1.2	COG0174	Glutamine synthetase
+AKBAPOEL_01009	CDS	339	glnB		COG0347	Nitrogen regulatory protein P-II
+AKBAPOEL_01010	tRNA	77				tRNA-His(gtg)
+AKBAPOEL_01011	CDS	1494	emrY_1			putative multidrug resistance protein EmrY
+AKBAPOEL_01012	CDS	261				hypothetical protein
+AKBAPOEL_01013	tRNA	77				tRNA-Arg(ccg)
+AKBAPOEL_01014	CDS	372				hypothetical protein
+AKBAPOEL_01015	CDS	375				hypothetical protein
+AKBAPOEL_01016	CDS	981	ephA	3.3.2.10		Epoxide hydrolase A
+AKBAPOEL_01017	CDS	1089	Vejaci	5.5.1.25	COG4948	3,6-anhydro-alpha-L-galactonate cycloisomerase
+AKBAPOEL_01018	CDS	1083	hcxB	1.1.1.-	COG2055	Hydroxycarboxylate dehydrogenase B
+AKBAPOEL_01019	CDS	861	dat	2.6.1.21		D-alanine aminotransferase
+AKBAPOEL_01020	CDS	867	amnF	4.2.1.80		2-oxopent-4-enoate hydratase
+AKBAPOEL_01021	CDS	141				hypothetical protein
+AKBAPOEL_01022	CDS	1212	tdcB	4.3.1.19	COG1171	L-threonine ammonia-lyase
+AKBAPOEL_01023	CDS	987	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+AKBAPOEL_01024	CDS	642				hypothetical protein
+AKBAPOEL_01025	CDS	225				hypothetical protein
+AKBAPOEL_01026	CDS	561				hypothetical protein
+AKBAPOEL_01027	CDS	711				hypothetical protein
+AKBAPOEL_01028	CDS	867	ubiA	2.5.1.-	COG0382	4-hydroxybenzoate octaprenyltransferase
+AKBAPOEL_01029	CDS	717	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+AKBAPOEL_01030	CDS	294				hypothetical protein
+AKBAPOEL_01031	CDS	1494	opuE		COG0591	Osmoregulated proline transporter OpuE
+AKBAPOEL_01032	CDS	189				hypothetical protein
+AKBAPOEL_01033	CDS	348	Dml	4.1.3.32		2,3-dimethylmalate lyase
+AKBAPOEL_01034	CDS	702	sfsA		COG1489	Sugar fermentation stimulation protein A
+AKBAPOEL_01035	CDS	801	map	3.4.11.18	COG0024	Methionine aminopeptidase
+AKBAPOEL_01036	CDS	195				hypothetical protein
+AKBAPOEL_01037	CDS	336	hspQ			Heat shock protein HspQ
+AKBAPOEL_01038	CDS	588	nsaD_2	5.99.1.4		2-hydroxychromene-2-carboxylate isomerase
+AKBAPOEL_01039	CDS	480		1.2.5.2		Membrane-bound aldehyde dehydrogenase [pyrroloquinoline-quinone]
+AKBAPOEL_01040	CDS	381	fosB_2	2.5.1.-		Metallothiol transferase FosB
+AKBAPOEL_01041	CDS	1413	nhaD		COG1055	Na(+)/H(+) antiporter NhaD
+AKBAPOEL_01042	CDS	2172				hypothetical protein
+AKBAPOEL_01043	CDS	354	anmK	2.7.1.170	COG2377	Anhydro-N-acetylmuramic acid kinase
+AKBAPOEL_01044	CDS	636				hypothetical protein
+AKBAPOEL_01045	CDS	513	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+AKBAPOEL_01046	CDS	1119	iscS	2.8.1.7	COG1104	IscS-like cysteine desulfurase
+AKBAPOEL_01047	CDS	441				hypothetical protein
+AKBAPOEL_01048	CDS	639	fadN	1.1.1.35	COG1024	putative 3-hydroxyacyl-CoA dehydrogenase
+AKBAPOEL_01049	CDS	987	cysK_2	2.5.1.47		Cysteine synthase
+AKBAPOEL_01050	CDS	783	phaB	1.1.1.36		Acetoacetyl-CoA reductase
+AKBAPOEL_01051	CDS	1143				hypothetical protein
+AKBAPOEL_01052	CDS	1302				hypothetical protein
+AKBAPOEL_01053	CDS	1155				hypothetical protein
+AKBAPOEL_01054	CDS	627		1.2.1.97		3-sulfolactaldehyde dehydrogenase
+AKBAPOEL_01055	CDS	1074		2.4.1.13		Sucrose synthase
+AKBAPOEL_01056	CDS	426				hypothetical protein
+AKBAPOEL_01057	CDS	2289	secA		COG0653	Protein translocase subunit SecA
+AKBAPOEL_01058	CDS	486	ubiG_1	2.1.1.222	COG2227	Ubiquinone biosynthesis O-methyltransferase
+AKBAPOEL_01059	CDS	894	pyrG	6.3.4.2	COG0504	CTP synthase
+AKBAPOEL_01060	CDS	831	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+AKBAPOEL_01061	CDS	1275	eno	4.2.1.11		Enolase
+AKBAPOEL_01062	CDS	324				hypothetical protein
+AKBAPOEL_01063	CDS	1227	paaK	6.2.1.30	COG1541	Phenylacetate-coenzyme A ligase
+AKBAPOEL_01064	CDS	615	ccmA	3.6.3.41	COG4133	Cytochrome c biogenesis ATP-binding export protein CcmA
+AKBAPOEL_01065	CDS	666	ccmB		COG2386	Heme exporter protein B
+AKBAPOEL_01066	CDS	738	ccmC		COG0755	Heme exporter protein C
+AKBAPOEL_01067	CDS	147				hypothetical protein
+AKBAPOEL_01068	CDS	1080				hypothetical protein
+AKBAPOEL_01069	CDS	669				hypothetical protein
+AKBAPOEL_01070	CDS	594				hypothetical protein
+AKBAPOEL_01071	CDS	960				hypothetical protein
+AKBAPOEL_01072	CDS	1317	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+AKBAPOEL_01073	CDS	366	ndhC	1.6.5.-		NAD(P)H-quinone oxidoreductase subunit 3
+AKBAPOEL_01074	CDS	531	nuoB	1.6.5.11	COG0377	NADH-quinone oxidoreductase subunit B
+AKBAPOEL_01075	CDS	633	nqo5	1.6.5.11	COG0852	NADH-quinone oxidoreductase chain 5
+AKBAPOEL_01076	CDS	1179	nuoD	1.6.5.11	COG0649	NADH-quinone oxidoreductase subunit D
+AKBAPOEL_01077	CDS	597	nqo2	1.6.5.11	COG1905	NADH-quinone oxidoreductase chain 2
+AKBAPOEL_01078	CDS	912	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+AKBAPOEL_01079	CDS	759				hypothetical protein
+AKBAPOEL_01080	CDS	855	speE	2.5.1.-	COG0421	Polyamine aminopropyltransferase
+AKBAPOEL_01081	CDS	969	ldc	4.1.1.17		Lysine/ornithine decarboxylase
+AKBAPOEL_01082	CDS	801	ssuC		COG0600	Putative aliphatic sulfonates transport permease protein SsuC
+AKBAPOEL_01083	CDS	969				hypothetical protein
+AKBAPOEL_01084	CDS	468				hypothetical protein
+AKBAPOEL_01085	CDS	1371	dctM_1		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+AKBAPOEL_01086	CDS	651				hypothetical protein
+AKBAPOEL_01087	CDS	1212				hypothetical protein
+AKBAPOEL_01088	CDS	669	hda		COG0593	DnaA regulatory inactivator Hda
+AKBAPOEL_01089	CDS	1014			COG0628	Putative transport protein
+AKBAPOEL_01090	CDS	759				hypothetical protein
+AKBAPOEL_01091	CDS	114				hypothetical protein
+AKBAPOEL_01092	CDS	396				hypothetical protein
+AKBAPOEL_01093	CDS	648				hypothetical protein
+AKBAPOEL_01094	CDS	234				hypothetical protein
+AKBAPOEL_01095	CDS	303	yybR		COG1733	putative HTH-type transcriptional regulator YybR
+AKBAPOEL_01096	CDS	504				hypothetical protein
+AKBAPOEL_01097	CDS	2139	fadB_3			Fatty acid oxidation complex subunit alpha
+AKBAPOEL_01098	CDS	1194	fadA_2	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase
+AKBAPOEL_01099	CDS	777	hdhA	1.1.1.159		7-alpha-hydroxysteroid dehydrogenase
+AKBAPOEL_01100	CDS	297				hypothetical protein
+AKBAPOEL_01101	CDS	1752	msbA	3.6.3.-	COG1132	Lipid A export ATP-binding/permease protein MsbA
+AKBAPOEL_01102	CDS	1419				hypothetical protein
+AKBAPOEL_01103	CDS	1014	aziB2	2.1.1.302		3-hydroxy-5-methyl-1-naphthoate 3-O-methyltransferase
+AKBAPOEL_01104	CDS	135				hypothetical protein
+AKBAPOEL_01105	CDS	219	infA			Translation initiation factor IF-1
+AKBAPOEL_01106	CDS	495				hypothetical protein
+AKBAPOEL_01107	CDS	1308	hisD	1.1.1.23		Histidinol dehydrogenase
+AKBAPOEL_01108	CDS	663	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+AKBAPOEL_01109	CDS	444				hypothetical protein
+AKBAPOEL_01110	CDS	858	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+AKBAPOEL_01111	CDS	423	speH	4.1.1.50	COG1586	S-adenosylmethionine decarboxylase proenzyme
+AKBAPOEL_01112	tRNA	87				tRNA-Leu(caa)
+AKBAPOEL_01113	CDS	933				hypothetical protein
+AKBAPOEL_01114	CDS	894				hypothetical protein
+AKBAPOEL_01115	CDS	672				hypothetical protein
+AKBAPOEL_01116	CDS	498	dsbB			Disulfide bond formation protein B
+AKBAPOEL_01117	CDS	504				hypothetical protein
+AKBAPOEL_01118	CDS	225				hypothetical protein
+AKBAPOEL_01119	CDS	1119	ttgG			Toluene efflux pump periplasmic linker protein TtgG
+AKBAPOEL_01120	CDS	1230				hypothetical protein
+AKBAPOEL_01121	CDS	774	rhlG_2	1.1.1.100		Rhamnolipids biosynthesis 3-oxoacyl-[acyl-carrier-protein] reductase
+AKBAPOEL_01122	CDS	543	bcp			Pseudoazurin
+AKBAPOEL_01123	CDS	837	mltF_2			Membrane-bound lytic murein transglycosylase F
+AKBAPOEL_01124	CDS	507				hypothetical protein
+AKBAPOEL_01125	CDS	546				hypothetical protein
+AKBAPOEL_01126	CDS	612				hypothetical protein
+AKBAPOEL_01127	CDS	615				hypothetical protein
+AKBAPOEL_01128	CDS	1218	emrY_2			putative multidrug resistance protein EmrY
+AKBAPOEL_01129	CDS	1074			COG4663	Monocarboxylate 2-oxoacid-binding periplasmic protein
+AKBAPOEL_01130	CDS	567	takP_2		COG4663	Alpha-keto acid-binding periplasmic protein TakP
+AKBAPOEL_01131	CDS	978	thrB	2.7.1.39	COG2334	Homoserine kinase
+AKBAPOEL_01132	CDS	441	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+AKBAPOEL_01133	CDS	486	PGdx	1.11.1.15	COG0678	Hybrid peroxiredoxin hyPrx5
+AKBAPOEL_01134	CDS	489	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+AKBAPOEL_01135	CDS	1689	nuoF	1.6.5.11		NADH-quinone oxidoreductase subunit F
+AKBAPOEL_01136	CDS	450	spkB	2.7.11.1		Serine/threonine-protein kinase B
+AKBAPOEL_01137	CDS	606	aroK_2	2.7.1.71	COG0703	Shikimate kinase
+AKBAPOEL_01138	CDS	1101	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+AKBAPOEL_01139	CDS	375	rplL		COG0222	50S ribosomal protein L7/L12
+AKBAPOEL_01140	CDS	519	rplJ		COG0244	50S ribosomal protein L10
+AKBAPOEL_01141	CDS	696	rplA		COG0081	50S ribosomal protein L1
+AKBAPOEL_01142	CDS	432	rplK		COG0080	50S ribosomal protein L11
+AKBAPOEL_01143	CDS	531	nusG		COG0250	Transcription termination/antitermination protein NusG
+AKBAPOEL_01144	CDS	192	secE		COG0690	Protein translocase subunit SecE
+AKBAPOEL_01145	tRNA	76				tRNA-Trp(cca)
+AKBAPOEL_01146	CDS	138	tuf1			Elongation factor Tu
+AKBAPOEL_01147	CDS	1125				hypothetical protein
+AKBAPOEL_01148	CDS	576				hypothetical protein
+AKBAPOEL_01149	CDS	765	gdhI_2	1.1.1.47	COG1028	Glucose 1-dehydrogenase 1
+AKBAPOEL_01150	CDS	873	gtaB	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+AKBAPOEL_01151	CDS	1335	rkpK	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+AKBAPOEL_01152	CDS	1380	algC	5.4.2.2		Phosphomannomutase/phosphoglucomutase
+AKBAPOEL_01153	CDS	534	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+AKBAPOEL_01154	CDS	1719	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+AKBAPOEL_01155	CDS	1464	bepA	3.4.-.-	COG4783	Beta-barrel assembly-enhancing protease
+AKBAPOEL_01156	CDS	516				hypothetical protein
+AKBAPOEL_01157	CDS	780	xthA	3.1.11.2	COG0708	Exodeoxyribonuclease III
+AKBAPOEL_01158	CDS	402	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+AKBAPOEL_01159	CDS	951	ctaA	1.3.-.-	COG1612	Heme A synthase
+AKBAPOEL_01160	CDS	687				hypothetical protein
+AKBAPOEL_01161	CDS	393				hypothetical protein
+AKBAPOEL_01162	CDS	840	ctaE	1.9.3.1	COG1845	Cytochrome c oxidase subunit 3
+AKBAPOEL_01163	CDS	585	ctaG_2		COG3175	Cytochrome c oxidase assembly protein CtaG
+AKBAPOEL_01164	CDS	114				hypothetical protein
+AKBAPOEL_01165	CDS	561	ctaB_2	2.5.1.-	COG0109	Protoheme IX farnesyltransferase
+AKBAPOEL_01166	CDS	1440				hypothetical protein
+AKBAPOEL_01167	CDS	1035				hypothetical protein
+AKBAPOEL_01168	CDS	3087	czcA_1			Cobalt-zinc-cadmium resistance protein CzcA
+AKBAPOEL_01169	CDS	132				hypothetical protein
+AKBAPOEL_01170	CDS	966	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+AKBAPOEL_01171	CDS	657	lptC			Lipopolysaccharide export system protein LptC
+AKBAPOEL_01172	CDS	489	lptA			Lipopolysaccharide export system protein LptA
+AKBAPOEL_01173	CDS	759	lptB_4	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+AKBAPOEL_01174	CDS	1356				hypothetical protein
+AKBAPOEL_01175	CDS	1083	yrdA		COG0663	Protein YrdA
+AKBAPOEL_01176	CDS	159				hypothetical protein
+AKBAPOEL_01177	CDS	156				hypothetical protein
+AKBAPOEL_01178	CDS	177				hypothetical protein
+AKBAPOEL_01179	CDS	270	pucA	1.17.1.4	COG1975	putative xanthine dehydrogenase subunit A
+AKBAPOEL_01180	CDS	1602	nboR	1.1.1.328		Nicotine blue oxidoreductase
+AKBAPOEL_01181	CDS	633	yihX	3.1.3.10	COG1011	Alpha-D-glucose 1-phosphate phosphatase YihX
+AKBAPOEL_01182	CDS	1095	mdlA	5.1.2.2		Mandelate racemase
+AKBAPOEL_01183	CDS	537	msrA1	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA 1
+AKBAPOEL_01184	CDS	1875	htpG		COG0326	Chaperone protein HtpG
+AKBAPOEL_01185	CDS	543	gph_2	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+AKBAPOEL_01186	CDS	567	efp			Elongation factor P
+AKBAPOEL_01187	CDS	633	thiE	2.5.1.3	COG0352	Thiamine-phosphate synthase
+AKBAPOEL_01188	CDS	915	fbaB	4.1.2.13	COG1830	Fructose-bisphosphate aldolase class 1
+AKBAPOEL_01189	CDS	1197	pgk/tpi		COG0126	Bifunctional PGK/TIM
+AKBAPOEL_01190	CDS	819	gap1	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase 1
+AKBAPOEL_01191	CDS	801	pqqCD_3		COG5424	Bifunctional coenzyme PQQ synthesis protein C/D
+AKBAPOEL_01192	CDS	936	pqqB_2		COG1235	Coenzyme PQQ synthesis protein B
+AKBAPOEL_01193	CDS	966		2.8.1.1	COG2897	Thiosulfate sulfurtransferase
+AKBAPOEL_01194	CDS	357				hypothetical protein
+AKBAPOEL_01195	CDS	129				hypothetical protein
+AKBAPOEL_01196	CDS	690	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+AKBAPOEL_01197	CDS	1260	lolC		COG4591	Lipoprotein-releasing system transmembrane protein LolC
+AKBAPOEL_01198	CDS	1323	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+AKBAPOEL_01199	CDS	219				hypothetical protein
+AKBAPOEL_01200	CDS	405				hypothetical protein
+AKBAPOEL_01201	CDS	1671	rnjA	3.1.-.-	COG0595	Ribonuclease J1
+AKBAPOEL_01202	CDS	291	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+AKBAPOEL_01203	CDS	2157	glcB	2.3.3.9	COG2225	Malate synthase G
+AKBAPOEL_01204	CDS	1260			COG2081	putative protein
+AKBAPOEL_01205	CDS	1011	iolS_2	1.1.1.-	COG0667	Aldo-keto reductase IolS
+AKBAPOEL_01206	CDS	417				hypothetical protein
+AKBAPOEL_01207	CDS	339				hypothetical protein
+AKBAPOEL_01208	CDS	1155	tetA			Tetracycline resistance protein, class C
+AKBAPOEL_01209	CDS	405	rppH_2	3.6.1.-		RNA pyrophosphohydrolase
+AKBAPOEL_01210	CDS	1875	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+AKBAPOEL_01211	CDS	747	ybhL		COG0670	Inner membrane protein YbhL
+AKBAPOEL_01212	CDS	312	phhB	4.2.1.96	COG2154	Putative pterin-4-alpha-carbinolamine dehydratase
+AKBAPOEL_01213	CDS	480				hypothetical protein
+AKBAPOEL_01214	CDS	771	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+AKBAPOEL_01215	CDS	1092	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+AKBAPOEL_01216	CDS	1377	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+AKBAPOEL_01217	CDS	1131	ftsW	2.4.1.129		putative peptidoglycan glycosyltransferase FtsW
+AKBAPOEL_01218	CDS	1113	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+AKBAPOEL_01219	CDS	1449	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+AKBAPOEL_01220	CDS	1161	leuA	2.3.3.13		2-isopropylmalate synthase
+AKBAPOEL_01221	CDS	1056				hypothetical protein
+AKBAPOEL_01222	CDS	1020	neuB	2.5.1.101	COG2089	N,N'-diacetyllegionaminic acid synthase
+AKBAPOEL_01223	CDS	378				hypothetical protein
+AKBAPOEL_01224	CDS	309	pseC	2.6.1.92	COG0399	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+AKBAPOEL_01225	CDS	972	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+AKBAPOEL_01226	CDS	297				hypothetical protein
+AKBAPOEL_01227	CDS	1239	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+AKBAPOEL_01228	CDS	1461	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+AKBAPOEL_01229	CDS	645				hypothetical protein
+AKBAPOEL_01230	CDS	441				hypothetical protein
+AKBAPOEL_01231	CDS	1050	hemH	4.99.1.1	COG0276	Ferrochelatase
+AKBAPOEL_01232	CDS	1059	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+AKBAPOEL_01233	CDS	1059	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+AKBAPOEL_01234	CDS	1389	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+AKBAPOEL_01235	CDS	810	thiD	2.7.1.49		Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+AKBAPOEL_01236	CDS	1041	pyrC'		COG0044	Dihydroorotase-like protein
+AKBAPOEL_01237	CDS	681	plsY	2.3.1.-	COG0344	Glycerol-3-phosphate acyltransferase
+AKBAPOEL_01238	CDS	582				hypothetical protein
+AKBAPOEL_01239	CDS	1554	nusA		COG0195	Transcription termination/antitermination protein NusA
+AKBAPOEL_01240	CDS	432	rimP		COG0779	Ribosome maturation factor RimP
+AKBAPOEL_01241	CDS	1392	dctM_2		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+AKBAPOEL_01242	CDS	438				hypothetical protein
+AKBAPOEL_01243	CDS	2238	parC	5.99.1.3	COG0188	DNA topoisomerase 4 subunit A
+AKBAPOEL_01244	CDS	726	recO			DNA repair protein RecO
+AKBAPOEL_01245	CDS	1074	mtnA	5.3.1.23	COG0182	Methylthioribose-1-phosphate isomerase
+AKBAPOEL_01246	CDS	642	fucA_1	4.1.2.17	COG0235	L-fuculose phosphate aldolase
+AKBAPOEL_01247	CDS	1197		1.3.99.-		Putative acyl-CoA dehydrogenase FadE17
+AKBAPOEL_01248	CDS	681	czcR			Transcriptional activator protein CzcR
+AKBAPOEL_01249	CDS	1365	cusS	2.7.13.3	COG0642	Sensor kinase CusS
+AKBAPOEL_01250	CDS	138				hypothetical protein
+AKBAPOEL_01251	CDS	414				hypothetical protein
+AKBAPOEL_01252	CDS	594				hypothetical protein
+AKBAPOEL_01253	CDS	318	yciH		COG0023	putative protein YciH
+AKBAPOEL_01254	CDS	138				hypothetical protein
+AKBAPOEL_01255	CDS	816				hypothetical protein
+AKBAPOEL_01256	CDS	483	glpE_1	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+AKBAPOEL_01257	CDS	456				hypothetical protein
+AKBAPOEL_01258	tRNA	74				tRNA-Gly(gcc)
+AKBAPOEL_01259	CDS	1761				hypothetical protein
+AKBAPOEL_01260	CDS	1863	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+AKBAPOEL_01261	CDS	1098	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+AKBAPOEL_01262	CDS	639	pglJ	2.4.1.291	COG0438	N-acetylgalactosamine-N,N'-diacetylbacillosaminyl-diphospho-undecaprenol 4-alpha-N-acetylgalactosaminyltransferase
+AKBAPOEL_01263	CDS	270	gmhA	5.3.1.28		Phosphoheptose isomerase
+AKBAPOEL_01264	CDS	522	gmhB	3.1.3.83		D-glycero-alpha-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+AKBAPOEL_01265	CDS	321				hypothetical protein
+AKBAPOEL_01266	CDS	1011	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+AKBAPOEL_01267	CDS	984	galE1_2	5.1.3.2	COG1088	UDP-glucose 4-epimerase
+AKBAPOEL_01268	CDS	1542	hldE		COG2870	Bifunctional protein HldE
+AKBAPOEL_01269	CDS	927	ydgJ	1.-.-.-	COG0673	putative oxidoreductase YdgJ
+AKBAPOEL_01270	CDS	1248	tuaD	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase TuaD
+AKBAPOEL_01271	CDS	426	metH	2.1.1.13	COG0646	Methionine synthase
+AKBAPOEL_01272	CDS	690	cnbA	1.7.1.16		Chloronitrobenzene nitroreductase
+AKBAPOEL_01273	CDS	474				hypothetical protein
+AKBAPOEL_01274	CDS	1122				hypothetical protein
+AKBAPOEL_01275	CDS	411				hypothetical protein
+AKBAPOEL_01276	CDS	570				hypothetical protein
+AKBAPOEL_01277	CDS	1248				hypothetical protein
+AKBAPOEL_01278	CDS	990				hypothetical protein
+AKBAPOEL_01279	CDS	585				hypothetical protein
+AKBAPOEL_01280	CDS	819	larE	2.8.1.-	COG1606	Pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase
+AKBAPOEL_01281	CDS	657	larB	3.-.-.-	COG1691	Pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+AKBAPOEL_01282	CDS	243				hypothetical protein
+AKBAPOEL_01283	CDS	159				hypothetical protein
+AKBAPOEL_01284	CDS	927	tsf			Elongation factor Ts
+AKBAPOEL_01285	CDS	744	pyrH	2.7.4.22	COG0528	Uridylate kinase
+AKBAPOEL_01286	CDS	747		3.5.5.7	COG0388	Nitrilase
+AKBAPOEL_01287	CDS	2184				hypothetical protein
+AKBAPOEL_01288	CDS	1140	metXA_2	2.3.1.31	COG2021	Homoserine O-acetyltransferase
+AKBAPOEL_01289	CDS	450				hypothetical protein
+AKBAPOEL_01290	CDS	450				hypothetical protein
+AKBAPOEL_01291	CDS	537				hypothetical protein
+AKBAPOEL_01292	CDS	1479				hypothetical protein
+AKBAPOEL_01293	CDS	192				hypothetical protein
+AKBAPOEL_01294	tRNA	76				tRNA-Lys(ttt)
+AKBAPOEL_01295	CDS	1131	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+AKBAPOEL_01296	CDS	975		1.3.1.103		2-haloacrylate reductase
+AKBAPOEL_01297	CDS	510				hypothetical protein
+AKBAPOEL_01298	CDS	1089	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+AKBAPOEL_01299	CDS	216	curA	1.3.1.-	COG2130	NADPH-dependent curcumin reductase
+AKBAPOEL_01300	CDS	1788	aspS	6.1.1.12		Aspartate--tRNA ligase
+AKBAPOEL_01301	CDS	852	rdpA	1.14.11.44		(R)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+AKBAPOEL_01302	CDS	303				hypothetical protein
+AKBAPOEL_01303	CDS	765	linC	1.1.1.-		2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase
+AKBAPOEL_01304	CDS	1227				hypothetical protein
+AKBAPOEL_01305	CDS	1611	phnU		COG0555	Putative 2-aminoethylphosphonate transport system permease protein PhnU
+AKBAPOEL_01306	CDS	1041	fbpC2	3.6.3.30	COG3842	Fe(3+) ions import ATP-binding protein FbpC 2
+AKBAPOEL_01307	CDS	186				hypothetical protein
+AKBAPOEL_01308	CDS	456				hypothetical protein
+AKBAPOEL_01309	CDS	180				hypothetical protein
+AKBAPOEL_01310	CDS	588	ybeT		COG0790	Sel1-repeat-containing protein YbeT
+AKBAPOEL_01311	CDS	1023				hypothetical protein
+AKBAPOEL_01312	CDS	516				hypothetical protein
+AKBAPOEL_01313	CDS	183	rpmF		COG0333	50S ribosomal protein L32
+AKBAPOEL_01314	CDS	1020	plsX	2.3.1.-	COG0416	Phosphate acyltransferase
+AKBAPOEL_01315	CDS	291	ihfA		COG0776	Integration host factor subunit alpha
+AKBAPOEL_01316	CDS	333	carH			HTH-type transcriptional repressor CarH
+AKBAPOEL_01317	CDS	501	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+AKBAPOEL_01318	CDS	762				hypothetical protein
+AKBAPOEL_01319	CDS	732	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+AKBAPOEL_01320	CDS	249	purS	6.3.5.3	COG1828	Phosphoribosylformylglycinamidine synthase subunit PurS
+AKBAPOEL_01321	CDS	276				hypothetical protein
+AKBAPOEL_01322	CDS	453				hypothetical protein
+AKBAPOEL_01323	CDS	951	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+AKBAPOEL_01324	CDS	480	nusB			Transcription antitermination protein NusB
+AKBAPOEL_01325	CDS	435	ribH1	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase 1
+AKBAPOEL_01326	CDS	1140	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+AKBAPOEL_01327	CDS	603	ribE	2.5.1.9		Riboflavin synthase
+AKBAPOEL_01328	CDS	939	ribD		COG0117	Riboflavin biosynthesis protein RibD
+AKBAPOEL_01329	CDS	771	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+AKBAPOEL_01330	CDS	1065	rfbG	4.2.1.45	COG0451	CDP-glucose 4,6-dehydratase
+AKBAPOEL_01331	CDS	831	rmd	1.1.1.281		GDP-6-deoxy-D-mannose reductase
+AKBAPOEL_01332	CDS	504				hypothetical protein
+AKBAPOEL_01333	CDS	669	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+AKBAPOEL_01334	CDS	1419	bepC			Outer membrane efflux protein BepC
+AKBAPOEL_01335	CDS	336				hypothetical protein
+AKBAPOEL_01336	CDS	615				hypothetical protein
+AKBAPOEL_01337	CDS	141				hypothetical protein
+AKBAPOEL_01338	CDS	762	yadH_2		COG0842	Inner membrane transport permease YadH
+AKBAPOEL_01339	CDS	507	yadG_2		COG1131	putative ABC transporter ATP-binding protein YadG
+AKBAPOEL_01340	CDS	2208	fdhF	1.17.1.9	COG0243	Formate dehydrogenase H
+AKBAPOEL_01341	CDS	1737	yhjX			putative MFS-type transporter YhjX
+AKBAPOEL_01342	CDS	813	fdhD		COG1526	Sulfur carrier protein FdhD
+AKBAPOEL_01343	CDS	603	mobA	2.7.7.77	COG0746	Molybdenum cofactor guanylyltransferase
+AKBAPOEL_01344	tRNA	87				tRNA-Leu(gag)
+AKBAPOEL_01345	CDS	186				hypothetical protein
+AKBAPOEL_01346	CDS	684	ubiG_2	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase
+AKBAPOEL_01347	CDS	327				hypothetical protein
+AKBAPOEL_01348	CDS	531				hypothetical protein
+AKBAPOEL_01349	CDS	474	pipB2		COG1357	Secreted effector protein PipB2
+AKBAPOEL_01350	CDS	870	dehH1	3.8.1.3		Haloacetate dehalogenase H-1
+AKBAPOEL_01351	CDS	654				hypothetical protein
+AKBAPOEL_01352	CDS	417	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+AKBAPOEL_01353	CDS	237				hypothetical protein
+AKBAPOEL_01354	CDS	1155		3.3.2.10		Soluble epoxide hydrolase
+AKBAPOEL_01355	CDS	1557	ptrB	3.4.21.83	COG1770	Protease 2
+AKBAPOEL_01356	CDS	201				hypothetical protein
+AKBAPOEL_01357	CDS	222				hypothetical protein
+AKBAPOEL_01358	CDS	606				hypothetical protein
+AKBAPOEL_01359	CDS	1269	katG	1.11.1.21	COG0376	Catalase-peroxidase
+AKBAPOEL_01360	CDS	498	pip_2	3.4.11.5	COG0596	Proline iminopeptidase
+AKBAPOEL_01361	CDS	1251	acrC	1.3.1.95		Acryloyl-CoA reductase (NADH)
+AKBAPOEL_01362	CDS	159				hypothetical protein
+AKBAPOEL_01363	CDS	213				hypothetical protein
+AKBAPOEL_01364	CDS	402	glpE_2	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+AKBAPOEL_01365	CDS	570	ydjA	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase YdjA
+AKBAPOEL_01366	CDS	756				hypothetical protein
+AKBAPOEL_01367	CDS	891	yofA		COG0583	HTH-type transcriptional regulator YofA
+AKBAPOEL_01368	CDS	987	msrP	1.8.5.-	COG2041	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+AKBAPOEL_01369	CDS	2073	dmsA	1.8.5.3	COG0243	Dimethyl sulfoxide reductase DmsA
+AKBAPOEL_01370	CDS	537		2.6.1.1		Aspartate aminotransferase
+AKBAPOEL_01371	CDS	294	fucA_2	4.1.2.17	COG0235	L-fuculose phosphate aldolase
+AKBAPOEL_01372	CDS	1020	adhT	1.1.1.1		Alcohol dehydrogenase
+AKBAPOEL_01373	CDS	750	creB		COG0745	Transcriptional regulatory protein CreB
+AKBAPOEL_01374	CDS	954	pal		COG2885	Peptidoglycan-associated lipoprotein
+AKBAPOEL_01375	CDS	1611	czcA_2			Cobalt-zinc-cadmium resistance protein CzcA
+AKBAPOEL_01376	CDS	159				hypothetical protein
+AKBAPOEL_01377	CDS	153				hypothetical protein
+AKBAPOEL_01378	CDS	1017	trkI		COG0168	Trk system potassium uptake protein TrkI
+AKBAPOEL_01379	CDS	135				hypothetical protein
+AKBAPOEL_01380	CDS	2568	ppdK_2	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+AKBAPOEL_01381	CDS	888	ygfZ_2			tRNA-modifying protein YgfZ
+AKBAPOEL_01382	CDS	135	dadA_2	1.4.99.-		D-amino acid dehydrogenase
+AKBAPOEL_01383	CDS	942			COG0715	Putative thiamine biosynthesis protein
+AKBAPOEL_01384	CDS	723	ssuB_2	3.6.3.-	COG1116	Aliphatic sulfonates import ATP-binding protein SsuB
+AKBAPOEL_01385	CDS	753	ribX_2			Riboflavin transport system permease protein RibX
+AKBAPOEL_01386	CDS	429	ycfS	2.-.-.-	COG1376	putative L,D-transpeptidase YcfS
+AKBAPOEL_01387	CDS	126				hypothetical protein
+AKBAPOEL_01388	CDS	321				hypothetical protein
+AKBAPOEL_01389	CDS	753	LRA5	1.1.1.401		2-dehydro-3-deoxy-L-rhamnonate dehydrogenase (NAD(+))
+AKBAPOEL_01390	CDS	1086	ttuC	1.1.1.93		putative tartrate dehydrogenase/decarboxylase TtuC
+AKBAPOEL_01391	CDS	1071	amiF	3.5.1.49	COG0388	Formamidase
+AKBAPOEL_01392	CDS	1836	mdtC			Multidrug resistance protein MdtC

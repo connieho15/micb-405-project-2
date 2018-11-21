@@ -1,0 +1,1770 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+ALMIPKNC_00001	CDS	213				hypothetical protein
+ALMIPKNC_00002	CDS	450				hypothetical protein
+ALMIPKNC_00003	CDS	279				hypothetical protein
+ALMIPKNC_00004	CDS	213				hypothetical protein
+ALMIPKNC_00005	CDS	558				hypothetical protein
+ALMIPKNC_00006	CDS	1488	trpE	4.1.3.27	COG0147	Anthranilate synthase component 1
+ALMIPKNC_00007	CDS	675	gph	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+ALMIPKNC_00008	CDS	705	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+ALMIPKNC_00009	CDS	807	djlA		COG1076	Co-chaperone protein DjlA
+ALMIPKNC_00010	CDS	615	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+ALMIPKNC_00011	CDS	564	ampD	3.5.1.28	COG3023	1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD
+ALMIPKNC_00012	CDS	426				hypothetical protein
+ALMIPKNC_00013	CDS	348				hypothetical protein
+ALMIPKNC_00014	CDS	780				hypothetical protein
+ALMIPKNC_00015	CDS	735				hypothetical protein
+ALMIPKNC_00016	CDS	465				hypothetical protein
+ALMIPKNC_00017	CDS	666				hypothetical protein
+ALMIPKNC_00018	CDS	426	fur		COG0735	Ferric uptake regulation protein
+ALMIPKNC_00019	CDS	885	galU	2.7.7.9	COG1210	UTP--glucose-1-phosphate uridylyltransferase
+ALMIPKNC_00020	tRNA	77				tRNA-Met(cat)
+ALMIPKNC_00021	CDS	1092	ychF		COG0012	Ribosome-binding ATPase YchF
+ALMIPKNC_00022	CDS	582	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+ALMIPKNC_00023	CDS	660	rplY			50S ribosomal protein L25
+ALMIPKNC_00024	CDS	963	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+ALMIPKNC_00025	tRNA	74				tRNA-Gln(ttg)
+ALMIPKNC_00026	CDS	666	lolB		COG3017	Outer-membrane lipoprotein LolB
+ALMIPKNC_00027	CDS	1737	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+ALMIPKNC_00028	CDS	1248	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+ALMIPKNC_00029	CDS	1095	prfA		COG0216	Peptide chain release factor RF1
+ALMIPKNC_00030	CDS	864	prmC	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+ALMIPKNC_00031	CDS	807	moeB	2.7.7.80	COG0476	Molybdopterin-synthase adenylyltransferase
+ALMIPKNC_00032	CDS	2292	parC	5.99.1.3	COG0188	DNA topoisomerase 4 subunit A
+ALMIPKNC_00033	CDS	4242	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+ALMIPKNC_00034	CDS	1887	parE	5.99.1.3	COG0187	DNA topoisomerase 4 subunit B
+ALMIPKNC_00035	CDS	510				hypothetical protein
+ALMIPKNC_00036	CDS	231	xseB_1	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+ALMIPKNC_00037	CDS	876	ispA_1	2.5.1.10	COG0142	Farnesyl diphosphate synthase
+ALMIPKNC_00038	CDS	1875	dxs_1	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+ALMIPKNC_00039	CDS	393	queD_1	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+ALMIPKNC_00040	CDS	798	folE2_1	3.5.4.16	COG1469	GTP cyclohydrolase FolE2
+ALMIPKNC_00041	CDS	2019	amt_1			Ammonia channel
+ALMIPKNC_00042	CDS	582	kdsC_1	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+ALMIPKNC_00043	CDS	606	lptC_1			Lipopolysaccharide export system protein LptC
+ALMIPKNC_00044	CDS	537	lptA_1		COG1934	Lipopolysaccharide export system protein LptA
+ALMIPKNC_00045	CDS	741	lptB_1	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+ALMIPKNC_00046	CDS	1491	rpoN_1		COG1508	RNA polymerase sigma-54 factor
+ALMIPKNC_00047	CDS	291	hpf_1		COG1544	Ribosome hibernation promoting factor
+ALMIPKNC_00048	CDS	1758	ptsI_1	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+ALMIPKNC_00049	CDS	1359			COG2239	Magnesium transporter MgtE
+ALMIPKNC_00050	CDS	1359	pmbA_1	3.4.-.-	COG0312	Metalloprotease PmbA
+ALMIPKNC_00051	CDS	1458	tldD_1	3.4.-.-	COG0312	Metalloprotease TldD
+ALMIPKNC_00052	CDS	3969				hypothetical protein
+ALMIPKNC_00053	CDS	1488	rng	3.1.26.-	COG1530	Ribonuclease G
+ALMIPKNC_00054	CDS	471	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+ALMIPKNC_00055	CDS	342	rsfS			Ribosomal silencing factor RsfS
+ALMIPKNC_00056	CDS	576	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+ALMIPKNC_00057	CDS	1257	proA	1.2.1.41		Gamma-glutamyl phosphate reductase
+ALMIPKNC_00058	CDS	1008	holA	2.7.7.7	COG1466	DNA polymerase III subunit delta
+ALMIPKNC_00059	CDS	555	lptE			LPS-assembly lipoprotein LptE
+ALMIPKNC_00060	CDS	2496	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+ALMIPKNC_00061	CDS	528				hypothetical protein
+ALMIPKNC_00062	CDS	1386	dbpA	3.6.4.13	COG0513	ATP-dependent RNA helicase DbpA
+ALMIPKNC_00063	CDS	981	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+ALMIPKNC_00064	CDS	876	bamD_1		COG4105	Outer membrane protein assembly factor BamD
+ALMIPKNC_00065	CDS	1665	nadE_1	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+ALMIPKNC_00066	CDS	981	hemH_1	4.99.1.1	COG0276	Ferrochelatase
+ALMIPKNC_00067	CDS	1062	mobB_1		COG1763	Molybdopterin-guanine dinucleotide biosynthesis adapter protein
+ALMIPKNC_00068	CDS	801	rlpA_1	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+ALMIPKNC_00069	CDS	1095	mltB_1	4.2.2.-	COG2951	Membrane-bound lytic murein transglycosylase B
+ALMIPKNC_00070	CDS	1110	mrdB_1	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+ALMIPKNC_00071	CDS	1845	mrdA_1	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+ALMIPKNC_00072	CDS	498	mreD_1		COG2891	Rod shape-determining protein MreD
+ALMIPKNC_00073	CDS	849	mreC_1		COG1792	Cell shape-determining protein MreC
+ALMIPKNC_00074	CDS	1032	mreB_1		COG1077	Rod shape-determining protein MreB
+ALMIPKNC_00075	CDS	288	gatC_1	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+ALMIPKNC_00076	CDS	1479	gatA_1	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+ALMIPKNC_00077	CDS	1434	gatB_1	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+ALMIPKNC_00078	CDS	3531	luxQ_1	2.7.13.3		Autoinducer 2 sensor kinase/phosphatase LuxQ
+ALMIPKNC_00079	CDS	1116		3.1.4.-	COG3437	putative cyclic di-GMP phosphodiesterase
+ALMIPKNC_00080	CDS	1227				hypothetical protein
+ALMIPKNC_00081	CDS	588				hypothetical protein
+ALMIPKNC_00082	CDS	852	mlaF	3.6.3.-	COG1127	putative phospholipid import ATP-binding protein MlaF
+ALMIPKNC_00083	CDS	912				hypothetical protein
+ALMIPKNC_00084	CDS	1689	outD		COG1450	Type II secretion system protein D
+ALMIPKNC_00085	CDS	366				hypothetical protein
+ALMIPKNC_00086	CDS	657				hypothetical protein
+ALMIPKNC_00087	CDS	630				hypothetical protein
+ALMIPKNC_00088	CDS	903				hypothetical protein
+ALMIPKNC_00089	CDS	237	rpmB_1		COG0227	50S ribosomal protein L28
+ALMIPKNC_00090	CDS	156	rpmG_1		COG0267	50S ribosomal protein L33
+ALMIPKNC_00091	CDS	840	mutM_1	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+ALMIPKNC_00092	CDS	450	trmL_1	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+ALMIPKNC_00093	CDS	405	lexA_1	3.4.21.88		LexA repressor
+ALMIPKNC_00094	CDS	246	fdx_1		COG1145	Ferredoxin
+ALMIPKNC_00095	CDS	504	coaD_1	2.7.7.3		Phosphopantetheine adenylyltransferase
+ALMIPKNC_00096	CDS	612	rsmD_1	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+ALMIPKNC_00097	CDS	1371		3.4.24.-	COG0612	putative zinc protease
+ALMIPKNC_00098	CDS	1446		3.4.24.-	COG0612	putative zinc protease
+ALMIPKNC_00099	CDS	603	ydjZ_1		COG0398	TVP38/TMEM64 family inner membrane protein YdjZ
+ALMIPKNC_00100	CDS	1965	zraS_1	2.7.13.3		Sensor protein ZraS
+ALMIPKNC_00101	CDS	843				hypothetical protein
+ALMIPKNC_00102	CDS	987	mftC_1	2.-.-.-	COG0535	Putative mycofactocin radical SAM maturase MftC
+ALMIPKNC_00103	CDS	672	icaA_1	2.4.1.-	COG1215	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+ALMIPKNC_00104	CDS	714	cofC_1	2.7.7.68		2-phospho-L-lactate guanylyltransferase
+ALMIPKNC_00105	CDS	1092	msrAB_1		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+ALMIPKNC_00106	CDS	1056	arsM_1	2.1.1.137		Arsenite methyltransferase
+ALMIPKNC_00107	CDS	603				hypothetical protein
+ALMIPKNC_00108	CDS	543				hypothetical protein
+ALMIPKNC_00109	CDS	1653	gltA_1	1.4.1.13	COG0067	Glutamate synthase [NADPH] large chain
+ALMIPKNC_00110	CDS	441				hypothetical protein
+ALMIPKNC_00111	CDS	105				hypothetical protein
+ALMIPKNC_00112	CDS	249				hypothetical protein
+ALMIPKNC_00113	CDS	138				hypothetical protein
+ALMIPKNC_00114	CDS	201				hypothetical protein
+ALMIPKNC_00115	CDS	411				hypothetical protein
+ALMIPKNC_00116	CDS	798				hypothetical protein
+ALMIPKNC_00117	CDS	405				hypothetical protein
+ALMIPKNC_00118	CDS	930				hypothetical protein
+ALMIPKNC_00119	CDS	915		3.1.4.-	COG3437	putative cyclic di-GMP phosphodiesterase
+ALMIPKNC_00120	CDS	687				hypothetical protein
+ALMIPKNC_00121	CDS	549	sigK_1			ECF RNA polymerase sigma factor SigK
+ALMIPKNC_00122	CDS	1389				hypothetical protein
+ALMIPKNC_00123	CDS	1485	merA_1	1.16.1.1		Mercuric reductase
+ALMIPKNC_00124	CDS	582	comR_1			HTH-type transcriptional repressor ComR
+ALMIPKNC_00125	CDS	1659	budB_1	2.2.1.6	COG0028	Acetolactate synthase, catabolic
+ALMIPKNC_00126	CDS	1662	kefC_1		COG0475	Glutathione-regulated potassium-efflux system protein KefC
+ALMIPKNC_00127	CDS	279				hypothetical protein
+ALMIPKNC_00128	CDS	270				hypothetical protein
+ALMIPKNC_00129	CDS	837	phnD_1		COG3221	Phosphate-import protein PhnD
+ALMIPKNC_00130	CDS	1908	resE_1	2.7.13.3		Sensor histidine kinase ResE
+ALMIPKNC_00131	CDS	1263				hypothetical protein
+ALMIPKNC_00132	CDS	243				hypothetical protein
+ALMIPKNC_00133	CDS	1473				hypothetical protein
+ALMIPKNC_00134	CDS	654				hypothetical protein
+ALMIPKNC_00135	CDS	219				hypothetical protein
+ALMIPKNC_00136	CDS	1239			COG1373	putative protein
+ALMIPKNC_00137	CDS	1461	gabD_1	1.2.1.79	COG1012	Succinate-semialdehyde dehydrogenase [NADP(+)] GabD
+ALMIPKNC_00138	CDS	1563	gpmI_1	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+ALMIPKNC_00139	CDS	321	ygaV		COG0640	putative HTH-type transcriptional regulator YgaV
+ALMIPKNC_00140	CDS	225				hypothetical protein
+ALMIPKNC_00141	CDS	429		2.8.1.-	COG0607	Sulfurtransferase
+ALMIPKNC_00142	CDS	264	grxC		COG0695	Glutaredoxin 3
+ALMIPKNC_00143	CDS	435	trxC_1	1.8.1.8	COG0526	Thioredoxin 2
+ALMIPKNC_00144	CDS	507	secB		COG1952	Protein-export protein SecB
+ALMIPKNC_00145	CDS	999	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+ALMIPKNC_00146	CDS	963	pyrD_1	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+ALMIPKNC_00147	CDS	606	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+ALMIPKNC_00148	rRNA	104				5S ribosomal RNA
+ALMIPKNC_00149	rRNA	2907				23S ribosomal RNA
+ALMIPKNC_00150	tRNA	76				tRNA-Ala(tgc)
+ALMIPKNC_00151	tRNA	77				tRNA-Ile(gat)
+ALMIPKNC_00152	rRNA	1543				16S ribosomal RNA
+ALMIPKNC_00153	CDS	129				hypothetical protein
+ALMIPKNC_00154	CDS	1200	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+ALMIPKNC_00155	CDS	1485	cobQ			Cobyric acid synthase
+ALMIPKNC_00156	CDS	738	cobS	2.7.8.26	COG0368	Adenosylcobinamide-GDP ribazoletransferase
+ALMIPKNC_00157	CDS	1056	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+ALMIPKNC_00158	CDS	546	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+ALMIPKNC_00159	CDS	732				hypothetical protein
+ALMIPKNC_00160	CDS	723	bluB	1.13.11.79	COG0778	5,6-dimethylbenzimidazole synthase
+ALMIPKNC_00161	CDS	1326		2.1.1.272	COG1010	Cobalt-factor III methyltransferase
+ALMIPKNC_00162	CDS	1137	cbiG	3.7.1.12	COG2073	Cobalt-precorrin-5A hydrolase
+ALMIPKNC_00163	CDS	759	cbiL	2.1.1.151	COG2243	Cobalt-precorrin-2 C(20)-methyltransferase
+ALMIPKNC_00164	CDS	1290	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+ALMIPKNC_00165	CDS	732	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+ALMIPKNC_00166	CDS	834	fliG_1		COG1536	Flagellar motor switch protein FliG
+ALMIPKNC_00167	CDS	780	fliH_1		COG1317	Flagellar assembly protein FliH
+ALMIPKNC_00168	CDS	1389	fliI_1	3.6.3.14	COG1157	Flagellum-specific ATP synthase
+ALMIPKNC_00169	CDS	447				hypothetical protein
+ALMIPKNC_00170	CDS	1668	fliK_1		COG3144	Flagellar hook-length control protein
+ALMIPKNC_00171	CDS	372	crcB_1		COG0239	Putative fluoride ion transporter CrcB
+ALMIPKNC_00172	CDS	1299	serS_1	6.1.1.11	COG0172	Serine--tRNA ligase
+ALMIPKNC_00173	CDS	1449	cysG_1		COG0007	Siroheme synthase
+ALMIPKNC_00174	CDS	414				hypothetical protein
+ALMIPKNC_00175	CDS	165				hypothetical protein
+ALMIPKNC_00176	CDS	1845	ilvD_1	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+ALMIPKNC_00177	CDS	702				hypothetical protein
+ALMIPKNC_00178	CDS	2787	valS_1	6.1.1.9	COG0525	Valine--tRNA ligase
+ALMIPKNC_00179	CDS	1506	pepA_1	3.4.11.1	COG0260	Cytosol aminopeptidase
+ALMIPKNC_00180	CDS	1125	lptF_1		COG0795	Lipopolysaccharide export system permease protein LptF
+ALMIPKNC_00181	CDS	771				hypothetical protein
+ALMIPKNC_00182	CDS	864				hypothetical protein
+ALMIPKNC_00183	CDS	927	cysM	2.5.1.47	COG0031	Cysteine synthase B
+ALMIPKNC_00184	CDS	387	acpS	2.7.8.7	COG0736	Holo-[acyl-carrier-protein] synthase
+ALMIPKNC_00185	CDS	732	pdxJ	2.6.99.2		Pyridoxine 5'-phosphate synthase
+ALMIPKNC_00186	CDS	762	recO		COG1381	DNA repair protein RecO
+ALMIPKNC_00187	CDS	891	era		COG1159	GTPase Era
+ALMIPKNC_00188	CDS	723	rnc	3.1.26.3	COG0571	Ribonuclease 3
+ALMIPKNC_00189	CDS	771	lepB	3.4.21.89	COG0681	Signal peptidase I
+ALMIPKNC_00190	CDS	1806	lepA	3.6.5.-	COG0481	Elongation factor 4
+ALMIPKNC_00191	CDS	1536	degP	3.4.21.107	COG0265	Periplasmic serine endoprotease DegP
+ALMIPKNC_00192	CDS	468	rseC		COG3086	Protein RseC
+ALMIPKNC_00193	CDS	1689	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+ALMIPKNC_00194	CDS	591				hypothetical protein
+ALMIPKNC_00195	CDS	1008	ygfZ		COG0354	tRNA-modifying protein YgfZ
+ALMIPKNC_00196	CDS	1281			COG3264	putative MscS family protein.1
+ALMIPKNC_00197	tRNA	76				tRNA-Lys(ctt)
+ALMIPKNC_00198	CDS	1911				hypothetical protein
+ALMIPKNC_00199	CDS	537				hypothetical protein
+ALMIPKNC_00200	CDS	2097			COG2200	putative signaling protein
+ALMIPKNC_00201	CDS	258				hypothetical protein
+ALMIPKNC_00202	CDS	369				hypothetical protein
+ALMIPKNC_00203	CDS	342				hypothetical protein
+ALMIPKNC_00204	CDS	1542	leuA_1	2.3.3.13	COG0119	2-isopropylmalate synthase
+ALMIPKNC_00205	CDS	804	pcs	2.7.8.24	COG1183	Phosphatidylcholine synthase
+ALMIPKNC_00206	CDS	1023	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+ALMIPKNC_00207	CDS	495	ilvH	2.2.1.6	COG0440	Acetolactate synthase isozyme 3 small subunit
+ALMIPKNC_00208	CDS	1701	ilvI	2.2.1.6	COG0028	Acetolactate synthase isozyme 3 large subunit
+ALMIPKNC_00209	CDS	1851				hypothetical protein
+ALMIPKNC_00210	CDS	732	aaeA			p-hydroxybenzoic acid efflux pump subunit AaeA
+ALMIPKNC_00211	CDS	303				hypothetical protein
+ALMIPKNC_00212	CDS	267				hypothetical protein
+ALMIPKNC_00213	tRNA	76				tRNA-Thr(tgt)
+ALMIPKNC_00214	CDS	1044	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+ALMIPKNC_00215	CDS	600				hypothetical protein
+ALMIPKNC_00216	CDS	1188	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+ALMIPKNC_00217	CDS	1254	lutA		COG0247	Lactate utilization protein A
+ALMIPKNC_00218	CDS	1092		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+ALMIPKNC_00219	CDS	1467		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+ALMIPKNC_00220	CDS	1179	pucG	2.6.1.112	COG0075	(S)-ureidoglycine--glyoxylate transaminase
+ALMIPKNC_00221	CDS	1113	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+ALMIPKNC_00222	CDS	384	gcvH		COG0509	Glycine cleavage system H protein
+ALMIPKNC_00223	CDS	1425	gcvPA	1.4.4.2	COG0403	putative glycine dehydrogenase (decarboxylating) subunit 1
+ALMIPKNC_00224	CDS	1476	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+ALMIPKNC_00225	CDS	831				hypothetical protein
+ALMIPKNC_00226	CDS	411				hypothetical protein
+ALMIPKNC_00227	CDS	738	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALMIPKNC_00228	CDS	615	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+ALMIPKNC_00229	CDS	906	outO			Type 4 prepilin-like proteins leader peptide-processing enzyme
+ALMIPKNC_00230	CDS	1197	epsF_1		COG1459	Type II secretion system protein F
+ALMIPKNC_00231	CDS	450	fkpB	5.2.1.8	COG1047	FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase
+ALMIPKNC_00232	CDS	936	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+ALMIPKNC_00233	CDS	435				hypothetical protein
+ALMIPKNC_00234	CDS	579				hypothetical protein
+ALMIPKNC_00235	CDS	678				hypothetical protein
+ALMIPKNC_00236	CDS	1257	coaBC		COG0452	Coenzyme A biosynthesis bifunctional protein CoaBC
+ALMIPKNC_00237	CDS	456	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+ALMIPKNC_00238	CDS	1386	algC	5.4.2.2		Phosphomannomutase/phosphoglucomutase
+ALMIPKNC_00239	CDS	885	argB	2.7.2.8	COG0548	Acetylglutamate kinase
+ALMIPKNC_00240	CDS	885	cfxP	2.7.1.19	COG3954	Phosphoribulokinase, plasmid
+ALMIPKNC_00241	CDS	1050	vdcA	2.7.7.65		Diguanylate cyclase VdcA
+ALMIPKNC_00242	CDS	1179	glpC		COG0247	Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+ALMIPKNC_00243	CDS	312				Ferredoxin, 2Fe-2S
+ALMIPKNC_00244	CDS	639				hypothetical protein
+ALMIPKNC_00245	CDS	1176				hypothetical protein
+ALMIPKNC_00246	CDS	1062	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+ALMIPKNC_00247	CDS	633	adk	2.7.4.3		Adenylate kinase
+ALMIPKNC_00248	CDS	954	thrB	2.7.1.39	COG2334	Homoserine kinase
+ALMIPKNC_00249	CDS	294				hypothetical protein
+ALMIPKNC_00250	CDS	465	rhdA	2.8.1.1	COG2897	Putative thiosulfate sulfurtransferase
+ALMIPKNC_00251	CDS	2220	tsr_1		COG0840	Methyl-accepting chemotaxis protein I
+ALMIPKNC_00252	CDS	1335	srpC		COG2059	putative chromate transport protein
+ALMIPKNC_00253	CDS	1377	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+ALMIPKNC_00254	CDS	1680	yidC			Membrane protein insertase YidC
+ALMIPKNC_00255	CDS	375	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+ALMIPKNC_00256	CDS	135	rpmH		COG0230	50S ribosomal protein L34
+ALMIPKNC_00257	CDS	1323	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+ALMIPKNC_00258	CDS	138				hypothetical protein
+ALMIPKNC_00259	CDS	1125	dnaN		COG0592	Beta sliding clamp
+ALMIPKNC_00260	CDS	1080	recF		COG1195	DNA replication and repair protein RecF
+ALMIPKNC_00261	CDS	2421	gyrB	5.99.1.3	COG0187	DNA gyrase subunit B
+ALMIPKNC_00262	CDS	711	plsC	2.3.1.51	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+ALMIPKNC_00263	CDS	549		3.1.3.82	COG0241	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+ALMIPKNC_00264	CDS	453				hypothetical protein
+ALMIPKNC_00265	CDS	2343	hypF_1	6.2.-.-	COG0068	Carbamoyltransferase HypF
+ALMIPKNC_00266	CDS	1701		4.2.1.17	COG1024	putative enoyl-CoA hydratase echA12
+ALMIPKNC_00267	CDS	1143	sqr_1	1.8.5.4	COG0446	Sulfide-quinone reductase
+ALMIPKNC_00268	CDS	687	trmB_1	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+ALMIPKNC_00269	CDS	789	thiG_1	2.8.1.10	COG2022	Thiazole synthase
+ALMIPKNC_00270	CDS	201	thiS_1		COG2104	Sulfur carrier protein ThiS
+ALMIPKNC_00271	tRNA	74				tRNA-Gly(ccc)
+ALMIPKNC_00272	CDS	231				putative Fe(2+)-trafficking protein
+ALMIPKNC_00273	tRNA	76				tRNA-Phe(gaa)
+ALMIPKNC_00274	CDS	438	arfB_1	3.1.1.29	COG1186	Peptidyl-tRNA hydrolase ArfB
+ALMIPKNC_00275	CDS	363	baeR_1		COG0745	Transcriptional regulatory protein BaeR
+ALMIPKNC_00276	CDS	471				hypothetical protein
+ALMIPKNC_00277	CDS	528				hypothetical protein
+ALMIPKNC_00278	CDS	213				hypothetical protein
+ALMIPKNC_00279	CDS	3738	apc3_1	6.4.1.8	COG0145	Acetophenone carboxylase gamma subunit
+ALMIPKNC_00280	CDS	825				hypothetical protein
+ALMIPKNC_00281	CDS	381	panD_1	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+ALMIPKNC_00282	CDS	2538				hypothetical protein
+ALMIPKNC_00283	CDS	267	cspG_1		COG1278	Cold shock-like protein CspG
+ALMIPKNC_00284	CDS	951	lipA_1	2.8.1.8	COG0320	Lipoyl synthase
+ALMIPKNC_00285	CDS	693	lipB_1	2.3.1.181	COG0321	Octanoyltransferase
+ALMIPKNC_00286	CDS	273				hypothetical protein
+ALMIPKNC_00287	CDS	870	dat_1	2.6.1.21		D-alanine aminotransferase
+ALMIPKNC_00288	CDS	1347	dacC_1	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacC
+ALMIPKNC_00289	CDS	801	rlpA_2	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+ALMIPKNC_00290	CDS	1095	mltB_2	4.2.2.-	COG2951	Membrane-bound lytic murein transglycosylase B
+ALMIPKNC_00291	CDS	1110	mrdB_2	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+ALMIPKNC_00292	CDS	1845	mrdA_2	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+ALMIPKNC_00293	CDS	498	mreD_2		COG2891	Rod shape-determining protein MreD
+ALMIPKNC_00294	CDS	849	mreC_2		COG1792	Cell shape-determining protein MreC
+ALMIPKNC_00295	CDS	1032	mreB_2		COG1077	Rod shape-determining protein MreB
+ALMIPKNC_00296	CDS	288	gatC_2	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+ALMIPKNC_00297	CDS	1479	gatA_2	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+ALMIPKNC_00298	CDS	1434	gatB_2	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+ALMIPKNC_00299	CDS	3531	luxQ_2	2.7.13.3		Autoinducer 2 sensor kinase/phosphatase LuxQ
+ALMIPKNC_00300	CDS	1116		3.1.4.-	COG3437	putative cyclic di-GMP phosphodiesterase
+ALMIPKNC_00301	tRNA	76				tRNA-Gly(gcc)
+ALMIPKNC_00302	tRNA	74				tRNA-Cys(gca)
+ALMIPKNC_00303	tRNA	77				tRNA-Pro(ggg)
+ALMIPKNC_00304	CDS	870				hypothetical protein
+ALMIPKNC_00305	CDS	765				hypothetical protein
+ALMIPKNC_00306	CDS	2184	nrdZ_1	1.17.4.1		Vitamin B12-dependent ribonucleoside-diphosphate reductase
+ALMIPKNC_00307	CDS	960	cbpA_1		COG2214	Curved DNA-binding protein
+ALMIPKNC_00308	CDS	1398	degQ_1	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+ALMIPKNC_00309	CDS	630	baeB_1	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase BaeB
+ALMIPKNC_00310	CDS	1443	argA_1	2.3.1.1	COG0548	Amino-acid acetyltransferase
+ALMIPKNC_00311	CDS	630	rnt_1	3.1.13.-	COG0847	Ribonuclease T
+ALMIPKNC_00312	CDS	327	grxD_1		COG0278	Glutaredoxin 4
+ALMIPKNC_00313	CDS	765	ybgI_1		COG0327	GTP cyclohydrolase 1 type 2 
+ALMIPKNC_00314	CDS	1089	hisC2_1	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase 2
+ALMIPKNC_00315	CDS	1296	hisD_1	1.1.1.23	COG0141	Histidinol dehydrogenase
+ALMIPKNC_00316	CDS	633	hisG_1	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+ALMIPKNC_00317	CDS	1260	murA_1	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+ALMIPKNC_00318	CDS	768	yadH_1		COG0842	Inner membrane transport permease YadH
+ALMIPKNC_00319	CDS	930	yadG_1		COG1131	putative ABC transporter ATP-binding protein YadG
+ALMIPKNC_00320	CDS	330				hypothetical protein
+ALMIPKNC_00321	CDS	699	mlaC_1		COG2854	putative phospholipid-binding protein MlaC
+ALMIPKNC_00322	CDS	606	mlaD_1		COG1463	putative phospholipid ABC transporter-binding protein MlaD
+ALMIPKNC_00323	CDS	741	soj_1	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+ALMIPKNC_00324	CDS	1599				hypothetical protein
+ALMIPKNC_00325	CDS	732	phoB_1		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+ALMIPKNC_00326	CDS	687	ygiF_1	3.6.1.25	COG3025	Inorganic triphosphatase
+ALMIPKNC_00327	CDS	2187	ppk_1	2.7.4.1	COG0855	Polyphosphate kinase
+ALMIPKNC_00328	CDS	477	nhaX_1		COG0589	Stress response protein NhaX
+ALMIPKNC_00329	CDS	1668				hypothetical protein
+ALMIPKNC_00330	CDS	1269	cysP_1		COG0306	Sulfate permease CysP
+ALMIPKNC_00331	CDS	681				hypothetical protein
+ALMIPKNC_00332	CDS	228				hypothetical protein
+ALMIPKNC_00333	CDS	1431				hypothetical protein
+ALMIPKNC_00334	CDS	822				hypothetical protein
+ALMIPKNC_00335	CDS	2499				hypothetical protein
+ALMIPKNC_00336	CDS	165				hypothetical protein
+ALMIPKNC_00337	CDS	2136	feoB_1		COG0370	Fe(2+) transporter FeoB
+ALMIPKNC_00338	CDS	267				hypothetical protein
+ALMIPKNC_00339	CDS	210	copZ_1		COG2608	Copper chaperone CopZ
+ALMIPKNC_00340	CDS	1434	dctB_1	2.7.13.3		C4-dicarboxylate transport sensor protein DctB
+ALMIPKNC_00341	CDS	1209				hypothetical protein
+ALMIPKNC_00342	CDS	294	lsrG_1	5.3.1.32	COG1359	(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase
+ALMIPKNC_00343	CDS	1191	mdh_1	1.1.1.244		NAD-dependent methanol dehydrogenase
+ALMIPKNC_00344	CDS	399	yqaA_1		COG1238	Inner membrane protein YqaA
+ALMIPKNC_00345	CDS	2016	ydcP_1	3.4.-.-	COG0826	putative protease YdcP
+ALMIPKNC_00346	CDS	570	cheA_1	2.7.13.3	COG0643	Chemotaxis protein CheA
+ALMIPKNC_00347	CDS	237				hypothetical protein
+ALMIPKNC_00348	CDS	1644				hypothetical protein
+ALMIPKNC_00349	CDS	1140				hypothetical protein
+ALMIPKNC_00350	CDS	1449	kinE_1	2.7.13.3	COG2202	Sporulation kinase E
+ALMIPKNC_00351	CDS	1329	qseC_1	2.7.13.3		Sensor protein QseC
+ALMIPKNC_00352	CDS	666	qseB_1			Transcriptional regulatory protein QseB
+ALMIPKNC_00353	CDS	642				hypothetical protein
+ALMIPKNC_00354	CDS	1401				hypothetical protein
+ALMIPKNC_00355	CDS	873				hypothetical protein
+ALMIPKNC_00356	CDS	219				hypothetical protein
+ALMIPKNC_00357	CDS	942				hypothetical protein
+ALMIPKNC_00358	CDS	1305				hypothetical protein
+ALMIPKNC_00359	CDS	525				hypothetical protein
+ALMIPKNC_00360	CDS	2265	copA_1	3.6.3.54	COG2217	Copper-exporting P-type ATPase
+ALMIPKNC_00361	CDS	501	petJ_1			Cytochrome c6
+ALMIPKNC_00362	CDS	393				hypothetical protein
+ALMIPKNC_00363	CDS	351				hypothetical protein
+ALMIPKNC_00364	CDS	432				hypothetical protein
+ALMIPKNC_00365	CDS	654				hypothetical protein
+ALMIPKNC_00366	CDS	444	bdbC_1		COG1495	Disulfide bond formation protein C
+ALMIPKNC_00367	CDS	621				hypothetical protein
+ALMIPKNC_00368	CDS	1404	envZ_1	2.7.13.3		Osmolarity sensor protein EnvZ
+ALMIPKNC_00369	CDS	714	ompR_1			Transcriptional regulatory protein OmpR
+ALMIPKNC_00370	CDS	873				hypothetical protein
+ALMIPKNC_00371	CDS	312				hypothetical protein
+ALMIPKNC_00372	CDS	567	resA_1			Thiol-disulfide oxidoreductase ResA
+ALMIPKNC_00373	CDS	567				hypothetical protein
+ALMIPKNC_00374	CDS	495	esiB_1			Secretory immunoglobulin A-binding protein EsiB
+ALMIPKNC_00375	CDS	384				hypothetical protein
+ALMIPKNC_00376	CDS	657	ccmA_1	3.6.3.41	COG4133	Cytochrome c biogenesis ATP-binding export protein CcmA
+ALMIPKNC_00377	CDS	684	ccmB_1		COG2386	Heme exporter protein B
+ALMIPKNC_00378	CDS	1263	ccmC_1		COG0755	Heme exporter protein C
+ALMIPKNC_00379	CDS	465	ccmE_1		COG2332	Cytochrome c-type biogenesis protein CcmE
+ALMIPKNC_00380	CDS	1935	ccmF_1		COG1138	Cytochrome c-type biogenesis protein CcmF
+ALMIPKNC_00381	CDS	798	fbp_1	5.2.1.8	COG0545	FK506-binding protein
+ALMIPKNC_00382	CDS	426				hypothetical protein
+ALMIPKNC_00383	CDS	2295	nosZ_1	1.7.2.4		Nitrous-oxide reductase
+ALMIPKNC_00384	CDS	321	cc4_1		COG2863	Cytochrome c4
+ALMIPKNC_00385	CDS	726	cycA_1		COG2863	Cytochrome c4
+ALMIPKNC_00386	CDS	1197				hypothetical protein
+ALMIPKNC_00387	CDS	1455	nosD_1			putative ABC transporter binding protein NosD
+ALMIPKNC_00388	CDS	843	napG_1		COG1145	Ferredoxin-type protein NapG
+ALMIPKNC_00389	CDS	1044	napH_1		COG0348	Ferredoxin-type protein NapH
+ALMIPKNC_00390	CDS	663	artM_1		COG1126	Arginine transport ATP-binding protein ArtM
+ALMIPKNC_00391	CDS	519				hypothetical protein
+ALMIPKNC_00392	CDS	828	nosY_1		COG1277	putative ABC transporter permease protein NosY
+ALMIPKNC_00393	CDS	660	cycA_2		COG2863	Cytochrome c4
+ALMIPKNC_00394	CDS	966	menC_1	4.2.1.113	COG1441	o-succinylbenzoate synthase
+ALMIPKNC_00395	CDS	408		3.1.2.28	COG0824	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+ALMIPKNC_00396	CDS	1761	menD_1	2.2.1.9	COG1165	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+ALMIPKNC_00397	CDS	834	menB_1	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+ALMIPKNC_00398	CDS	1425	pchA_1	5.4.4.2	COG1169	Salicylate biosynthesis isochorismate synthase
+ALMIPKNC_00399	CDS	273				hypothetical protein
+ALMIPKNC_00400	CDS	1482	nuoN_1	1.6.5.11	COG1007	NADH-quinone oxidoreductase subunit N
+ALMIPKNC_00401	CDS	1524	nuoM_1	1.6.5.11	COG1008	NADH-quinone oxidoreductase subunit M
+ALMIPKNC_00402	CDS	375	fosB_1	2.5.1.-	COG0346	Metallothiol transferase FosB
+ALMIPKNC_00403	tRNA	88				tRNA-Ser(gga)
+ALMIPKNC_00404	CDS	765	kdsB_1	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+ALMIPKNC_00405	CDS	189				hypothetical protein
+ALMIPKNC_00406	CDS	1002	lpxK_1	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+ALMIPKNC_00407	CDS	420	exbD_1		COG0848	Biopolymer transport protein ExbD
+ALMIPKNC_00408	CDS	609	tolQ_1		COG0811	Protein TolQ
+ALMIPKNC_00409	CDS	2394	comEC_1		COG0658	ComE operon protein 3
+ALMIPKNC_00410	CDS	516				hypothetical protein
+ALMIPKNC_00411	CDS	699	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+ALMIPKNC_00412	CDS	1248	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+ALMIPKNC_00413	CDS	3489	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+ALMIPKNC_00414	CDS	990	pleD_1			Response regulator PleD
+ALMIPKNC_00415	CDS	396	fliS_1		COG1516	Flagellar secretion chaperone FliS
+ALMIPKNC_00416	tRNA	87				tRNA-Leu(caa)
+ALMIPKNC_00417	CDS	2082	trg		COG0840	Methyl-accepting chemotaxis protein III
+ALMIPKNC_00418	CDS	771	pstS1		COG0226	Phosphate-binding protein PstS 1
+ALMIPKNC_00419	CDS	567	sprT			Protein SprT
+ALMIPKNC_00420	CDS	675				hypothetical protein
+ALMIPKNC_00421	CDS	1272	rarA		COG2256	Replication-associated recombination protein A
+ALMIPKNC_00422	CDS	678	lolA		COG2834	Outer-membrane lipoprotein carrier protein
+ALMIPKNC_00423	CDS	2346	ftsK		COG1674	DNA translocase FtsK
+ALMIPKNC_00424	CDS	975	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+ALMIPKNC_00425	CDS	219	infA		COG0361	Translation initiation factor IF-1
+ALMIPKNC_00426	CDS	2382	clpA		COG0542	ATP-dependent Clp protease ATP-binding subunit ClpA
+ALMIPKNC_00427	CDS	336	clpS		COG2127	ATP-dependent Clp protease adapter protein ClpS
+ALMIPKNC_00428	CDS	549	rluE	5.4.99.20	COG1187	Ribosomal large subunit pseudouridine synthase E
+ALMIPKNC_00429	CDS	1074	mnmA	2.8.1.13	COG0482	tRNA-specific 2-thiouridylase MnmA
+ALMIPKNC_00430	CDS	540				hypothetical protein
+ALMIPKNC_00431	CDS	1110	recA_1			Protein RecA
+ALMIPKNC_00432	CDS	345				hypothetical protein
+ALMIPKNC_00433	CDS	648	murU	2.7.7.-	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+ALMIPKNC_00434	CDS	993	amgK	2.7.1.-	COG3178	N-acetylmuramate/N-acetylglucosamine kinase
+ALMIPKNC_00435	CDS	2496	lptD		COG1452	LPS-assembly protein LptD
+ALMIPKNC_00436	CDS	2310	recB_1	3.1.11.5	COG1074	RecBCD enzyme subunit RecB
+ALMIPKNC_00437	CDS	1638	recD	3.1.11.5	COG0507	RecBCD enzyme subunit RecD
+ALMIPKNC_00438	CDS	252				hypothetical protein
+ALMIPKNC_00439	CDS	273				hypothetical protein
+ALMIPKNC_00440	CDS	219				hypothetical protein
+ALMIPKNC_00441	CDS	765				hypothetical protein
+ALMIPKNC_00442	CDS	1086	aroC	4.2.3.5	COG0082	Chorismate synthase
+ALMIPKNC_00443	CDS	1176	hcaT			putative 3-phenylpropionic acid transporter
+ALMIPKNC_00444	CDS	1353	dsvA_1		COG2221	Sulfite reductase, dissimilatory-type subunit alpha
+ALMIPKNC_00445	CDS	1074	dsvB	1.8.99.5	COG2221	Sulfite reductase, dissimilatory-type subunit beta
+ALMIPKNC_00446	CDS	393	dsrE	2.8.1.-	COG1553	Putative sulfurtransferase DsrE
+ALMIPKNC_00447	CDS	411	dsrF		COG2923	Intracellular sulfur oxidation protein DsrF
+ALMIPKNC_00448	CDS	288	tusB		COG2168	Protein TusB
+ALMIPKNC_00449	CDS	336	tusE_1	2.8.1.-	COG2920	Sulfurtransferase TusE
+ALMIPKNC_00450	CDS	765				hypothetical protein
+ALMIPKNC_00451	CDS	1593				hypothetical protein
+ALMIPKNC_00452	CDS	1983	gltD	1.4.1.13	COG0493	Glutamate synthase [NADPH] small chain
+ALMIPKNC_00453	CDS	423				hypothetical protein
+ALMIPKNC_00454	CDS	801	ttrB		COG0437	Tetrathionate reductase subunit B
+ALMIPKNC_00455	CDS	1215				hypothetical protein
+ALMIPKNC_00456	CDS	945	cbiA_1	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+ALMIPKNC_00457	CDS	411	cbiA_2	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+ALMIPKNC_00458	CDS	363	erpA_1			Iron-sulfur cluster insertion protein ErpA
+ALMIPKNC_00459	tRNA	76				tRNA-Gly(gcc)
+ALMIPKNC_00460	CDS	4620	evgS	2.7.13.3	COG0784	Sensor protein EvgS
+ALMIPKNC_00461	CDS	2013	topB	5.99.1.2	COG0550	DNA topoisomerase 3
+ALMIPKNC_00462	CDS	363	yccU		COG1832	putative protein YccU
+ALMIPKNC_00463	CDS	1317	acrE			Multidrug export protein AcrE
+ALMIPKNC_00464	CDS	3060	ttgE			Toluene efflux pump membrane transporter TtgE
+ALMIPKNC_00465	CDS	243				hypothetical protein
+ALMIPKNC_00466	CDS	1047				hypothetical protein
+ALMIPKNC_00467	CDS	555				hypothetical protein
+ALMIPKNC_00468	CDS	1230				hypothetical protein
+ALMIPKNC_00469	CDS	1773				hypothetical protein
+ALMIPKNC_00470	CDS	1029	yhdW			Putative amino-acid ABC transporter-binding protein YhdW
+ALMIPKNC_00471	CDS	1161	glnM		COG0765	putative glutamine ABC transporter permease protein GlnM
+ALMIPKNC_00472	CDS	1077	yhdY		COG0765	Inner membrane amino-acid ABC transporter permease protein YhdY
+ALMIPKNC_00473	CDS	744	glnQ			Glutamine transport ATP-binding protein GlnQ
+ALMIPKNC_00474	CDS	852	ligA	6.5.1.1		DNA ligase
+ALMIPKNC_00475	CDS	900	yedA			putative inner membrane transporter YedA
+ALMIPKNC_00476	CDS	3279	uvrD	3.6.4.12	COG0210	DNA helicase II
+ALMIPKNC_00477	CDS	255				hypothetical protein
+ALMIPKNC_00478	CDS	333				hypothetical protein
+ALMIPKNC_00479	CDS	1272				hypothetical protein
+ALMIPKNC_00480	CDS	297				hypothetical protein
+ALMIPKNC_00481	CDS	390				hypothetical protein
+ALMIPKNC_00482	CDS	1563	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+ALMIPKNC_00483	CDS	378				hypothetical protein
+ALMIPKNC_00484	CDS	708	purF_1	2.4.2.14		Amidophosphoribosyltransferase
+ALMIPKNC_00485	CDS	1002	bioB	2.8.1.6	COG0502	Biotin synthase
+ALMIPKNC_00486	CDS	1149	bioF	2.3.1.47	COG0156	8-amino-7-oxononanoate synthase
+ALMIPKNC_00487	CDS	765	bioH	3.1.1.85	COG0596	Pimeloyl-[acyl-carrier protein] methyl ester esterase
+ALMIPKNC_00488	CDS	969	bioC	2.1.1.197		Malonyl-[acyl-carrier protein] O-methyltransferase
+ALMIPKNC_00489	CDS	405	pilE			Fimbrial protein
+ALMIPKNC_00490	CDS	351	immR		COG1396	HTH-type transcriptional regulator ImmR
+ALMIPKNC_00491	CDS	1653				hypothetical protein
+ALMIPKNC_00492	CDS	981	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+ALMIPKNC_00493	CDS	390				hypothetical protein
+ALMIPKNC_00494	CDS	312	rplU		COG0261	50S ribosomal protein L21
+ALMIPKNC_00495	CDS	261	rpmA		COG0211	50S ribosomal protein L27
+ALMIPKNC_00496	CDS	1020	obg	3.6.5.-		GTPase Obg
+ALMIPKNC_00497	CDS	789	proB	2.7.2.11		Glutamate 5-kinase
+ALMIPKNC_00498	CDS	261	rpsT		COG0268	30S ribosomal protein S20
+ALMIPKNC_00499	CDS	1644	murJ		COG0728	putative lipid II flippase MurJ
+ALMIPKNC_00500	CDS	939	ribF		COG0196	Riboflavin biosynthesis protein RibF
+ALMIPKNC_00501	CDS	2838	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+ALMIPKNC_00502	CDS	519	lspA	3.4.23.36	COG0597	Lipoprotein signal peptidase
+ALMIPKNC_00503	CDS	1260	pyrD_2	1.3.-.-		Dihydroorotate dehydrogenase
+ALMIPKNC_00504	CDS	708	rsmJ	2.1.1.242		Ribosomal RNA small subunit methyltransferase J
+ALMIPKNC_00505	CDS	690				hypothetical protein
+ALMIPKNC_00506	CDS	1332	rimO_1	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+ALMIPKNC_00507	CDS	2586	clpB		COG0542	Chaperone protein ClpB
+ALMIPKNC_00508	CDS	909	lpxL	2.3.1.241	COG1560	Lipid A biosynthesis lauroyltransferase
+ALMIPKNC_00509	CDS	1329	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+ALMIPKNC_00510	CDS	657	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+ALMIPKNC_00511	CDS	753	pmpR		COG0217	Transcriptional regulatory protein PmpR
+ALMIPKNC_00512	CDS	519	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+ALMIPKNC_00513	CDS	600	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+ALMIPKNC_00514	CDS	1038	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+ALMIPKNC_00515	CDS	387	ybgC	3.1.2.-	COG0824	Acyl-CoA thioesterase YbgC
+ALMIPKNC_00516	CDS	696	tolQ_2		COG0811	Protein TolQ
+ALMIPKNC_00517	CDS	426	exbD_2		COG0848	Biopolymer transport protein ExbD
+ALMIPKNC_00518	CDS	840				hypothetical protein
+ALMIPKNC_00519	CDS	1386				hypothetical protein
+ALMIPKNC_00520	CDS	573	yeiP		COG0231	Elongation factor P-like protein
+ALMIPKNC_00521	CDS	336				hypothetical protein
+ALMIPKNC_00522	CDS	1188				hypothetical protein
+ALMIPKNC_00523	CDS	375	tusE_2	2.8.1.-	COG2920	Sulfurtransferase TusE
+ALMIPKNC_00524	CDS	696	narI	1.7.99.4	COG2181	Respiratory nitrate reductase 1 gamma chain
+ALMIPKNC_00525	CDS	516	narJ		COG2180	Nitrate reductase molybdenum cofactor assembly chaperone NarJ
+ALMIPKNC_00526	CDS	1563	narH	1.7.99.4	COG1140	Respiratory nitrate reductase 1 beta chain
+ALMIPKNC_00527	CDS	3744	narG	1.7.99.4	COG5013	Respiratory nitrate reductase 1 alpha chain
+ALMIPKNC_00528	CDS	1608	narK		COG2223	Nitrate/nitrite transporter NarK
+ALMIPKNC_00529	CDS	1443	narT		COG2223	putative nitrate transporter NarT
+ALMIPKNC_00530	CDS	1920	narQ_1	2.7.13.3		Nitrate/nitrite sensor protein NarQ
+ALMIPKNC_00531	CDS	672	narL_1		COG2197	Nitrate/nitrite response regulator protein NarL
+ALMIPKNC_00532	CDS	486				hypothetical protein
+ALMIPKNC_00533	CDS	390				hypothetical protein
+ALMIPKNC_00534	CDS	297				hypothetical protein
+ALMIPKNC_00535	CDS	498	slyD_1	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+ALMIPKNC_00536	CDS	1521				hypothetical protein
+ALMIPKNC_00537	CDS	996	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+ALMIPKNC_00538	CDS	765	ubiE_1	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+ALMIPKNC_00539	CDS	885	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+ALMIPKNC_00540	CDS	690	anr			Transcriptional activator protein Anr
+ALMIPKNC_00541	CDS	351				hypothetical protein
+ALMIPKNC_00542	CDS	2004	rimO_2	2.8.4.4		Ribosomal protein S12 methylthiotransferase RimO
+ALMIPKNC_00543	CDS	1128				hypothetical protein
+ALMIPKNC_00544	CDS	405				hypothetical protein
+ALMIPKNC_00545	CDS	411				hypothetical protein
+ALMIPKNC_00546	CDS	645	tolQ_3		COG0811	Protein TolQ
+ALMIPKNC_00547	CDS	465				hypothetical protein
+ALMIPKNC_00548	CDS	699				hypothetical protein
+ALMIPKNC_00549	CDS	378				hypothetical protein
+ALMIPKNC_00550	CDS	855	ubiA	2.5.1.-	COG0382	4-hydroxybenzoate octaprenyltransferase
+ALMIPKNC_00551	CDS	483	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+ALMIPKNC_00552	CDS	1587	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+ALMIPKNC_00553	CDS	1458	guaB_1	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+ALMIPKNC_00554	CDS	1413	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+ALMIPKNC_00555	CDS	3651	tap_1		COG0840	Methyl-accepting chemotaxis protein IV
+ALMIPKNC_00556	CDS	351				hypothetical protein
+ALMIPKNC_00557	CDS	561	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+ALMIPKNC_00558	CDS	1065	nagZ	3.2.1.52	COG1472	Beta-hexosaminidase
+ALMIPKNC_00559	CDS	486				hypothetical protein
+ALMIPKNC_00560	CDS	483				hypothetical protein
+ALMIPKNC_00561	CDS	1533	bicA		COG0659	Bicarbonate transporter BicA
+ALMIPKNC_00562	CDS	1881	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+ALMIPKNC_00563	CDS	2100	hsdR	3.1.21.3		Type I restriction enzyme EcoR124II R protein
+ALMIPKNC_00564	CDS	639				hypothetical protein
+ALMIPKNC_00565	CDS	765	rlmB_1	2.1.1.185	COG0566	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+ALMIPKNC_00566	CDS	2349	rnr_1	3.1.13.1	COG0557	Ribonuclease R
+ALMIPKNC_00567	CDS	477				hypothetical protein
+ALMIPKNC_00568	CDS	1311	purA_1	6.3.4.4	COG0104	Adenylosuccinate synthetase
+ALMIPKNC_00569	CDS	1233	hisZ_1		COG3705	ATP phosphoribosyltransferase regulatory subunit
+ALMIPKNC_00570	CDS	198				hypothetical protein
+ALMIPKNC_00571	CDS	873	hflC_1		COG0330	Modulator of FtsH protease HflC
+ALMIPKNC_00572	CDS	1326	hflK_1		COG0330	Modulator of FtsH protease HflK
+ALMIPKNC_00573	CDS	1311	hflX_1		COG2262	GTPase HflX
+ALMIPKNC_00574	CDS	252	hfq_1		COG1923	RNA-binding protein Hfq
+ALMIPKNC_00575	CDS	915	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+ALMIPKNC_00576	CDS	1806	mutL_1		COG0323	DNA mismatch repair protein MutL
+ALMIPKNC_00577	CDS	1335	amiC_1	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase AmiC
+ALMIPKNC_00578	CDS	471	tsaE_1		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+ALMIPKNC_00579	CDS	1197		3.1.4.-	COG2206	Cyclic di-GMP phosphodiesterase
+ALMIPKNC_00580	CDS	426				hypothetical protein
+ALMIPKNC_00581	CDS	294	higB	3.1.-.-	COG4680	mRNA interferase toxin HigB
+ALMIPKNC_00582	CDS	372	higA		COG5499	Antitoxin HigA
+ALMIPKNC_00583	CDS	174				hypothetical protein
+ALMIPKNC_00584	CDS	174				hypothetical protein
+ALMIPKNC_00585	CDS	1734				hypothetical protein
+ALMIPKNC_00586	CDS	1086	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+ALMIPKNC_00587	CDS	543	orn	3.1.-.-	COG1949	Oligoribonuclease
+ALMIPKNC_00588	CDS	1269	htpX	3.4.24.-	COG0501	Protease HtpX
+ALMIPKNC_00589	CDS	291				Green heme protein
+ALMIPKNC_00590	CDS	909	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+ALMIPKNC_00591	CDS	588	recR		COG0353	Recombination protein RecR
+ALMIPKNC_00592	CDS	321	ybaB		COG0718	Nucleoid-associated protein YbaB
+ALMIPKNC_00593	CDS	1608	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit tau
+ALMIPKNC_00594	CDS	267				hypothetical protein
+ALMIPKNC_00595	CDS	483				hypothetical protein
+ALMIPKNC_00596	CDS	882	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+ALMIPKNC_00597	CDS	708	bioD1	6.3.3.3	COG0132	ATP-dependent dethiobiotin synthetase BioD 1
+ALMIPKNC_00598	CDS	753		2.4.2.44	COG0005	S-methyl-5'-thioinosine phosphorylase
+ALMIPKNC_00599	CDS	789	pkn1_1	2.7.11.1	COG0515	Serine/threonine-protein kinase pkn1
+ALMIPKNC_00600	CDS	1341				hypothetical protein
+ALMIPKNC_00601	CDS	282				hypothetical protein
+ALMIPKNC_00602	CDS	447	ytfE			Iron-sulfur cluster repair protein YtfE
+ALMIPKNC_00603	CDS	798	yjjV	3.1.-.-	COG0084	putative metal-dependent hydrolase YjjV
+ALMIPKNC_00604	CDS	954	menH	4.2.99.20		2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+ALMIPKNC_00605	CDS	327			COG0776	DNA-binding protein HRL53
+ALMIPKNC_00606	CDS	564				hypothetical protein
+ALMIPKNC_00607	CDS	672	dnaQ	2.7.7.7	COG0847	DNA polymerase III subunit epsilon
+ALMIPKNC_00608	CDS	450	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+ALMIPKNC_00609	CDS	672				hypothetical protein
+ALMIPKNC_00610	CDS	1389	mltD	4.2.2.-	COG0741	Membrane-bound lytic murein transglycosylase D
+ALMIPKNC_00611	CDS	909	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+ALMIPKNC_00612	CDS	918	epmA	6.3.1.-	COG2269	Elongation factor P--(R)-beta-lysine ligase
+ALMIPKNC_00613	CDS	570	efp		COG0231	Elongation factor P
+ALMIPKNC_00614	CDS	1026	epmB	5.4.3.-	COG1509	L-lysine 2,3-aminomutase
+ALMIPKNC_00615	CDS	309				hypothetical protein
+ALMIPKNC_00616	CDS	234				hypothetical protein
+ALMIPKNC_00617	CDS	315				hypothetical protein
+ALMIPKNC_00618	CDS	1497	der		COG1160	GTPase Der
+ALMIPKNC_00619	CDS	1203	bamB		COG1520	Outer membrane protein assembly factor BamB
+ALMIPKNC_00620	CDS	639				hypothetical protein
+ALMIPKNC_00621	CDS	1263	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+ALMIPKNC_00622	CDS	1095	ispG	1.17.7.3	COG0821	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+ALMIPKNC_00623	CDS	816	rodZ			Cytoskeleton protein RodZ
+ALMIPKNC_00624	CDS	471				hypothetical protein
+ALMIPKNC_00625	CDS	1101	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+ALMIPKNC_00626	CDS	432	ndk	2.7.4.6	COG0105	Nucleoside diphosphate kinase
+ALMIPKNC_00627	CDS	339	fdx_2		COG0633	2Fe-2S ferredoxin
+ALMIPKNC_00628	CDS	1896	hscA		COG0443	Chaperone protein HscA
+ALMIPKNC_00629	CDS	537	hscB_1		COG1076	Co-chaperone protein HscB 
+ALMIPKNC_00630	CDS	324	iscA_1		COG0316	Iron-binding protein IscA
+ALMIPKNC_00631	CDS	1254	iscS_1	2.8.1.7	COG1104	Cysteine desulfurase IscS
+ALMIPKNC_00632	CDS	1119	iscS_2	2.8.1.7		Cysteine desulfurase IscS
+ALMIPKNC_00633	CDS	441	iscR		COG1959	HTH-type transcriptional regulator IscR
+ALMIPKNC_00634	CDS	831	cysE	2.3.1.30	COG1045	Serine acetyltransferase
+ALMIPKNC_00635	CDS	774	trmJ	2.1.1.200	COG0565	tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ
+ALMIPKNC_00636	CDS	798	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+ALMIPKNC_00637	CDS	444	rimI	2.3.1.128	COG0456	Ribosomal-protein-alanine acetyltransferase
+ALMIPKNC_00638	CDS	429				hypothetical protein
+ALMIPKNC_00639	CDS	174				hypothetical protein
+ALMIPKNC_00640	CDS	156				hypothetical protein
+ALMIPKNC_00641	CDS	189				hypothetical protein
+ALMIPKNC_00642	CDS	441	sixA	3.1.3.-	COG2062	Phosphohistidine phosphatase SixA
+ALMIPKNC_00643	tRNA	76				tRNA-His(gtg)
+ALMIPKNC_00644	tRNA	77				tRNA-Arg(tct)
+ALMIPKNC_00645	tRNA	77				tRNA-Pro(tgg)
+ALMIPKNC_00646	CDS	855	folD		COG0190	Bifunctional protein FolD protein
+ALMIPKNC_00647	CDS	1407	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+ALMIPKNC_00648	CDS	588		5.2.1.8		Peptidyl-prolyl cis-trans isomerase cyp18
+ALMIPKNC_00649	CDS	498	ppiB	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase B
+ALMIPKNC_00650	CDS	717	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+ALMIPKNC_00651	CDS	1455	nhaS3			High-affinity Na(+)/H(+) antiporter NhaS3
+ALMIPKNC_00652	CDS	819				hypothetical protein
+ALMIPKNC_00653	CDS	1191	metZ	2.5.1.-	COG0626	O-succinylhomoserine sulfhydrylase
+ALMIPKNC_00654	CDS	1536	purF_2	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+ALMIPKNC_00655	CDS	537	cvpA		COG1286	Colicin V production protein
+ALMIPKNC_00656	CDS	1503	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+ALMIPKNC_00657	CDS	1059	prfB		COG1186	Peptide chain release factor RF2
+ALMIPKNC_00658	CDS	1593	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+ALMIPKNC_00659	CDS	1359	purH		COG0138	Bifunctional purine biosynthesis protein PurH
+ALMIPKNC_00660	CDS	1287	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+ALMIPKNC_00661	CDS	555				hypothetical protein
+ALMIPKNC_00662	CDS	582				hypothetical protein
+ALMIPKNC_00663	CDS	1155			COG2199	putative signaling protein
+ALMIPKNC_00664	CDS	483				hypothetical protein
+ALMIPKNC_00665	CDS	960				hypothetical protein
+ALMIPKNC_00666	CDS	429	hslR_1		COG1188	Heat shock protein 15
+ALMIPKNC_00667	CDS	1827	typA_1		COG1217	GTP-binding protein TypA/BipA
+ALMIPKNC_00668	CDS	1176				hypothetical protein
+ALMIPKNC_00669	CDS	564	glpE_1	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+ALMIPKNC_00670	CDS	552				hypothetical protein
+ALMIPKNC_00671	CDS	594	hisB_1		COG0131	Histidine biosynthesis bifunctional protein HisB
+ALMIPKNC_00672	CDS	636	hisH_1	2.4.2.-	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+ALMIPKNC_00673	CDS	780	hisA_1	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+ALMIPKNC_00674	CDS	774	hisF_1	4.1.3.-	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+ALMIPKNC_00675	CDS	414	hisI_1	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+ALMIPKNC_00676	CDS	705				hypothetical protein
+ALMIPKNC_00677	CDS	321	hisE_1	3.6.1.31	COG0140	Phosphoribosyl-ATP pyrophosphatase
+ALMIPKNC_00678	CDS	378		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+ALMIPKNC_00679	CDS	264	tatA_1		COG1826	Sec-independent protein translocase protein TatA
+ALMIPKNC_00680	CDS	411	tatB_1		COG1826	Sec-independent protein translocase protein TatB
+ALMIPKNC_00681	CDS	1146	tatC_1		COG0805	Sec-independent protein translocase protein TatC
+ALMIPKNC_00682	CDS	1248	cca_1		COG0617	Multifunctional CCA protein
+ALMIPKNC_00683	CDS	294				hypothetical protein
+ALMIPKNC_00684	CDS	879	rpoH_1		COG0568	RNA polymerase sigma factor RpoH
+ALMIPKNC_00685	CDS	975	ftsY_1		COG0552	Signal recognition particle receptor FtsY
+ALMIPKNC_00686	CDS	678	fccA_1			Cytochrome subunit of sulfide dehydrogenase
+ALMIPKNC_00687	CDS	1320	fccB_1	1.8.2.3	COG0446	Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain
+ALMIPKNC_00688	CDS	321				hypothetical protein
+ALMIPKNC_00689	CDS	789				hypothetical protein
+ALMIPKNC_00690	CDS	576	tsaC_1	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+ALMIPKNC_00691	CDS	1425	pilQ_1		COG4796	Type IV pilus biogenesis and competence protein PilQ
+ALMIPKNC_00692	CDS	561	aroK_1	2.7.1.71	COG0703	Shikimate kinase 1
+ALMIPKNC_00693	CDS	1134	aroB_1	4.2.3.4	COG0337	3-dehydroquinate synthase
+ALMIPKNC_00694	CDS	1128	dgt_1		COG0232	Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+ALMIPKNC_00695	CDS	258				hypothetical protein
+ALMIPKNC_00696	CDS	1143	mdtE_1			Multidrug resistance protein MdtE
+ALMIPKNC_00697	CDS	3381	mdtC_1			Multidrug resistance protein MdtC
+ALMIPKNC_00698	CDS	462	guaB_2	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+ALMIPKNC_00699	CDS	1941	frdA_1	1.3.5.4		Fumarate reductase flavoprotein subunit
+ALMIPKNC_00700	CDS	675				hypothetical protein
+ALMIPKNC_00701	CDS	999	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+ALMIPKNC_00702	CDS	918	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+ALMIPKNC_00703	CDS	702	baeR_2		COG0745	Transcriptional regulatory protein BaeR
+ALMIPKNC_00704	CDS	2205	kdpD_1	2.7.13.3	COG2205	Sensor protein KdpD
+ALMIPKNC_00705	CDS	1869	glmS_1	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+ALMIPKNC_00706	CDS	780				hypothetical protein
+ALMIPKNC_00707	CDS	3228	tar_1		COG0840	Methyl-accepting chemotaxis protein II
+ALMIPKNC_00708	CDS	261				hypothetical protein
+ALMIPKNC_00709	CDS	381				hypothetical protein
+ALMIPKNC_00710	CDS	393				hypothetical protein
+ALMIPKNC_00711	CDS	1245	gdhA_1	1.4.1.3	COG0334	Glutamate dehydrogenase
+ALMIPKNC_00712	CDS	558	resA_2			Thiol-disulfide oxidoreductase ResA
+ALMIPKNC_00713	CDS	1989	tktA_1	2.2.1.1	COG0021	Transketolase 1
+ALMIPKNC_00714	CDS	1008	gapA_1	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+ALMIPKNC_00715	CDS	1179	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+ALMIPKNC_00716	CDS	1452	pykA	2.7.1.40	COG0469	Pyruvate kinase II
+ALMIPKNC_00717	CDS	1062	cbbA	4.1.2.13		Fructose-bisphosphate aldolase
+ALMIPKNC_00718	CDS	372				hypothetical protein
+ALMIPKNC_00719	CDS	3354	porA	1.2.7.1	COG0674	Pyruvate synthase subunit PorA
+ALMIPKNC_00720	CDS	867	rsxB_1		COG2878	Electron transport complex subunit RsxB
+ALMIPKNC_00721	CDS	2589				hypothetical protein
+ALMIPKNC_00722	CDS	963	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+ALMIPKNC_00723	CDS	1881	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+ALMIPKNC_00724	CDS	1302	nuoF_1	1.6.5.11	COG1894	NADH-quinone oxidoreductase subunit F
+ALMIPKNC_00725	CDS	1620	frdA_2	1.3.5.4		Fumarate reductase flavoprotein subunit
+ALMIPKNC_00726	CDS	657				hypothetical protein
+ALMIPKNC_00727	CDS	693	flgD		COG1843	Basal-body rod modification protein FlgD
+ALMIPKNC_00728	CDS	1377	flgE		COG1749	Flagellar hook protein FlgE
+ALMIPKNC_00729	CDS	738	flgF		COG4787	Flagellar basal-body rod protein FlgF
+ALMIPKNC_00730	CDS	879	flgG		COG4786	Flagellar basal-body rod protein FlgG
+ALMIPKNC_00731	CDS	708	flgH			Flagellar L-ring protein
+ALMIPKNC_00732	CDS	1131	flgI			Flagellar P-ring protein
+ALMIPKNC_00733	CDS	414	flgJ	3.2.1.-	COG1705	Peptidoglycan hydrolase FlgJ
+ALMIPKNC_00734	CDS	1011				hypothetical protein
+ALMIPKNC_00735	CDS	2004	flgK		COG1256	Flagellar hook-associated protein 1
+ALMIPKNC_00736	CDS	1206	flgL		COG1344	Flagellar hook-associated protein 3
+ALMIPKNC_00737	CDS	1119	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+ALMIPKNC_00738	CDS	1113	tgt	2.4.2.29	COG0343	Queuine tRNA-ribosyltransferase
+ALMIPKNC_00739	CDS	327	yajC		COG1862	Sec translocon accessory complex subunit YajC
+ALMIPKNC_00740	CDS	1878	secD		COG0342	Protein translocase subunit SecD
+ALMIPKNC_00741	CDS	936	secF		COG0341	Protein translocase subunit SecF
+ALMIPKNC_00742	CDS	189				hypothetical protein
+ALMIPKNC_00743	CDS	324				hypothetical protein
+ALMIPKNC_00744	CDS	315				hypothetical protein
+ALMIPKNC_00745	CDS	429				hypothetical protein
+ALMIPKNC_00746	CDS	633	nth	4.2.99.18	COG0177	Endonuclease III
+ALMIPKNC_00747	CDS	666	rnfE_1		COG4660	Electron transport complex subunit RnfE
+ALMIPKNC_00748	CDS	627	rsxG		COG4659	Electron transport complex subunit RsxG
+ALMIPKNC_00749	CDS	1023	rsxD_1		COG4658	Electron transport complex subunit RsxD
+ALMIPKNC_00750	CDS	1605	rsxC		COG4656	Electron transport complex subunit RsxC
+ALMIPKNC_00751	CDS	549	rsxB_2		COG2878	Electron transport complex subunit RsxB
+ALMIPKNC_00752	CDS	582	rsxA_1		COG4657	Electron transport complex subunit RsxA
+ALMIPKNC_00753	CDS	1656	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+ALMIPKNC_00754	CDS	1089	apbC		COG0489	Iron-sulfur cluster carrier protein
+ALMIPKNC_00755	CDS	459				hypothetical protein
+ALMIPKNC_00756	CDS	786				hypothetical protein
+ALMIPKNC_00757	CDS	648	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+ALMIPKNC_00758	CDS	1044	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+ALMIPKNC_00759	CDS	561	pgsA	2.7.8.5		CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+ALMIPKNC_00760	CDS	585	hda		COG0593	DnaA regulatory inactivator Hda
+ALMIPKNC_00761	CDS	1554	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+ALMIPKNC_00762	CDS	1713	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+ALMIPKNC_00763	CDS	276				hypothetical protein
+ALMIPKNC_00764	CDS	255				hypothetical protein
+ALMIPKNC_00765	CDS	255	yoeB	3.1.-.-	COG4115	Toxin YoeB
+ALMIPKNC_00766	CDS	255	yefM		COG2161	Antitoxin YefM
+ALMIPKNC_00767	CDS	234				hypothetical protein
+ALMIPKNC_00768	CDS	393	vapC	3.1.-.-	COG1487	tRNA(fMet)-specific endonuclease VapC
+ALMIPKNC_00769	CDS	276				hypothetical protein
+ALMIPKNC_00770	CDS	1200	hipA	2.7.11.1	COG3550	Serine/threonine-protein kinase toxin HipA
+ALMIPKNC_00771	CDS	234				hypothetical protein
+ALMIPKNC_00772	CDS	450				hypothetical protein
+ALMIPKNC_00773	CDS	1941	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+ALMIPKNC_00774	CDS	801	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+ALMIPKNC_00775	CDS	1359	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+ALMIPKNC_00776	CDS	759	tpiA	5.3.1.1	COG0149	Triosephosphate isomerase
+ALMIPKNC_00777	CDS	381	secG		COG1314	Protein-export membrane protein SecG
+ALMIPKNC_00778	tRNA	85				tRNA-Leu(gag)
+ALMIPKNC_00779	CDS	357	ndhC	1.6.5.-		NAD(P)H-quinone oxidoreductase subunit 3
+ALMIPKNC_00780	CDS	516	nuoB	1.6.5.11	COG0377	NADH-quinone oxidoreductase subunit B
+ALMIPKNC_00781	CDS	597	nqo5	1.6.5.11	COG0852	NADH-quinone oxidoreductase chain 5
+ALMIPKNC_00782	CDS	1269	nuoD	1.6.5.11	COG0649	NADH-quinone oxidoreductase subunit D
+ALMIPKNC_00783	CDS	501	nqo2_1	1.6.5.11	COG1905	NADH-quinone oxidoreductase subunit 2
+ALMIPKNC_00784	CDS	1278	nuoF_2	1.6.5.11		NADH-quinone oxidoreductase subunit F
+ALMIPKNC_00785	CDS	2205	nqo3_1	1.6.5.11	COG1034	NADH-quinone oxidoreductase chain 3
+ALMIPKNC_00786	CDS	1080	nuoH_1	1.6.5.11	COG1005	NADH-quinone oxidoreductase subunit H
+ALMIPKNC_00787	CDS	543	nuoI_1	1.6.5.11	COG1143	NADH-quinone oxidoreductase subunit I
+ALMIPKNC_00788	CDS	642	nuoJ_1	1.6.5.11	COG0839	NADH-quinone oxidoreductase subunit J
+ALMIPKNC_00789	CDS	306		1.6.5.11	COG0713	NADH-quinone oxidoreductase subunit 11
+ALMIPKNC_00790	CDS	1968	nuoL_1	1.6.5.11	COG1009	NADH-quinone oxidoreductase subunit L
+ALMIPKNC_00791	CDS	423				hypothetical protein
+ALMIPKNC_00792	CDS	657	ltrA_1		COG3344	Group II intron-encoded protein LtrA
+ALMIPKNC_00793	CDS	234				hypothetical protein
+ALMIPKNC_00794	CDS	2157				hypothetical protein
+ALMIPKNC_00795	CDS	519	cysC	2.7.1.25		putative adenylyl-sulfate kinase
+ALMIPKNC_00796	CDS	1308	pphA	3.11.1.3		Phosphonopyruvate hydrolase
+ALMIPKNC_00797	CDS	1074				hypothetical protein
+ALMIPKNC_00798	CDS	1176	adh1	1.1.1.192	COG1454	Long-chain-alcohol dehydrogenase 1
+ALMIPKNC_00799	CDS	1137	fliC			A-type flagellin
+ALMIPKNC_00800	CDS	123				hypothetical protein
+ALMIPKNC_00801	CDS	1113	fliC2		COG1344	Flagellin 2
+ALMIPKNC_00802	CDS	381				hypothetical protein
+ALMIPKNC_00803	CDS	360				hypothetical protein
+ALMIPKNC_00804	CDS	438				hypothetical protein
+ALMIPKNC_00805	CDS	2031	fliD		COG1345	Flagellar hook-associated protein 2
+ALMIPKNC_00806	CDS	351	fliS_2		COG1516	Flagellar secretion chaperone FliS
+ALMIPKNC_00807	CDS	504	fliS_3		COG1516	Flagellar secretion chaperone FliS
+ALMIPKNC_00808	CDS	849	kinE_2	2.7.13.3	COG2202	Sporulation kinase E
+ALMIPKNC_00809	CDS	3138	rpfC_1	2.7.13.3	COG0642	Sensory/regulatory protein RpfC
+ALMIPKNC_00810	CDS	1362	pleD_2			Response regulator PleD
+ALMIPKNC_00811	CDS	1104		3.1.4.-	COG3437	putative cyclic di-GMP phosphodiesterase
+ALMIPKNC_00812	CDS	519				hypothetical protein
+ALMIPKNC_00813	CDS	3054	atoS_1	2.7.13.3	COG0642	Signal transduction histidine-protein kinase AtoS
+ALMIPKNC_00814	CDS	1419	zraS_2	2.7.13.3		Sensor protein ZraS
+ALMIPKNC_00815	CDS	510				hypothetical protein
+ALMIPKNC_00816	CDS	1515			COG2200	putative signaling protein
+ALMIPKNC_00817	CDS	861				hypothetical protein
+ALMIPKNC_00818	CDS	639	cysT_1		COG0555	Sulfate transport system permease protein CysT
+ALMIPKNC_00819	CDS	1098	cysA_1	3.6.3.25	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+ALMIPKNC_00820	CDS	2361	rne_1	3.1.26.12	COG1530	Ribonuclease E
+ALMIPKNC_00821	CDS	957	rluC_1	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+ALMIPKNC_00822	CDS	576	yceF_1		COG0424	Maf-like protein YceF
+ALMIPKNC_00823	CDS	573	yceD_1		COG1399	Large ribosomal RNA subunit accumulation protein YceD
+ALMIPKNC_00824	CDS	183	rpmF_1		COG0333	50S ribosomal protein L32
+ALMIPKNC_00825	CDS	1020	plsX_1	2.3.1.-	COG0416	Phosphate acyltransferase
+ALMIPKNC_00826	CDS	927	fabH_1	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+ALMIPKNC_00827	CDS	936	fabD_1	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+ALMIPKNC_00828	CDS	744	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALMIPKNC_00829	CDS	237	acpP_1		COG0236	Acyl carrier protein
+ALMIPKNC_00830	CDS	1245	fabF_1	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+ALMIPKNC_00831	CDS	1398	pabB_1	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+ALMIPKNC_00832	CDS	822	pabC_1	4.1.3.38	COG0115	Aminodeoxychorismate lyase
+ALMIPKNC_00833	CDS	2769	tap_2		COG0840	Methyl-accepting chemotaxis protein IV
+ALMIPKNC_00834	CDS	756	glgX	3.2.1.-	COG1523	Glycogen operon protein GlgX 
+ALMIPKNC_00835	CDS	1755	malQ	2.4.1.25	COG1640	4-alpha-glucanotransferase
+ALMIPKNC_00836	CDS	288				hypothetical protein
+ALMIPKNC_00837	CDS	1176			COG3177	putative protein
+ALMIPKNC_00838	CDS	1245				hypothetical protein
+ALMIPKNC_00839	CDS	219				hypothetical protein
+ALMIPKNC_00840	CDS	843				hypothetical protein
+ALMIPKNC_00841	CDS	2547	malP	2.4.1.1	COG0058	Maltodextrin phosphorylase
+ALMIPKNC_00842	CDS	1470	glgA	2.4.1.21	COG0297	Glycogen synthase
+ALMIPKNC_00843	CDS	2730	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+ALMIPKNC_00844	CDS	417	guaB_3	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+ALMIPKNC_00845	CDS	558				hypothetical protein
+ALMIPKNC_00846	CDS	672	sspA		COG0625	Stringent starvation protein A 
+ALMIPKNC_00847	CDS	1629	yejF		COG4172	putative ABC transporter ATP-binding protein YejF
+ALMIPKNC_00848	CDS	1185			COG1173	Putative peptide transport permease protein
+ALMIPKNC_00849	CDS	975	dppB		COG0601	Dipeptide transport system permease protein DppB
+ALMIPKNC_00850	CDS	2217	hbpA		COG0747	Heme-binding protein A
+ALMIPKNC_00851	CDS	804	fabI	1.3.1.9	COG0623	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+ALMIPKNC_00852	CDS	1962	ppiD	5.2.1.8	COG0760	Peptidyl-prolyl cis-trans isomerase D
+ALMIPKNC_00853	tRNA	77				tRNA-Asp(gtc)
+ALMIPKNC_00854	tRNA	76				tRNA-Val(tac)
+ALMIPKNC_00855	CDS	2454	lon_1	3.4.21.53	COG0466	Lon protease
+ALMIPKNC_00856	CDS	1278	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+ALMIPKNC_00857	CDS	663	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+ALMIPKNC_00858	CDS	486	tig	5.2.1.8		Trigger factor
+ALMIPKNC_00859	CDS	357				hypothetical protein
+ALMIPKNC_00860	CDS	639	lexA_2	3.4.21.88	COG1974	LexA repressor
+ALMIPKNC_00861	CDS	480	lexA_3	3.4.21.88	COG1974	LexA repressor
+ALMIPKNC_00862	CDS	492	rpsF		COG0360	30S ribosomal protein S6
+ALMIPKNC_00863	CDS	231	rpsR		COG0238	30S ribosomal protein S18
+ALMIPKNC_00864	CDS	918				hypothetical protein
+ALMIPKNC_00865	CDS	450	rplI		COG0359	50S ribosomal protein L9
+ALMIPKNC_00866	CDS	1320	dnaB	3.6.4.12	COG0305	Replicative DNA helicase
+ALMIPKNC_00867	CDS	1074	alr	5.1.1.1	COG0787	Alanine racemase, biosynthetic
+ALMIPKNC_00868	CDS	1371	radA	3.6.4.-	COG1066	DNA repair protein RadA
+ALMIPKNC_00869	CDS	1266				hypothetical protein
+ALMIPKNC_00870	CDS	852	ypjD		COG4137	Inner membrane protein YpjD
+ALMIPKNC_00871	CDS	1389	ffh		COG0541	Signal recognition particle protein
+ALMIPKNC_00872	CDS	264	rpsP		COG0228	30S ribosomal protein S16
+ALMIPKNC_00873	CDS	531	rimM		COG0806	Ribosome maturation factor RimM
+ALMIPKNC_00874	CDS	717	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+ALMIPKNC_00875	CDS	345	rplS		COG0335	50S ribosomal protein L19
+ALMIPKNC_00876	CDS	888	xerD_1		COG4974	Tyrosine recombinase XerD
+ALMIPKNC_00877	CDS	735	dsbC		COG1651	Thiol:disulfide interchange protein DsbC
+ALMIPKNC_00878	CDS	2595	mutS		COG0249	DNA mismatch repair protein MutS
+ALMIPKNC_00879	CDS	522	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+ALMIPKNC_00880	CDS	1020	recA_2		COG0468	Protein RecA
+ALMIPKNC_00881	CDS	450	recX		COG2137	Regulatory protein RecX
+ALMIPKNC_00882	CDS	2619	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+ALMIPKNC_00883	CDS	1224	lysC	2.7.2.4	COG0527	Aspartate kinase Ask_LysC
+ALMIPKNC_00884	tRNA	93				tRNA-Ser(gct)
+ALMIPKNC_00885	CDS	663	ccoP2		COG2010	Cbb3-type cytochrome c oxidase subunit CcoP2
+ALMIPKNC_00886	CDS	1251				hypothetical protein
+ALMIPKNC_00887	CDS	1368				hypothetical protein
+ALMIPKNC_00888	CDS	1530		2.7.4.-	COG2326	Polyphosphate:AMP phosphotransferase
+ALMIPKNC_00889	CDS	1587	ppx	3.6.1.11	COG0248	Exopolyphosphatase
+ALMIPKNC_00890	CDS	432				hypothetical protein
+ALMIPKNC_00891	CDS	912				hypothetical protein
+ALMIPKNC_00892	CDS	804	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+ALMIPKNC_00893	CDS	1071			COG3177	putative protein
+ALMIPKNC_00894	tRNA	77				tRNA-Arg(acg)
+ALMIPKNC_00895	CDS	363				hypothetical protein
+ALMIPKNC_00896	CDS	747				hypothetical protein
+ALMIPKNC_00897	CDS	249				hypothetical protein
+ALMIPKNC_00898	CDS	240				hypothetical protein
+ALMIPKNC_00899	CDS	288				hypothetical protein
+ALMIPKNC_00900	CDS	282				hypothetical protein
+ALMIPKNC_00901	CDS	144				hypothetical protein
+ALMIPKNC_00902	CDS	294				hypothetical protein
+ALMIPKNC_00903	CDS	2064	tsr_2		COG0840	Methyl-accepting chemotaxis protein I
+ALMIPKNC_00904	CDS	780				hypothetical protein
+ALMIPKNC_00905	CDS	3228	tar_2		COG0840	Methyl-accepting chemotaxis protein II
+ALMIPKNC_00906	CDS	261				hypothetical protein
+ALMIPKNC_00907	CDS	381				hypothetical protein
+ALMIPKNC_00908	CDS	393				hypothetical protein
+ALMIPKNC_00909	CDS	1245	gdhA_2	1.4.1.3	COG0334	Glutamate dehydrogenase
+ALMIPKNC_00910	CDS	558	resA_3			Thiol-disulfide oxidoreductase ResA
+ALMIPKNC_00911	CDS	1989	tktA_2	2.2.1.1	COG0021	Transketolase 1
+ALMIPKNC_00912	CDS	1008	gapA_2	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+ALMIPKNC_00913	CDS	876	bamD_2		COG4105	Outer membrane protein assembly factor BamD
+ALMIPKNC_00914	CDS	1665	nadE_2	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+ALMIPKNC_00915	CDS	981	hemH_2	4.99.1.1	COG0276	Ferrochelatase
+ALMIPKNC_00916	CDS	1119	mobB_2		COG1763	Molybdopterin-guanine dinucleotide biosynthesis adapter protein
+ALMIPKNC_00917	CDS	1230	moeA	2.10.1.1	COG0303	Molybdopterin molybdenumtransferase
+ALMIPKNC_00918	CDS	480	ssb			Single-stranded DNA-binding protein
+ALMIPKNC_00919	CDS	1392	yajR		COG0477	Inner membrane transport protein YajR
+ALMIPKNC_00920	CDS	2853	uvrA		COG0178	UvrABC system protein A
+ALMIPKNC_00921	CDS	675				hypothetical protein
+ALMIPKNC_00922	CDS	426				hypothetical protein
+ALMIPKNC_00923	CDS	3936	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+ALMIPKNC_00924	CDS	1128			COG3317	putative protein
+ALMIPKNC_00925	CDS	876	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+ALMIPKNC_00926	CDS	633	gcvR		COG2716	Glycine cleavage system transcriptional repressor
+ALMIPKNC_00927	CDS	699	icaB	3.5.1.-	COG0726	Poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase
+ALMIPKNC_00928	CDS	1152	rfaG	2.4.-.-		Lipopolysaccharide core biosynthesis protein RfaG
+ALMIPKNC_00929	CDS	219				hypothetical protein
+ALMIPKNC_00930	CDS	324				hypothetical protein
+ALMIPKNC_00931	CDS	288				hypothetical protein
+ALMIPKNC_00932	CDS	96				hypothetical protein
+ALMIPKNC_00933	CDS	741	dnaJ		COG0484	Chaperone protein DnaJ
+ALMIPKNC_00934	CDS	819	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+ALMIPKNC_00935	CDS	1185	carA	6.3.5.5	COG0505	Carbamoyl-phosphate synthase small chain
+ALMIPKNC_00936	CDS	3252	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+ALMIPKNC_00937	CDS	480	greA		COG0782	Transcription elongation factor GreA
+ALMIPKNC_00938	CDS	300			COG1534	RNA-binding protein
+ALMIPKNC_00939	CDS	642	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+ALMIPKNC_00940	CDS	234				hypothetical protein
+ALMIPKNC_00941	CDS	846				hypothetical protein
+ALMIPKNC_00942	tRNA	77				tRNA-Arg(cct)
+ALMIPKNC_00943	CDS	216	yddM		COG3093	putative HTH-type transcriptional regulator YddM
+ALMIPKNC_00944	CDS	168				hypothetical protein
+ALMIPKNC_00945	CDS	1680				hypothetical protein
+ALMIPKNC_00946	CDS	1284				hypothetical protein
+ALMIPKNC_00947	tRNA	85				tRNA-Leu(tag)
+ALMIPKNC_00948	CDS	1497	nuoM_2	1.6.5.11	COG1008	NADH-quinone oxidoreductase subunit M
+ALMIPKNC_00949	CDS	1518	nuoM_3	1.6.5.11	COG1008	NADH-quinone oxidoreductase subunit M
+ALMIPKNC_00950	CDS	1575	nuoL_2	1.6.5.11	COG1009	NADH-quinone oxidoreductase subunit L
+ALMIPKNC_00951	CDS	1686				hypothetical protein
+ALMIPKNC_00952	CDS	759	esiB_2			Secretory immunoglobulin A-binding protein EsiB
+ALMIPKNC_00953	CDS	426				hypothetical protein
+ALMIPKNC_00954	CDS	828				hypothetical protein
+ALMIPKNC_00955	tRNA	76				tRNA-Asn(gtt)
+ALMIPKNC_00956	CDS	1221		2.6.1.1		Aspartate aminotransferase
+ALMIPKNC_00957	CDS	2010	uvrB		COG0556	UvrABC system protein B
+ALMIPKNC_00958	CDS	771	rdgC		COG2974	Recombination-associated protein RdgC
+ALMIPKNC_00959	CDS	363	mrpC		COG1006	Na(+)/H(+) antiporter subunit C
+ALMIPKNC_00960	CDS	762				hypothetical protein
+ALMIPKNC_00961	CDS	246	mrpA		COG1009	Na(+)/H(+) antiporter subunit A
+ALMIPKNC_00962	CDS	318	mrpG		COG1320	Na(+)/H(+) antiporter subunit G
+ALMIPKNC_00963	CDS	285				hypothetical protein
+ALMIPKNC_00964	CDS	501	mnhE1			Na(+)/H(+) antiporter subunit E1
+ALMIPKNC_00965	CDS	1251	glgC	2.7.7.27	COG0448	Glucose-1-phosphate adenylyltransferase
+ALMIPKNC_00966	CDS	930	mak	2.7.1.4	COG1940	Fructokinase
+ALMIPKNC_00967	CDS	1653	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+ALMIPKNC_00968	CDS	369				hypothetical protein
+ALMIPKNC_00969	CDS	1911	glgB	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+ALMIPKNC_00970	CDS	1854				hypothetical protein
+ALMIPKNC_00971	CDS	2118				hypothetical protein
+ALMIPKNC_00972	CDS	1305				hypothetical protein
+ALMIPKNC_00973	CDS	1020				hypothetical protein
+ALMIPKNC_00974	CDS	369				hypothetical protein
+ALMIPKNC_00975	CDS	1389	hemN_1	1.3.98.3	COG0635	Oxygen-independent coproporphyrinogen III oxidase
+ALMIPKNC_00976	CDS	939	prmB_1	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+ALMIPKNC_00977	CDS	375	trxC_2		COG0526	Putative thioredoxin 2
+ALMIPKNC_00978	CDS	534	mog_1	2.7.7.75	COG0521	Molybdopterin adenylyltransferase
+ALMIPKNC_00979	CDS	2415	lon_2	3.4.21.53	COG0466	Lon protease
+ALMIPKNC_00980	CDS	1911	uup_1		COG0488	ABC transporter ATP-binding protein uup
+ALMIPKNC_00981	CDS	234	slyX_1			Protein SlyX
+ALMIPKNC_00982	CDS	669	ung_1	3.2.2.27	COG0692	Uracil-DNA glycosylase
+ALMIPKNC_00983	CDS	894				hypothetical protein
+ALMIPKNC_00984	CDS	735				hypothetical protein
+ALMIPKNC_00985	CDS	621				hypothetical protein
+ALMIPKNC_00986	CDS	1938	yheS_1		COG0488	putative ABC transporter ATP-binding protein YheS
+ALMIPKNC_00987	CDS	1941	rnr_2	3.1.13.1	COG0557	Ribonuclease R
+ALMIPKNC_00988	CDS	726				hypothetical protein
+ALMIPKNC_00989	CDS	699	sdcS		COG0471	Sodium-dependent dicarboxylate transporter SdcS
+ALMIPKNC_00990	CDS	318				hypothetical protein
+ALMIPKNC_00991	tRNA	77				tRNA-Met(cat)
+ALMIPKNC_00992	CDS	1782	dnaG	2.7.7.-	COG0358	DNA primase
+ALMIPKNC_00993	CDS	444	yqeY		COG1610	putative protein YqeY
+ALMIPKNC_00994	CDS	231	rpsU		COG0828	30S ribosomal protein S21
+ALMIPKNC_00995	CDS	1017	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+ALMIPKNC_00996	CDS	597	plsY	2.3.1.15	COG0344	putative glycerol-3-phosphate acyltransferase
+ALMIPKNC_00997	CDS	357	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+ALMIPKNC_00998	CDS	504	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+ALMIPKNC_00999	CDS	291	comEA		COG1555	ComE operon protein 1
+ALMIPKNC_01000	CDS	762	fabG_3	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALMIPKNC_01001	CDS	1233				hypothetical protein
+ALMIPKNC_01002	CDS	822	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+ALMIPKNC_01003	CDS	327	erpA_2		COG0316	Iron-sulfur cluster insertion protein ErpA
+ALMIPKNC_01004	CDS	666	czrA		COG0640	HTH-type transcriptional repressor CzrA
+ALMIPKNC_01005	CDS	1335	ydcP_2	3.4.-.-	COG0826	putative protease YdcP
+ALMIPKNC_01006	CDS	672	aat	2.3.2.6	COG2360	Leucyl/phenylalanyl-tRNA--protein transferase
+ALMIPKNC_01007	CDS	1182	dprA		COG0758	DNA processing protein DprA
+ALMIPKNC_01008	CDS	2655	topA	5.99.1.2		DNA topoisomerase 1
+ALMIPKNC_01009	CDS	519	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+ALMIPKNC_01010	CDS	540			COG1373	putative protein
+ALMIPKNC_01011	CDS	249				hypothetical protein
+ALMIPKNC_01012	CDS	396				hypothetical protein
+ALMIPKNC_01013	CDS	858	ltrA_2		COG3344	Group II intron-encoded protein LtrA
+ALMIPKNC_01014	CDS	1041				hypothetical protein
+ALMIPKNC_01015	CDS	189				hypothetical protein
+ALMIPKNC_01016	CDS	939				hypothetical protein
+ALMIPKNC_01017	CDS	438				hypothetical protein
+ALMIPKNC_01018	CDS	1197	efeU		COG0672	Ferrous iron permease EfeU
+ALMIPKNC_01019	CDS	1461				hypothetical protein
+ALMIPKNC_01020	CDS	534	tpd		COG3470	34 kDa membrane antigen
+ALMIPKNC_01021	CDS	585				hypothetical protein
+ALMIPKNC_01022	CDS	939	pkn1_2	2.7.11.1	COG0515	Serine/threonine-protein kinase pkn1
+ALMIPKNC_01023	CDS	1209				hypothetical protein
+ALMIPKNC_01024	CDS	246				hypothetical protein
+ALMIPKNC_01025	CDS	1044	futA1			Iron uptake protein A1
+ALMIPKNC_01026	CDS	1656	cysW		COG4208	Sulfate transport system permease protein CysW
+ALMIPKNC_01027	CDS	1095	phnT		COG3842	Putative 2-aminoethylphosphonate import ATP-binding protein PhnT
+ALMIPKNC_01028	CDS	891	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+ALMIPKNC_01029	CDS	1254	pyrC'		COG0044	Dihydroorotase-like protein
+ALMIPKNC_01030	CDS	966	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+ALMIPKNC_01031	CDS	540	pyrR		COG2065	Bifunctional protein PyrR
+ALMIPKNC_01032	CDS	663				hypothetical protein
+ALMIPKNC_01033	CDS	258				hypothetical protein
+ALMIPKNC_01034	CDS	447	yqgF_1	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+ALMIPKNC_01035	CDS	588				hypothetical protein
+ALMIPKNC_01036	CDS	1053	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+ALMIPKNC_01037	CDS	966	gshB	6.3.2.3	COG0189	Glutathione synthetase
+ALMIPKNC_01038	CDS	1320				hypothetical protein
+ALMIPKNC_01039	CDS	738	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+ALMIPKNC_01040	CDS	291				hypothetical protein
+ALMIPKNC_01041	CDS	534				hypothetical protein
+ALMIPKNC_01042	CDS	861	metF	1.5.1.20	COG0685	5,10-methylenetetrahydrofolate reductase
+ALMIPKNC_01043	CDS	1410	ahcY	3.3.1.1		Adenosylhomocysteinase
+ALMIPKNC_01044	CDS	1161	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+ALMIPKNC_01045	CDS	369				hypothetical protein
+ALMIPKNC_01046	CDS	2079	pbpF		COG0744	Penicillin-binding protein 1F
+ALMIPKNC_01047	CDS	603				hypothetical protein
+ALMIPKNC_01048	CDS	828	motB		COG1360	Motility protein B
+ALMIPKNC_01049	CDS	765	pomA		COG1291	Chemotaxis protein PomA
+ALMIPKNC_01050	CDS	1008	fliM		COG1868	Flagellar motor switch protein FliM
+ALMIPKNC_01051	CDS	336	fliN		COG1886	Flagellar motor switch protein FliN
+ALMIPKNC_01052	CDS	414	fliO		COG3190	Flagellar protein FliO
+ALMIPKNC_01053	CDS	768	fliP		COG1338	Flagellar biosynthetic protein FliP
+ALMIPKNC_01054	CDS	270				hypothetical protein
+ALMIPKNC_01055	CDS	780				hypothetical protein
+ALMIPKNC_01056	CDS	1161	flhB_1		COG1377	Flagellar biosynthetic protein FlhB
+ALMIPKNC_01057	CDS	2091	flhA		COG1298	Flagellar biosynthesis protein FlhA
+ALMIPKNC_01058	CDS	1191	flhF		COG1419	Flagellar biosynthesis protein FlhF
+ALMIPKNC_01059	CDS	915	ylxH		COG0455	Flagellum site-determining protein YlxH
+ALMIPKNC_01060	CDS	717	fliA		COG1191	RNA polymerase sigma factor FliA
+ALMIPKNC_01061	CDS	306				hypothetical protein
+ALMIPKNC_01062	CDS	849	nfo_1	3.1.21.2	COG0648	Endonuclease 4
+ALMIPKNC_01063	CDS	1152				hypothetical protein
+ALMIPKNC_01064	CDS	438				hypothetical protein
+ALMIPKNC_01065	CDS	654				hypothetical protein
+ALMIPKNC_01066	CDS	906	znuA_1		COG4531	High-affinity zinc uptake system protein ZnuA
+ALMIPKNC_01067	CDS	759	znuC_1	3.6.3.-	COG1121	Zinc import ATP-binding protein ZnuC
+ALMIPKNC_01068	CDS	786	znuB_1		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+ALMIPKNC_01069	CDS	267	flhB_2		COG1377	Flagellar biosynthetic protein FlhB
+ALMIPKNC_01070	CDS	1092				hypothetical protein
+ALMIPKNC_01071	CDS	1173				hypothetical protein
+ALMIPKNC_01072	CDS	390	flgB_1		COG1815	Flagellar basal body rod protein FlgB
+ALMIPKNC_01073	CDS	420	flgC_1		COG1558	Flagellar basal-body rod protein FlgC
+ALMIPKNC_01074	CDS	936	mdh_2	1.1.1.37	COG0039	Malate dehydrogenase
+ALMIPKNC_01075	CDS	591	rsxA_2		COG4657	Electron transport complex subunit RsxA
+ALMIPKNC_01076	CDS	660	rnfE_2		COG4660	Electron transport complex subunit RnfE
+ALMIPKNC_01077	CDS	672	rnfG_1		COG4659	Electron transport complex subunit RnfG
+ALMIPKNC_01078	CDS	1017	rsxD_2		COG4658	Electron transport complex subunit RsxD
+ALMIPKNC_01079	CDS	1350	rnfC_1		COG4656	Electron transport complex subunit RnfC
+ALMIPKNC_01080	CDS	672	ypmQ_1		COG1999	SCO1 protein 
+ALMIPKNC_01081	CDS	501				hypothetical protein
+ALMIPKNC_01082	CDS	891	sucD_1	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+ALMIPKNC_01083	CDS	1167	sucC_1	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+ALMIPKNC_01084	CDS	849	napG_2		COG1145	Ferredoxin-type protein NapG
+ALMIPKNC_01085	CDS	279				hypothetical protein
+ALMIPKNC_01086	CDS	447	napB_1			Periplasmic nitrate reductase, electron transfer subunit
+ALMIPKNC_01087	CDS	2553	napA_1	1.9.6.1	COG0243	Periplasmic nitrate reductase
+ALMIPKNC_01088	CDS	987	moaA_1	4.1.99.22	COG2896	GTP 3',8-cyclase
+ALMIPKNC_01089	CDS	627				hypothetical protein
+ALMIPKNC_01090	CDS	561	phlB_1			Protein PhlB
+ALMIPKNC_01091	CDS	603				hypothetical protein
+ALMIPKNC_01092	CDS	576	napF_1		COG1145	Ferredoxin-type protein NapF
+ALMIPKNC_01093	CDS	849	napH_2		COG0348	Ferredoxin-type protein NapH
+ALMIPKNC_01094	CDS	1437	hao1_1	1.7.2.6		Hydroxylamine oxidoreductase
+ALMIPKNC_01095	CDS	666	vraR_1		COG2197	Response regulator protein VraR
+ALMIPKNC_01096	CDS	1497	narX_1	2.7.13.3		Nitrate/nitrite sensor protein NarX
+ALMIPKNC_01097	CDS	384	iscU_1		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+ALMIPKNC_01098	CDS	429				hypothetical protein
+ALMIPKNC_01099	CDS	1287	sat_1	2.7.7.4	COG2046	Sulfate adenylyltransferase
+ALMIPKNC_01100	CDS	822				hypothetical protein
+ALMIPKNC_01101	CDS	483	aprB_1			Adenylylsulfate reductase subunit beta
+ALMIPKNC_01102	CDS	1872	aprA_1	1.8.99.2		Adenylylsulfate reductase subunit alpha
+ALMIPKNC_01103	CDS	354				hypothetical protein
+ALMIPKNC_01104	CDS	516	slyD_2	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+ALMIPKNC_01105	CDS	162				hypothetical protein
+ALMIPKNC_01106	CDS	1269	dctM_1		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+ALMIPKNC_01107	CDS	513				hypothetical protein
+ALMIPKNC_01108	CDS	1140			COG4663	Monocarboxylate 2-oxoacid-binding periplasmic protein
+ALMIPKNC_01109	CDS	1149	fieF_1		COG0053	Ferrous-iron efflux pump FieF
+ALMIPKNC_01110	CDS	522				hypothetical protein
+ALMIPKNC_01111	CDS	723				hypothetical protein
+ALMIPKNC_01112	CDS	681				hypothetical protein
+ALMIPKNC_01113	CDS	1101	ybiB_1		COG0547	putative protein YbiB
+ALMIPKNC_01114	CDS	276	bphF_1		COG2146	Biphenyl dioxygenase system ferredoxin subunit
+ALMIPKNC_01115	CDS	1449	leuC_1	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+ALMIPKNC_01116	CDS	654	leuD1_1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+ALMIPKNC_01117	CDS	1089	leuB_1	1.1.1.85		3-isopropylmalate dehydrogenase
+ALMIPKNC_01118	CDS	1113	asd_1	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+ALMIPKNC_01119	CDS	675				hypothetical protein
+ALMIPKNC_01120	CDS	762	truA_1	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+ALMIPKNC_01121	CDS	666	trpF_1	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+ALMIPKNC_01122	CDS	1185	trpB	4.2.1.20	COG0133	Tryptophan synthase beta chain
+ALMIPKNC_01123	CDS	798	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+ALMIPKNC_01124	CDS	858	accD	6.4.1.2	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+ALMIPKNC_01125	CDS	1362	folC	6.3.2.12	COG0285	Dihydrofolate synthase/folylpolyglutamate synthase
+ALMIPKNC_01126	CDS	579				hypothetical protein
+ALMIPKNC_01127	CDS	867	dapL	2.6.1.83	COG0436	LL-diaminopimelate aminotransferase
+ALMIPKNC_01128	CDS	1821	bepC_1			Outer membrane efflux protein BepC
+ALMIPKNC_01129	CDS	780	cbiF	2.1.1.271	COG2875	Cobalt-precorrin-4 C(11)-methyltransferase
+ALMIPKNC_01130	CDS	540	cobO	2.5.1.17		Cob(I)yrinic acid a,c-diamide adenosyltransferase
+ALMIPKNC_01131	CDS	1281	cbiA_3	6.3.5.11	COG1797	Cobyrinate a,c-diamide synthase
+ALMIPKNC_01132	CDS	720				hypothetical protein
+ALMIPKNC_01133	CDS	192				hypothetical protein
+ALMIPKNC_01134	CDS	435				hypothetical protein
+ALMIPKNC_01135	CDS	954	sppA	3.4.21.-	COG0616	Putative signal peptide peptidase SppA
+ALMIPKNC_01136	CDS	597	ubiX	2.5.1.129	COG0163	Flavin prenyltransferase UbiX
+ALMIPKNC_01137	CDS	462				hypothetical protein
+ALMIPKNC_01138	CDS	1668	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+ALMIPKNC_01139	CDS	750	ubiE_2	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+ALMIPKNC_01140	CDS	393				hypothetical protein
+ALMIPKNC_01141	CDS	1335	hslU		COG1220	ATP-dependent protease ATPase subunit HslU
+ALMIPKNC_01142	CDS	549	hslV	3.4.25.2		ATP-dependent protease subunit HslV
+ALMIPKNC_01143	CDS	186				hypothetical protein
+ALMIPKNC_01144	CDS	672				hypothetical protein
+ALMIPKNC_01145	CDS	606				hypothetical protein
+ALMIPKNC_01146	CDS	537				hypothetical protein
+ALMIPKNC_01147	CDS	993	xerC		COG4973	Tyrosine recombinase XerC
+ALMIPKNC_01148	CDS	681				hypothetical protein
+ALMIPKNC_01149	CDS	834	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+ALMIPKNC_01150	CDS	1311	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+ALMIPKNC_01151	CDS	414				hypothetical protein
+ALMIPKNC_01152	CDS	150				hypothetical protein
+ALMIPKNC_01153	CDS	1284				hypothetical protein
+ALMIPKNC_01154	CDS	492	ccmH		COG3088	Cytochrome c-type biogenesis protein CcmH
+ALMIPKNC_01155	CDS	624	dsbE		COG0526	Thiol:disulfide interchange protein DsbE
+ALMIPKNC_01156	CDS	1419	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+ALMIPKNC_01157	CDS	564				hypothetical protein
+ALMIPKNC_01158	CDS	966	hemC	2.5.1.61	COG0181	Porphobilinogen deaminase
+ALMIPKNC_01159	CDS	798	hemD	4.2.1.75	COG1587	Uroporphyrinogen-III synthase
+ALMIPKNC_01160	CDS	1020	ascD	1.17.1.-		CDP-6-deoxy-L-threo-D-glycero-4-hexulose-3-dehydrase reductase
+ALMIPKNC_01161	CDS	1470	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+ALMIPKNC_01162	CDS	642				hypothetical protein
+ALMIPKNC_01163	CDS	990	cmoB	2.5.1.-	COG0500	tRNA U34 carboxymethyltransferase
+ALMIPKNC_01164	CDS	738	cmoA	2.1.3.-	COG0500	Carboxy-S-adenosyl-L-methionine synthase
+ALMIPKNC_01165	CDS	2046	prlC	3.4.24.70	COG0339	Oligopeptidase A
+ALMIPKNC_01166	CDS	1029	wbgU	5.1.3.7		UDP-N-acetylglucosamine 4-epimerase
+ALMIPKNC_01167	CDS	483	yhcH		COG2731	putative protein YhcH
+ALMIPKNC_01168	CDS	1179	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+ALMIPKNC_01169	CDS	921	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+ALMIPKNC_01170	CDS	402	spo0F	2.7.-.-	COG0784	Sporulation initiation phosphotransferase F
+ALMIPKNC_01171	CDS	1305	atoS_2	2.7.13.3	COG0642	Signal transduction histidine-protein kinase AtoS
+ALMIPKNC_01172	CDS	1035	pilT		COG2805	Twitching mobility protein
+ALMIPKNC_01173	CDS	825				hypothetical protein
+ALMIPKNC_01174	CDS	1071				hypothetical protein
+ALMIPKNC_01175	CDS	1224	epsF_2		COG1459	Type II secretion system protein F
+ALMIPKNC_01176	CDS	1734	epsE		COG2804	Type II secretion system protein E
+ALMIPKNC_01177	CDS	1173	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+ALMIPKNC_01178	CDS	2019	amt_2			Ammonia channel
+ALMIPKNC_01179	CDS	798	folE2_2	3.5.4.16	COG1469	GTP cyclohydrolase FolE2
+ALMIPKNC_01180	CDS	393	queD_2	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+ALMIPKNC_01181	CDS	1875	dxs_2	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+ALMIPKNC_01182	CDS	876	ispA_2	2.5.1.10	COG0142	Farnesyl diphosphate synthase
+ALMIPKNC_01183	CDS	231	xseB_2	3.1.11.6	COG1722	Exodeoxyribonuclease 7 small subunit
+ALMIPKNC_01184	CDS	510				hypothetical protein
+ALMIPKNC_01185	CDS	1632	bepC_2			Outer membrane efflux protein BepC
+ALMIPKNC_01186	CDS	3171				hypothetical protein
+ALMIPKNC_01187	CDS	1602				hypothetical protein
+ALMIPKNC_01188	CDS	930				hypothetical protein
+ALMIPKNC_01189	CDS	684	glxR		COG0664	CRP-like cAMP-activated global transcriptional regulator
+ALMIPKNC_01190	CDS	138				hypothetical protein
+ALMIPKNC_01191	CDS	1506				hypothetical protein
+ALMIPKNC_01192	CDS	2151	apxIB_1		COG2274	Toxin RTX-I translocation ATP-binding protein
+ALMIPKNC_01193	CDS	1779	ltxD			Leukotoxin export protein LtxD
+ALMIPKNC_01194	CDS	1314				hypothetical protein
+ALMIPKNC_01195	CDS	1731	apxIB_2		COG2274	Toxin RTX-I translocation ATP-binding protein
+ALMIPKNC_01196	CDS	1332	prsE			Type I secretion system membrane fusion protein PrsE
+ALMIPKNC_01197	CDS	2133	apxIB_3		COG2274	Toxin RTX-I translocation ATP-binding protein
+ALMIPKNC_01198	CDS	1623				hypothetical protein
+ALMIPKNC_01199	CDS	663				hypothetical protein
+ALMIPKNC_01200	CDS	636				hypothetical protein
+ALMIPKNC_01201	CDS	2256	comEC_2		COG0658	ComE operon protein 3
+ALMIPKNC_01202	CDS	609	tolQ_4		COG0811	Protein TolQ
+ALMIPKNC_01203	CDS	420	exbD_3		COG0848	Biopolymer transport protein ExbD
+ALMIPKNC_01204	CDS	1002	lpxK_2	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+ALMIPKNC_01205	CDS	189				hypothetical protein
+ALMIPKNC_01206	CDS	765	kdsB_2	2.7.7.38	COG1212	3-deoxy-manno-octulosonate cytidylyltransferase
+ALMIPKNC_01207	tRNA	88				tRNA-Ser(gga)
+ALMIPKNC_01208	CDS	375	fosB_2	2.5.1.-	COG0346	Metallothiol transferase FosB
+ALMIPKNC_01209	CDS	1524	nuoM_4	1.6.5.11	COG1008	NADH-quinone oxidoreductase subunit M
+ALMIPKNC_01210	CDS	1482	nuoN_2	1.6.5.11	COG1007	NADH-quinone oxidoreductase subunit N
+ALMIPKNC_01211	CDS	273				hypothetical protein
+ALMIPKNC_01212	CDS	1425	pchA_2	5.4.4.2	COG1169	Salicylate biosynthesis isochorismate synthase
+ALMIPKNC_01213	CDS	834	menB_2	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+ALMIPKNC_01214	CDS	1761	menD_2	2.2.1.9	COG1165	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+ALMIPKNC_01215	CDS	408		3.1.2.28	COG0824	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+ALMIPKNC_01216	CDS	966	menC_2	4.2.1.113	COG1441	o-succinylbenzoate synthase
+ALMIPKNC_01217	CDS	660	cycA_3		COG2863	Cytochrome c4
+ALMIPKNC_01218	CDS	828	nosY_2		COG1277	putative ABC transporter permease protein NosY
+ALMIPKNC_01219	CDS	519				hypothetical protein
+ALMIPKNC_01220	CDS	663	artM_2		COG1126	Arginine transport ATP-binding protein ArtM
+ALMIPKNC_01221	CDS	1044	napH_3		COG0348	Ferredoxin-type protein NapH
+ALMIPKNC_01222	CDS	843	napG_3		COG1145	Ferredoxin-type protein NapG
+ALMIPKNC_01223	CDS	1455	nosD_2			putative ABC transporter binding protein NosD
+ALMIPKNC_01224	CDS	1197				hypothetical protein
+ALMIPKNC_01225	CDS	726	cycA_4		COG2863	Cytochrome c4
+ALMIPKNC_01226	CDS	321	cc4_2		COG2863	Cytochrome c4
+ALMIPKNC_01227	CDS	2295	nosZ_2	1.7.2.4		Nitrous-oxide reductase
+ALMIPKNC_01228	CDS	426				hypothetical protein
+ALMIPKNC_01229	CDS	798	fbp_2	5.2.1.8	COG0545	FK506-binding protein
+ALMIPKNC_01230	CDS	1935	ccmF_2		COG1138	Cytochrome c-type biogenesis protein CcmF
+ALMIPKNC_01231	CDS	465	ccmE_2		COG2332	Cytochrome c-type biogenesis protein CcmE
+ALMIPKNC_01232	CDS	1263	ccmC_2		COG0755	Heme exporter protein C
+ALMIPKNC_01233	CDS	684	ccmB_2		COG2386	Heme exporter protein B
+ALMIPKNC_01234	CDS	657	ccmA_2	3.6.3.41	COG4133	Cytochrome c biogenesis ATP-binding export protein CcmA
+ALMIPKNC_01235	CDS	384				hypothetical protein
+ALMIPKNC_01236	CDS	495	esiB_3			Secretory immunoglobulin A-binding protein EsiB
+ALMIPKNC_01237	CDS	567				hypothetical protein
+ALMIPKNC_01238	CDS	567	resA_4			Thiol-disulfide oxidoreductase ResA
+ALMIPKNC_01239	CDS	312				hypothetical protein
+ALMIPKNC_01240	CDS	687				hypothetical protein
+ALMIPKNC_01241	CDS	714	ompR_2			Transcriptional regulatory protein OmpR
+ALMIPKNC_01242	CDS	1404	envZ_2	2.7.13.3		Osmolarity sensor protein EnvZ
+ALMIPKNC_01243	CDS	621				hypothetical protein
+ALMIPKNC_01244	CDS	444	bdbC_2		COG1495	Disulfide bond formation protein C
+ALMIPKNC_01245	CDS	654				hypothetical protein
+ALMIPKNC_01246	CDS	432				hypothetical protein
+ALMIPKNC_01247	CDS	297				hypothetical protein
+ALMIPKNC_01248	CDS	393				hypothetical protein
+ALMIPKNC_01249	CDS	501	petJ_2			Cytochrome c6
+ALMIPKNC_01250	CDS	2265	copA_2	3.6.3.54	COG2217	Copper-exporting P-type ATPase
+ALMIPKNC_01251	CDS	525				hypothetical protein
+ALMIPKNC_01252	CDS	1305				hypothetical protein
+ALMIPKNC_01253	CDS	942				hypothetical protein
+ALMIPKNC_01254	CDS	219				hypothetical protein
+ALMIPKNC_01255	CDS	873				hypothetical protein
+ALMIPKNC_01256	CDS	1401				hypothetical protein
+ALMIPKNC_01257	CDS	642				hypothetical protein
+ALMIPKNC_01258	CDS	666	qseB_2			Transcriptional regulatory protein QseB
+ALMIPKNC_01259	CDS	1329	qseC_2	2.7.13.3		Sensor protein QseC
+ALMIPKNC_01260	CDS	1449	kinE_3	2.7.13.3	COG2202	Sporulation kinase E
+ALMIPKNC_01261	CDS	1140				hypothetical protein
+ALMIPKNC_01262	CDS	1644				hypothetical protein
+ALMIPKNC_01263	CDS	189				hypothetical protein
+ALMIPKNC_01264	CDS	570	cheA_2	2.7.13.3	COG0643	Chemotaxis protein CheA
+ALMIPKNC_01265	CDS	2016	ydcP_3	3.4.-.-	COG0826	putative protease YdcP
+ALMIPKNC_01266	CDS	399	yqaA_2		COG1238	Inner membrane protein YqaA
+ALMIPKNC_01267	CDS	1191	mdh_3	1.1.1.244		NAD-dependent methanol dehydrogenase
+ALMIPKNC_01268	CDS	294	lsrG_2	5.3.1.32	COG1359	(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase
+ALMIPKNC_01269	CDS	1209				hypothetical protein
+ALMIPKNC_01270	CDS	1434	dctB_2	2.7.13.3		C4-dicarboxylate transport sensor protein DctB
+ALMIPKNC_01271	CDS	210	copZ_2		COG2608	Copper chaperone CopZ
+ALMIPKNC_01272	CDS	267				hypothetical protein
+ALMIPKNC_01273	CDS	2136	feoB_2		COG0370	Fe(2+) transporter FeoB
+ALMIPKNC_01274	CDS	165				hypothetical protein
+ALMIPKNC_01275	CDS	2499				hypothetical protein
+ALMIPKNC_01276	CDS	822				hypothetical protein
+ALMIPKNC_01277	CDS	1431				hypothetical protein
+ALMIPKNC_01278	CDS	228				hypothetical protein
+ALMIPKNC_01279	CDS	681				hypothetical protein
+ALMIPKNC_01280	CDS	1269	cysP_2		COG0306	Sulfate permease CysP
+ALMIPKNC_01281	CDS	1668				hypothetical protein
+ALMIPKNC_01282	CDS	477	nhaX_2		COG0589	Stress response protein NhaX
+ALMIPKNC_01283	CDS	2187	ppk_2	2.7.4.1	COG0855	Polyphosphate kinase
+ALMIPKNC_01284	CDS	687	ygiF_2	3.6.1.25	COG3025	Inorganic triphosphatase
+ALMIPKNC_01285	CDS	732	phoB_2		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+ALMIPKNC_01286	CDS	1599				hypothetical protein
+ALMIPKNC_01287	CDS	741	soj_2	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+ALMIPKNC_01288	CDS	606	mlaD_2		COG1463	putative phospholipid ABC transporter-binding protein MlaD
+ALMIPKNC_01289	CDS	699	mlaC_2		COG2854	putative phospholipid-binding protein MlaC
+ALMIPKNC_01290	CDS	330				hypothetical protein
+ALMIPKNC_01291	CDS	930	yadG_2		COG1131	putative ABC transporter ATP-binding protein YadG
+ALMIPKNC_01292	CDS	768	yadH_2		COG0842	Inner membrane transport permease YadH
+ALMIPKNC_01293	CDS	1260	murA_2	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+ALMIPKNC_01294	CDS	633	hisG_2	2.4.2.17	COG0040	ATP phosphoribosyltransferase
+ALMIPKNC_01295	CDS	1296	hisD_2	1.1.1.23	COG0141	Histidinol dehydrogenase
+ALMIPKNC_01296	CDS	1089	hisC2_2	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase 2
+ALMIPKNC_01297	CDS	765	ybgI_2		COG0327	GTP cyclohydrolase 1 type 2 
+ALMIPKNC_01298	CDS	327	grxD_2		COG0278	Glutaredoxin 4
+ALMIPKNC_01299	CDS	630	rnt_2	3.1.13.-	COG0847	Ribonuclease T
+ALMIPKNC_01300	CDS	1443	argA_2	2.3.1.1	COG0548	Amino-acid acetyltransferase
+ALMIPKNC_01301	CDS	630	baeB_2	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase BaeB
+ALMIPKNC_01302	CDS	1398	degQ_2	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+ALMIPKNC_01303	CDS	960	cbpA_2		COG2214	Curved DNA-binding protein
+ALMIPKNC_01304	CDS	2184	nrdZ_2	1.17.4.1		Vitamin B12-dependent ribonucleoside-diphosphate reductase
+ALMIPKNC_01305	CDS	765				hypothetical protein
+ALMIPKNC_01306	CDS	870				hypothetical protein
+ALMIPKNC_01307	tRNA	77				tRNA-Pro(ggg)
+ALMIPKNC_01308	tRNA	74				tRNA-Cys(gca)
+ALMIPKNC_01309	tRNA	76				tRNA-Gly(gcc)
+ALMIPKNC_01310	CDS	1230				hypothetical protein
+ALMIPKNC_01311	CDS	1773				hypothetical protein
+ALMIPKNC_01312	CDS	306				hypothetical protein
+ALMIPKNC_01313	CDS	294				hypothetical protein
+ALMIPKNC_01314	CDS	666				hypothetical protein
+ALMIPKNC_01315	CDS	534				hypothetical protein
+ALMIPKNC_01316	CDS	132				hypothetical protein
+ALMIPKNC_01317	CDS	2670		3.6.5.5	COG0699	Bacterial dynamin-like protein
+ALMIPKNC_01318	CDS	1197		3.1.4.-	COG2206	Cyclic di-GMP phosphodiesterase
+ALMIPKNC_01319	CDS	471	tsaE_2		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+ALMIPKNC_01320	CDS	1335	amiC_2	3.5.1.28	COG0860	N-acetylmuramoyl-L-alanine amidase AmiC
+ALMIPKNC_01321	CDS	1806	mutL_2		COG0323	DNA mismatch repair protein MutL
+ALMIPKNC_01322	CDS	915	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+ALMIPKNC_01323	CDS	252	hfq_2		COG1923	RNA-binding protein Hfq
+ALMIPKNC_01324	CDS	1311	hflX_2		COG2262	GTPase HflX
+ALMIPKNC_01325	CDS	1326	hflK_2		COG0330	Modulator of FtsH protease HflK
+ALMIPKNC_01326	CDS	873	hflC_2		COG0330	Modulator of FtsH protease HflC
+ALMIPKNC_01327	CDS	198				hypothetical protein
+ALMIPKNC_01328	CDS	1233	hisZ_2		COG3705	ATP phosphoribosyltransferase regulatory subunit
+ALMIPKNC_01329	CDS	1311	purA_2	6.3.4.4	COG0104	Adenylosuccinate synthetase
+ALMIPKNC_01330	CDS	477				hypothetical protein
+ALMIPKNC_01331	CDS	2349	rnr_3	3.1.13.1	COG0557	Ribonuclease R
+ALMIPKNC_01332	CDS	765	rlmB_2	2.1.1.185	COG0566	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+ALMIPKNC_01333	CDS	618				hypothetical protein
+ALMIPKNC_01334	CDS	207	rpmE_1		COG0254	50S ribosomal protein L31
+ALMIPKNC_01335	CDS	1260	rho_1	3.6.4.-	COG1158	Transcription termination factor Rho
+ALMIPKNC_01336	CDS	327	trxA_1			Thioredoxin
+ALMIPKNC_01337	CDS	1272	rhlB_1	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlB
+ALMIPKNC_01338	CDS	666	yrfG_1	3.1.3.5	COG1011	GMP/IMP nucleotidase YrfG
+ALMIPKNC_01339	CDS	558	nudE_1	3.6.1.-	COG0494	ADP compounds hydrolase NudE
+ALMIPKNC_01340	CDS	819	cysQ_1	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+ALMIPKNC_01341	CDS	1125				hypothetical protein
+ALMIPKNC_01342	CDS	1059	hemN_2	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+ALMIPKNC_01343	CDS	642	rdgB_1	3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+ALMIPKNC_01344	CDS	714	rph_1	2.7.7.56	COG0689	Ribonuclease PH
+ALMIPKNC_01345	CDS	615	gmk_1	2.7.4.8	COG0194	Guanylate kinase
+ALMIPKNC_01346	CDS	381	rpoZ_1	2.7.7.6		DNA-directed RNA polymerase subunit omega
+ALMIPKNC_01347	CDS	2217	spoT_1	3.1.7.2	COG0317	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+ALMIPKNC_01348	CDS	384	yabJ_1	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+ALMIPKNC_01349	CDS	2139	recG_1	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+ALMIPKNC_01350	CDS	864				hypothetical protein
+ALMIPKNC_01351	CDS	1041	dksA		COG1734	RNA polymerase-binding transcription factor DksA
+ALMIPKNC_01352	CDS	861	gluQ	6.1.1.-	COG0008	Glutamyl-Q tRNA(Asp) synthetase
+ALMIPKNC_01353	CDS	462				hypothetical protein
+ALMIPKNC_01354	CDS	1068	truD	5.4.99.27	COG0585	tRNA pseudouridine synthase D
+ALMIPKNC_01355	CDS	489	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+ALMIPKNC_01356	CDS	747	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+ALMIPKNC_01357	CDS	333	ftsB		COG2919	Cell division protein FtsB
+ALMIPKNC_01358	CDS	1290	eno	4.2.1.11	COG0148	Enolase
+ALMIPKNC_01359	CDS	834	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+ALMIPKNC_01360	CDS	1632	pyrG	6.3.4.2	COG0504	CTP synthase
+ALMIPKNC_01361	CDS	1251	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+ALMIPKNC_01362	CDS	969	accA	6.4.1.2	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+ALMIPKNC_01363	CDS	3543	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+ALMIPKNC_01364	CDS	354	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+ALMIPKNC_01365	CDS	1869	glmS_2	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+ALMIPKNC_01366	CDS	2205	kdpD_2	2.7.13.3	COG2205	Sensor protein KdpD
+ALMIPKNC_01367	CDS	702	baeR_3		COG0745	Transcriptional regulatory protein BaeR
+ALMIPKNC_01368	CDS	405				hypothetical protein
+ALMIPKNC_01369	CDS	366	podJ			Localization factor PodJL
+ALMIPKNC_01370	CDS	330				hypothetical protein
+ALMIPKNC_01371	CDS	1284	tolB		COG0823	Protein TolB
+ALMIPKNC_01372	CDS	618	pal		COG2885	Outer membrane protein P6
+ALMIPKNC_01373	CDS	618	cpoB		COG1729	Cell division coordinator CpoB
+ALMIPKNC_01374	CDS	564	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+ALMIPKNC_01375	CDS	699	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+ALMIPKNC_01376	tRNA	76				tRNA-Lys(ttt)
+ALMIPKNC_01377	CDS	753	yfiH	1.10.3.-	COG1496	Polyphenol oxidase
+ALMIPKNC_01378	CDS	519	purU	3.5.1.10		Formyltetrahydrofolate deformylase
+ALMIPKNC_01379	CDS	507	def	3.5.1.88		Peptide deformylase
+ALMIPKNC_01380	CDS	432	rplM		COG0102	50S ribosomal protein L13
+ALMIPKNC_01381	CDS	396	rpsI		COG0103	30S ribosomal protein S9
+ALMIPKNC_01382	tRNA	74				tRNA-Gln(ctg)
+ALMIPKNC_01383	CDS	474	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+ALMIPKNC_01384	CDS	231	moaD		COG1977	Molybdopterin synthase sulfur carrier subunit
+ALMIPKNC_01385	CDS	438	moaE	2.8.1.12	COG0314	Molybdopterin synthase catalytic subunit
+ALMIPKNC_01386	CDS	396				hypothetical protein
+ALMIPKNC_01387	CDS	1188	mdtE_2			Multidrug resistance protein MdtE
+ALMIPKNC_01388	CDS	666	trpF_2	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+ALMIPKNC_01389	CDS	762	truA_2	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+ALMIPKNC_01390	CDS	675				hypothetical protein
+ALMIPKNC_01391	CDS	1113	asd_2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+ALMIPKNC_01392	CDS	1089	leuB_2	1.1.1.85		3-isopropylmalate dehydrogenase
+ALMIPKNC_01393	CDS	654	leuD1_2	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+ALMIPKNC_01394	CDS	1449	leuC_2	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+ALMIPKNC_01395	CDS	276	bphF_2		COG2146	Biphenyl dioxygenase system ferredoxin subunit
+ALMIPKNC_01396	CDS	1101	ybiB_2		COG0547	putative protein YbiB
+ALMIPKNC_01397	CDS	681				hypothetical protein
+ALMIPKNC_01398	CDS	723				hypothetical protein
+ALMIPKNC_01399	CDS	522				hypothetical protein
+ALMIPKNC_01400	CDS	1149	fieF_2		COG0053	Ferrous-iron efflux pump FieF
+ALMIPKNC_01401	CDS	1140			COG4663	Monocarboxylate 2-oxoacid-binding periplasmic protein
+ALMIPKNC_01402	CDS	513				hypothetical protein
+ALMIPKNC_01403	CDS	1269	dctM_2		COG1593	C4-dicarboxylate TRAP transporter large permease protein DctM
+ALMIPKNC_01404	CDS	162				hypothetical protein
+ALMIPKNC_01405	CDS	516	slyD_3	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+ALMIPKNC_01406	CDS	354				hypothetical protein
+ALMIPKNC_01407	CDS	1872	aprA_2	1.8.99.2		Adenylylsulfate reductase subunit alpha
+ALMIPKNC_01408	CDS	483	aprB_2			Adenylylsulfate reductase subunit beta
+ALMIPKNC_01409	CDS	822				hypothetical protein
+ALMIPKNC_01410	CDS	1287	sat_2	2.7.7.4	COG2046	Sulfate adenylyltransferase
+ALMIPKNC_01411	CDS	429				hypothetical protein
+ALMIPKNC_01412	CDS	384	iscU_2		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+ALMIPKNC_01413	CDS	1497	narX_2	2.7.13.3		Nitrate/nitrite sensor protein NarX
+ALMIPKNC_01414	CDS	666	vraR_2		COG2197	Response regulator protein VraR
+ALMIPKNC_01415	CDS	1437	hao1_2	1.7.2.6		Hydroxylamine oxidoreductase
+ALMIPKNC_01416	CDS	849	napH_4		COG0348	Ferredoxin-type protein NapH
+ALMIPKNC_01417	CDS	576	napF_2		COG1145	Ferredoxin-type protein NapF
+ALMIPKNC_01418	CDS	603				hypothetical protein
+ALMIPKNC_01419	CDS	561	phlB_2			Protein PhlB
+ALMIPKNC_01420	CDS	627				hypothetical protein
+ALMIPKNC_01421	CDS	987	moaA_2	4.1.99.22	COG2896	GTP 3',8-cyclase
+ALMIPKNC_01422	CDS	2553	napA_2	1.9.6.1	COG0243	Periplasmic nitrate reductase
+ALMIPKNC_01423	CDS	447	napB_2			Periplasmic nitrate reductase, electron transfer subunit
+ALMIPKNC_01424	CDS	279				hypothetical protein
+ALMIPKNC_01425	CDS	849	napG_4		COG1145	Ferredoxin-type protein NapG
+ALMIPKNC_01426	CDS	1167	sucC_2	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+ALMIPKNC_01427	CDS	891	sucD_2	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+ALMIPKNC_01428	CDS	501				hypothetical protein
+ALMIPKNC_01429	CDS	672	ypmQ_2		COG1999	SCO1 protein 
+ALMIPKNC_01430	CDS	1350	rnfC_2		COG4656	Electron transport complex subunit RnfC
+ALMIPKNC_01431	CDS	1017	rsxD_3		COG4658	Electron transport complex subunit RsxD
+ALMIPKNC_01432	CDS	672	rnfG_2		COG4659	Electron transport complex subunit RnfG
+ALMIPKNC_01433	CDS	660	rnfE_3		COG4660	Electron transport complex subunit RnfE
+ALMIPKNC_01434	CDS	591	rsxA_3		COG4657	Electron transport complex subunit RsxA
+ALMIPKNC_01435	CDS	936	mdh_4	1.1.1.37	COG0039	Malate dehydrogenase
+ALMIPKNC_01436	CDS	420	flgC_2		COG1558	Flagellar basal-body rod protein FlgC
+ALMIPKNC_01437	CDS	390	flgB_2		COG1815	Flagellar basal body rod protein FlgB
+ALMIPKNC_01438	CDS	1122				hypothetical protein
+ALMIPKNC_01439	CDS	1092				hypothetical protein
+ALMIPKNC_01440	CDS	267	flhB_3		COG1377	Flagellar biosynthetic protein FlhB
+ALMIPKNC_01441	CDS	786	znuB_2		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+ALMIPKNC_01442	CDS	759	znuC_2	3.6.3.-	COG1121	Zinc import ATP-binding protein ZnuC
+ALMIPKNC_01443	CDS	906	znuA_2		COG4531	High-affinity zinc uptake system protein ZnuA
+ALMIPKNC_01444	CDS	654				hypothetical protein
+ALMIPKNC_01445	CDS	438				hypothetical protein
+ALMIPKNC_01446	CDS	1152				hypothetical protein
+ALMIPKNC_01447	CDS	849	nfo_2	3.1.21.2	COG0648	Endonuclease 4
+ALMIPKNC_01448	CDS	1644	fliF		COG1766	Flagellar M-ring protein
+ALMIPKNC_01449	CDS	333	fliE		COG1677	Flagellar hook-basal body complex protein FliE
+ALMIPKNC_01450	CDS	1371	zraR		COG2204	Transcriptional regulatory protein ZraR
+ALMIPKNC_01451	CDS	435				hypothetical protein
+ALMIPKNC_01452	CDS	1185	atoS_3	2.7.13.3	COG0642	Signal transduction histidine-protein kinase AtoS
+ALMIPKNC_01453	CDS	1359	ntrC_1		COG2204	DNA-binding transcriptional regulator NtrC
+ALMIPKNC_01454	CDS	1230				hypothetical protein
+ALMIPKNC_01455	CDS	1773				hypothetical protein
+ALMIPKNC_01456	CDS	822				hypothetical protein
+ALMIPKNC_01457	CDS	2382				hypothetical protein
+ALMIPKNC_01458	CDS	618	fetA	3.6.3.-	COG4619	putative iron export ATP-binding protein FetA
+ALMIPKNC_01459	CDS	786	fetB		COG0390	putative iron export permease protein FetB
+ALMIPKNC_01460	CDS	1398	ctpA	3.4.21.102	COG0793	Carboxy-terminal processing protease CtpA
+ALMIPKNC_01461	CDS	1743	argS	6.1.1.19		Arginine--tRNA ligase
+ALMIPKNC_01462	CDS	531	ftsN			Cell division protein FtsN
+ALMIPKNC_01463	CDS	1512	comM		COG0606	Competence protein ComM
+ALMIPKNC_01464	tRNA	77				tRNA-Arg(ccg)
+ALMIPKNC_01465	CDS	423	atpC		COG0355	ATP synthase epsilon chain
+ALMIPKNC_01466	CDS	1338	glmU			Bifunctional protein GlmU
+ALMIPKNC_01467	CDS	333				hypothetical protein
+ALMIPKNC_01468	CDS	303				hypothetical protein
+ALMIPKNC_01469	CDS	555				hypothetical protein
+ALMIPKNC_01470	CDS	2220	walK	2.7.13.3		Sensor protein kinase WalK
+ALMIPKNC_01471	CDS	1407	ntrC_2		COG2204	DNA-binding transcriptional regulator NtrC
+ALMIPKNC_01472	CDS	1368	trkA		COG0569	Trk system potassium uptake protein TrkA
+ALMIPKNC_01473	CDS	1452	trkH		COG0168	Trk system potassium uptake protein TrkH
+ALMIPKNC_01474	CDS	738	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+ALMIPKNC_01475	CDS	165				hypothetical protein
+ALMIPKNC_01476	CDS	789				hypothetical protein
+ALMIPKNC_01477	CDS	1458	tldD_2	3.4.-.-	COG0312	Metalloprotease TldD
+ALMIPKNC_01478	CDS	1359	pmbA_2	3.4.-.-	COG0312	Metalloprotease PmbA
+ALMIPKNC_01479	CDS	1359			COG2239	Magnesium transporter MgtE
+ALMIPKNC_01480	CDS	1758	ptsI_2	2.7.3.9	COG1080	Phosphoenolpyruvate-protein phosphotransferase
+ALMIPKNC_01481	CDS	291	hpf_2		COG1544	Ribosome hibernation promoting factor
+ALMIPKNC_01482	CDS	1491	rpoN_2		COG1508	RNA polymerase sigma-54 factor
+ALMIPKNC_01483	CDS	741	lptB_2	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+ALMIPKNC_01484	CDS	537	lptA_2		COG1934	Lipopolysaccharide export system protein LptA
+ALMIPKNC_01485	CDS	606	lptC_2			Lipopolysaccharide export system protein LptC
+ALMIPKNC_01486	CDS	582	kdsC_2	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+ALMIPKNC_01487	CDS	1209				hypothetical protein
+ALMIPKNC_01488	CDS	2118				hypothetical protein
+ALMIPKNC_01489	CDS	1305				hypothetical protein
+ALMIPKNC_01490	CDS	1011				hypothetical protein
+ALMIPKNC_01491	CDS	231				hypothetical protein
+ALMIPKNC_01492	CDS	642	pyrE_1	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+ALMIPKNC_01493	tRNA	76				tRNA-Glu(ttc)
+ALMIPKNC_01494	tRNA	76				tRNA-Ala(ggc)
+ALMIPKNC_01495	CDS	1098	gltX_1	6.1.1.17	COG0008	Glutamate--tRNA ligase
+ALMIPKNC_01496	CDS	669	pdxA	1.1.1.262	COG1995	4-hydroxythreonine-4-phosphate dehydrogenase
+ALMIPKNC_01497	CDS	801	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+ALMIPKNC_01498	CDS	891	apaH	3.6.1.41	COG0639	Bis(5'-nucleosyl)-tetraphosphatase [symmetrical]
+ALMIPKNC_01499	CDS	483	dhfrIII	1.5.1.3		Dihydrofolate reductase type 3
+ALMIPKNC_01500	CDS	393	thyA	2.1.1.45	COG0207	Thymidylate synthase
+ALMIPKNC_01501	CDS	213	frr		COG0233	Ribosome-recycling factor
+ALMIPKNC_01502	CDS	744	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+ALMIPKNC_01503	CDS	876	cdsA	2.7.7.41	COG0575	Phosphatidate cytidylyltransferase
+ALMIPKNC_01504	CDS	1206	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+ALMIPKNC_01505	CDS	1401	rseP	3.4.24.-	COG0750	Regulator of sigma-E protease RseP
+ALMIPKNC_01506	CDS	381				hypothetical protein
+ALMIPKNC_01507	CDS	1968	nuoL_3	1.6.5.11	COG1009	NADH-quinone oxidoreductase subunit L
+ALMIPKNC_01508	CDS	306		1.6.5.11	COG0713	NADH-quinone oxidoreductase subunit 11
+ALMIPKNC_01509	CDS	642	nuoJ_2	1.6.5.11	COG0839	NADH-quinone oxidoreductase subunit J
+ALMIPKNC_01510	CDS	543	nuoI_2	1.6.5.11	COG1143	NADH-quinone oxidoreductase subunit I
+ALMIPKNC_01511	CDS	1080	nuoH_2	1.6.5.11	COG1005	NADH-quinone oxidoreductase subunit H
+ALMIPKNC_01512	CDS	2205	nqo3_2	1.6.5.11	COG1034	NADH-quinone oxidoreductase chain 3
+ALMIPKNC_01513	CDS	1278	nuoF_3	1.6.5.11		NADH-quinone oxidoreductase subunit F
+ALMIPKNC_01514	CDS	501	nqo2_2	1.6.5.11	COG1905	NADH-quinone oxidoreductase subunit 2
+ALMIPKNC_01515	CDS	1038	narQ_2	2.7.13.3		Nitrate/nitrite sensor protein NarQ
+ALMIPKNC_01516	CDS	642	narL_2		COG2197	Nitrate/nitrite response regulator protein NarL
+ALMIPKNC_01517	CDS	510	glpE_2	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+ALMIPKNC_01518	CDS	1086	lptG_1		COG0795	Lipopolysaccharide export system permease protein LptG
+ALMIPKNC_01519	CDS	1125	lptF_2		COG0795	Lipopolysaccharide export system permease protein LptF
+ALMIPKNC_01520	CDS	1515	pepA_2	3.4.11.1	COG0260	Cytosol aminopeptidase
+ALMIPKNC_01521	CDS	708	dacC_2	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacC
+ALMIPKNC_01522	CDS	870	dat_2	2.6.1.21		D-alanine aminotransferase
+ALMIPKNC_01523	CDS	273				hypothetical protein
+ALMIPKNC_01524	CDS	693	lipB_2	2.3.1.181	COG0321	Octanoyltransferase
+ALMIPKNC_01525	CDS	951	lipA_2	2.8.1.8	COG0320	Lipoyl synthase
+ALMIPKNC_01526	CDS	267	cspG_2		COG1278	Cold shock-like protein CspG
+ALMIPKNC_01527	CDS	2538				hypothetical protein
+ALMIPKNC_01528	CDS	381	panD_2	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+ALMIPKNC_01529	CDS	825				hypothetical protein
+ALMIPKNC_01530	CDS	3738	apc3_2	6.4.1.8	COG0145	Acetophenone carboxylase gamma subunit
+ALMIPKNC_01531	CDS	213				hypothetical protein
+ALMIPKNC_01532	CDS	528				hypothetical protein
+ALMIPKNC_01533	CDS	471				hypothetical protein
+ALMIPKNC_01534	CDS	363	baeR_4		COG0745	Transcriptional regulatory protein BaeR
+ALMIPKNC_01535	CDS	438	arfB_2	3.1.1.29	COG1186	Peptidyl-tRNA hydrolase ArfB
+ALMIPKNC_01536	tRNA	76				tRNA-Phe(gaa)
+ALMIPKNC_01537	CDS	231				putative Fe(2+)-trafficking protein
+ALMIPKNC_01538	CDS	996				hypothetical protein
+ALMIPKNC_01539	tRNA	74				tRNA-Gly(ccc)
+ALMIPKNC_01540	CDS	201	thiS_2		COG2104	Sulfur carrier protein ThiS
+ALMIPKNC_01541	CDS	789	thiG_2	2.8.1.10	COG2022	Thiazole synthase
+ALMIPKNC_01542	CDS	687	trmB_2	2.1.1.33	COG0220	tRNA (guanine-N(7)-)-methyltransferase
+ALMIPKNC_01543	CDS	1143	sqr_2	1.8.5.4	COG0446	Sulfide-quinone reductase
+ALMIPKNC_01544	CDS	1701		4.2.1.17	COG1024	putative enoyl-CoA hydratase echA12
+ALMIPKNC_01545	CDS	2343	hypF_2	6.2.-.-	COG0068	Carbamoyltransferase HypF
+ALMIPKNC_01546	CDS	453				hypothetical protein
+ALMIPKNC_01547	CDS	1056	arsM_2	2.1.1.137		Arsenite methyltransferase
+ALMIPKNC_01548	CDS	1092	msrAB_2		COG0225	Peptide methionine sulfoxide reductase MsrA/MsrB
+ALMIPKNC_01549	CDS	714	cofC_2	2.7.7.68		2-phospho-L-lactate guanylyltransferase
+ALMIPKNC_01550	CDS	672	icaA_2	2.4.1.-	COG1215	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+ALMIPKNC_01551	CDS	987	mftC_2	2.-.-.-	COG0535	Putative mycofactocin radical SAM maturase MftC
+ALMIPKNC_01552	CDS	843				hypothetical protein
+ALMIPKNC_01553	CDS	1965	zraS_3	2.7.13.3		Sensor protein ZraS
+ALMIPKNC_01554	CDS	603	ydjZ_2		COG0398	TVP38/TMEM64 family inner membrane protein YdjZ
+ALMIPKNC_01555	CDS	1446		3.4.24.-	COG0612	putative zinc protease
+ALMIPKNC_01556	CDS	1371		3.4.24.-	COG0612	putative zinc protease
+ALMIPKNC_01557	CDS	612	rsmD_2	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+ALMIPKNC_01558	CDS	504	coaD_2	2.7.7.3		Phosphopantetheine adenylyltransferase
+ALMIPKNC_01559	CDS	246	fdx_3		COG1145	Ferredoxin
+ALMIPKNC_01560	CDS	405	lexA_4	3.4.21.88		LexA repressor
+ALMIPKNC_01561	CDS	450	trmL_2	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+ALMIPKNC_01562	CDS	840	mutM_2	3.2.2.23	COG0266	Formamidopyrimidine-DNA glycosylase
+ALMIPKNC_01563	CDS	156	rpmG_2		COG0267	50S ribosomal protein L33
+ALMIPKNC_01564	CDS	237	rpmB_2		COG0227	50S ribosomal protein L28
+ALMIPKNC_01565	CDS	903				hypothetical protein
+ALMIPKNC_01566	CDS	630				hypothetical protein
+ALMIPKNC_01567	CDS	657				hypothetical protein
+ALMIPKNC_01568	CDS	1338	ampG		COG0477	Protein AmpG
+ALMIPKNC_01569	CDS	642	pyrE_2	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+ALMIPKNC_01570	tRNA	76				tRNA-Glu(ttc)
+ALMIPKNC_01571	tRNA	76				tRNA-Ala(ggc)
+ALMIPKNC_01572	CDS	1098	gltX_2	6.1.1.17	COG0008	Glutamate--tRNA ligase
+ALMIPKNC_01573	CDS	2643	tar_3		COG0840	Methyl-accepting chemotaxis protein II
+ALMIPKNC_01574	CDS	780				hypothetical protein
+ALMIPKNC_01575	CDS	303				hypothetical protein
+ALMIPKNC_01576	CDS	465	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+ALMIPKNC_01577	CDS	798	lpxA	2.3.1.129		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+ALMIPKNC_01578	CDS	1182	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+ALMIPKNC_01579	CDS	1086	lptG_2		COG0795	Lipopolysaccharide export system permease protein LptG
+ALMIPKNC_01580	CDS	1125	lptF_3		COG0795	Lipopolysaccharide export system permease protein LptF
+ALMIPKNC_01581	CDS	1515	pepA_3	3.4.11.1	COG0260	Cytosol aminopeptidase
+ALMIPKNC_01582	CDS	2787	valS_2	6.1.1.9	COG0525	Valine--tRNA ligase
+ALMIPKNC_01583	CDS	702				hypothetical protein
+ALMIPKNC_01584	CDS	1845	ilvD_2	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+ALMIPKNC_01585	CDS	165				hypothetical protein
+ALMIPKNC_01586	CDS	414				hypothetical protein
+ALMIPKNC_01587	CDS	1449	cysG_2		COG0007	Siroheme synthase
+ALMIPKNC_01588	CDS	1299	serS_2	6.1.1.11	COG0172	Serine--tRNA ligase
+ALMIPKNC_01589	CDS	372	crcB_2		COG0239	Putative fluoride ion transporter CrcB
+ALMIPKNC_01590	CDS	1716	fliK_2		COG3144	Flagellar hook-length control protein
+ALMIPKNC_01591	CDS	447				hypothetical protein
+ALMIPKNC_01592	CDS	1389	fliI_2	3.6.3.14	COG1157	Flagellum-specific ATP synthase
+ALMIPKNC_01593	CDS	780	fliH_2		COG1317	Flagellar assembly protein FliH
+ALMIPKNC_01594	CDS	834	fliG_2		COG1536	Flagellar motor switch protein FliG
+ALMIPKNC_01595	CDS	2811	recB_2	3.1.11.5	COG1074	RecBCD enzyme subunit RecB
+ALMIPKNC_01596	CDS	864				hypothetical protein
+ALMIPKNC_01597	CDS	2139	recG_2	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+ALMIPKNC_01598	CDS	384	yabJ_2	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+ALMIPKNC_01599	CDS	2217	spoT_2	3.1.7.2	COG0317	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+ALMIPKNC_01600	CDS	381	rpoZ_2	2.7.7.6		DNA-directed RNA polymerase subunit omega
+ALMIPKNC_01601	CDS	615	gmk_2	2.7.4.8	COG0194	Guanylate kinase
+ALMIPKNC_01602	CDS	714	rph_2	2.7.7.56	COG0689	Ribonuclease PH
+ALMIPKNC_01603	CDS	642	rdgB_2	3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+ALMIPKNC_01604	CDS	1059	hemN_3	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+ALMIPKNC_01605	CDS	1125				hypothetical protein
+ALMIPKNC_01606	CDS	819	cysQ_2	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+ALMIPKNC_01607	CDS	558	nudE_2	3.6.1.-	COG0494	ADP compounds hydrolase NudE
+ALMIPKNC_01608	CDS	666	yrfG_2	3.1.3.5	COG1011	GMP/IMP nucleotidase YrfG
+ALMIPKNC_01609	CDS	1272	rhlB_2	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlB
+ALMIPKNC_01610	CDS	327	trxA_2			Thioredoxin
+ALMIPKNC_01611	CDS	1260	rho_2	3.6.4.-	COG1158	Transcription termination factor Rho
+ALMIPKNC_01612	CDS	207	rpmE_2		COG0254	50S ribosomal protein L31
+ALMIPKNC_01613	CDS	3342	recC_1	3.1.11.5	COG1330	RecBCD enzyme subunit RecC
+ALMIPKNC_01614	CDS	1119	iscS_3	2.8.1.7		Cysteine desulfurase IscS
+ALMIPKNC_01615	CDS	1254	iscS_4	2.8.1.7	COG1104	Cysteine desulfurase IscS
+ALMIPKNC_01616	CDS	324	iscA_2		COG0316	Iron-binding protein IscA
+ALMIPKNC_01617	CDS	537	hscB_2		COG1076	Co-chaperone protein HscB
+ALMIPKNC_01618	CDS	429				hypothetical protein
+ALMIPKNC_01619	CDS	447	yqgF_2	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+ALMIPKNC_01620	CDS	258				hypothetical protein
+ALMIPKNC_01621	CDS	342				hypothetical protein
+ALMIPKNC_01622	CDS	1065	leuA_2	2.3.3.13	COG0119	2-isopropylmalate synthase
+ALMIPKNC_01623	CDS	1224			COG1373	putative protein
+ALMIPKNC_01624	CDS	273				hypothetical protein
+ALMIPKNC_01625	CDS	564				hypothetical protein
+ALMIPKNC_01626	CDS	465				hypothetical protein
+ALMIPKNC_01627	CDS	906	xerD_2			Tyrosine recombinase XerD
+ALMIPKNC_01628	CDS	1098				hypothetical protein
+ALMIPKNC_01629	CDS	207				hypothetical protein
+ALMIPKNC_01630	CDS	432				hypothetical protein
+ALMIPKNC_01631	CDS	1155			COG2199	putative signaling protein
+ALMIPKNC_01632	CDS	483				hypothetical protein
+ALMIPKNC_01633	CDS	960				hypothetical protein
+ALMIPKNC_01634	CDS	429	hslR_2		COG1188	Heat shock protein 15
+ALMIPKNC_01635	CDS	1827	typA_2		COG1217	GTP-binding protein TypA/BipA
+ALMIPKNC_01636	CDS	1176				hypothetical protein
+ALMIPKNC_01637	CDS	564	glpE_3	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+ALMIPKNC_01638	CDS	552				hypothetical protein
+ALMIPKNC_01639	CDS	594	hisB_2		COG0131	Histidine biosynthesis bifunctional protein HisB
+ALMIPKNC_01640	CDS	636	hisH_2	2.4.2.-	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+ALMIPKNC_01641	CDS	780	hisA_2	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+ALMIPKNC_01642	CDS	774	hisF_2	4.1.3.-	COG0107	Imidazole glycerol phosphate synthase subunit HisF
+ALMIPKNC_01643	CDS	414	hisI_2	3.5.4.19	COG0139	Phosphoribosyl-AMP cyclohydrolase
+ALMIPKNC_01644	CDS	705				hypothetical protein
+ALMIPKNC_01645	CDS	321	hisE_2	3.6.1.31	COG0140	Phosphoribosyl-ATP pyrophosphatase
+ALMIPKNC_01646	CDS	378		3.9.1.-	COG0537	Purine nucleoside phosphoramidase
+ALMIPKNC_01647	CDS	264	tatA_2		COG1826	Sec-independent protein translocase protein TatA
+ALMIPKNC_01648	CDS	411	tatB_2		COG1826	Sec-independent protein translocase protein TatB
+ALMIPKNC_01649	CDS	1146	tatC_2		COG0805	Sec-independent protein translocase protein TatC
+ALMIPKNC_01650	CDS	1248	cca_2		COG0617	Multifunctional CCA protein
+ALMIPKNC_01651	CDS	294				hypothetical protein
+ALMIPKNC_01652	CDS	879	rpoH_2		COG0568	RNA polymerase sigma factor RpoH
+ALMIPKNC_01653	CDS	975	ftsY_2		COG0552	Signal recognition particle receptor FtsY
+ALMIPKNC_01654	CDS	678	fccA_2			Cytochrome subunit of sulfide dehydrogenase
+ALMIPKNC_01655	CDS	1320	fccB_2	1.8.2.3	COG0446	Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain
+ALMIPKNC_01656	CDS	321				hypothetical protein
+ALMIPKNC_01657	CDS	789				hypothetical protein
+ALMIPKNC_01658	CDS	576	tsaC_2	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+ALMIPKNC_01659	CDS	1425	pilQ_2		COG4796	Type IV pilus biogenesis and competence protein PilQ
+ALMIPKNC_01660	CDS	561	aroK_2	2.7.1.71	COG0703	Shikimate kinase 1
+ALMIPKNC_01661	CDS	1134	aroB_2	4.2.3.4	COG0337	3-dehydroquinate synthase
+ALMIPKNC_01662	CDS	1128	dgt_2		COG0232	Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+ALMIPKNC_01663	CDS	258				hypothetical protein
+ALMIPKNC_01664	CDS	1143	mdtE_3			Multidrug resistance protein MdtE
+ALMIPKNC_01665	CDS	3381	mdtC_2			Multidrug resistance protein MdtC
+ALMIPKNC_01666	CDS	462	guaB_4	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+ALMIPKNC_01667	CDS	117				hypothetical protein
+ALMIPKNC_01668	CDS	216				hypothetical protein
+ALMIPKNC_01669	CDS	501				hypothetical protein
+ALMIPKNC_01670	CDS	276				hypothetical protein
+ALMIPKNC_01671	CDS	738	ompR_3			Transcriptional regulatory protein OmpR
+ALMIPKNC_01672	CDS	474	bcp	1.11.1.15	COG1225	Putative peroxiredoxin bcp
+ALMIPKNC_01673	CDS	516	dsvA_2		COG2221	Sulfite reductase, dissimilatory-type subunit alpha
+ALMIPKNC_01674	CDS	864				hypothetical protein
+ALMIPKNC_01675	CDS	2139	recG_3	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+ALMIPKNC_01676	CDS	384	yabJ_3	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+ALMIPKNC_01677	CDS	2217	spoT_3	3.1.7.2	COG0317	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+ALMIPKNC_01678	CDS	381	rpoZ_3	2.7.7.6		DNA-directed RNA polymerase subunit omega
+ALMIPKNC_01679	CDS	615	gmk_3	2.7.4.8	COG0194	Guanylate kinase
+ALMIPKNC_01680	CDS	714	rph_3	2.7.7.56	COG0689	Ribonuclease PH
+ALMIPKNC_01681	CDS	642	rdgB_3	3.6.1.66	COG0127	dITP/XTP pyrophosphatase
+ALMIPKNC_01682	CDS	1059	hemN_4	1.3.99.-	COG0635	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+ALMIPKNC_01683	CDS	1125				hypothetical protein
+ALMIPKNC_01684	CDS	819	cysQ_3	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+ALMIPKNC_01685	CDS	558	nudE_3	3.6.1.-	COG0494	ADP compounds hydrolase NudE
+ALMIPKNC_01686	CDS	666	yrfG_3	3.1.3.5	COG1011	GMP/IMP nucleotidase YrfG
+ALMIPKNC_01687	CDS	1272	rhlB_3	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlB
+ALMIPKNC_01688	CDS	327	trxA_3			Thioredoxin
+ALMIPKNC_01689	CDS	1260	rho_3	3.6.4.-	COG1158	Transcription termination factor Rho
+ALMIPKNC_01690	CDS	207	rpmE_3		COG0254	50S ribosomal protein L31
+ALMIPKNC_01691	CDS	3342	recC_2	3.1.11.5	COG1330	RecBCD enzyme subunit RecC
+ALMIPKNC_01692	CDS	348				hypothetical protein
+ALMIPKNC_01693	CDS	798				hypothetical protein
+ALMIPKNC_01694	CDS	327				hypothetical protein
+ALMIPKNC_01695	CDS	483	dacB	3.4.16.4	COG2027	D-alanyl-D-alanine carboxypeptidase DacB
+ALMIPKNC_01696	CDS	228				hypothetical protein
+ALMIPKNC_01697	CDS	726				hypothetical protein
+ALMIPKNC_01698	CDS	1941	rnr_4	3.1.13.1	COG0557	Ribonuclease R
+ALMIPKNC_01699	CDS	1938	yheS_2		COG0488	putative ABC transporter ATP-binding protein YheS
+ALMIPKNC_01700	CDS	621				hypothetical protein
+ALMIPKNC_01701	CDS	735				hypothetical protein
+ALMIPKNC_01702	CDS	894				hypothetical protein
+ALMIPKNC_01703	CDS	669	ung_2	3.2.2.27	COG0692	Uracil-DNA glycosylase
+ALMIPKNC_01704	CDS	234	slyX_2			Protein SlyX
+ALMIPKNC_01705	CDS	1911	uup_2		COG0488	ABC transporter ATP-binding protein uup
+ALMIPKNC_01706	CDS	2415	lon_3	3.4.21.53	COG0466	Lon protease
+ALMIPKNC_01707	CDS	534	mog_2	2.7.7.75	COG0521	Molybdopterin adenylyltransferase
+ALMIPKNC_01708	CDS	375	trxC_3		COG0526	Putative thioredoxin 2
+ALMIPKNC_01709	CDS	939	prmB_2	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+ALMIPKNC_01710	CDS	1389	hemN_5	1.3.98.3	COG0635	Oxygen-independent coproporphyrinogen III oxidase
+ALMIPKNC_01711	CDS	369				hypothetical protein
+ALMIPKNC_01712	CDS	603				hypothetical protein
+ALMIPKNC_01713	CDS	543				hypothetical protein
+ALMIPKNC_01714	CDS	1653	gltA_2	1.4.1.13	COG0067	Glutamate synthase [NADPH] large chain
+ALMIPKNC_01715	CDS	441				hypothetical protein
+ALMIPKNC_01716	CDS	105				hypothetical protein
+ALMIPKNC_01717	CDS	249				hypothetical protein
+ALMIPKNC_01718	CDS	138				hypothetical protein
+ALMIPKNC_01719	CDS	201				hypothetical protein
+ALMIPKNC_01720	CDS	411				hypothetical protein
+ALMIPKNC_01721	CDS	798				hypothetical protein
+ALMIPKNC_01722	CDS	405				hypothetical protein
+ALMIPKNC_01723	CDS	930				hypothetical protein
+ALMIPKNC_01724	CDS	915		3.1.4.-	COG3437	putative cyclic di-GMP phosphodiesterase
+ALMIPKNC_01725	CDS	687				hypothetical protein
+ALMIPKNC_01726	CDS	549	sigK_2			ECF RNA polymerase sigma factor SigK
+ALMIPKNC_01727	CDS	1389				hypothetical protein
+ALMIPKNC_01728	CDS	1485	merA_2	1.16.1.1		Mercuric reductase
+ALMIPKNC_01729	CDS	582	comR_2			HTH-type transcriptional repressor ComR
+ALMIPKNC_01730	CDS	1659	budB_2	2.2.1.6	COG0028	Acetolactate synthase, catabolic
+ALMIPKNC_01731	CDS	1662	kefC_2		COG0475	Glutathione-regulated potassium-efflux system protein KefC
+ALMIPKNC_01732	CDS	279				hypothetical protein
+ALMIPKNC_01733	CDS	270				hypothetical protein
+ALMIPKNC_01734	CDS	729	phnD_2		COG3221	Phosphate-import protein PhnD
+ALMIPKNC_01735	CDS	1908	resE_2	2.7.13.3		Sensor histidine kinase ResE
+ALMIPKNC_01736	CDS	1263				hypothetical protein
+ALMIPKNC_01737	CDS	243				hypothetical protein
+ALMIPKNC_01738	CDS	1473				hypothetical protein
+ALMIPKNC_01739	CDS	654				hypothetical protein
+ALMIPKNC_01740	CDS	219				hypothetical protein
+ALMIPKNC_01741	CDS	1239			COG1373	putative protein
+ALMIPKNC_01742	CDS	1461	gabD_2	1.2.1.79	COG1012	Succinate-semialdehyde dehydrogenase [NADP(+)] GabD
+ALMIPKNC_01743	CDS	198	gpmI_2	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+ALMIPKNC_01744	CDS	1077	thrC	4.2.3.1	COG0498	Threonine synthase
+ALMIPKNC_01745	CDS	2481	atoS_4	2.7.13.3	COG0642	Signal transduction histidine-protein kinase AtoS
+ALMIPKNC_01746	CDS	3138	rpfC_2	2.7.13.3	COG0642	Sensory/regulatory protein RpfC
+ALMIPKNC_01747	CDS	1362	pleD_3			Response regulator PleD
+ALMIPKNC_01748	CDS	1104		3.1.4.-	COG3437	putative cyclic di-GMP phosphodiesterase
+ALMIPKNC_01749	CDS	519				hypothetical protein
+ALMIPKNC_01750	CDS	3054	atoS_5	2.7.13.3	COG0642	Signal transduction histidine-protein kinase AtoS
+ALMIPKNC_01751	CDS	1419	zraS_4	2.7.13.3		Sensor protein ZraS
+ALMIPKNC_01752	CDS	510				hypothetical protein
+ALMIPKNC_01753	CDS	1515			COG2200	putative signaling protein
+ALMIPKNC_01754	CDS	861				hypothetical protein
+ALMIPKNC_01755	CDS	639	cysT_2		COG0555	Sulfate transport system permease protein CysT
+ALMIPKNC_01756	CDS	1098	cysA_2	3.6.3.25	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+ALMIPKNC_01757	CDS	2361	rne_2	3.1.26.12	COG1530	Ribonuclease E
+ALMIPKNC_01758	CDS	957	rluC_2	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+ALMIPKNC_01759	CDS	576	yceF_2		COG0424	Maf-like protein YceF
+ALMIPKNC_01760	CDS	573	yceD_2		COG1399	Large ribosomal RNA subunit accumulation protein YceD
+ALMIPKNC_01761	CDS	183	rpmF_2		COG0333	50S ribosomal protein L32
+ALMIPKNC_01762	CDS	1020	plsX_2	2.3.1.-	COG0416	Phosphate acyltransferase
+ALMIPKNC_01763	CDS	927	fabH_2	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+ALMIPKNC_01764	CDS	936	fabD_2	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+ALMIPKNC_01765	CDS	744	fabG_4	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALMIPKNC_01766	CDS	237	acpP_2		COG0236	Acyl carrier protein
+ALMIPKNC_01767	CDS	1245	fabF_2	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+ALMIPKNC_01768	CDS	1398	pabB_2	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+ALMIPKNC_01769	CDS	822	pabC_2	4.1.3.38	COG0115	Aminodeoxychorismate lyase

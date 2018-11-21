@@ -1,0 +1,956 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+PEGAMLPK_00001	CDS	477	yfkJ	3.1.3.48	COG0394	Low molecular weight protein-tyrosine-phosphatase YfkJ
+PEGAMLPK_00002	CDS	966	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+PEGAMLPK_00003	CDS	1119				hypothetical protein
+PEGAMLPK_00004	CDS	1890	yfkN		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+PEGAMLPK_00005	CDS	1449	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+PEGAMLPK_00006	CDS	1260	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+PEGAMLPK_00007	tRNA	77				tRNA-Arg(acg)
+PEGAMLPK_00008	CDS	585	pgsA	2.7.8.5	COG0558	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+PEGAMLPK_00009	tRNA	76				tRNA-Gly(gcc)
+PEGAMLPK_00010	tRNA	74				tRNA-Cys(gca)
+PEGAMLPK_00011	CDS	558	resA_1			Thiol-disulfide oxidoreductase ResA
+PEGAMLPK_00012	CDS	555				hypothetical protein
+PEGAMLPK_00013	CDS	579	rbr		COG1592	Rubrerythrin
+PEGAMLPK_00014	CDS	330				hypothetical protein
+PEGAMLPK_00015	CDS	1197	argG	6.3.4.5	COG0137	Argininosuccinate synthase
+PEGAMLPK_00016	CDS	393				hypothetical protein
+PEGAMLPK_00017	CDS	450				hypothetical protein
+PEGAMLPK_00018	CDS	2088	esiB_1			Secretory immunoglobulin A-binding protein EsiB
+PEGAMLPK_00019	CDS	885	epmA	6.3.1.-	COG2269	Elongation factor P--(R)-beta-lysine ligase
+PEGAMLPK_00020	CDS	564	efp		COG0231	Elongation factor P
+PEGAMLPK_00021	CDS	1161	sucC	6.2.1.5	COG0045	Succinate--CoA ligase [ADP-forming] subunit beta
+PEGAMLPK_00022	CDS	870	sucD	6.2.1.5	COG0074	Succinate--CoA ligase [ADP-forming] subunit alpha
+PEGAMLPK_00023	CDS	768				hypothetical protein
+PEGAMLPK_00024	CDS	330	trxA_1			Thioredoxin 1
+PEGAMLPK_00025	CDS	357				hypothetical protein
+PEGAMLPK_00026	CDS	1017	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+PEGAMLPK_00027	CDS	609	rnfG		COG4659	Electron transport complex subunit RnfG
+PEGAMLPK_00028	CDS	945	rsxD		COG4658	Electron transport complex subunit RsxD
+PEGAMLPK_00029	CDS	1509	rsxC		COG4656	Electron transport complex subunit RsxC
+PEGAMLPK_00030	CDS	543	rsxB		COG2878	Electron transport complex subunit RsxB
+PEGAMLPK_00031	CDS	579	rsxA		COG4657	Electron transport complex subunit RsxA
+PEGAMLPK_00032	CDS	738				hypothetical protein
+PEGAMLPK_00033	CDS	1329	glmM	5.4.2.10	COG1109	Phosphoglucosamine mutase
+PEGAMLPK_00034	CDS	816	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+PEGAMLPK_00035	CDS	1926	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+PEGAMLPK_00036	CDS	456	lptE			LPS-assembly lipoprotein LptE
+PEGAMLPK_00037	CDS	1020	holA	2.7.7.7	COG1466	DNA polymerase III subunit delta
+PEGAMLPK_00038	CDS	1260	proA	1.2.1.41		Gamma-glutamyl phosphate reductase
+PEGAMLPK_00039	CDS	1185	tyrS	6.1.1.1	COG0162	Tyrosine--tRNA ligase
+PEGAMLPK_00040	CDS	396				hypothetical protein
+PEGAMLPK_00041	tmRNA	346	ssrA			transfer-messenger RNA, SsrA
+PEGAMLPK_00042	CDS	252				hypothetical protein
+PEGAMLPK_00043	CDS	288	relE	3.1.-.-	COG2026	mRNA interferase toxin RelE
+PEGAMLPK_00044	CDS	423				hypothetical protein
+PEGAMLPK_00045	CDS	234				hypothetical protein
+PEGAMLPK_00046	CDS	387				hypothetical protein
+PEGAMLPK_00047	CDS	249				hypothetical protein
+PEGAMLPK_00048	CDS	225				hypothetical protein
+PEGAMLPK_00049	CDS	780	djlA		COG1076	Co-chaperone protein DjlA
+PEGAMLPK_00050	CDS	1086	rhlE	3.6.4.13	COG0513	ATP-dependent RNA helicase RhlE
+PEGAMLPK_00051	CDS	462		2.8.1.-	COG0607	Sulfurtransferase
+PEGAMLPK_00052	CDS	630	narL		COG2197	Nitrate/nitrite response regulator protein NarL
+PEGAMLPK_00053	CDS	1485	narX	2.7.13.3		Nitrate/nitrite sensor protein NarX
+PEGAMLPK_00054	CDS	1344	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+PEGAMLPK_00055	CDS	1506	gshA	6.3.2.2	COG2918	Glutamate--cysteine ligase
+PEGAMLPK_00056	CDS	924	mutT	3.6.1.55	COG0494	8-oxo-dGTP diphosphatase
+PEGAMLPK_00057	CDS	411		3.1.-.-	COG2402	Ribonuclease VapC26
+PEGAMLPK_00058	CDS	240				hypothetical protein
+PEGAMLPK_00059	CDS	204				hypothetical protein
+PEGAMLPK_00060	CDS	687				hypothetical protein
+PEGAMLPK_00061	CDS	753				hypothetical protein
+PEGAMLPK_00062	CDS	4500	gltB	1.4.7.1		Ferredoxin-dependent glutamate synthase 1
+PEGAMLPK_00063	CDS	171				hypothetical protein
+PEGAMLPK_00064	CDS	540	dhfrIII	1.5.1.3		Dihydrofolate reductase type 3
+PEGAMLPK_00065	CDS	597	yceF		COG0424	Maf-like protein YceF
+PEGAMLPK_00066	CDS	969				hypothetical protein
+PEGAMLPK_00067	CDS	255				hypothetical protein
+PEGAMLPK_00068	tRNA	76				tRNA-Phe(gaa)
+PEGAMLPK_00069	CDS	945		4.3.1.9	COG0492	Glucosaminate ammonia-lyase
+PEGAMLPK_00070	CDS	183	dnaA		COG0593	Chromosomal replication initiator protein DnaA
+PEGAMLPK_00071	CDS	1107	dnaN		COG0592	Beta sliding clamp
+PEGAMLPK_00072	CDS	1089	recF		COG1195	DNA replication and repair protein RecF
+PEGAMLPK_00073	CDS	2409	gyrB	5.99.1.3	COG0187	DNA gyrase subunit B
+PEGAMLPK_00074	CDS	885	cfxP	2.7.1.19	COG3954	Phosphoribulokinase, plasmid
+PEGAMLPK_00075	tRNA	86				tRNA-Leu(gag)
+PEGAMLPK_00076	CDS	2421				hypothetical protein
+PEGAMLPK_00077	CDS	804				hypothetical protein
+PEGAMLPK_00078	CDS	1293				hypothetical protein
+PEGAMLPK_00079	CDS	600				hypothetical protein
+PEGAMLPK_00080	CDS	519				hypothetical protein
+PEGAMLPK_00081	CDS	1074	leuB	1.1.1.85		3-isopropylmalate dehydrogenase
+PEGAMLPK_00082	CDS	171	rubA		COG1773	Rubredoxin
+PEGAMLPK_00083	CDS	600	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+PEGAMLPK_00084	CDS	1389	cysS_1	6.1.1.16	COG0215	Cysteine--tRNA ligase
+PEGAMLPK_00085	CDS	1974		1.-.-.-	COG1028	putative NAD-dependent oxidoreductase
+PEGAMLPK_00086	CDS	462	greA		COG0782	Transcription elongation factor GreA
+PEGAMLPK_00087	CDS	735	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+PEGAMLPK_00088	CDS	468				hypothetical protein
+PEGAMLPK_00089	CDS	246				hypothetical protein
+PEGAMLPK_00090	CDS	597				hypothetical protein
+PEGAMLPK_00091	CDS	561				hypothetical protein
+PEGAMLPK_00092	CDS	1467				hypothetical protein
+PEGAMLPK_00093	CDS	777	bamD		COG4105	Outer membrane protein assembly factor BamD
+PEGAMLPK_00094	CDS	2109	spoT	3.1.7.2	COG0317	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+PEGAMLPK_00095	CDS	195	iscX		COG2975	Protein IscX
+PEGAMLPK_00096	CDS	1278	tolB		COG0823	Protein TolB
+PEGAMLPK_00097	CDS	546	pal		COG2885	Peptidoglycan-associated lipoprotein
+PEGAMLPK_00098	CDS	654	cpoB		COG1729	Cell division coordinator CpoB
+PEGAMLPK_00099	CDS	1290	pabB	2.6.1.85	COG0147	Aminodeoxychorismate synthase component 1
+PEGAMLPK_00100	CDS	1872	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+PEGAMLPK_00101	CDS	360	ybeT_1		COG0790	Sel1-repeat-containing protein YbeT
+PEGAMLPK_00102	CDS	192				hypothetical protein
+PEGAMLPK_00103	CDS	321				hypothetical protein
+PEGAMLPK_00104	CDS	483				hypothetical protein
+PEGAMLPK_00105	CDS	594				hypothetical protein
+PEGAMLPK_00106	CDS	1920	frdA	1.3.5.4	COG1053	Fumarate reductase flavoprotein subunit
+PEGAMLPK_00107	CDS	726	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+PEGAMLPK_00108	CDS	924	mdh	1.1.1.37		Malate dehydrogenase
+PEGAMLPK_00109	CDS	1221	maeB	1.1.1.40	COG0281	NADP-dependent malic enzyme
+PEGAMLPK_00110	tRNA	85				tRNA-Tyr(gta)
+PEGAMLPK_00111	tRNA	74				tRNA-Gly(tcc)
+PEGAMLPK_00112	tRNA	76				tRNA-Thr(ggt)
+PEGAMLPK_00113	CDS	150				hypothetical protein
+PEGAMLPK_00114	CDS	1173	rfnT			Riboflavin transporter RfnT
+PEGAMLPK_00115	CDS	1365	glmU		COG1207	Bifunctional protein GlmU
+PEGAMLPK_00116	CDS	660				hypothetical protein
+PEGAMLPK_00117	CDS	2409	pacS	3.6.3.54		putative copper-transporting ATPase PacS
+PEGAMLPK_00118	CDS	213	rpmE			50S ribosomal protein L31
+PEGAMLPK_00119	CDS	1035	hemE	4.1.1.37	COG0407	Uroporphyrinogen decarboxylase
+PEGAMLPK_00120	CDS	798	trpA	4.2.1.20	COG0159	Tryptophan synthase alpha chain
+PEGAMLPK_00121	CDS	846	accD	6.4.1.2	COG0777	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+PEGAMLPK_00122	CDS	411	fkpB	5.2.1.8	COG1047	FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase
+PEGAMLPK_00123	CDS	291	glnP		COG0765	putative glutamine ABC transporter permease protein GlnP
+PEGAMLPK_00124	CDS	1098	yhdY		COG0765	Inner membrane amino-acid ABC transporter permease protein YhdY
+PEGAMLPK_00125	CDS	777	glnQ			Glutamine transport ATP-binding protein GlnQ
+PEGAMLPK_00126	CDS	426				hypothetical protein
+PEGAMLPK_00127	CDS	657				hypothetical protein
+PEGAMLPK_00128	CDS	351	trxA_2		COG0526	Thioredoxin
+PEGAMLPK_00129	CDS	975	hemH	4.99.1.1	COG0276	Ferrochelatase
+PEGAMLPK_00130	CDS	516				hypothetical protein
+PEGAMLPK_00131	CDS	924	yedI		COG2354	Inner membrane protein YedI
+PEGAMLPK_00132	CDS	999				hypothetical protein
+PEGAMLPK_00133	CDS	153	parE4		COG3668	Toxin ParE4
+PEGAMLPK_00134	CDS	237	parD4_1		COG3609	Antitoxin ParD4
+PEGAMLPK_00135	CDS	819				hypothetical protein
+PEGAMLPK_00136	CDS	252				hypothetical protein
+PEGAMLPK_00137	CDS	171				hypothetical protein
+PEGAMLPK_00138	CDS	1206	esiB_2			Secretory immunoglobulin A-binding protein EsiB
+PEGAMLPK_00139	CDS	426	esiB_3			Secretory immunoglobulin A-binding protein EsiB
+PEGAMLPK_00140	CDS	1065			COG3177	putative protein
+PEGAMLPK_00141	CDS	738				hypothetical protein
+PEGAMLPK_00142	CDS	537				hypothetical protein
+PEGAMLPK_00143	CDS	378				hypothetical protein
+PEGAMLPK_00144	CDS	234				hypothetical protein
+PEGAMLPK_00145	CDS	243				hypothetical protein
+PEGAMLPK_00146	CDS	606				hypothetical protein
+PEGAMLPK_00147	CDS	246				hypothetical protein
+PEGAMLPK_00148	CDS	399				hypothetical protein
+PEGAMLPK_00149	CDS	255				hypothetical protein
+PEGAMLPK_00150	CDS	429	fitB	3.1.-.-		Toxin FitB
+PEGAMLPK_00151	CDS	150				hypothetical protein
+PEGAMLPK_00152	CDS	648				hypothetical protein
+PEGAMLPK_00153	CDS	846				hypothetical protein
+PEGAMLPK_00154	CDS	204	cspLA		COG1278	Cold shock-like protein CspLA
+PEGAMLPK_00155	CDS	1845	deaD	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+PEGAMLPK_00156	CDS	321				hypothetical protein
+PEGAMLPK_00157	CDS	555	resA_2			Thiol-disulfide oxidoreductase ResA
+PEGAMLPK_00158	CDS	738	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+PEGAMLPK_00159	CDS	234				hypothetical protein
+PEGAMLPK_00160	CDS	477	coaD	2.7.7.3		Phosphopantetheine adenylyltransferase
+PEGAMLPK_00161	CDS	1908	dnaK		COG0443	Chaperone protein DnaK
+PEGAMLPK_00162	CDS	1110	dnaJ		COG0484	Chaperone protein DnaJ
+PEGAMLPK_00163	CDS	1281	eno	4.2.1.11		Enolase
+PEGAMLPK_00164	CDS	1176				hypothetical protein
+PEGAMLPK_00165	CDS	813	psd	4.1.1.65	COG0688	Phosphatidylserine decarboxylase proenzyme
+PEGAMLPK_00166	CDS	1683	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+PEGAMLPK_00167	CDS	633				hypothetical protein
+PEGAMLPK_00168	CDS	1386				hypothetical protein
+PEGAMLPK_00169	CDS	1431	gatB	6.3.5.-	COG0064	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+PEGAMLPK_00170	CDS	1443	gatA	6.3.5.7	COG0154	Glutamyl-tRNA(Gln) amidotransferase subunit A
+PEGAMLPK_00171	CDS	288	gatC	6.3.5.-	COG0721	Glutamyl-tRNA(Gln) amidotransferase subunit C
+PEGAMLPK_00172	CDS	627				hypothetical protein
+PEGAMLPK_00173	CDS	1089	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+PEGAMLPK_00174	CDS	2772	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+PEGAMLPK_00175	CDS	114				hypothetical protein
+PEGAMLPK_00176	CDS	120				hypothetical protein
+PEGAMLPK_00177	CDS	726	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+PEGAMLPK_00178	CDS	1200	trpS	6.1.1.2	COG0180	Tryptophan--tRNA ligase
+PEGAMLPK_00179	CDS	681	coaX	2.7.1.33		Type III pantothenate kinase
+PEGAMLPK_00180	CDS	1365	nhaD			Na(+)/H(+) antiporter NhaD
+PEGAMLPK_00181	CDS	798	ygfZ		COG0354	tRNA-modifying protein YgfZ
+PEGAMLPK_00182	CDS	666				hypothetical protein
+PEGAMLPK_00183	CDS	378				hypothetical protein
+PEGAMLPK_00184	CDS	429	rplM		COG0102	50S ribosomal protein L13
+PEGAMLPK_00185	CDS	396	rpsI		COG0103	30S ribosomal protein S9
+PEGAMLPK_00186	CDS	678				hypothetical protein
+PEGAMLPK_00187	CDS	531	cobC	3.1.3.73	COG0406	Adenosylcobalamin/alpha-ribazole phosphatase
+PEGAMLPK_00188	CDS	975	gpsA	1.1.1.94	COG0240	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+PEGAMLPK_00189	CDS	252	grxC		COG0695	Glutaredoxin 3
+PEGAMLPK_00190	CDS	420		2.8.1.-	COG0607	Sulfurtransferase
+PEGAMLPK_00191	CDS	573	trpG	4.1.3.27	COG0512	Anthranilate synthase component 2
+PEGAMLPK_00192	CDS	714	cmoA	2.1.3.-	COG0500	Carboxy-S-adenosyl-L-methionine synthase
+PEGAMLPK_00193	CDS	471	ubiC	4.1.3.40	COG3161	Chorismate pyruvate-lyase
+PEGAMLPK_00194	CDS	2067	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+PEGAMLPK_00195	CDS	408	yabJ	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+PEGAMLPK_00196	tRNA	87				tRNA-Leu(taa)
+PEGAMLPK_00197	CDS	213				hypothetical protein
+PEGAMLPK_00198	CDS	648	yciB		COG2917	putative intracellular septation protein A
+PEGAMLPK_00199	CDS	1077	gcvT	2.1.2.10	COG0404	Aminomethyltransferase
+PEGAMLPK_00200	CDS	375	gcvH		COG0509	Glycine cleavage system H protein
+PEGAMLPK_00201	CDS	1806	rnb	3.1.13.1	COG4776	Exoribonuclease 2
+PEGAMLPK_00202	CDS	708	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+PEGAMLPK_00203	CDS	486	ppiB_1	5.2.1.8	COG0652	Peptidyl-prolyl cis-trans isomerase B
+PEGAMLPK_00204	CDS	312	rplU		COG0261	50S ribosomal protein L21
+PEGAMLPK_00205	CDS	258	rpmA		COG0211	50S ribosomal protein L27
+PEGAMLPK_00206	CDS	327	mazF	3.1.-.-	COG2337	Endoribonuclease MazF
+PEGAMLPK_00207	CDS	249				hypothetical protein
+PEGAMLPK_00208	CDS	930	fabD	2.3.1.39	COG0331	Malonyl CoA-acyl carrier protein transacylase
+PEGAMLPK_00209	CDS	747	fabG_1	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PEGAMLPK_00210	CDS	1539				hypothetical protein
+PEGAMLPK_00211	CDS	471	tadA_1	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+PEGAMLPK_00212	CDS	1308	guaA	6.3.5.2	COG0518	GMP synthase [glutamine-hydrolyzing]
+PEGAMLPK_00213	CDS	1191	tufA		COG0050	Elongation factor Tu
+PEGAMLPK_00214	CDS	312	rpsJ		COG0051	30S ribosomal protein S10
+PEGAMLPK_00215	CDS	837	rplC		COG0087	50S ribosomal protein L3
+PEGAMLPK_00216	CDS	615	rplD		COG0088	50S ribosomal protein L4
+PEGAMLPK_00217	CDS	291	rplW		COG0089	50S ribosomal protein L23
+PEGAMLPK_00218	CDS	828	rplB		COG0090	50S ribosomal protein L2
+PEGAMLPK_00219	CDS	270	rpsS			30S ribosomal protein S19
+PEGAMLPK_00220	CDS	333	rplV		COG0091	50S ribosomal protein L22
+PEGAMLPK_00221	CDS	693	rpsC		COG0092	30S ribosomal protein S3
+PEGAMLPK_00222	CDS	411	rplP		COG0197	50S ribosomal protein L16
+PEGAMLPK_00223	CDS	189	rpmC		COG0255	50S ribosomal protein L29
+PEGAMLPK_00224	CDS	267	rpsQ		COG0186	30S ribosomal protein S17
+PEGAMLPK_00225	CDS	369	rplN		COG0093	50S ribosomal protein L14
+PEGAMLPK_00226	CDS	312	rplX		COG0198	50S ribosomal protein L24
+PEGAMLPK_00227	CDS	543	rplE		COG0094	50S ribosomal protein L5
+PEGAMLPK_00228	CDS	306	rpsN		COG0199	30S ribosomal protein S14
+PEGAMLPK_00229	CDS	396	rpsH		COG0096	30S ribosomal protein S8
+PEGAMLPK_00230	CDS	546	rplF		COG0097	50S ribosomal protein L6
+PEGAMLPK_00231	CDS	348	rplR		COG0256	50S ribosomal protein L18
+PEGAMLPK_00232	CDS	519	rpsE		COG0098	30S ribosomal protein S5
+PEGAMLPK_00233	CDS	333	rpmD		COG1841	50S ribosomal protein L30
+PEGAMLPK_00234	CDS	444	rplO		COG0200	50S ribosomal protein L15
+PEGAMLPK_00235	CDS	1299	secY		COG0201	Protein translocase subunit SecY
+PEGAMLPK_00236	CDS	354	rpsM		COG0099	30S ribosomal protein S13
+PEGAMLPK_00237	CDS	384	rpsK		COG0100	30S ribosomal protein S11
+PEGAMLPK_00238	CDS	627	rpsD		COG0522	30S ribosomal protein S4
+PEGAMLPK_00239	CDS	981	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+PEGAMLPK_00240	CDS	399	rplQ		COG0203	50S ribosomal protein L17
+PEGAMLPK_00241	CDS	216	rpsU		COG0828	30S ribosomal protein S21
+PEGAMLPK_00242	CDS	447	yqeY		COG1610	putative protein YqeY
+PEGAMLPK_00243	CDS	726				hypothetical protein
+PEGAMLPK_00244	CDS	783				hypothetical protein
+PEGAMLPK_00245	CDS	600	ubiX	2.5.1.129	COG0163	Flavin prenyltransferase UbiX
+PEGAMLPK_00246	CDS	1299	mpl	6.3.2.45	COG0773	UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase
+PEGAMLPK_00247	CDS	369	msrB	1.8.4.12	COG0229	Peptide methionine sulfoxide reductase MsrB
+PEGAMLPK_00248	CDS	1086	cca		COG0617	Multifunctional CCA protein
+PEGAMLPK_00249	CDS	2481				hypothetical protein
+PEGAMLPK_00250	CDS	600	engB		COG0218	putative GTP-binding protein EngB
+PEGAMLPK_00251	CDS	294				Cytochrome c-554(548)
+PEGAMLPK_00252	CDS	657	cc4		COG2863	Cytochrome c4
+PEGAMLPK_00253	CDS	1302	tig	5.2.1.8	COG0544	Trigger factor
+PEGAMLPK_00254	CDS	597	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+PEGAMLPK_00255	CDS	1257	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+PEGAMLPK_00256	CDS	1317	hflX		COG2262	GTPase HflX
+PEGAMLPK_00257	CDS	2337	lon	3.4.21.53	COG0466	Lon protease
+PEGAMLPK_00258	CDS	1986	kefC		COG0475	Glutathione-regulated potassium-efflux system protein KefC
+PEGAMLPK_00259	CDS	1272	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+PEGAMLPK_00260	CDS	723	dsbC		COG1651	Thiol:disulfide interchange protein DsbC
+PEGAMLPK_00261	CDS	1428	pepA	3.4.11.1	COG0260	Cytosol aminopeptidase
+PEGAMLPK_00262	CDS	312	ppnP	2.4.2.2	COG3123	Pyrimidine/purine nucleoside phosphorylase
+PEGAMLPK_00263	CDS	948	gloC	3.1.2.6	COG0491	Hydroxyacylglutathione hydrolase GloC
+PEGAMLPK_00264	CDS	642				hypothetical protein
+PEGAMLPK_00265	CDS	1794	mltG	4.2.2.-	COG1559	Endolytic murein transglycosylase
+PEGAMLPK_00266	CDS	618	tmk	2.7.4.9	COG0125	Thymidylate kinase
+PEGAMLPK_00267	CDS	1035	holB	2.7.7.7	COG0470	DNA polymerase III subunit delta'
+PEGAMLPK_00268	CDS	174				hypothetical protein
+PEGAMLPK_00269	CDS	510				hypothetical protein
+PEGAMLPK_00270	CDS	579	nfuA		COG0316	Fe/S biogenesis protein NfuA
+PEGAMLPK_00271	CDS	840	panC	6.3.2.1	COG0414	Pantothenate synthetase
+PEGAMLPK_00272	CDS	861			COG3177	putative protein
+PEGAMLPK_00273	CDS	783	panB	2.1.2.11		3-methyl-2-oxobutanoate hydroxymethyltransferase
+PEGAMLPK_00274	CDS	474	folK_1	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+PEGAMLPK_00275	CDS	771	proB	2.7.2.11		Glutamate 5-kinase
+PEGAMLPK_00276	CDS	1008	cgtA	3.6.5.-	COG0536	GTPase Obg/CgtA
+PEGAMLPK_00277	CDS	1203	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+PEGAMLPK_00278	CDS	426				hypothetical protein
+PEGAMLPK_00279	CDS	237				hypothetical protein
+PEGAMLPK_00280	CDS	210				hypothetical protein
+PEGAMLPK_00281	CDS	1566	thiC	4.1.99.17	COG0422	Phosphomethylpyrimidine synthase
+PEGAMLPK_00282	CDS	282				hypothetical protein
+PEGAMLPK_00283	CDS	690				hypothetical protein
+PEGAMLPK_00284	CDS	1581	mltD	4.2.2.-	COG0741	Membrane-bound lytic murein transglycosylase D
+PEGAMLPK_00285	CDS	180	bolA		COG0271	DNA-binding transcriptional regulator BolA
+PEGAMLPK_00286	CDS	879	ddl	6.3.2.4		D-alanine--D-alanine ligase
+PEGAMLPK_00287	CDS	834	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+PEGAMLPK_00288	CDS	1416	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+PEGAMLPK_00289	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+PEGAMLPK_00290	CDS	699	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+PEGAMLPK_00291	CDS	222	ftsB			Cell division protein FtsB
+PEGAMLPK_00292	CDS	240				hypothetical protein
+PEGAMLPK_00293	CDS	393				hypothetical protein
+PEGAMLPK_00294	CDS	849	mepM	3.4.24.-	COG0739	Murein DD-endopeptidase MepM
+PEGAMLPK_00295	CDS	1401	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+PEGAMLPK_00296	CDS	528	mutS2	3.1.-.-		Endonuclease MutS2
+PEGAMLPK_00297	CDS	261	rpsT		COG0268	30S ribosomal protein S20
+PEGAMLPK_00298	CDS	606	hflD		COG2915	High frequency lysogenization protein HflD
+PEGAMLPK_00299	tRNA	94				tRNA-Thr(tgt)
+PEGAMLPK_00300	CDS	924	ybeZ		COG1702	PhoH-like protein
+PEGAMLPK_00301	CDS	471				hypothetical protein
+PEGAMLPK_00302	CDS	675				hypothetical protein
+PEGAMLPK_00303	CDS	1326	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+PEGAMLPK_00304	CDS	1026	ynaI		COG0668	Low conductance mechanosensitive channel YnaI
+PEGAMLPK_00305	CDS	564	nlpD			Murein hydrolase activator NlpD
+PEGAMLPK_00306	CDS	573				hypothetical protein
+PEGAMLPK_00307	CDS	897	glyQ	6.1.1.14	COG0752	Glycine--tRNA ligase alpha subunit
+PEGAMLPK_00308	CDS	1371	ahcY	3.3.1.1		Adenosylhomocysteinase
+PEGAMLPK_00309	CDS	1134	metK	2.5.1.6	COG0192	S-adenosylmethionine synthase
+PEGAMLPK_00310	CDS	666	ccmB		COG2386	Heme exporter protein B
+PEGAMLPK_00311	CDS	597	ccmA	3.6.3.41	COG4133	Cytochrome c biogenesis ATP-binding export protein CcmA
+PEGAMLPK_00312	CDS	963	sppA	3.4.21.-	COG0616	Putative signal peptide peptidase SppA
+PEGAMLPK_00313	CDS	747	bamE		COG2913	Outer membrane protein assembly factor BamE
+PEGAMLPK_00314	CDS	408	fur		COG0735	Ferric uptake regulation protein
+PEGAMLPK_00315	CDS	792	znuB		COG1108	High-affinity zinc uptake system membrane protein ZnuB
+PEGAMLPK_00316	CDS	1092	prfA		COG0216	Peptide chain release factor RF1
+PEGAMLPK_00317	CDS	1260	hemA	1.2.1.70	COG0373	Glutamyl-tRNA reductase
+PEGAMLPK_00318	CDS	513	lolB			Outer-membrane lipoprotein LolB
+PEGAMLPK_00319	CDS	1026	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+PEGAMLPK_00320	CDS	414	ybgC	3.1.2.-	COG0824	Acyl-CoA thioesterase YbgC
+PEGAMLPK_00321	CDS	669	tolQ		COG0811	Protein TolQ
+PEGAMLPK_00322	CDS	453	tolR		COG0848	Protein TolR
+PEGAMLPK_00323	CDS	951				hypothetical protein
+PEGAMLPK_00324	CDS	393				hypothetical protein
+PEGAMLPK_00325	CDS	711	minC		COG0850	Septum site-determining protein MinC
+PEGAMLPK_00326	CDS	2037	glyS	6.1.1.14	COG0751	Glycine--tRNA ligase beta subunit
+PEGAMLPK_00327	CDS	438	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+PEGAMLPK_00328	CDS	411				hypothetical protein
+PEGAMLPK_00329	CDS	630				hypothetical protein
+PEGAMLPK_00330	CDS	330	yffB		COG1393	Protein YffB
+PEGAMLPK_00331	CDS	243	trxC		COG0526	Putative thioredoxin 2
+PEGAMLPK_00332	CDS	1263	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+PEGAMLPK_00333	CDS	327	trxA_3		COG0526	Thioredoxin 1
+PEGAMLPK_00334	CDS	2517	glnD		COG2844	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+PEGAMLPK_00335	CDS	1389	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+PEGAMLPK_00336	CDS	453	hcpC	3.5.2.6	COG0790	Putative beta-lactamase HcpC
+PEGAMLPK_00337	CDS	363				hypothetical protein
+PEGAMLPK_00338	CDS	1131	mrdB	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+PEGAMLPK_00339	CDS	948	mltB_1	4.2.2.-	COG2951	Membrane-bound lytic murein transglycosylase B
+PEGAMLPK_00340	CDS	1140	dacA	3.4.16.4	COG1686	D-alanyl-D-alanine carboxypeptidase DacA
+PEGAMLPK_00341	CDS	834	dat	2.6.1.21		D-alanine aminotransferase
+PEGAMLPK_00342	CDS	936	amgK	2.7.1.-	COG3178	N-acetylmuramate/N-acetylglucosamine kinase
+PEGAMLPK_00343	CDS	663	murU	2.7.7.-	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+PEGAMLPK_00344	CDS	339				hypothetical protein
+PEGAMLPK_00345	CDS	255				hypothetical protein
+PEGAMLPK_00346	CDS	234				hypothetical protein
+PEGAMLPK_00347	CDS	180				hypothetical protein
+PEGAMLPK_00348	CDS	588				hypothetical protein
+PEGAMLPK_00349	CDS	582				hypothetical protein
+PEGAMLPK_00350	CDS	1587	dnaX	2.7.7.7	COG2812	DNA polymerase III subunit tau
+PEGAMLPK_00351	CDS	324	ybaB		COG0718	Nucleoid-associated protein YbaB
+PEGAMLPK_00352	CDS	585	recR		COG0353	Recombination protein RecR
+PEGAMLPK_00353	CDS	390	gloA	4.4.1.5	COG0346	Lactoylglutathione lyase
+PEGAMLPK_00354	CDS	612	tam	2.1.1.144		Trans-aconitate 2-methyltransferase
+PEGAMLPK_00355	CDS	216				hypothetical protein
+PEGAMLPK_00356	CDS	264				hypothetical protein
+PEGAMLPK_00357	CDS	309				hypothetical protein
+PEGAMLPK_00358	CDS	345	ccmH		COG3088	Cytochrome c-type biogenesis protein CcmH
+PEGAMLPK_00359	CDS	408				hypothetical protein
+PEGAMLPK_00360	CDS	663	yrrB			TPR repeat-containing protein YrrB
+PEGAMLPK_00361	CDS	1491	lysS	6.1.1.6	COG1190	Lysine--tRNA ligase
+PEGAMLPK_00362	CDS	1002				hypothetical protein
+PEGAMLPK_00363	CDS	444				hypothetical protein
+PEGAMLPK_00364	CDS	1335				hypothetical protein
+PEGAMLPK_00365	CDS	315		2.8.1.-	COG0607	Sulfurtransferase
+PEGAMLPK_00366	CDS	909	kipA		COG1984	KipI antagonist
+PEGAMLPK_00367	CDS	684	kipI		COG2049	Kinase A inhibitor
+PEGAMLPK_00368	CDS	675				hypothetical protein
+PEGAMLPK_00369	CDS	660				hypothetical protein
+PEGAMLPK_00370	CDS	255	yefM		COG2161	Antitoxin YefM
+PEGAMLPK_00371	CDS	264	yoeB	3.1.-.-	COG4115	Toxin YoeB
+PEGAMLPK_00372	CDS	1035	selD	2.7.9.3	COG0709	Selenide, water dikinase
+PEGAMLPK_00373	CDS	1098	selU	2.9.1.-	COG2603	tRNA 2-selenouridine synthase
+PEGAMLPK_00374	CDS	267				Ferredoxin-1
+PEGAMLPK_00375	CDS	1140	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase 1 subunit beta
+PEGAMLPK_00376	CDS	2277	nrdA	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase 1 subunit alpha
+PEGAMLPK_00377	CDS	1599	fadD	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+PEGAMLPK_00378	CDS	1059				hypothetical protein
+PEGAMLPK_00379	CDS	1188	fadA	2.3.1.16	COG0183	3-ketoacyl-CoA thiolase
+PEGAMLPK_00380	CDS	2385	fadN	1.1.1.35	COG1024	putative 3-hydroxyacyl-CoA dehydrogenase
+PEGAMLPK_00381	CDS	2340	fadE	1.3.8.7	COG1960	Acyl-coenzyme A dehydrogenase
+PEGAMLPK_00382	CDS	1011	ascD	1.17.1.-		CDP-6-deoxy-L-threo-D-glycero-4-hexulose-3-dehydrase reductase
+PEGAMLPK_00383	CDS	1452	creC	2.7.13.3	COG0642	Sensor protein CreC
+PEGAMLPK_00384	CDS	141	creB		COG0745	Transcriptional regulatory protein CreB
+PEGAMLPK_00385	CDS	2313	gyrA	5.99.1.3	COG0188	DNA gyrase subunit A
+PEGAMLPK_00386	CDS	894	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+PEGAMLPK_00387	CDS	1569	prfC		COG4108	Peptide chain release factor 3
+PEGAMLPK_00388	CDS	453	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+PEGAMLPK_00389	CDS	1086	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+PEGAMLPK_00390	CDS	996	ppiB_2	5.2.1.8	COG0652	putative peptidyl-prolyl cis-trans isomerase
+PEGAMLPK_00391	CDS	234	fdx_1		COG1145	Ferredoxin
+PEGAMLPK_00392	CDS	1116	pucG	2.6.1.112	COG0075	(S)-ureidoglycine--glyoxylate transaminase
+PEGAMLPK_00393	CDS	1431		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+PEGAMLPK_00394	CDS	534		1.-.-.-	COG0277	putative FAD-linked oxidoreductase
+PEGAMLPK_00395	CDS	1125	lutA		COG0247	Lactate utilization protein A
+PEGAMLPK_00396	CDS	1317	rlmD	2.1.1.190	COG2265	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+PEGAMLPK_00397	CDS	447				hypothetical protein
+PEGAMLPK_00398	CDS	414	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+PEGAMLPK_00399	CDS	1470	ampG		COG0477	Protein AmpG
+PEGAMLPK_00400	CDS	987	nagZ	3.2.1.52	COG1472	Beta-hexosaminidase
+PEGAMLPK_00401	CDS	282				hypothetical protein
+PEGAMLPK_00402	CDS	2166	uvrD	3.6.4.12	COG0210	DNA helicase II
+PEGAMLPK_00403	CDS	186				hypothetical protein
+PEGAMLPK_00404	CDS	945	epmB	5.4.3.-	COG1509	L-lysine 2,3-aminomutase
+PEGAMLPK_00405	CDS	537	resA_3		COG0526	Thiol-disulfide oxidoreductase ResA
+PEGAMLPK_00406	CDS	348	yfgD		COG1393	putative protein YfgD
+PEGAMLPK_00407	CDS	660	sspA		COG0625	Stringent starvation protein A
+PEGAMLPK_00408	CDS	435	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+PEGAMLPK_00409	CDS	339	rsfS			Ribosomal silencing factor RsfS
+PEGAMLPK_00410	CDS	630	nadD	2.7.7.18	COG1057	putative nicotinate-nucleotide adenylyltransferase
+PEGAMLPK_00411	CDS	498	pksB	3.-.-.-	COG0491	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+PEGAMLPK_00412	CDS	1041				hypothetical protein
+PEGAMLPK_00413	CDS	279				hypothetical protein
+PEGAMLPK_00414	CDS	618	lipB	2.3.1.181	COG0321	Octanoyltransferase
+PEGAMLPK_00415	CDS	948	lipA	2.8.1.8	COG0320	Lipoyl synthase
+PEGAMLPK_00416	CDS	1122				hypothetical protein
+PEGAMLPK_00417	CDS	3279	mdtB			Multidrug resistance protein MdtB
+PEGAMLPK_00418	CDS	312				hypothetical protein
+PEGAMLPK_00419	CDS	3501	mdtC_1			Multidrug resistance protein MdtC
+PEGAMLPK_00420	CDS	1149	czcB			Cobalt-zinc-cadmium resistance protein CzcB
+PEGAMLPK_00421	CDS	963	pdxA	1.1.1.262	COG1995	4-hydroxythreonine-4-phosphate dehydrogenase
+PEGAMLPK_00422	CDS	765	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+PEGAMLPK_00423	CDS	372	apaG		COG2967	Protein ApaG
+PEGAMLPK_00424	CDS	798	apaH	3.6.1.41	COG0639	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+PEGAMLPK_00425	CDS	795	dapF	5.1.1.7	COG0253	Diaminopimelate epimerase
+PEGAMLPK_00426	CDS	354				hypothetical protein
+PEGAMLPK_00427	CDS	1338	rseP	3.4.24.-	COG0750	Regulator of sigma-E protease RseP
+PEGAMLPK_00428	CDS	2301	bamA		COG4775	Outer membrane protein assembly factor BamA
+PEGAMLPK_00429	CDS	498				hypothetical protein
+PEGAMLPK_00430	CDS	999	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+PEGAMLPK_00431	CDS	444	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+PEGAMLPK_00432	CDS	798	lpxA	2.3.1.129		Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+PEGAMLPK_00433	CDS	1530	murJ		COG0728	putative lipid II flippase MurJ
+PEGAMLPK_00434	CDS	270				putative Fe(2+)-trafficking protein
+PEGAMLPK_00435	CDS	606	gmk	2.7.4.8	COG0194	Guanylate kinase
+PEGAMLPK_00436	CDS	846	rpoH		COG0568	RNA polymerase sigma factor RpoH
+PEGAMLPK_00437	CDS	288	groS		COG0234	10 kDa chaperonin
+PEGAMLPK_00438	CDS	1641	groL		COG0459	60 kDa chaperonin
+PEGAMLPK_00439	CDS	1884	parE	5.99.1.3	COG0187	DNA topoisomerase 4 subunit B
+PEGAMLPK_00440	CDS	687	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+PEGAMLPK_00441	CDS	228	acpP		COG0236	Acyl carrier protein
+PEGAMLPK_00442	CDS	1239	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+PEGAMLPK_00443	CDS	216				hypothetical protein
+PEGAMLPK_00444	CDS	1914	prlC	3.4.24.70	COG0339	Oligopeptidase A
+PEGAMLPK_00445	CDS	432				hypothetical protein
+PEGAMLPK_00446	tRNA	88				tRNA-Ser(gga)
+PEGAMLPK_00447	CDS	219				hypothetical protein
+PEGAMLPK_00448	CDS	240				hypothetical protein
+PEGAMLPK_00449	CDS	237	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+PEGAMLPK_00450	CDS	765	pppA		COG1989	Leader peptidase PppA
+PEGAMLPK_00451	CDS	321				hypothetical protein
+PEGAMLPK_00452	CDS	834		5.4.99.-	COG0564	putative RNA pseudouridine synthase
+PEGAMLPK_00453	CDS	243				hypothetical protein
+PEGAMLPK_00454	CDS	894	htpX	3.4.24.-	COG0501	Protease HtpX
+PEGAMLPK_00455	CDS	792	map	3.4.11.18	COG0024	Methionine aminopeptidase
+PEGAMLPK_00456	CDS	537				hypothetical protein
+PEGAMLPK_00457	CDS	1755	aspS	6.1.1.23	COG0173	Aspartate--tRNA(Asp/Asn) ligase
+PEGAMLPK_00458	CDS	948	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+PEGAMLPK_00459	CDS	741	yebC		COG0217	putative transcriptional regulatory protein YebC
+PEGAMLPK_00460	CDS	3834	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+PEGAMLPK_00461	CDS	330	relE2		COG3668	Toxin RelE2
+PEGAMLPK_00462	CDS	273				hypothetical protein
+PEGAMLPK_00463	CDS	651				hypothetical protein
+PEGAMLPK_00464	CDS	327	grxD		COG0278	Glutaredoxin 4
+PEGAMLPK_00465	CDS	591	rsmC	2.1.1.172	COG2813	Ribosomal RNA small subunit methyltransferase C
+PEGAMLPK_00466	CDS	1356	yhbU_1	3.4.-.-	COG0826	putative protease YhbU
+PEGAMLPK_00467	CDS	291	tldD	3.4.-.-	COG0312	Metalloprotease TldD
+PEGAMLPK_00468	CDS	357	nuoA	1.6.5.11	COG0838	NADH-quinone oxidoreductase subunit A
+PEGAMLPK_00469	CDS	480	nuoB	1.6.5.11	COG0377	NADH-quinone oxidoreductase subunit B
+PEGAMLPK_00470	CDS	615	nqo5	1.6.5.11	COG0852	NADH-quinone oxidoreductase chain 5
+PEGAMLPK_00471	CDS	1254	nuoD	1.6.5.11	COG0649	NADH-quinone oxidoreductase subunit D
+PEGAMLPK_00472	CDS	474	nqo2	1.6.5.11	COG1905	NADH-quinone oxidoreductase chain 2
+PEGAMLPK_00473	CDS	1269	nuoF	1.6.5.11		NADH-quinone oxidoreductase subunit F
+PEGAMLPK_00474	CDS	2259	nqo3	1.6.5.11	COG1034	NADH-quinone oxidoreductase chain 3
+PEGAMLPK_00475	CDS	1077	nuoH	1.6.5.11	COG1005	NADH-quinone oxidoreductase subunit H
+PEGAMLPK_00476	CDS	522	nuoI	1.6.5.11	COG1143	NADH-quinone oxidoreductase subunit I
+PEGAMLPK_00477	CDS	612	nuoJ	1.6.5.11	COG0839	NADH-quinone oxidoreductase subunit J
+PEGAMLPK_00478	CDS	306		1.6.5.11	COG0713	NADH-quinone oxidoreductase subunit 11
+PEGAMLPK_00479	CDS	1968	nuoL	1.6.5.11	COG1009	NADH-quinone oxidoreductase subunit L
+PEGAMLPK_00480	CDS	1533	nuoM	1.6.5.11	COG1008	NADH-quinone oxidoreductase subunit M
+PEGAMLPK_00481	CDS	1455	nuoN	1.6.5.11	COG1007	NADH-quinone oxidoreductase subunit N
+PEGAMLPK_00482	CDS	489	cbbY	3.1.3.-	COG0637	Protein CbbY
+PEGAMLPK_00483	CDS	1494	ilvA	4.3.1.19	COG1171	L-threonine dehydratase biosynthetic IlvA
+PEGAMLPK_00484	CDS	489	rimI	2.3.1.128	COG0456	Ribosomal-protein-alanine acetyltransferase
+PEGAMLPK_00485	CDS	1257	icd	1.1.1.42	COG0538	Isocitrate dehydrogenase [NADP]
+PEGAMLPK_00486	CDS	1170	yajR		COG0477	Inner membrane transport protein YajR
+PEGAMLPK_00487	CDS	462	ssb			Single-stranded DNA-binding protein
+PEGAMLPK_00488	CDS	405	hit		COG0537	Protein hit
+PEGAMLPK_00489	CDS	1569	yejF		COG4172	putative ABC transporter ATP-binding protein YejF
+PEGAMLPK_00490	CDS	1344	oppC		COG1173	Oligopeptide transport system permease protein OppC
+PEGAMLPK_00491	CDS	978	gsiC		COG0601	Glutathione transport system permease protein GsiC
+PEGAMLPK_00492	CDS	510				hypothetical protein
+PEGAMLPK_00493	CDS	378				hypothetical protein
+PEGAMLPK_00494	CDS	690				hypothetical protein
+PEGAMLPK_00495	CDS	372				hypothetical protein
+PEGAMLPK_00496	CDS	738				hypothetical protein
+PEGAMLPK_00497	CDS	558	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+PEGAMLPK_00498	CDS	1269	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+PEGAMLPK_00499	CDS	639				hypothetical protein
+PEGAMLPK_00500	CDS	912	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+PEGAMLPK_00501	CDS	339	rbfA			Ribosome-binding factor A
+PEGAMLPK_00502	CDS	2403	infB		COG0532	Translation initiation factor IF-2
+PEGAMLPK_00503	CDS	1476	nusA		COG0195	Transcription termination/antitermination protein NusA
+PEGAMLPK_00504	CDS	462	rimP		COG0779	Ribosome maturation factor RimP
+PEGAMLPK_00505	tRNA	77				tRNA-Met(cat)
+PEGAMLPK_00506	CDS	285				hypothetical protein
+PEGAMLPK_00507	CDS	957	gshB	6.3.2.3	COG0189	Glutathione synthetase
+PEGAMLPK_00508	CDS	396	crcB		COG0239	Putative fluoride ion transporter CrcB
+PEGAMLPK_00509	CDS	1245	rarA		COG2256	Replication-associated recombination protein A
+PEGAMLPK_00510	CDS	945	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+PEGAMLPK_00511	CDS	1218	mltB_2	4.2.2.-	COG2951	Membrane-bound lytic murein transglycosylase B
+PEGAMLPK_00512	CDS	423	yqgF	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+PEGAMLPK_00513	CDS	960	pyrB	2.1.3.2		Aspartate carbamoyltransferase
+PEGAMLPK_00514	CDS	558				hypothetical protein
+PEGAMLPK_00515	CDS	396				hypothetical protein
+PEGAMLPK_00516	CDS	258				hypothetical protein
+PEGAMLPK_00517	CDS	255				hypothetical protein
+PEGAMLPK_00518	tRNA	76				tRNA-Phe(gaa)
+PEGAMLPK_00519	CDS	945		4.3.1.9	COG0492	Glucosaminate ammonia-lyase
+PEGAMLPK_00520	CDS	2274	ftsK		COG1674	DNA translocase FtsK
+PEGAMLPK_00521	CDS	582	lolA		COG2834	Outer-membrane lipoprotein carrier protein
+PEGAMLPK_00522	CDS	1047	hemN	1.3.98.3	COG0635	Oxygen-independent coproporphyrinogen III oxidase
+PEGAMLPK_00523	CDS	327				hypothetical protein
+PEGAMLPK_00524	CDS	1125	dapE	3.5.1.18	COG0624	Succinyl-diaminopimelate desuccinylase
+PEGAMLPK_00525	CDS	672	trmD	2.1.1.228	COG0336	tRNA (guanine-N(1)-)-methyltransferase
+PEGAMLPK_00526	CDS	339	glnK		COG0347	Nitrogen regulatory protein P-II 2
+PEGAMLPK_00527	CDS	1278	amtB			Ammonia channel
+PEGAMLPK_00528	CDS	897	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+PEGAMLPK_00529	CDS	1128			COG3317	putative protein
+PEGAMLPK_00530	CDS	1938	ligA_1	6.5.1.2	COG0272	DNA ligase
+PEGAMLPK_00531	CDS	927				hypothetical protein
+PEGAMLPK_00532	CDS	231	fis		COG2901	DNA-binding protein Fis
+PEGAMLPK_00533	CDS	975	dus	1.3.1.-	COG0042	putative tRNA-dihydrouridine synthase
+PEGAMLPK_00534	CDS	558	def1	3.5.1.88		Peptide deformylase 1
+PEGAMLPK_00535	CDS	1560	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+PEGAMLPK_00536	CDS	2385	ydgH		COG2409	Putative membrane protein YdgH
+PEGAMLPK_00537	CDS	654	pcm	2.1.1.77	COG2518	Protein-L-isoaspartate O-methyltransferase
+PEGAMLPK_00538	CDS	1407	lpdA	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+PEGAMLPK_00539	CDS	1542	aceF	2.3.1.12	COG0508	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+PEGAMLPK_00540	CDS	918	yadG		COG1131	putative ABC transporter ATP-binding protein YadG
+PEGAMLPK_00541	CDS	759	yadH		COG0842	Inner membrane transport permease YadH
+PEGAMLPK_00542	CDS	582	plsY	2.3.1.15	COG0344	putative glycerol-3-phosphate acyltransferase
+PEGAMLPK_00543	CDS	357	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+PEGAMLPK_00544	CDS	447	folK_2	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+PEGAMLPK_00545	CDS	621	dsbA		COG0526	Thiol:disulfide interchange protein DsbA
+PEGAMLPK_00546	CDS	759	thiD	2.7.1.49	COG0351	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+PEGAMLPK_00547	CDS	1062	hisC2	2.6.1.9	COG0079	Histidinol-phosphate aminotransferase 2
+PEGAMLPK_00548	CDS	741			COG0327	GTP cyclohydrolase 1 type 2 
+PEGAMLPK_00549	CDS	1026	asd2	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase 2
+PEGAMLPK_00550	CDS	582	hisB		COG0131	Histidine biosynthesis bifunctional protein HisB
+PEGAMLPK_00551	CDS	621	hisH	2.4.2.-	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+PEGAMLPK_00552	CDS	840				hypothetical protein
+PEGAMLPK_00553	CDS	441				hypothetical protein
+PEGAMLPK_00554	CDS	633	nth	4.2.99.18	COG0177	Endonuclease III
+PEGAMLPK_00555	CDS	1416	sbcB	3.1.11.1	COG2925	Exodeoxyribonuclease I
+PEGAMLPK_00556	CDS	297				hypothetical protein
+PEGAMLPK_00557	CDS	264				hypothetical protein
+PEGAMLPK_00558	CDS	333				hypothetical protein
+PEGAMLPK_00559	CDS	219				hypothetical protein
+PEGAMLPK_00560	CDS	210				hypothetical protein
+PEGAMLPK_00561	CDS	258				hypothetical protein
+PEGAMLPK_00562	CDS	261				hypothetical protein
+PEGAMLPK_00563	CDS	912	rimO	2.8.4.4		Ribosomal protein S12 methylthiotransferase RimO
+PEGAMLPK_00564	CDS	990	yhbU_2	3.4.-.-	COG0826	putative protease YhbU
+PEGAMLPK_00565	CDS	912				hypothetical protein
+PEGAMLPK_00566	CDS	927				hypothetical protein
+PEGAMLPK_00567	CDS	264				hypothetical protein
+PEGAMLPK_00568	CDS	489				hypothetical protein
+PEGAMLPK_00569	CDS	2055	nrdD	1.1.98.6	COG1328	Anaerobic ribonucleoside-triphosphate reductase
+PEGAMLPK_00570	CDS	159				hypothetical protein
+PEGAMLPK_00571	CDS	624	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+PEGAMLPK_00572	CDS	879	tsf		COG0264	Elongation factor Ts
+PEGAMLPK_00573	CDS	966	rpsB		COG0052	30S ribosomal protein S2
+PEGAMLPK_00574	CDS	672	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+PEGAMLPK_00575	CDS	1539	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+PEGAMLPK_00576	CDS	1092	ychF		COG0012	Ribosome-binding ATPase YchF
+PEGAMLPK_00577	CDS	576	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+PEGAMLPK_00578	CDS	702	rplY			50S ribosomal protein L25
+PEGAMLPK_00579	CDS	1605	ubiB	2.7.-.-	COG0661	putative protein kinase UbiB
+PEGAMLPK_00580	CDS	510				hypothetical protein
+PEGAMLPK_00581	CDS	741	ubiE	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+PEGAMLPK_00582	CDS	1137	gltA	2.3.3.16	COG0372	Citrate synthase
+PEGAMLPK_00583	CDS	354	erpA		COG0316	Iron-sulfur cluster insertion protein ErpA
+PEGAMLPK_00584	CDS	1032	argC	1.2.1.38	COG0002	N-acetyl-gamma-glutamyl-phosphate reductase
+PEGAMLPK_00585	CDS	1362	accC	6.3.4.14	COG0439	Biotin carboxylase
+PEGAMLPK_00586	CDS	447	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PEGAMLPK_00587	CDS	453	aroQ1	4.2.1.10	COG0757	3-dehydroquinate dehydratase 1
+PEGAMLPK_00588	CDS	2235	dsbD_1	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+PEGAMLPK_00589	CDS	546	grpE			Protein GrpE
+PEGAMLPK_00590	CDS	822	nadK	2.7.1.23	COG0061	NAD kinase
+PEGAMLPK_00591	CDS	1665	recN		COG0497	DNA repair protein RecN
+PEGAMLPK_00592	CDS	1293		1.8.5.4	COG0446	Sulfide-quinone reductase
+PEGAMLPK_00593	CDS	339				hypothetical protein
+PEGAMLPK_00594	CDS	861	atpB		COG0356	ATP synthase subunit a
+PEGAMLPK_00595	CDS	240	atpE		COG0636	ATP synthase subunit c
+PEGAMLPK_00596	CDS	471	atpF		COG0711	ATP synthase subunit b
+PEGAMLPK_00597	CDS	549	atpH		COG0712	ATP synthase subunit delta
+PEGAMLPK_00598	CDS	1542	atpA	3.6.3.14	COG0056	ATP synthase subunit alpha
+PEGAMLPK_00599	CDS	864	atpG		COG0224	ATP synthase gamma chain
+PEGAMLPK_00600	CDS	1380	atpD	3.6.3.14	COG0055	ATP synthase subunit beta
+PEGAMLPK_00601	CDS	417	atpC		COG0355	ATP synthase epsilon chain
+PEGAMLPK_00602	CDS	513	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+PEGAMLPK_00603	CDS	534	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+PEGAMLPK_00604	CDS	525	ampD	3.5.1.28	COG3023	1,6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD
+PEGAMLPK_00605	CDS	864				hypothetical protein
+PEGAMLPK_00606	CDS	1641	yidC		COG0706	Membrane protein insertase YidC
+PEGAMLPK_00607	CDS	225			COG0759	Putative membrane protein insertion efficiency factor
+PEGAMLPK_00608	CDS	342	rnpA	3.1.26.5	COG0594	Ribonuclease P protein component
+PEGAMLPK_00609	CDS	1089	dprA		COG0758	DNA processing protein DprA
+PEGAMLPK_00610	CDS	489	smg			Protein Smg
+PEGAMLPK_00611	CDS	2346	topA	5.99.1.2	COG0550	DNA topoisomerase 1
+PEGAMLPK_00612	CDS	183				hypothetical protein
+PEGAMLPK_00613	CDS	717				hypothetical protein
+PEGAMLPK_00614	CDS	609	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+PEGAMLPK_00615	CDS	1215	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+PEGAMLPK_00616	CDS	243				hypothetical protein
+PEGAMLPK_00617	CDS	1185			COG2081	putative protein
+PEGAMLPK_00618	CDS	1245	resA_4			Thiol-disulfide oxidoreductase ResA
+PEGAMLPK_00619	CDS	255				hypothetical protein
+PEGAMLPK_00620	CDS	705		3.-.-.-		putative metallo-hydrolase
+PEGAMLPK_00621	CDS	300	yciI		COG2350	Protein YciI
+PEGAMLPK_00622	CDS	732	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+PEGAMLPK_00623	CDS	369	vapC	3.1.-.-		tRNA(fMet)-specific endonuclease VapC
+PEGAMLPK_00624	CDS	222				hypothetical protein
+PEGAMLPK_00625	CDS	822	ligA_2	6.5.1.1		DNA ligase
+PEGAMLPK_00626	CDS	837	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+PEGAMLPK_00627	CDS	801	trpC	4.1.1.48		Indole-3-glycerol phosphate synthase
+PEGAMLPK_00628	CDS	414	yhfA		COG1765	Protein YhfA
+PEGAMLPK_00629	CDS	222				hypothetical protein
+PEGAMLPK_00630	CDS	432				hypothetical protein
+PEGAMLPK_00631	tRNA	92				tRNA-Ser(gct)
+PEGAMLPK_00632	CDS	1203	hipA	2.7.11.1	COG3550	Serine/threonine-protein kinase toxin HipA
+PEGAMLPK_00633	CDS	276	higA1		COG1396	Antitoxin HigA1
+PEGAMLPK_00634	CDS	780	thiG	2.8.1.10	COG2022	Thiazole synthase
+PEGAMLPK_00635	CDS	321				hypothetical protein
+PEGAMLPK_00636	CDS	651	cysA	3.6.3.25	COG1118	Sulfate/thiosulfate import ATP-binding protein CysA
+PEGAMLPK_00637	CDS	1437				hypothetical protein
+PEGAMLPK_00638	CDS	1158	efeU		COG0672	Ferrous iron permease EfeU
+PEGAMLPK_00639	CDS	402				hypothetical protein
+PEGAMLPK_00640	CDS	522	tpd		COG3470	34 kDa membrane antigen
+PEGAMLPK_00641	CDS	915				hypothetical protein
+PEGAMLPK_00642	CDS	468	bfr_1	1.16.3.1		Bacterioferritin
+PEGAMLPK_00643	CDS	465	bfr_2	1.16.3.1	COG2193	Bacterioferritin
+PEGAMLPK_00644	CDS	210	bfd		COG2906	Bacterioferritin-associated ferredoxin
+PEGAMLPK_00645	CDS	1155			COG0053	putative cation efflux system protein
+PEGAMLPK_00646	CDS	174	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+PEGAMLPK_00647	CDS	498	dsbD_2	1.8.1.8		Thiol:disulfide interchange protein DsbD
+PEGAMLPK_00648	CDS	1248				hypothetical protein
+PEGAMLPK_00649	CDS	480	mdtE			Multidrug resistance protein MdtE
+PEGAMLPK_00650	CDS	996				Zinc-type alcohol dehydrogenase-like protein
+PEGAMLPK_00651	CDS	321				hypothetical protein
+PEGAMLPK_00652	CDS	279				hypothetical protein
+PEGAMLPK_00653	CDS	243				hypothetical protein
+PEGAMLPK_00654	CDS	1290		3.4.24.-	COG0612	putative zinc protease
+PEGAMLPK_00655	CDS	1329		3.4.24.-	COG0612	putative zinc protease
+PEGAMLPK_00656	CDS	816	dapD	2.3.1.117	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+PEGAMLPK_00657	CDS	1398				hypothetical protein
+PEGAMLPK_00658	CDS	504				hypothetical protein
+PEGAMLPK_00659	CDS	663	znuC	3.6.3.-	COG1121	Zinc import ATP-binding protein ZnuC
+PEGAMLPK_00660	CDS	2751	polA	2.7.7.7	COG0258	DNA polymerase I
+PEGAMLPK_00661	CDS	1713	argS	6.1.1.19		Arginine--tRNA ligase
+PEGAMLPK_00662	CDS	3177	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+PEGAMLPK_00663	CDS	276	hup			DNA-binding protein HU
+PEGAMLPK_00664	CDS	111				hypothetical protein
+PEGAMLPK_00665	CDS	132				hypothetical protein
+PEGAMLPK_00666	CDS	252				hypothetical protein
+PEGAMLPK_00667	CDS	288				hypothetical protein
+PEGAMLPK_00668	CDS	207				hypothetical protein
+PEGAMLPK_00669	CDS	342	cysS_2	6.1.1.16	COG0215	Cysteine--tRNA ligase
+PEGAMLPK_00670	CDS	687	yrfG	3.1.3.5	COG1011	GMP/IMP nucleotidase YrfG
+PEGAMLPK_00671	CDS	405				hypothetical protein
+PEGAMLPK_00672	CDS	480				hypothetical protein
+PEGAMLPK_00673	CDS	990	fbp	3.1.3.11	COG0158	Fructose-1,6-bisphosphatase class 1
+PEGAMLPK_00674	CDS	1245	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+PEGAMLPK_00675	CDS	651	adk	2.7.4.3		Adenylate kinase
+PEGAMLPK_00676	CDS	1158				hypothetical protein
+PEGAMLPK_00677	CDS	1998	hppA	3.6.1.1	COG3808	K(+)-insensitive pyrophosphate-energized proton pump
+PEGAMLPK_00678	CDS	336				hypothetical protein
+PEGAMLPK_00679	CDS	510	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+PEGAMLPK_00680	CDS	351				hypothetical protein
+PEGAMLPK_00681	CDS	1896	aprA	1.8.99.2		Adenylylsulfate reductase subunit alpha
+PEGAMLPK_00682	CDS	480	aprB			Adenylylsulfate reductase subunit beta
+PEGAMLPK_00683	CDS	873				hypothetical protein
+PEGAMLPK_00684	CDS	1209	sat	2.7.7.4	COG2046	Sulfate adenylyltransferase
+PEGAMLPK_00685	CDS	366				hypothetical protein
+PEGAMLPK_00686	CDS	726	fixK		COG0664	Nitrogen fixation regulation protein FixK
+PEGAMLPK_00687	CDS	501	stoA		COG0526	Sporulation thiol-disulfide oxidoreductase A
+PEGAMLPK_00688	CDS	669	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+PEGAMLPK_00689	CDS	1038	pdxB	1.1.1.290	COG0111	Erythronate-4-phosphate dehydrogenase
+PEGAMLPK_00690	CDS	1458	nasA	1.7.99.4		Nitrate reductase
+PEGAMLPK_00691	CDS	1701	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+PEGAMLPK_00692	CDS	1467	nrtP		COG2223	Nitrate/nitrite transporter NrtP
+PEGAMLPK_00693	CDS	2382	nasD	1.7.1.4	COG1251	Nitrite reductase [NAD(P)H]
+PEGAMLPK_00694	CDS	447	moaE	2.8.1.12	COG0314	Molybdopterin synthase catalytic subunit
+PEGAMLPK_00695	CDS	312				hypothetical protein
+PEGAMLPK_00696	CDS	228	parD4_2		COG3609	Antitoxin ParD4
+PEGAMLPK_00697	CDS	600	mobA	2.7.7.77	COG0746	Molybdenum cofactor guanylyltransferase
+PEGAMLPK_00698	CDS	1269	moeA	2.10.1.1	COG0303	Molybdopterin molybdenumtransferase
+PEGAMLPK_00699	CDS	477	moaC	4.6.1.17	COG0315	Cyclic pyranopterin monophosphate synthase
+PEGAMLPK_00700	CDS	996	moaA	4.1.99.22	COG2896	GTP 3',8-cyclase
+PEGAMLPK_00701	CDS	237	moaD			Molybdopterin synthase sulfur carrier subunit
+PEGAMLPK_00702	CDS	483				hypothetical protein
+PEGAMLPK_00703	CDS	183				hypothetical protein
+PEGAMLPK_00704	CDS	336	tusE	2.8.1.-	COG2920	Sulfurtransferase TusE
+PEGAMLPK_00705	CDS	189				hypothetical protein
+PEGAMLPK_00706	CDS	693	narV	1.7.99.4	COG2181	Respiratory nitrate reductase 2 gamma chain
+PEGAMLPK_00707	CDS	516	narJ		COG2180	Nitrate reductase molybdenum cofactor assembly chaperone NarJ
+PEGAMLPK_00708	CDS	1551	narY	1.7.99.4	COG1140	Respiratory nitrate reductase 2 beta chain
+PEGAMLPK_00709	CDS	3744	narG	1.7.99.4	COG5013	Respiratory nitrate reductase 1 alpha chain
+PEGAMLPK_00710	CDS	1614	narU		COG2223	Nitrate/nitrite transporter NarU
+PEGAMLPK_00711	CDS	1410	narT		COG2223	putative nitrate transporter NarT
+PEGAMLPK_00712	CDS	531	mog	2.7.7.75	COG0521	Molybdopterin adenylyltransferase
+PEGAMLPK_00713	CDS	402				hypothetical protein
+PEGAMLPK_00714	CDS	2247				hypothetical protein
+PEGAMLPK_00715	CDS	810	nirQ		COG0714	Denitrification regulatory protein NirQ
+PEGAMLPK_00716	CDS	1383	cbbM	4.1.1.39	COG1850	Ribulose bisphosphate carboxylase
+PEGAMLPK_00717	CDS	879	cmpR			HTH-type transcriptional activator CmpR
+PEGAMLPK_00718	CDS	759				hypothetical protein
+PEGAMLPK_00719	CDS	174				hypothetical protein
+PEGAMLPK_00720	CDS	564				hypothetical protein
+PEGAMLPK_00721	CDS	852	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+PEGAMLPK_00722	CDS	1185	argJ			Arginine biosynthesis bifunctional protein ArgJ
+PEGAMLPK_00723	CDS	294				hypothetical protein
+PEGAMLPK_00724	CDS	201				hypothetical protein
+PEGAMLPK_00725	CDS	1608	phnU		COG0555	Putative 2-aminoethylphosphonate transport system permease protein PhnU
+PEGAMLPK_00726	CDS	489			COG1840	putative binding protein component of ABC iron transporter
+PEGAMLPK_00727	CDS	177				hypothetical protein
+PEGAMLPK_00728	CDS	192				hypothetical protein
+PEGAMLPK_00729	CDS	231	ibaG		COG5007	Acid stress protein IbaG
+PEGAMLPK_00730	CDS	1293	cysP		COG0306	Sulfate permease CysP
+PEGAMLPK_00731	CDS	678				hypothetical protein
+PEGAMLPK_00732	CDS	189				hypothetical protein
+PEGAMLPK_00733	CDS	891				hypothetical protein
+PEGAMLPK_00734	CDS	609	leuE		COG1280	Leucine efflux protein
+PEGAMLPK_00735	CDS	318				hypothetical protein
+PEGAMLPK_00736	CDS	669	ygaZ		COG1296	Inner membrane protein YgaZ
+PEGAMLPK_00737	CDS	951	accA	6.4.1.2	COG0825	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+PEGAMLPK_00738	CDS	1176	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+PEGAMLPK_00739	CDS	441	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+PEGAMLPK_00740	CDS	1989	priA	3.6.4.-	COG1198	Primosomal protein N'
+PEGAMLPK_00741	CDS	330				hypothetical protein
+PEGAMLPK_00742	CDS	273				hypothetical protein
+PEGAMLPK_00743	CDS	240				hypothetical protein
+PEGAMLPK_00744	CDS	864				hypothetical protein
+PEGAMLPK_00745	CDS	939	cphA	3.5.2.6		Metallo-beta-lactamase type 2
+PEGAMLPK_00746	CDS	1239	bioA	2.6.1.62	COG0161	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+PEGAMLPK_00747	CDS	669	gph	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+PEGAMLPK_00748	CDS	828	proC	1.5.1.2	COG0345	Pyrroline-5-carboxylate reductase
+PEGAMLPK_00749	CDS	405				hypothetical protein
+PEGAMLPK_00750	CDS	1041				hypothetical protein
+PEGAMLPK_00751	CDS	717	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+PEGAMLPK_00752	CDS	1212	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+PEGAMLPK_00753	CDS	1020	trpD	2.4.2.18	COG0547	Anthranilate phosphoribosyltransferase
+PEGAMLPK_00754	CDS	543	orn	3.1.-.-	COG1949	Oligoribonuclease
+PEGAMLPK_00755	CDS	870	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+PEGAMLPK_00756	tRNA	75				tRNA-Gln(ttg)
+PEGAMLPK_00757	CDS	597				hypothetical protein
+PEGAMLPK_00758	CDS	507				hypothetical protein
+PEGAMLPK_00759	CDS	297				hypothetical protein
+PEGAMLPK_00760	CDS	270				hypothetical protein
+PEGAMLPK_00761	CDS	249	parD4_3		COG3609	Antitoxin ParD4
+PEGAMLPK_00762	CDS	303				hypothetical protein
+PEGAMLPK_00763	CDS	963	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+PEGAMLPK_00764	CDS	1812	rpoD		COG0568	RNA polymerase sigma factor RpoD
+PEGAMLPK_00765	tRNA	77				tRNA-Met(cat)
+PEGAMLPK_00766	CDS	765	cysQ	3.1.3.7	COG1218	3'(2'),5'-bisphosphate nucleotidase CysQ
+PEGAMLPK_00767	CDS	825	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+PEGAMLPK_00768	CDS	1086	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+PEGAMLPK_00769	CDS	303			COG1534	RNA-binding protein
+PEGAMLPK_00770	CDS	1245	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+PEGAMLPK_00771	CDS	162				hypothetical protein
+PEGAMLPK_00772	CDS	660	aat	2.3.2.6	COG2360	Leucyl/phenylalanyl-tRNA--protein transferase
+PEGAMLPK_00773	CDS	552	nudE	3.6.1.-	COG0494	ADP compounds hydrolase NudE
+PEGAMLPK_00774	CDS	957	gloB	3.1.2.6		Hydroxyacylglutathione hydrolase
+PEGAMLPK_00775	CDS	636				hypothetical protein
+PEGAMLPK_00776	CDS	591	cynT	4.2.1.1	COG0288	Carbonic anhydrase
+PEGAMLPK_00777	CDS	174				hypothetical protein
+PEGAMLPK_00778	CDS	270				hypothetical protein
+PEGAMLPK_00779	CDS	477				hypothetical protein
+PEGAMLPK_00780	CDS	753	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+PEGAMLPK_00781	CDS	651				hypothetical protein
+PEGAMLPK_00782	CDS	1461	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+PEGAMLPK_00783	CDS	402				hypothetical protein
+PEGAMLPK_00784	CDS	1089	roxA	1.14.11.47	COG2850	50S ribosomal protein L16 3-hydroxylase
+PEGAMLPK_00785	CDS	2094	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+PEGAMLPK_00786	CDS	876	yedA			putative inner membrane transporter YedA
+PEGAMLPK_00787	CDS	210	slyX			Protein SlyX
+PEGAMLPK_00788	CDS	339				hypothetical protein
+PEGAMLPK_00789	CDS	2649	aceE	1.2.4.1	COG2609	Pyruvate dehydrogenase E1 component
+PEGAMLPK_00790	CDS	414	rseC		COG3086	Protein RseC
+PEGAMLPK_00791	CDS	1374	algC	5.4.2.2		Phosphomannomutase/phosphoglucomutase
+PEGAMLPK_00792	CDS	492				hypothetical protein
+PEGAMLPK_00793	CDS	891		5.4.99.-	COG0564	putative RNA pseudouridine synthase
+PEGAMLPK_00794	CDS	1353			COG2239	Magnesium transporter MgtE
+PEGAMLPK_00795	CDS	297	hpf		COG1544	Ribosome hibernation promoting factor
+PEGAMLPK_00796	CDS	204				hypothetical protein
+PEGAMLPK_00797	CDS	1158	argD	2.6.1.11	COG4992	Acetylornithine aminotransferase
+PEGAMLPK_00798	CDS	900	argF	2.1.3.3	COG0078	Ornithine carbamoyltransferase 1, anabolic
+PEGAMLPK_00799	CDS	696	queH	1.17.99.6	COG1636	Epoxyqueuosine reductase QueH
+PEGAMLPK_00800	CDS	420				hypothetical protein
+PEGAMLPK_00801	CDS	1536	leuA	2.3.3.13	COG0119	2-isopropylmalate synthase
+PEGAMLPK_00802	CDS	750	pcs	2.7.8.24	COG1183	Phosphatidylcholine synthase
+PEGAMLPK_00803	CDS	999	ilvC	1.1.1.86	COG0059	Ketol-acid reductoisomerase (NADP(+))
+PEGAMLPK_00804	CDS	483	ilvH	2.2.1.6	COG0440	Acetolactate synthase isozyme 3 small subunit
+PEGAMLPK_00805	CDS	1734	ilvI	2.2.1.6	COG0028	Acetolactate synthase isozyme 3 large subunit
+PEGAMLPK_00806	CDS	912	lpxC	3.5.1.108	COG0774	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+PEGAMLPK_00807	CDS	1224	ftsA		COG0849	Cell division protein FtsA
+PEGAMLPK_00808	CDS	969	dusA	1.3.1.-	COG0042	tRNA-dihydrouridine(20/20a) synthase
+PEGAMLPK_00809	CDS	468	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+PEGAMLPK_00810	CDS	2394	pepN	3.4.11.2	COG0308	Aminopeptidase N
+PEGAMLPK_00811	CDS	795	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+PEGAMLPK_00812	CDS	1095				hypothetical protein
+PEGAMLPK_00813	CDS	720	fabG_2	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PEGAMLPK_00814	CDS	1839	rne	3.1.26.12	COG1530	Ribonuclease E
+PEGAMLPK_00815	CDS	804	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+PEGAMLPK_00816	CDS	639	pdxH	1.4.3.5	COG0259	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+PEGAMLPK_00817	CDS	1194	ubiI_1	1.14.13.-	COG0654	2-octaprenylphenol hydroxylase
+PEGAMLPK_00818	CDS	426				hypothetical protein
+PEGAMLPK_00819	CDS	1017	esiB_4			Secretory immunoglobulin A-binding protein EsiB
+PEGAMLPK_00820	tRNA	77				tRNA-Val(gac)
+PEGAMLPK_00821	CDS	696	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+PEGAMLPK_00822	CDS	291	ybeT_2		COG0790	Sel1-repeat-containing protein YbeT
+PEGAMLPK_00823	CDS	504				hypothetical protein
+PEGAMLPK_00824	CDS	621				hypothetical protein
+PEGAMLPK_00825	tRNA	77				tRNA-Arg(cct)
+PEGAMLPK_00826	CDS	255				hypothetical protein
+PEGAMLPK_00827	CDS	1098	aroC	4.2.3.5	COG0082	Chorismate synthase
+PEGAMLPK_00828	CDS	1524	bicA_1		COG0659	Bicarbonate transporter BicA
+PEGAMLPK_00829	CDS	498	hspX			Alpha-crystallin
+PEGAMLPK_00830	CDS	636	queE	4.3.99.3	COG0602	7-carboxy-7-deazaguanine synthase
+PEGAMLPK_00831	CDS	1083	apbC		COG0489	Iron-sulfur cluster carrier protein
+PEGAMLPK_00832	CDS	426				hypothetical protein
+PEGAMLPK_00833	CDS	339	fdx_2		COG0633	2Fe-2S ferredoxin
+PEGAMLPK_00834	CDS	1845	hscA		COG0443	Chaperone protein HscA
+PEGAMLPK_00835	CDS	513	hscB		COG1076	Co-chaperone protein HscB
+PEGAMLPK_00836	CDS	324	iscA		COG0316	Iron-binding protein IscA
+PEGAMLPK_00837	CDS	378	iscU		COG0822	Iron-sulfur cluster assembly scaffold protein IscU
+PEGAMLPK_00838	CDS	1215	iscS	2.8.1.7	COG1104	Cysteine desulfurase IscS
+PEGAMLPK_00839	CDS	411	iscR		COG1959	HTH-type transcriptional regulator IscR
+PEGAMLPK_00840	CDS	699	cysE	2.3.1.30		Serine acetyltransferase
+PEGAMLPK_00841	CDS	840	lpxL	2.3.1.241	COG1560	Lipid A biosynthesis lauroyltransferase
+PEGAMLPK_00842	CDS	750	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+PEGAMLPK_00843	CDS	1758				hypothetical protein
+PEGAMLPK_00844	CDS	1380				hypothetical protein
+PEGAMLPK_00845	CDS	519	aroK	2.7.1.71	COG0703	Shikimate kinase 1
+PEGAMLPK_00846	CDS	192				hypothetical protein
+PEGAMLPK_00847	CDS	933	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+PEGAMLPK_00848	CDS	1224		2.7.2.4	COG0527	Aspartate kinase
+PEGAMLPK_00849	CDS	678				hypothetical protein
+PEGAMLPK_00850	CDS	2886	mmpL3		COG2409	Trehalose monomycolate exporter MmpL3
+PEGAMLPK_00851	CDS	651	yhhW	1.13.11.24	COG1741	Quercetin 2,3-dioxygenase
+PEGAMLPK_00852	CDS	273				hypothetical protein
+PEGAMLPK_00853	tRNA	90				tRNA-Ser(tga)
+PEGAMLPK_00854	CDS	237	rpmB		COG0227	50S ribosomal protein L28
+PEGAMLPK_00855	CDS	156	rpmG		COG0267	50S ribosomal protein L33
+PEGAMLPK_00856	CDS	2559	acnB	4.2.1.3	COG1049	Aconitate hydratase B
+PEGAMLPK_00857	CDS	1377	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+PEGAMLPK_00858	CDS	504	rpsP		COG0228	30S ribosomal protein S16
+PEGAMLPK_00859	CDS	573	rimM		COG0806	Ribosome maturation factor RimM
+PEGAMLPK_00860	CDS	1656	bicA_2		COG0659	Bicarbonate transporter BicA
+PEGAMLPK_00861	CDS	1758			COG0659	putative sulfate transporter
+PEGAMLPK_00862	CDS	744	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+PEGAMLPK_00863	CDS	756	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+PEGAMLPK_00864	CDS	738	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+PEGAMLPK_00865	CDS	1023	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+PEGAMLPK_00866	CDS	1506	comM		COG0606	Competence protein ComM
+PEGAMLPK_00867	CDS	732	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+PEGAMLPK_00868	CDS	297	rnfH			Protein RnfH
+PEGAMLPK_00869	CDS	855	corC		COG4535	Magnesium and cobalt efflux protein CorC
+PEGAMLPK_00870	CDS	753				hypothetical protein
+PEGAMLPK_00871	CDS	1320	pmbA	3.4.-.-	COG0312	Metalloprotease PmbA
+PEGAMLPK_00872	CDS	1155	ubiI_2	1.14.13.-	COG0654	2-octaprenylphenol hydroxylase
+PEGAMLPK_00873	CDS	564	ygfA	6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+PEGAMLPK_00874	CDS	1008	dsbD_3	1.8.1.8		Thiol:disulfide interchange protein DsbD
+PEGAMLPK_00875	CDS	987	hemB	4.2.1.24	COG0113	Delta-aminolevulinic acid dehydratase
+PEGAMLPK_00876	CDS	696				hypothetical protein
+PEGAMLPK_00877	CDS	1917	acsA	6.2.1.1	COG0365	Acetyl-coenzyme A synthetase
+PEGAMLPK_00878	CDS	342	rpoZ	2.7.7.6		DNA-directed RNA polymerase subunit omega
+PEGAMLPK_00879	CDS	669	dnaQ	2.7.7.7	COG0847	DNA polymerase III subunit epsilon
+PEGAMLPK_00880	CDS	1467	ubiD	4.1.1.98	COG0043	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+PEGAMLPK_00881	tRNA	77				tRNA-Pro(tgg)
+PEGAMLPK_00882	tRNA	77				tRNA-Arg(tct)
+PEGAMLPK_00883	tRNA	76				tRNA-His(gtg)
+PEGAMLPK_00884	CDS	936	eae			Intimin
+PEGAMLPK_00885	CDS	759				hypothetical protein
+PEGAMLPK_00886	CDS	789	bioC	2.1.1.197		Malonyl-[acyl-carrier protein] O-methyltransferase
+PEGAMLPK_00887	CDS	819	znuA		COG4531	High-affinity zinc uptake system protein ZnuA
+PEGAMLPK_00888	CDS	957	cmoB	2.5.1.-	COG0500	tRNA U34 carboxymethyltransferase
+PEGAMLPK_00889	CDS	372				hypothetical protein
+PEGAMLPK_00890	CDS	417	frr		COG0233	Ribosome-recycling factor
+PEGAMLPK_00891	CDS	1905	ccmF		COG1138	Cytochrome c-type biogenesis protein CcmF
+PEGAMLPK_00892	CDS	819	serB	3.1.3.3	COG0560	Phosphoserine phosphatase
+PEGAMLPK_00893	tRNA	85				tRNA-Leu(tag)
+PEGAMLPK_00894	CDS	210				hypothetical protein
+PEGAMLPK_00895	CDS	1389	cysG		COG0007	Siroheme synthase
+PEGAMLPK_00896	CDS	414				hypothetical protein
+PEGAMLPK_00897	CDS	675	hda		COG0593	DnaA regulatory inactivator Hda
+PEGAMLPK_00898	CDS	561	pgsA2	2.7.8.5	COG0558	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 2
+PEGAMLPK_00899	CDS	1002	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+PEGAMLPK_00900	CDS	606	purN	2.1.2.2	COG0299	Phosphoribosylglycinamide formyltransferase
+PEGAMLPK_00901	CDS	732				hypothetical protein
+PEGAMLPK_00902	CDS	789	uvrA			UvrABC system protein A
+PEGAMLPK_00903	CDS	444				hypothetical protein
+PEGAMLPK_00904	CDS	627				hypothetical protein
+PEGAMLPK_00905	CDS	228				hypothetical protein
+PEGAMLPK_00906	CDS	438	rnhA	3.1.26.4	COG0328	Ribonuclease HI
+PEGAMLPK_00907	CDS	1767	asnB	6.3.5.4	COG0367	Asparagine synthetase [glutamine-hydrolyzing] 1
+PEGAMLPK_00908	CDS	1401	leuC	4.2.1.33	COG0065	3-isopropylmalate dehydratase large subunit
+PEGAMLPK_00909	CDS	615	leuD1	4.2.1.33	COG0066	3-isopropylmalate dehydratase small subunit 1
+PEGAMLPK_00910	CDS	588	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+PEGAMLPK_00911	CDS	2211	dsbD_4	1.8.1.8		Thiol:disulfide interchange protein DsbD
+PEGAMLPK_00912	CDS	3051	mdtC_2		COG0841	Multidrug resistance protein MdtC
+PEGAMLPK_00913	CDS	1821	typA		COG1217	GTP-binding protein TypA/BipA
+PEGAMLPK_00914	CDS	618	rlmE	2.1.1.166	COG0293	Ribosomal RNA large subunit methyltransferase E
+PEGAMLPK_00915	CDS	972	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+PEGAMLPK_00916	CDS	2058	dinG	3.6.4.12	COG1199	putative ATP-dependent helicase DinG
+PEGAMLPK_00917	CDS	639				hypothetical protein
+PEGAMLPK_00918	CDS	210				hypothetical protein
+PEGAMLPK_00919	CDS	3387	metH	2.1.1.13	COG0646	Methionine synthase
+PEGAMLPK_00920	CDS	243				hypothetical protein
+PEGAMLPK_00921	CDS	246				hypothetical protein
+PEGAMLPK_00922	CDS	417				hypothetical protein
+PEGAMLPK_00923	CDS	429	nusB		COG0781	Transcription antitermination protein NusB
+PEGAMLPK_00924	CDS	504	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+PEGAMLPK_00925	CDS	1083	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+PEGAMLPK_00926	CDS	594	ribE	2.5.1.9		Riboflavin synthase
+PEGAMLPK_00927	CDS	792				hypothetical protein
+PEGAMLPK_00928	CDS	1587	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+PEGAMLPK_00929	CDS	1119	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+PEGAMLPK_00930	CDS	1047	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+PEGAMLPK_00931	CDS	954	bioB	2.8.1.6	COG0502	Biotin synthase
+PEGAMLPK_00932	CDS	1416		5.4.4.3	COG0174	3-hydroxylaminophenol mutase
+PEGAMLPK_00933	CDS	186	tusA		COG0425	Sulfur carrier protein TusA
+PEGAMLPK_00934	CDS	909	hemF	1.3.3.3	COG0408	Oxygen-dependent coproporphyrinogen-III oxidase
+PEGAMLPK_00935	CDS	537	tsaC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+PEGAMLPK_00936	CDS	879	xerC		COG4973	Tyrosine recombinase XerC
+PEGAMLPK_00937	CDS	1875	htpG		COG0326	Chaperone protein HtpG
+PEGAMLPK_00938	CDS	738	trmJ	2.1.1.200	COG0565	tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ
+PEGAMLPK_00939	CDS	804	suhB	3.1.3.25	COG0483	Inositol-1-monophosphatase
+PEGAMLPK_00940	CDS	753	yciK	1.-.-.-	COG1028	putative oxidoreductase YciK
+PEGAMLPK_00941	CDS	1137				hypothetical protein
+PEGAMLPK_00942	CDS	636	mupP	3.1.3.-	COG0546	N-acetylmuramic acid 6-phosphate phosphatase
+PEGAMLPK_00943	CDS	708	plsC	2.3.1.51	COG0204	1-acyl-sn-glycerol-3-phosphate acyltransferase
+PEGAMLPK_00944	CDS	1449				hypothetical protein
+PEGAMLPK_00945	CDS	591	rnt	3.1.13.-	COG0847	Ribonuclease T
+PEGAMLPK_00946	CDS	426	argA	2.3.1.1	COG0548	Amino-acid acetyltransferase
+PEGAMLPK_00947	CDS	1665	ilvD	4.2.1.9	COG0129	Dihydroxy-acid dehydratase
+PEGAMLPK_00948	CDS	1197	nhaA		COG3004	Na(+)/H(+) antiporter NhaA
+PEGAMLPK_00949	CDS	1851	uup		COG0488	ABC transporter ATP-binding protein uup
+PEGAMLPK_00950	CDS	660				hypothetical protein
+PEGAMLPK_00951	CDS	180				hypothetical protein
+PEGAMLPK_00952	CDS	1794	uvrC		COG0322	UvrABC system protein C
+PEGAMLPK_00953	CDS	657	mlaC		COG2854	putative phospholipid-binding protein MlaC
+PEGAMLPK_00954	CDS	1260	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+PEGAMLPK_00955	CDS	618	hisG	2.4.2.17	COG0040	ATP phosphoribosyltransferase
