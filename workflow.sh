@@ -18,23 +18,6 @@ done
 ##################################
 # Metabolic Reconstruction
 ##################################
-#use Github to download the .faa files onto desktop
-scp -r rdremedios_mb18@orca-wg.bcgsc.ca:/home/rdremedios_mb18/prokka_output/* ~/Desktop/micb405_P2
-## then upload each .faa file into KAAS using the metagenome default options
-## download the resulting .txt file
-
-#create file with only annotated rows
-grep '\sK' ~/Desktop/micb405_P2/kaas_output_txt/*.txt > *.cleaned.txt
-
-### or ###
-
-# move .faa files into one .faa file in putty
-cat prokka_ouput/*/*.faa > prokka_final.faa
-
-#use Github to download the .faa file onto desktop
-scp -r rdremedios_mb18@orca-wg.bcgsc.ca:/home/rdremedios_mb18/prokka_final.faa ~/Desktop/micb405_P2
-## then upload each .faa file into KAAS using the metagenome default options
-## download the resulting .txt file
 
 #create file with only annotated rows
 grep '\sK' ~/Desktop/micb405_P2/final_kass.txt > ~/Desktop/micb405_P2/final_kass.cleaned.txt
@@ -45,11 +28,11 @@ grep '\sK' ~/Desktop/micb405_P2/final_kass.txt > ~/Desktop/micb405_P2/final_kass
 #concatenate files for reference
  cat prokka_output/*/*.ffn > ref.fasta
  
- #index reference
- bwa index ref.fasta
- 
- #align reads, generate sam files for each cruise
- for filename in SI042_120m.qtrim.artifact.rRNA.clean.fastq SI048_120m.qtrim.artifact.rRNA.clean.fastq.gz SI072_120m.qtrim.artifact.rRNA.clean.fastq.gz SI073_120m.qtrim.artifact.rRNA.clean.fastq.gz SI075_120m.qtrim.artifact.rRNA.clean.fastq.gz ; do
+#index reference
+bwa index ref.fasta
+
+#align reads, generate sam files for each cruise
+for filename in SI042_120m.qtrim.artifact.rRNA.clean.fastq SI048_120m.qtrim.artifact.rRNA.clean.fastq.gz SI072_120m.qtrim.artifact.rRNA.clean.fastq.gz SI073_120m.qtrim.artifact.rRNA.clean.fastq.gz SI075_120m.qtrim.artifact.rRNA.clean.fastq.gz ; do
     echo "Processing alignment for - $filename"
     bwa mem -t 2 ~/project2/ref.fasta /projects/micb405/resources/project_2/2018/Metatranscriptomes/${filename} > ~/project2/${filename}___outfile.sam
     echo "Done alignment - $filename"
@@ -62,9 +45,6 @@ for filename in *.sam; do
   -a project2/${filename} \
   -o project2/RPKM_outputs/${filename}.csv
 done
-
-#download .csv files
-scp -r rdremedios_mb18@orca-wg.bcgsc.ca:/home/rdremedios_mb18/project2/rpkm_outputs ~/Desktop/micb405_P2
 
 ####################################
 #figure generation
