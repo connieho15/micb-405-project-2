@@ -1,3 +1,4 @@
+# Load libraries
 library(tidyr)
 library(dplyr)
 library(pathview)
@@ -28,6 +29,7 @@ gtdb_dat <- rbind(arc_class, bac_class) %>%
   dplyr::rename(mag = V1) %>% 
   separate(V2, sep=';', into=c("Kingdom", "Phylum", "Class", "Order", "Family", "Genus", "Species"))
 
+# Load CheckM Data
 checkm_dat <- read.table("~/Desktop/MetaBAT2_SaanichInlet_120m_min1500_checkM_stdout.tsv",
                          header=TRUE,
                          sep="\t",
@@ -35,6 +37,7 @@ checkm_dat <- read.table("~/Desktop/MetaBAT2_SaanichInlet_120m_min1500_checkM_st
   dplyr::rename(mag = Bin.Id) %>% 
   dplyr::select(mag, Completeness, Contamination)
 
+# Load RPKM data
 metag_rpkm <- read.table("~/Desktop/SaanichInlet_120m_binned.rpkm.csv", header=T, sep=',') %>% 
   mutate(Sequence = gsub('m_', 'm.', Sequence)) %>% 
   mutate(Sequence = gsub('Inlet_', 'Inlet.', Sequence)) %>% 
@@ -85,6 +88,6 @@ pv.out <- pathview(gene.data = pv_mat,
                    pathway.id="00910",
                    kegg.dir = "~/Desktop/KEGG/")
 
+# Visual aids to help map pathview diagram to family
 View(pv.out$plot.data.gene)
-
 ncol(pv_mat)
