@@ -10,4 +10,4 @@ Theodora Lo, Connie Ho, Rebecca Dos Remedios, Owen Tsai, Alfredo Roberts Bustinz
 
 **R Script**
 
-```pproject2-pathview.R```
+```project2-pathview.R```
